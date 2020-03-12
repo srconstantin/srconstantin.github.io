@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Sarah Constantin, and this is my blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Brief bio: I started out studying math (Princeton AB '10, Yale PhD '15, focusing on applied harmonic analysis) and then spent some time in the world of data science and machine learning (Palantir, Recursion Pharmaceuticals, Starsky Robotics.)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've always been fascinated by biology, and I founded [LRI][lri]  to help fund research into interventions that extend lifespan, and [Daphnia Labs][daphnia] to accelerate drug discovery through automation and machine learning.
+
+I think in writing, and this blog is a way for me to collect and express ideas. It's pretty eclectic, but the recurrent themes are a.) deep dives into the scientific literature to investigate things I'm curious about; b.) reflections on how to think well.
+
+I live in California with my husband and 2-year-old son. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+[lri]: http://thelri.org
+[daphnia]: http://www.daphnia-labs.com
+
