@@ -1,6 +1,7 @@
 ___
+
 layout: post
-title: New Blog and Mainenance
+title: New Blog and Maintenance
 categories: [blog meta]
 ___
 
