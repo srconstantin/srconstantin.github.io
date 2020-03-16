@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T16:09:29-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T16:10:59-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -91,22 +91,37 @@
 
 &lt;p&gt;A 45-year-old woman with a severe case COVID-19, with fever, pneumonia, dyspnea, nausea, and vomiting, improved and went into remission after being treated with thalidomide, which has anti-inflammatory effects, reducing the “cytokine storm” responsible for the severe symptoms of COVID-19.[7]&lt;/p&gt;
 
-&lt;p&gt;References
-[1]Gao, Jianjun, Zhenxue Tian, and Xu Yang. “Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies.” BioScience Trends (2020).
-[2]Lim, Jaegyun, et al. “Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR.” Journal of Korean medical science 35.6 (2020).
-[3]Chang, Yu-Chuan, et al. “Potential therapeutic agents for COVID-19 based on the analysis of protease and RNA polymerase docking.” (2020).
-[4]Contini, Alessandro. “Virtual screening of an FDA approved drugs database on two COVID-19 coronavirus proteins.” (2020).
-[5]Jin, Zhenming, et al. “Structure-based drug design, virtual screening and high-throughput screening rapidly identify antiviral leads targeting COVID-19.” bioRxiv (2020).
-[6]Yao, Tian‐Tian, et al. “A Systematic Review of Lopinavir Therapy for SARS Coronavirus and MERS Coronavirus–A Possible Reference for Coronavirus Disease‐19 Treatment Option.” Journal of Medical Virology (2020).
-[7]Wang, Manli, et al. “Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.” Cell research 30.3 (2020): 269-271.
-[8]Chen, Chengshui, et al. “Thalidomide combined with low-dose glucocorticoid in the treatment of COVID-19 Pneumonia.” (2020).
-[9]Vincent, Martin J., et al. “Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.” Virology journal 2.1 (2005): 69.
-[10]de Wit, Emmie, et al. “Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.” Proceedings of the National Academy of Sciences (2020).
-[11]Sheahan, Timothy P., et al. “Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV.” Nature Communications 11.1 (2020): 1-14.
-[12]Tan, Emily LC, et al. “Inhibition of SARS coronavirus infection in vitro with clinically approved antiviral drugs.” Emerging infectious diseases 10.4 (2004): 581.
-[13]Cong, Yu, et al. “MERS-CoV pathogenesis and antiviral efficacy of licensed drugs in human monocyte-derived antigen-presenting cells.” PloS one 13.3 (2018).
-[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.
-[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Gao, Jianjun, Zhenxue Tian, and Xu Yang. “Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies.” BioScience Trends (2020).&lt;/p&gt;
+
+&lt;p&gt;[2]Lim, Jaegyun, et al. “Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR.” Journal of Korean medical science 35.6 (2020).&lt;/p&gt;
+
+&lt;p&gt;[3]Chang, Yu-Chuan, et al. “Potential therapeutic agents for COVID-19 based on the analysis of protease and RNA polymerase docking.” (2020).&lt;/p&gt;
+
+&lt;p&gt;[4]Contini, Alessandro. “Virtual screening of an FDA approved drugs database on two COVID-19 coronavirus proteins.” (2020).&lt;/p&gt;
+
+&lt;p&gt;[5]Jin, Zhenming, et al. “Structure-based drug design, virtual screening and high-throughput screening rapidly identify antiviral leads targeting COVID-19.” bioRxiv (2020).&lt;/p&gt;
+
+&lt;p&gt;[6]Yao, Tian‐Tian, et al. “A Systematic Review of Lopinavir Therapy for SARS Coronavirus and MERS Coronavirus–A Possible Reference for Coronavirus Disease‐19 Treatment Option.” Journal of Medical Virology (2020).&lt;/p&gt;
+
+&lt;p&gt;[7]Wang, Manli, et al. “Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.” Cell research 30.3 (2020): 269-271.&lt;/p&gt;
+
+&lt;p&gt;[8]Chen, Chengshui, et al. “Thalidomide combined with low-dose glucocorticoid in the treatment of COVID-19 Pneumonia.” (2020).&lt;/p&gt;
+
+&lt;p&gt;[9]Vincent, Martin J., et al. “Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.” Virology journal 2.1 (2005): 69.&lt;/p&gt;
+
+&lt;p&gt;[10]de Wit, Emmie, et al. “Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.” Proceedings of the National Academy of Sciences (2020).&lt;/p&gt;
+
+&lt;p&gt;[11]Sheahan, Timothy P., et al. “Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV.” Nature Communications 11.1 (2020): 1-14.&lt;/p&gt;
+
+&lt;p&gt;[12]Tan, Emily LC, et al. “Inhibition of SARS coronavirus infection in vitro with clinically approved antiviral drugs.” Emerging infectious diseases 10.4 (2004): 581.&lt;/p&gt;
+
+&lt;p&gt;[13]Cong, Yu, et al. “MERS-CoV pathogenesis and antiviral efficacy of licensed drugs in human monocyte-derived antigen-presenting cells.” PloS one 13.3 (2018).&lt;/p&gt;
+
+&lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
+
+&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
 
