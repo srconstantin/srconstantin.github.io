@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intro Post
+categories: [blog meta]
 ---
 
 I've been blogging in various places for nearly a decade, but I've never actually hosted my own site, or consolidated all my writing in one place.
