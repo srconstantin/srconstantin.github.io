@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T13:53:22-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">COVID-19 Risks For Young People</title><link href="/lit%20review/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/lit%20review/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/lit%20review/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T14:03:42-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">COVID-19 Risks For Young People</title><link href="/lit%20review/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/lit%20review/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/lit%20review/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;Categories:  lit review
+Tags:   COVID-19&lt;/p&gt;
 
-&lt;p&gt;#What Is The True Case Fatality Rate For Young People?&lt;/p&gt;
+&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
 
 &lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
 
@@ -23,7 +26,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
 
 &lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;#Chronic Non-Fatal Sequelae of COVID-19&lt;/p&gt;
+&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
 
 &lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
 
@@ -51,7 +54,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
 
 &lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;#How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/p&gt;
+&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
 
 &lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
 
@@ -71,7 +74,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
 
 &lt;p&gt;If we assume the age distribution of severity is the same in Korea vs. China, but that the Korean rate of severe illness is the correct one, this gives us 3/19*10 = 1.6% probability of a person under 40 having a severe case, given that they have been infected.&lt;/p&gt;
 
-&lt;p&gt;#Bottom Lines&lt;/p&gt;
+&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -91,10 +94,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
   &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;
-
-&lt;p&gt;[“lit review”]
-[“covid-19”]&lt;/p&gt;</content><author><name></name></author><category term="COVID-19" /><summary type="html">This analysis was commissioned by the Open Philanthropy Project and shared with their permission.</summary></entry><entry><title type="html">Intro Post</title><link href="/blog%20meta/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/blog%20meta/2020/03/13/intro-post</id><content type="html" xml:base="/blog%20meta/2020/03/13/intro-post.html">&lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
+&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="COVID-19" /><summary type="html">Categories: lit review Tags: COVID-19</summary></entry><entry><title type="html">Intro Post</title><link href="/blog%20meta/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/blog%20meta/2020/03/13/intro-post</id><content type="html" xml:base="/blog%20meta/2020/03/13/intro-post.html">&lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
 
 &lt;p&gt;But now it’s past time for me to start taking my writing/blogging more seriously.&lt;br /&gt;
 I want it to be searchable and all in one place, and I want to own my own data.&lt;/p&gt;
