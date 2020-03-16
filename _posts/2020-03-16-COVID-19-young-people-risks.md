@@ -9,7 +9,7 @@ Tags:   {{ page.tags | join: ', ' }}
 
 This analysis was commissioned by the Open Philanthropy Project and shared with their permission.
 
-#What Is The True Case Fatality Rate For Young People?
+## What Is The True Case Fatality Rate For Young People?
 
 The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:
 
@@ -33,7 +33,7 @@ South Korea may be our best possible estimate of the true case fatality rate, si
 
 *Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.*
 
-#Chronic Non-Fatal Sequelae of COVID-19
+## Chronic Non-Fatal Sequelae of COVID-19
 
 Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one [hospital study][neuro], or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.
 
@@ -61,7 +61,7 @@ COVID-19 patients have [diminished T-cell levels][tcells], and more severe cases
 
 *In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.*
 
-#How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?
+## How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?
 
 Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.  
 
@@ -81,7 +81,7 @@ In all three Chinese cities, this comes to a rate of 3% of cases in under-40 or 
 
 If we assume the age distribution of severity is the same in Korea vs. China, but that the Korean rate of severe illness is the correct one, this gives us 3/19*10 = 1.6% probability of a person under 40 having a severe case, given that they have been infected.
 
-#Bottom Lines
+## Bottom Lines
 
 * Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.
 
