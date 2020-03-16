@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: tag_post
 title: Intro Post
-categories: [blog meta]
+tags: [blog meta]
 ---
 
 I've been blogging in various places for nearly a decade, but I've never actually hosted my own site, or consolidated all my writing in one place.
@@ -26,5 +26,4 @@ I'll cross-promote posts on [Twitter][twitter] (where my handle is @s_r_constant
 [parenting]: https://parentingwithevidence.wordpress.com
 [twitter]://https://twitter.com/s_r_constantin
 
-{{page.categories | capitalize | join: ', '}}
-{{page.tags | capitalize | join: ', '}}
+

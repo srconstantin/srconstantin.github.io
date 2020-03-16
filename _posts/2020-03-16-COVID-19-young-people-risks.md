@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: tag_post
 title: COVID-19 Risks For Young People
-categories: [lit review]
-tags: [COVID-19]
+categories: [lit review, covid-19]
 ---
 Categories:  {{ page.categories | join: ', ' }}
 Tags:   {{ page.tags | join: ', ' }}
