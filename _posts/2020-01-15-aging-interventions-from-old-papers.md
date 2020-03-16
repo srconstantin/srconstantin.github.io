@@ -1,4 +1,3 @@
-
 ---
 layout: tag_post
 title: Aging Interventions from Older Publications that Deserve a New Look
@@ -26,21 +25,21 @@ One might counter that the new papers that get the most attention aren't randoml
 
 I think that optimistic outlook is doubtful; in fact, articles in prestigious (high-impact-factor) journals are more likely than average to be retracted, and many measures of research reliability anticorrelate with impact factor, implying that articles the most prestigious journals are less trustworthy than average[3]:
 
-	*	overestimating effect size in gene-association 
+* overestimating effect size in gene-association 
 
 studies increases with impact factor (more bias in more prestigious journals)
 	
-	*	sample size in gene-association studies decreases with impact factor
+* sample size in gene-association studies decreases with impact factor
 	
-	*	statistical power in psychology and cognitive science papers decreases with impact factor
+* statistical power in psychology and cognitive science papers decreases with impact factor
 	
-	*	randomization in animal studies is reported less frequently in papers from high-impact-factor journals
+* randomization in animal studies is reported less frequently in papers from high-impact-factor journals
 
-	*	errors in supplemental data (eg Excel auto-converting a gene name to a date) are more common in papers from high-impact-factor journals
+* errors in supplemental data (eg Excel auto-converting a gene name to a date) are more common in papers from high-impact-factor journals
 
-	*	p-value reporting errors, usually in the direction of misinterpreting a non-significant result as significant, are more common in papers from high-impact-factor journals
+* p-value reporting errors, usually in the direction of misinterpreting a non-significant result as significant, are more common in papers from high-impact-factor journals
 	
-	*	metrics to identify tell-tale signs of questionable research practices find lower research quality in higher-impact-factor journals.
+* metrics to identify tell-tale signs of questionable research practices find lower research quality in higher-impact-factor journals.
 
 So, no, we can't assume that the most-cited papers of today are the cream of the crop. If anything, there's more pressure today than ever to get dramatic but untrustworthy results, and that pressure is highest at the most competitive journals.
 

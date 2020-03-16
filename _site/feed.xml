@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T17:49:12-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T17:55:21-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="http://localhost:4000/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -121,7 +121,7 @@
 
 &lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
 
-&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
 
@@ -216,7 +216,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
   &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/2020/03/13/intro-post</id><content type="html" xml:base="/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="http://localhost:4000/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/13/intro-post</id><content type="html" xml:base="http://localhost:4000/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
 
@@ -229,7 +229,7 @@ I want it to be searchable and all in one place, and I want to own my own data.&
 
 &lt;p&gt;On this site I’ll be aggregating my old posts from &lt;a href=&quot;https://srconstantin.wordpress.com&quot;&gt;Otium&lt;/a&gt;, my &lt;a href=&quot;https://srconstantin.posthaven.com&quot;&gt;Posthaven site&lt;/a&gt;, &lt;a href=&quot;https://parentingwithevidence.wordpress.com&quot;&gt;Parenting with Evidence&lt;/a&gt;, and the now defunct Hourglass Bio.&lt;/p&gt;
 
-&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="http://localhost:4000/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="http://localhost:4000/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Motivated cognition is the state of emotionally needing to believe something is true, whether it actually is true or not. 
 I’ve found that a good kinaesthetic metaphor for motivated cognition is pressure.  If you’re forcing things with your mind – if you’re going “it’s GOT to be this way, or ELSE” – then you aren’t actually open to the truth being whatever it might happen to be.  &lt;/p&gt;
@@ -257,7 +257,7 @@ Or it comes across as condescending: “Most people go through life never actual
 
 &lt;p&gt;It’s kind of weird that we have this feature at all. Why would we have evolved to self-deceive? If an apparently self-destructive behavior is common, this cries out for explanation.&lt;/p&gt;
 
-&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 1 – Mental Objects, Contradictions, Reconciliation</title><link href="/2020/02/21/tangled-thinking-1.html" rel="alternate" type="text/html" title="Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation" /><published>2020-02-21T00:00:00-07:00</published><updated>2020-02-21T00:00:00-07:00</updated><id>/2020/02/21/tangled-thinking-1</id><content type="html" xml:base="/2020/02/21/tangled-thinking-1.html">&lt;p&gt;&lt;img src=&quot;/images/ascending-and-descending-escher.jpg&quot; alt=&quot;ascending&quot; /&gt;
+&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 1 – Mental Objects, Contradictions, Reconciliation</title><link href="http://localhost:4000/2020/02/21/tangled-thinking-1.html" rel="alternate" type="text/html" title="Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation" /><published>2020-02-21T00:00:00-07:00</published><updated>2020-02-21T00:00:00-07:00</updated><id>http://localhost:4000/2020/02/21/tangled-thinking-1</id><content type="html" xml:base="http://localhost:4000/2020/02/21/tangled-thinking-1.html">&lt;p&gt;&lt;img src=&quot;/images/ascending-and-descending-escher.jpg&quot; alt=&quot;ascending&quot; /&gt;
 &lt;strong&gt;Mental Objects&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s call a &lt;strong&gt;mental object&lt;/strong&gt; anything that you’re aware of, anything that is in your conscious mind. A sense perception, a feeling, a thought, a concept, anything that is under the spotlight of your consciousness at a given moment. &lt;/p&gt;
@@ -328,13 +328,7 @@ Or it comes across as condescending: “Most people go through life never actual
 
 &lt;p&gt;That “outward spiral” makes it harder and harder to resolve the problem at the root of the whole thing, because every time you notice it, it activates all the other meta-problems.  I think this is the structural underpinning of what we experience as negative emotions, “touchy subjects”, and “sore spots.”  They’re wounds that defend themselves from healing.&lt;/p&gt;
 
-&lt;p&gt;Ultimately, if we believe in a world, we must believe that this process too comes from the world, that there is a reason why problems sometimes grow their own defenses. But it’s tricky and deserves exploration at length.  You’re looking at a process that doesn’t “want” to be looked at.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">Mental Objects</summary></entry><entry><title type="html">Aging Interventions From Old Papers</title><link href="/2020/01/15/aging-interventions-from-old-papers.html" rel="alternate" type="text/html" title="Aging Interventions From Old Papers" /><published>2020-01-15T00:00:00-07:00</published><updated>2020-01-15T00:00:00-07:00</updated><id>/2020/01/15/aging-interventions-from-old-papers</id><content type="html" xml:base="/2020/01/15/aging-interventions-from-old-papers.html">&lt;hr /&gt;
-&lt;p&gt;layout: tag_post
-title: Aging Interventions from Older Publications that Deserve a New Look
-tags: [aging, lit-review]
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why Read Old Papers?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ultimately, if we believe in a world, we must believe that this process too comes from the world, that there is a reason why problems sometimes grow their own defenses. But it’s tricky and deserves exploration at length.  You’re looking at a process that doesn’t “want” to be looked at.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">Mental Objects</summary></entry><entry><title type="html">Aging Interventions from Older Publications that Deserve a New Look</title><link href="http://localhost:4000/2020/01/15/aging-interventions-from-old-papers.html" rel="alternate" type="text/html" title="Aging Interventions from Older Publications that Deserve a New Look" /><published>2020-01-15T00:00:00-07:00</published><updated>2020-01-15T00:00:00-07:00</updated><id>http://localhost:4000/2020/01/15/aging-interventions-from-old-papers</id><content type="html" xml:base="http://localhost:4000/2020/01/15/aging-interventions-from-old-papers.html">&lt;p&gt;&lt;strong&gt;Why Read Old Papers?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;These days, from what I’m told by knowledgeable people, there’s a fairly tight feedback loop between current aging research and the biotech industry. When a new, major aging-related paper comes out, there are people seriously evaluating whether they can start a company around it. 
 But that isn’t necessarily true when it comes to old research. There’s no automatic means by which old papers “go viral.”  There are no conferences (that I know of) where people call their colleagues’ attention to remarkable, decades-old results that haven’t received follow-up investigation.&lt;/p&gt;
@@ -355,23 +349,32 @@ The volume of scientific publications is increasing at an exponential rate, up t
 
 &lt;p&gt;I think that optimistic outlook is doubtful; in fact, articles in prestigious (high-impact-factor) journals are more likely than average to be retracted, and many measures of research reliability anticorrelate with impact factor, implying that articles the most prestigious journals are less trustworthy than average[3]:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*	overestimating effect size in gene-association 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;overestimating effect size in gene-association&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;studies increases with impact factor (more bias in more prestigious journals)&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*	sample size in gene-association studies decreases with impact factor
-
-*	statistical power in psychology and cognitive science papers decreases with impact factor
-
-*	randomization in animal studies is reported less frequently in papers from high-impact-factor journals
-
-*	errors in supplemental data (eg Excel auto-converting a gene name to a date) are more common in papers from high-impact-factor journals
-
-*	p-value reporting errors, usually in the direction of misinterpreting a non-significant result as significant, are more common in papers from high-impact-factor journals
-
-*	metrics to identify tell-tale signs of questionable research practices find lower research quality in higher-impact-factor journals.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;sample size in gene-association studies decreases with impact factor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;statistical power in psychology and cognitive science papers decreases with impact factor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;randomization in animal studies is reported less frequently in papers from high-impact-factor journals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;errors in supplemental data (eg Excel auto-converting a gene name to a date) are more common in papers from high-impact-factor journals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;p-value reporting errors, usually in the direction of misinterpreting a non-significant result as significant, are more common in papers from high-impact-factor journals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;metrics to identify tell-tale signs of questionable research practices find lower research quality in higher-impact-factor journals.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;So, no, we can’t assume that the most-cited papers of today are the cream of the crop. If anything, there’s more pressure today than ever to get dramatic but untrustworthy results, and that pressure is highest at the most competitive journals.&lt;/p&gt;
 
@@ -480,9 +483,9 @@ Moreover, 7 of 10 aged rats given fetal anterior hypothalamus transplants regai
 [18]Viswanathan, N., and F. C. Davis. “Suprachiasmatic nucleus grafts restore circadian function in aged hamsters.” &lt;strong&gt;Brain research&lt;/strong&gt; 686.1 (1995): 10-16.
 [19]Li, Hua, and Evelyn Satinoff. “Fetal tissue containing the suprachiasmatic nucleus restores multiple circadian rhythms in old rats.” &lt;strong&gt;American Journal of Physiology-Regulatory, Integrative and Comparative Physiology&lt;/strong&gt; 275.6 (1998): R1735-R1744.
 [20]Huang, H. H., J. Q. Kissane, and E. J. Hawrylewicz. “Restoration of sexual function and fertility by fetal hypothalamic transplant in impotent aged male rats.” &lt;strong&gt;Neurobiology of aging&lt;/strong&gt; 8.5 (1987): 465-472.
-[21]MATSUMOTO, Akira, et al. “Recovery of declined ovarian function in aged female rats by transplantation of newborn hypothalamic tissue.” &lt;strong&gt;Proceedings of the Japan Academy, Series B&lt;/strong&gt; 60.4 (1984): 73-76&lt;/p&gt;</content><author><name></name></author><summary type="html">layout: tag_post title: Aging Interventions from Older Publications that Deserve a New Look tags: [aging, lit-review] —</summary></entry><entry><title type="html">Genes Involved in Aging – Looking For Intersections</title><link href="/2019/12/20/genes-involved-in-aging.html" rel="alternate" type="text/html" title="Genes Involved in Aging -- Looking For Intersections" /><published>2019-12-20T00:00:00-07:00</published><updated>2019-12-20T00:00:00-07:00</updated><id>/2019/12/20/genes-involved-in-aging</id><content type="html" xml:base="/2019/12/20/genes-involved-in-aging.html">&lt;p&gt;&lt;img src=&quot;/images/TopAgingGenes1.jpg&quot; alt=&quot;topgenes1&quot; /&gt;&lt;/p&gt;
+[21]MATSUMOTO, Akira, et al. “Recovery of declined ovarian function in aged female rats by transplantation of newborn hypothalamic tissue.” &lt;strong&gt;Proceedings of the Japan Academy, Series B&lt;/strong&gt; 60.4 (1984): 73-76&lt;/p&gt;</content><author><name></name></author><category term="aging" /><category term="lit-review" /><summary type="html">Why Read Old Papers?</summary></entry><entry><title type="html">Genes Involved in Aging – Looking For Intersections</title><link href="http://localhost:4000/2019/12/20/genes-involved-in-aging.html" rel="alternate" type="text/html" title="Genes Involved in Aging -- Looking For Intersections" /><published>2019-12-20T00:00:00-07:00</published><updated>2019-12-20T00:00:00-07:00</updated><id>http://localhost:4000/2019/12/20/genes-involved-in-aging</id><content type="html" xml:base="http://localhost:4000/2019/12/20/genes-involved-in-aging.html">&lt;p&gt;&lt;img src=&quot;/images/Top_Aging_Genes_1.jpg&quot; alt=&quot;topgenes1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/TopAgingGenes2.jpg&quot; alt=&quot;topgenes2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Top_Aging_Genes2.jpg&quot; alt=&quot;topgenes2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A natural type of question you might ask, if you’re interested in understanding aging, is which genes are involved in the aging process. The practical upshot of identifying genes with causal roles is that they’re potential drug targets.  If diseases of aging are caused or worsened by the excess of some protein, you might want to inhibit the production or activity of that protein. If diseases of aging are caused or worsened by a deficit in some protein, you might want to stimulate its production.
 We have a lot of different kinds of experiments that can be run for identifying what genes and proteins are involved in aging, and thus a lot of aging-related “omics” studies. I’ll briefly summarize a few categories I know about.&lt;/p&gt;
