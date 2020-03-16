@@ -4,6 +4,8 @@ title: COVID-19 Risks For Young People
 tags: [lit-review, covid-19]
 ---
 
+![maskpic](/assets/N95mask.jpeg)
+
 This analysis was commissioned by the Open Philanthropy Project and shared with their permission.
 
 ## What Is The True Case Fatality Rate For Young People?
