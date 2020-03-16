@@ -3,8 +3,6 @@ layout: tag_post
 title: COVID-19 Risks For Young People
 categories: [lit review, covid-19]
 ---
-Categories:  {{ page.categories | join: ', ' }}
-Tags:   {{ page.tags | join: ', ' }}
 
 This analysis was commissioned by the Open Philanthropy Project and shared with their permission.
 

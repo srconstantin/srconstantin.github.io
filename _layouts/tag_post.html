@@ -1,13 +1,14 @@
 ---
 layout: post
 ---
+
 <h1>{{ page.title }}</h1>
 
 {% if page.tags != empty %}
 <ul class="tags">
   {% for tag in page.tags %}
   <li>
-    <a href="/blog/tag/{{ tag }}">{{ site.data.tags[tag].name }}</a>
+    <a href="/tag/{{ tag }}">{{ site.data.tags[tag].name }}</a>
   </li>{% endfor %}
 </ul><br>
 {% endif %}
