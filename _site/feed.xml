@@ -1,92 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T16:05:22-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="http://localhost:4000/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-16T16:09:29-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;| Name | Evidence Type |
-|——|—————|
-| Remdesivir | * In-vitro effective against COVID-19&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Effective (esp. prophylactically) against MERS in macaque monkeys&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;More effective than lopinavir/ritonavir against MERS in mice&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Chloroquine&lt;/td&gt;
-          &lt;td&gt;* In-vitro effective against COVID-19&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In-vitro effective against SARS&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Not&lt;/strong&gt;* in-vitro effective against MERS in monocyte-derived cells&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Cinanserin&lt;/td&gt;
-          &lt;td&gt;* In-vitro effective against COVID-19&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;In-vitro effective against SARS&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Lopinavir/Ritonavir&lt;/td&gt;
-          &lt;td&gt;* Human retrospective evidence of effectiveness in MERS and SARS but &lt;strong&gt;not&lt;/strong&gt; COVID-19&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;In-silico predicted effectiveness against COVID-19&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Indinavir&lt;/td&gt;
-          &lt;td&gt;* In-silico predicted effectiveness against COVID-19&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Not&lt;/strong&gt; effective in-vitro against SARS&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Thalidomide&lt;/td&gt;
-          &lt;td&gt;Improved symptoms in one case study of severe COVID-19&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Evidence Type&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Remdesivir&lt;/td&gt;
+      &lt;td&gt;In-vitro effective against COVID-19;  Effective (esp. prophylactically) against MERS in macaque monkeys; More effective than lopinavir/ritonavir against MERS in mice&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chloroquine&lt;/td&gt;
+      &lt;td&gt;In-vitro effective against COVID-19; In-vitro effective against SARS; &lt;strong&gt;Not&lt;/strong&gt; in-vitro effective against MERS in monocyte-derived cells&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cinanserin&lt;/td&gt;
+      &lt;td&gt;In-vitro effective against COVID-19;In-vitro effective against SARS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lopinavir/Ritonavir&lt;/td&gt;
+      &lt;td&gt;Human retrospective evidence of effectiveness in MERS and SARS but &lt;strong&gt;not&lt;/strong&gt; COVID-19; In-silico predicted effectiveness against COVID-19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Indinavir&lt;/td&gt;
+      &lt;td&gt;In-silico predicted effectiveness against COVID-19;  &lt;strong&gt;Not&lt;/strong&gt; effective in-vitro against SARS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thalidomide&lt;/td&gt;
+      &lt;td&gt;Improved symptoms in one case study of severe COVID-19&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;Remdesivir&lt;/strong&gt;&lt;/p&gt;
 
@@ -159,7 +106,7 @@
 [12]Tan, Emily LC, et al. “Inhibition of SARS coronavirus infection in vitro with clinically approved antiviral drugs.” Emerging infectious diseases 10.4 (2004): 581.
 [13]Cong, Yu, et al. “MERS-CoV pathogenesis and antiviral efficacy of licensed drugs in human monocyte-derived antigen-presenting cells.” PloS one 13.3 (2018).
 [14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.
-[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
 
@@ -254,7 +201,7 @@ d.) may be biased downwards, not counting the higher death rates from people who
   &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="http://localhost:4000/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/13/intro-post</id><content type="html" xml:base="http://localhost:4000/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/2020/03/13/intro-post</id><content type="html" xml:base="/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
 
