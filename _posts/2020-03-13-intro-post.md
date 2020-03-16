@@ -3,7 +3,7 @@ layout: tag_post
 title: Intro Post
 tags: [blog-meta]
 ---
-![faust](/_images/rembrandtfaust.jpeg)
+![faust]({{ site.baseurl }}/images/rembrandtfaust.jpeg)
 
 I've been blogging in various places for nearly a decade, but I've never actually hosted my own site, or consolidated all my writing in one place.
 

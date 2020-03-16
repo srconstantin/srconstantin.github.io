@@ -4,7 +4,7 @@ title: COVID-19 Risks For Young People
 tags: [lit-review, covid-19]
 ---
 
-![maskpic](/_images/N95mask.jpeg)
+![maskpic]({{ site.baseurl }}/images/N95mask.jpeg)
 
 This analysis was commissioned by the Open Philanthropy Project and shared with their permission.
 
