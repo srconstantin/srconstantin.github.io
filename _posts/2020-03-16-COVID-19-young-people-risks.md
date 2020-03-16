@@ -4,6 +4,8 @@ title: COVID-19 Risks For Young People
 categories: [lit review]
 tags: [COVID-19]
 ---
+Categories:  {{ page.categories | join: ', ' }}
+Tags:   {{ page.tags | join: ', ' }}
 
 This analysis was commissioned by the Open Philanthropy Project and shared with their permission.
 
@@ -116,5 +118,4 @@ COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS ca
 
 
 
-{{page.categories | capitalize | join: ', '}}
-{{page.tags | capitalize | join: ', '}}
+
