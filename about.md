@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![pic of me](/_images/sarahheadshot.jpeg)
 
 Hi! I'm Sarah Constantin, and this is my blog.
 
