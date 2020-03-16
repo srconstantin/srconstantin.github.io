@@ -116,3 +116,5 @@ COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS ca
 
 
 
+{{page.categories | capitalize | join: ', '}}
+{{page.tags | capitalize | join: ', '}}

@@ -25,3 +25,6 @@ I'll cross-promote posts on [Twitter][twitter] (where my handle is @s_r_constant
 [posthaven]: https://srconstantin.posthaven.com
 [parenting]: https://parentingwithevidence.wordpress.com
 [twitter]://https://twitter.com/s_r_constantin
+
+{{page.categories | capitalize | join: ', '}}
+{{page.tags | capitalize | join: ', '}}
