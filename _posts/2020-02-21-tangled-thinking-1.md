@@ -4,7 +4,7 @@ title: Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation
 tags: [tangled-thinking, cog-psych]
 ---
 
-![ascending]({{ site.baseurl }}/images/ascending-and-descending-escher.jpeg)
+![ascending]({{ site.baseurl }}/images/ascending-and-descending-escher.jpg)
 **Mental Objects**
 
 Let's call a **mental object** anything that you're aware of, anything that is in your conscious mind. A sense perception, a feeling, a thought, a concept, anything that is under the spotlight of your consciousness at a given moment. 
