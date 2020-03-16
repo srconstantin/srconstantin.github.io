@@ -2,10 +2,11 @@
 layout: tag_post
 title: Genes Involved in Aging -- Looking For Intersections
 tags: [aging, lit-review]
+---
 
-![topgenes1][{{ site.baseurl }}/images/TopAgingGenes1.jpg)
+![topgenes1]({{ site.baseurl }}/images/TopAgingGenes1.jpg)
 
-![topgenes2][{{ site.baseurl }}/images/TopAgingGenes2.jpg)
+![topgenes2]({{ site.baseurl }}/images/TopAgingGenes2.jpg)
 
 A natural type of question you might ask, if you're interested in understanding aging, is which genes are involved in the aging process. The practical upshot of identifying genes with causal roles is that they're potential drug targets.  If diseases of aging are caused or worsened by the excess of some protein, you might want to inhibit the production or activity of that protein. If diseases of aging are caused or worsened by a deficit in some protein, you might want to stimulate its production.
 We have a lot of different kinds of experiments that can be run for identifying what genes and proteins are involved in aging, and thus a lot of aging-related "omics" studies. I'll briefly summarize a few categories I know about.
