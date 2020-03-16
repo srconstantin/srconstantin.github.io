@@ -1,4 +1,165 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T15:44:05-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">COVID-19 Risks For Young People</title><link href="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T16:05:22-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="http://localhost:4000/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;| Name | Evidence Type |
+|——|—————|
+| Remdesivir | * In-vitro effective against COVID-19&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Effective (esp. prophylactically) against MERS in macaque monkeys&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;More effective than lopinavir/ritonavir against MERS in mice&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Chloroquine&lt;/td&gt;
+          &lt;td&gt;* In-vitro effective against COVID-19&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In-vitro effective against SARS&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Not&lt;/strong&gt;* in-vitro effective against MERS in monocyte-derived cells&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Cinanserin&lt;/td&gt;
+          &lt;td&gt;* In-vitro effective against COVID-19&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;In-vitro effective against SARS&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Lopinavir/Ritonavir&lt;/td&gt;
+          &lt;td&gt;* Human retrospective evidence of effectiveness in MERS and SARS but &lt;strong&gt;not&lt;/strong&gt; COVID-19&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;In-silico predicted effectiveness against COVID-19&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Indinavir&lt;/td&gt;
+          &lt;td&gt;* In-silico predicted effectiveness against COVID-19&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Not&lt;/strong&gt; effective in-vitro against SARS&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Thalidomide&lt;/td&gt;
+          &lt;td&gt;Improved symptoms in one case study of severe COVID-19&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Remdesivir&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An in-silico study of HIV drugs for their docking affinity to a key enzymes in the COVID-19 virus – RdRp, the main protein for RNA replication – found an almost perfect match in the antiviral drug remdesivir, suggesting it might be a good candidate drug for treating COVID-19.[3]&lt;/p&gt;
+
+&lt;p&gt;Remdesivir also inhibits the COVID-19 virus in vitro.[7]&lt;/p&gt;
+
+&lt;p&gt;Remdesivir is effective at reducing the clinical signs of infection and viral load from MERS coronavirus in rhesus macaque monkeys; if given prophylactically, it prevents the monkeys from getting any disease symptoms at all and keeps their viral loads negligible.[10]  In mice, remdesivir is more effective than lopinavir/ritonavir in improving pulmonary function and reducing viral load from MERS infection.[11]&lt;/p&gt;
+
+&lt;p&gt;In 3 US patients treated with remdesivir, 2 patients saw fever drop immediately upon receiving the drug (the third didn’t have a fever); one was able to go off supplemental oxygen; all recovered.&lt;/p&gt;
+
+&lt;p&gt;Remdesivir is currently in trials in China and the US for COVID-19.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chloroquine&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A brief summary document [1] claims that clinical trials in China including over 100 patients have found the antimalarial drug chloroquine phosphate “superior to control treatment” in treating COVID-19 pneumonia and shortening disease course. The paper provided no documentation about experimental methods.&lt;/p&gt;
+
+&lt;p&gt;Chloroquine also inhibits the replication of the COVID-19 virus in vitro,[7] as well as the SARS coronavirus in vitro.[9]  It does not inhibit the MERS coronavirus in vitro in a culture of monocyte-derived cells.[13]&lt;/p&gt;
+
+&lt;p&gt;Chloroquine frequently causes gastrointestinal side effects (diarrhea, nausea), problems with visual acuity, insomnia, and paresthesias (prickling skin sensations.)[15]  More rarely, chloroquine can cause psychiatric symptoms like depression.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cinanserin&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cinanserin is a serotonin receptor antagonist which was also found to inhibit the replication of the SARS virus in vitro. Cinanserin inhibits the activity of COVID-19’s main protease in vitro, and inhibits the virus’s replication in vitro.[5]&lt;/p&gt;
+
+&lt;p&gt;Cinanserin also inhibits the replication of the SARS coronavirus in vitro.[14]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lopinavir/Ritonavir&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lopinavir/Ritonavir is a combination of two antiviral drugs approved for the treatment of HIV.&lt;/p&gt;
+
+&lt;p&gt;In one Korean patient, aged 54, with mild pneumonia and a diagnosis of COVID-19, treatment with the antiviral drug combination of lopinavir and ritonavir diminished coronavirus load to undetectable levels.[2]&lt;/p&gt;
+
+&lt;p&gt;Lopinavir/Ritonavir was also used by the Thai infectious disease team to successfully treat patients with severe COVID-19.[3]&lt;/p&gt;
+
+&lt;p&gt;Lopinavir also had a high binding affinity to the COVID-19 protein 3CL-PRO in an in-silico screen of 3118 FDA-approved drugs.[4]&lt;/p&gt;
+
+&lt;p&gt;Lopinavir is a protease inhibitor, effective in vitro against the main protease of the SARS coronavirus; it also has in vitro antiviral activity against SARS-CoV. Lopinavir reduced viral load and clinical symptoms of the MERS coronavirus in mice and marmoset monkeys.[6]&lt;/p&gt;
+
+&lt;p&gt;In human SARS cases, treatment with lopinavir was associated with lower death rate (2.3%) and intubation rate (0%) compared with standard treatment (11% and 15.6% respectively.). Another case-control study of SARS found a lower rate of ARDS in patients treated with lopinavir (2.4% vs 28.8%).  [6]&lt;/p&gt;
+
+&lt;p&gt;A retrospective study of 40 patients found that post-exposure prophylaxis including lopinavir/ritonavir reduced the spread of MERS-CoV by 40% in healthcare workers.  However, a retrospective study of 134 COVID-19 patients found no significant difference between lopinavir/ritonavir treatment, Abidol treatment, and control treatment.[6]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indinavir&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Indinavir is an antiviral drug used to treat HIV.&lt;/p&gt;
+
+&lt;p&gt;In an in-silico screen of the binding affinity of 3118 FDA-approved drugs to several key enzymes of the COVID-19 virus, the highest-affinity drug for the protease PDB-6LU7 was indinavir, an antiviral drug approved for use against HIV.  (Even higher affinity were human proteins that closely resemble the enzyme’s ligand – ACE2 and GHRP-2.)  Indinavir also had a high binding affinity to another COVID-19 protein, 3CL-PRO.[4]&lt;/p&gt;
+
+&lt;p&gt;However, in an in-vitro test against the SARS coronavirus, indinavir did not block replication.[12]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thalidomide&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thalidomide is an immunomodulatory drug used to treat cancers.&lt;/p&gt;
+
+&lt;p&gt;A 45-year-old woman with a severe case COVID-19, with fever, pneumonia, dyspnea, nausea, and vomiting, improved and went into remission after being treated with thalidomide, which has anti-inflammatory effects, reducing the “cytokine storm” responsible for the severe symptoms of COVID-19.[7]&lt;/p&gt;
+
+&lt;p&gt;References
+[1]Gao, Jianjun, Zhenxue Tian, and Xu Yang. “Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies.” BioScience Trends (2020).
+[2]Lim, Jaegyun, et al. “Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR.” Journal of Korean medical science 35.6 (2020).
+[3]Chang, Yu-Chuan, et al. “Potential therapeutic agents for COVID-19 based on the analysis of protease and RNA polymerase docking.” (2020).
+[4]Contini, Alessandro. “Virtual screening of an FDA approved drugs database on two COVID-19 coronavirus proteins.” (2020).
+[5]Jin, Zhenming, et al. “Structure-based drug design, virtual screening and high-throughput screening rapidly identify antiviral leads targeting COVID-19.” bioRxiv (2020).
+[6]Yao, Tian‐Tian, et al. “A Systematic Review of Lopinavir Therapy for SARS Coronavirus and MERS Coronavirus–A Possible Reference for Coronavirus Disease‐19 Treatment Option.” Journal of Medical Virology (2020).
+[7]Wang, Manli, et al. “Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.” Cell research 30.3 (2020): 269-271.
+[8]Chen, Chengshui, et al. “Thalidomide combined with low-dose glucocorticoid in the treatment of COVID-19 Pneumonia.” (2020).
+[9]Vincent, Martin J., et al. “Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.” Virology journal 2.1 (2005): 69.
+[10]de Wit, Emmie, et al. “Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.” Proceedings of the National Academy of Sciences (2020).
+[11]Sheahan, Timothy P., et al. “Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV.” Nature Communications 11.1 (2020): 1-14.
+[12]Tan, Emily LC, et al. “Inhibition of SARS coronavirus infection in vitro with clinically approved antiviral drugs.” Emerging infectious diseases 10.4 (2004): 581.
+[13]Cong, Yu, et al. “MERS-CoV pathogenesis and antiviral efficacy of licensed drugs in human monocyte-derived antigen-presenting cells.” PloS one 13.3 (2018).
+[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.
+[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
 
