@@ -1,4 +1,309 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T17:55:21-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="http://localhost:4000/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-19T13:25:53-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.txt" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.txt">COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
+There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.
+
+**COVID-19 Symptoms and Clinical Guidelines**
+
+Most patients who go to a hospital for COVID-19 have pneumonia or infection of the lungs, which is visible on a chest X-ray.  A large fraction (41.3%) receive supplemental oxygen therapy; a smaller fraction (5%) needed to be admitted to the ICU, and 6.1% needed mechanical ventilation.[1] 
+
+
+**ARDS** 
+Severe cases of COVID-19 result in developing Acute Respiratory Distress Syndrome (ARDS). Fluid builds up in the lungs; the lungs may collapse; blood oxygen drops; and mechanical ventilation is required. Merely providing air with a higher oxygen content than room air isn’t enough; pressure needs to be administered to keep the alveoli open.  
+
+
+**Oxygen Therapy: Bag Mask**
+![bagvalvemask](/images/bagvalvemask.jpg)
+
+A bag valve mask is used in emergencies and for temporary ventilation while preparing for intubation.
+
+[Here][maskdemo] is a doctor demonstrating how to use a bag valve mask.
+
+
+**Oxygen Therapy: Nasal Cannulas and Simple Masks**
+
+![nasalcannula](/images/nasalcannula.jpeg)
+
+![simplefacemask](/images/simplefacemask.jpeg)
+
+When a patient has difficulty getting enough oxygen but can breathe on their own, they get oxygen therapy. That is, they’re given a supply of air with an increased concentration of oxygen, but without any additional pressure.
+
+Oxygen can be administered non-invasively through a nasal cannula or a simple mask. This can safely be done outside a hospital setting.  Oxygen concentrators are standard to keep in the home for people with chronic lung conditions like emphysema and COPD. Simple oxygen masks are regularly used by non-medical rescue personnel like firefighters and lifeguards.
+
+
+**Oxygen Concentrators** 
+
+To produce a supply of filtered, high-oxygen air from room air, you need an oxygen concentrator, which removes nitrogen from the air through filters. This oxygen-enriched air can then be provided to the patient through a mask or nasal cannula.
+
+Home oxygen concentrators are available with a prescription.
+
+Oxygen Therapy: Non-Rebreather Masks
+A non-rebreather mask is an oxygen mask with a sealed bag that prevents inhalation of room air or previously exhaled air, which allows for higher concentrations of oxygen to be administered.
+
+**Oxygen Therapy: High Flow Nasal Cannula**
+
+![HFNC](/images/HFNC.png)
+
+[5]
+
+A high flow nasal cannula provides a higher flow of oxygen, and warms and humidifies it, so that it is less irritating to mucous membranes and easier for the patient to breathe.  The higher flow also increases ventilation and causes the patient to rebreathe less exhaled air, which increases ventilation (the elimination of CO2).  It also provides a small amount of PEEP (positive end-expiratory pressure, keeping the alveoli open) which can be helpful for patients whose lungs are collapsing due to respiratory failure.
+
+High-flow nasal cannulas will aerosolize the COVID-19 virus, infecting everyone nearby. They are not allowed in hospitals for COVID-19 because they spread disease.  
+
+**Noninvasive Ventilation: CPAP and BIPAP**
+
+![CPAP](/images/CPAP.jpg)
+
+![BIPAP](/images/BIPAP.jpg)
+
+CPAP machines keep the patient’s airway open by forcing air continuously through a mask.  It is usually used for sleep apnea and other conditions that cause difficulty breathing.  The patient must initiate all breaths, but has additional pressure support to keep the airway and alveoli open.
+
+BIPAP machines work the same way, except that they have two pressure settings instead of just one: a higher pressure for inhalation and a lower one for exhalation.
+
+BIPAPs and CPAPs can be used safely at home and don’t need medical supervision.
+
+Like high-flow nasal cannulas, CPAP and BIPAP machines aerosolize the COVID-19 virus and are an infection risk for everyone nearby.  They are not allowed in hospitals for COVID-19; they will spread disease.  (Source: doctor interview.)
+
+**Invasive Mechanical Ventilation for ARDS**
+
+When the alveoli can’t stay open on their own, supplemental oxygen isn’t enough; this is when the patient needs to be intubated and placed on a ventilator that can provide enough pressure to keep the airway and alveoli open, so gas exchange can occur and the blood can be oxygenated.
+
+The pressure on a mechanical ventilator needs to be precisely calibrated to the patient. Too much pressure and the lung can tear; too little, and the patient’s blood will fill with CO2 and not get enough oxygen. This is one reason why patients need to be placed on ventilators by trained experts (typically ICU nurses, doctors, and respiratory therapists). 
+
+Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.
+
+![laryngoscope](/images/laryngoscope.jpg)
+
+You don’t want an untrained person sticking this blade down someone’s throat!
+
+**How Effective Is Outpatient Oxygen Therapy or Noninvasive Ventilation?**
+
+There are multiple projects underway to produce open-source oxygen therapy or non-invasive ventilation devices for COVID-19. Are these projects actually useful?
+
+They’re not going to be used in hospitals, because of the risk that they’ll spread infection.  But could they still be useful for patients self-quarantining at home, in a context where ICU beds and ventilators are scarce?
+
+In other words, how often do patients who need non-invasive ventilation go on to need invasive ventilation, how long does it take before they need to escalate to invasive ventilation, and how helpful is non-invasive ventilation in preventing the need for invasive ventilation?
+
+In 310 patients with acute respiratory failure in ICUs (typically due to pneumonia), randomized to standard oxygen therapy in a nonrebreather mask, oxygen therapy in a high flow nasal cannula, or noninvasive ventilation, there was no significant difference in the intubation rate (30-40% needed intubation within 4 days).  However, the high-flow oxygen group had a significantly lower 90-day mortality rate than the other two groups: 7% of the high-flow oxygen group died within 90 days, compared to 28% on standard oxygen and 23% on non-invasive ventilation.  The high-flow oxygen group also had significantly better blood oxygenation and spent fewer days on ventilators than the other two groups.[3]  High-flow nasal cannulas were also more effective than conventional oxygen masks at avoiding the need for repeated ventilation, in another randomized trial.[4]
+
+So, suppose you’re a person with respiratory failure, but you have an oxygen mask, CPAP, BIPAP, or high-flow nasal cannula at home. 40% of the time or so, your noninvasive home equipment is going to fail and you’ll need to be intubated. Usually this happens quite urgently; if you need to take an ambulance to get to the hospital it might be too late.  
+
+Since NIV (noninvasive ventilation) does not significantly reduce the risk of needing intubation, it’s strictly inferior to have people on NIV at home (where they may not be able to get to a doctor in time if their condition worsens) than to have them on conventional nonrebreather oxygen masks in the hospital (where they can get an emergency intubation if their condition worsens.) The improved mortality stats for high-flow nasal cannula are probably swamped by the increased risk associated with being at home and not being able to get an emergency intubation quickly.
+
+Therefore, building open-source CPAP, BIPAP, or high-flow nasal cannulas is not valuable for COVID-19, in any world where ICUs and ventilators are still available.  
+
+If the situation deteriorates so badly that most people can’t go to ICUs at all, non-invasive home ventilation may be better than nothing, but it’s not the top priority for increasing capacity to respond to the COVID-19 pandemic.
+
+**Existing Ventilator Design Projects**
+
+I've seen a lot of links to projects to design open-source ventilators to handle the current ventilator shortage. Many of these are automated bag masks, or CPAPs, which aren't recommended for use in hospitals because they spread COVID-19; and they won't work on the more severe cases of respiratory distress anyway.  Only two projects that I found, the Pandemic Ventilator and the Flometrics project, are explicitly trying to match the specifications of the type of mechanical ventilators found in ICUs.
+
+[3D-Printed Venturi Valve][venturi]
+
+A hospital in Italy, after being unable to source valves for Venturi oxygen masks, got emergency supplies from a local 3D printing company. 
+
+While this is a worthwhile project, it is of course just a single part for an oxygen mask, not a ventilator.
+
+[Auto Bag Ventilator][autobag] -- a Rice University engineering student designed a low-cost, automatically pumping bag ventilator for low resource settings.  
+
+This is a type of ventilator for very short term use, in first aid emergencies. It is not a substitute for a mechanical ventilator because there is no way to calibrate the pressure exactly.  (A mechanical ventilator needs to be accurate to within at least 0.001 psi.)[6]
+
+It is also not safe for COVID-19 in hospital settings because of the risk of aerosolization.
+
+[Flometrics][flometrics]
+
+This is a low cost mechanical ventilator based on a Shopvac, designed by one of the patent holders for the Phillips Espirit ventilator.  
+
+This is the kind of thing that *is* designed to substitute for the mechanical ventilators used in ICUs, and could be very valuable if it works.
+
+[Low-Cost Open Source Ventilator][jlee]
+
+This is a design for a modified CPAP machine for non-invasive ventilation.  
+That means it’s not going to be usable in hospitals because of disease spread issues, and ~40% of the time, a person with COVID would need to escalate to intubation within a few days anyway.
+
+[Low-Cost Portable Mechanical Ventilator][mit] -- this is an MIT student project. 
+
+This too is a bag ventilator equipped with a mechanical pump; therefore, not usable for COVID-19 in hospital settings.
+
+
+[Metric Technologies][metric]
+	
+They [claim][metricclaim] to have a low-cost (&lt;$300) ventilator design and are capable of training staff and deploying the devices. Unclear what type of device this is.
+
+[OneBreath Ventilators][onebreath]
+ 
+This Stanford-founded company is working to develop a low cost ICU ventilator for use in the developing world. These could be suitable for severe COVID-19 cases.
+
+They are not yet available for sale but they are open to outreach,  info@onebreathventilators.com.
+
+	
+[OpenLung][openlung]
+
+Another motorized Ambu-bag. Again, these are not designed to be used for more than 10 hours at a time &amp; won’t work for ARDS.
+
+
+[Pandemic Ventilator][panvent] 
+
+This is a project to build a mechanical ventilator for ARDS. They also have a blog at [https://panvent.blogspot.com/][https://panvent.blogspot.com/]
+
+This is the type of thing that could potentially be valuable for severe cases of COVID-19; it's meant to substitute for the type of mechanical ventilators that are currently in short supply. Any new, rapidly developed machine will not meet regulatory approval standards in the US, but in emergencies or in countries with less stringent laws, an unapproved (but functional) machine may be better than nothing.  
+
+This ventilator is designed to be deployed in hospitals, specifically in rural Latin America.  It is not for home care.
+
+
+[The Ventilator Project][necsi]
+	This is a group from NECSI, the New England Complex Systems institute, working to
+	a.) increase production of ventilators by existing manufacturers
+	b.) work on open-source plans for building ventilators for hospitals
+	c.) regulatory efforts to approve hospitals to use emergency ventilators
+
+
+
+Current Shortages of Oxygen &amp; Breathing Equipment
+
+Oxygen Concentrators
+Oxygen concentrators were in short supply even before the pandemic -- a June 2019 article notes that half of people who use portable oxygen supplies had problems with broken equipment or inadequate supplies of oxygen.[7]
+
+Ventilators
+In a pandemic crisis, New York State is predicted to be short 15,783 mechanical ventilators a week at the peak of the outbreak.[8]
+
+Evidence that Non-Invasive Ventilation Spreads COVID-19
+
+An ICU in Hong Kong gave guidance against bag mask ventilators:
+
+We recommend avoiding bag mask ventilation for as long as possible; and optimising preoxygenation with nonaerosol-generating means. Methods include the bed-up-head-elevated position, airway manoeuvres, use of a positive end expiratory pressure valve, and airway adjuncts. If manual bagging is required, we suggest gentle ventilation via a supraglottic device instead of bag mask ventilation.[9]
+
+The same guidelines were implemented by the largest acute care hospital in Singapore:
+Infection prevention entails reducing aerosol-generating procedures (i.e., airway manipulation, face mask ventilation, open airway suctioning, patient coughing) as far as possible...Non-invasive positive pressure ventilation and high flow nasal cannulae such as the transnasal humidified rapid-insufflation ventilatory exchange should be avoided to reduce the risk of viral aerosolization...Venturi masks should be avoided as they may aerosolize the virus.
+
+
+
+References
+[1]Guan, Wei-jie, et al. &quot;Clinical characteristics of coronavirus disease 2019 in China.&quot; New England Journal of Medicine (2020).
+
+[2]Murthy, Srinivas, Charles D. Gomersall, and Robert A. Fowler. &quot;Care for Critically Ill Patients With COVID-19.&quot; JAMA (2020).
+
+[3]Frat, Jean-Pierre, et al. &quot;High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.&quot; New England Journal of Medicine 372.23 (2015): 2185-2196.
+
+[4]Hernández, Gonzalo, et al. &quot;Effect of postextubation high-flow nasal cannula vs conventional oxygen therapy on reintubation in low-risk patients: a randomized clinical trial.&quot; Jama 315.13 (2016): 1354-1361.
+
+[5]Papazian, Laurent, et al. &quot;Use of high-flow nasal cannula oxygenation in ICU adults: a narrative review.&quot; Intensive Care Medicine 42.9 (2016): 1336-1349.
+
+[6]http://www.ardsnet.org/files/ventilator_protocol_2008-07.pdf
+
+[7]https://www.statnews.com/2019/06/14/access-lifesaving-oxygen-therapy/
+
+[8]https://www.nytimes.com/2020/03/17/nyregion/ny-coronavirus-ventilators.html
+
+[9]Cheung, Jonathan Chun-Hei, et al. &quot;Staff safety during emergency airway management for COVID-19 in Hong Kong.&quot; The Lancet Respiratory Medicine (2020).
+
+
+[maskdemo]: https://www.youtube.com/watch?v=1goz1l28kUQ
+[autobag]: https://www.youtube.com/watch?v=1t2t8d8xtD0&amp;feature=youtu.be
+[mit]: http://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
+[panvent]: https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit#
+[https://panvent.blogspot.com/]: https://panvent.blogspot.com/
+[onebreath]: http://www.onebreathventilators.com/
+[necsi]: https://medium.com/@brucefenton/we-need-ventilators-we-need-you-to-help-build-them-30805e5ee2ea
+[jlee]: https://github.com/jcl5m1/ventilator
+[venturi]: https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
+[openlung]: https://gitlab.com/TrevorSmale/OSV-OpenLung
+[metric]: http://www.metrictechnologies.com/
+[metricclaim]: https://helpwithcovid.com/projects/24
+[flometrics]: https://www.reddit.com/r/OpenSourceVentilators/comments/fgrsdg/pandemic_ventilator_project_requirements/</content><author><name></name></author><category term="COVID-19" /><category term="lit-review" /><summary type="html">COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.     There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources. [maskdemo]: https://www.youtube.com/watch?v=1goz1l28kUQ [autobag]: https://www.youtube.com/watch?v=1t2t8d8xtD0&amp;feature=youtu.be [mit]: http://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf [panvent]: https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit# [https://panvent.blogspot.com/]: https://panvent.blogspot.com/ [onebreath]: http://www.onebreathventilators.com/ [necsi]: https://medium.com/@brucefenton/we-need-ventilators-we-need-you-to-help-build-them-30805e5ee2ea [jlee]: https://github.com/jcl5m1/ventilator [venturi]: https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/ [openlung]: https://gitlab.com/TrevorSmale/OSV-OpenLung [metric]: http://www.metrictechnologies.com/ [metricclaim]: https://helpwithcovid.com/projects/24 [flometrics]: https://www.reddit.com/r/OpenSourceVentilators/comments/fgrsdg/pandemic_ventilator_project_requirements/</summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
+
+&lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
+
+&lt;p&gt;a.) only includes data up to Feb. 11
+b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed
+c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested
+d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed&lt;/p&gt;
+
+&lt;p&gt;Using the &lt;a href=&quot;https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data&quot;&gt;Johns Hopkins data&lt;/a&gt;, which is current up to March 4th, the overall/cumulative case fatality rate in China is 3.4%, and the case fatality rate outside China is 1.8%.  This lower number may be more predictive of the current case fatality rate since the case fatality rate inside China has dropped over time, from 17% (in January) to under 2% by Feb. 20th, as more individuals have been tested and hospital resources have been mobilized.&lt;/p&gt;
+
+&lt;p&gt;The overall case recovery rate from the Johns Hopkins data is 54% worldwide but only 8% outside China. This may simply indicate recency; according to the &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf&quot;&gt;WHO&lt;/a&gt;, mild cases take 2 weeks to recover and severe cases take 3-6 weeks. Or it may indicate that countries outside China are not following up with confirmed cases.&lt;/p&gt;
+
+&lt;p&gt;According to the &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;Chinese data&lt;/a&gt; on 72,314 cases of COVID-19 (which gives ages for cases, unlike the global data) only about 10% of cases were in people younger than 30, and only 1% of the deaths among confirmed cases were in people younger than 30.  27% of the cases were in people younger than 40, and 2.5% of the deaths. While reporting of cases of coronavirus can be expected to be biased to more severe cases, there is no systematic reason why cases of similar severity would be more or less likely to be reported based on age, so the 10% case risk seems like a credible estimate.&lt;/p&gt;
+
+&lt;p&gt;A sample of &lt;a href=&quot;https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext&quot;&gt;509 cases&lt;/a&gt; whose demographic information was reported in the media, including cases from outside China, found that 12% of cases were younger than 30, which is similar to the Chinese figure; the sample included no deaths in patients younger than 30.&lt;/p&gt;
+
+&lt;p&gt;South Korea may be our best possible estimate of the true case fatality rate, since it is a developed country with a very extensive testing program of more than &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-of-thousands-to-fight-virus-outbreak&quot;&gt;140,000 people&lt;/a&gt; to date. It has &lt;a href=&quot;https://www.businessinsider.com/coronavirus-new-cases-soar-south-korea-slow-in-china-2020-3&quot;&gt;6088 cases and 37 deaths&lt;/a&gt;, or a 0.6% case fatality rate.  In Korea, 35.2% of all cases were in people under 30, and 46.2% under age 40, but there have been no fatalities for people under 30.  There was 1 death of a person age 30-39, out of 693 cases in that age range.  This suggests that in a country with extensive testing for COVID-19, young people are more likely to contract the disease than the Chinese numbers would suggest, but no more likely to die of it. In fact, Korean case fatality rates across all age groups are lower than the corresponding Chinese case fatality rates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/&quot;&gt;“At least 11 people have died of the COVID-19 disease in the U.S., all but one of them in Washington state, and most of them from a single nursing home in the Seattle area. The other death occurred in California, just outside Sacramento. The coronavirus has been confirmed in 17 states so far.”&lt;/a&gt;, according to a news article on March 5.  Since the number of US cases to date is currently 211, this gives a whopping 5% case fatality rate, but this number is likely inaccurate since the US is barely testing at all for COVID-19.  We don’t have enough data on US cases to get a believable US-specific case fatality rate by age group, but the pattern of deaths is consistent with the story that the disease is much more deadly for the elderly than for younger people.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
+
+&lt;p&gt;There was a &lt;a href=&quot;https://link.springer.com/article/10.1007/s00415-020-09773-9&quot;&gt;case study&lt;/a&gt; of a 62-year-old man in Wuhan who presented with oculomotor nerve palsy and whose throat swab tested positive for 2019-nCOV.  Other possible causes of the nerve palsy, such as stroke, diabetic neuropathy, brain tumor, and Guillain-Barre syndrome were ruled out, so his doctors hypothesized that the virus caused the nerve failure.&lt;/p&gt;
+
+&lt;p&gt;Another &lt;a href=&quot;http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm&quot;&gt;case&lt;/a&gt; of COVID-19, in Beijing, was confirmed to contain the virus in cerebrospinal fluid, in the first case of viral encephalitis due to COVID-19.&lt;/p&gt;
+
+&lt;p&gt;There is evidence that COVID-19 can infiltrate the central nervous system, and evidence that neurological symptoms are common during COVID-19 infection, but it’s not as yet clear whether the neurological symptoms are usually caused by the virus infiltrating nerve and muscle tissue or whether they’re caused by other organ damage, by the treatments for COVID-19, or by the body’s inflammatory response.&lt;/p&gt;
+
+&lt;p&gt;SARS, an earlier coronavirus epidemic, did frequently cause chronic sequelae.&lt;/p&gt;
+
+&lt;p&gt;Out of 233 formerly hospitalized SARS survivors in one &lt;a href=&quot;https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378&quot;&gt;follow-up study&lt;/a&gt;, 27.1% met the criteria for chronic fatigue syndrome, 40% had a psychiatric disorder, and 40% mentioned a chronic fatigue problem. Only 3%, by contrast, had a psychiatric disorder before contracting SARS; this indicates that SARS may have caused psychiatric problems. (Relatedly, the most common psychiatric disorder was post-traumatic stress disorder.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Johnny_Chan9/publication/228620287_Severe_Acute_Respiratory_Syndrome_SARS_A_Brief_Review_With_Exploration_of_the_Outcomes_Prognostic_Factors_and_Sequelae/links/541157e90cf2f2b29a412dc0.pdf&quot;&gt;Half of SARS survivors&lt;/a&gt;  who were hospitalized experienced mild reduction in pulmonary function even 3 months after being discharged from the hospital.  30-45% of survivors had bone necrosis in their hips or knees; this may be a consequence of the long-term use of corticosteroids in treating SARS.&lt;/p&gt;
+
+&lt;p&gt;SARS has been found in one &lt;a href=&quot;https://academic.oup.com/clinchem/article/49/12/2108/5642159&quot;&gt;case&lt;/a&gt; to infiltrate the cerebrospinal fluid, causing seizures.&lt;/p&gt;
+
+&lt;p&gt;Neurological symptoms are &lt;a href=&quot;http://www.ant-tnsjournal.com/Mag_Files/14-3/14-3_p113.pdf&quot;&gt;uncommon but possible&lt;/a&gt; in SARS; out of 664 SARS patients in Taiwan, eight (1%) were found to have neurological disorders: neuropathy, myopathy, and rhabdomyolysis.  5 out of 206 SARS patients in Singapore, or 2%, had strokes, while none had risk factors for strokes; this may be because SARS, like some other viral infections, causes a hypercoagulable state. These neuromuscular symptoms look similar to the ones observed in COVID-19.&lt;/p&gt;
+
+&lt;p&gt;It’s reasonable to suppose that COVID-19, like SARS, can increase the risk of stroke and cause chronic nerve disorders in perhaps a few percent of patients.&lt;/p&gt;
+
+&lt;p&gt;Though we don’t yet know whether COVID-19 causes chronic fatigue, there is a plausible mechanism: virus-induced immune dysfunction.&lt;/p&gt;
+
+&lt;p&gt;COVID-19 patients have &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/20/2020.02.18.20024364.full.pdf&quot;&gt;diminished T-cell levels&lt;/a&gt;, and more severe cases have a larger reduction.  75% of 522 COVID-19 patients from a Chinese hospital had low T-cell levels, with the lowest levels found in the oldest patients. Inflammatory cytokine levels (IL-6, IL-10, and TNF-alpha) was negatively correlated with T-cell count and positively correlated with the severity of the disease. This is consistent with the “cytokine storm” phenomenon, in which a spike in inflammatory cytokines is responsible for the Acute Respiratory Distress Syndrome (ARDS) and Multiple Organ Dysfunction Syndrome (MODS) which occur in severe and deadly cases of respiratory infections, including COVID-19, SARS, and H5N1.  This opens the door to a mechanism by which COVID-19 could cause long-term immune system dysregulation, if T-cell levels don’t go back to normal after a patient recovers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
+
+&lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
+
+&lt;p&gt;Korean officials said that &lt;a href=&quot;https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html&quot;&gt;only about 10%&lt;/a&gt; of coronavirus patients had cases severe enough to need hospitalization.&lt;/p&gt;
+
+&lt;p&gt;In China, &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;19% of confirmed cases&lt;/a&gt; were “severe” or “critical”, but this number is likely higher than the true figure, due to limited access to test kits and mild cases of COVID-19 going unreported.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf&quot;&gt;study&lt;/a&gt; of 391 patients in Shenzhen, China, 0 cases of COVID-19 among those &amp;lt;30 years old were “severe” (in need of mechanical ventilation, in a state of septic shock or multiple organ failure, or other serious criteria) and only 1% of those aged 30-39 were severe; overall, there was an 0.6% rate of severe cases among cases younger than age 40.&lt;/p&gt;
+
+&lt;p&gt;The rate of contracting COVID-19 among close contacts of confirmed cases, however, was relatively constant across age groups – 7-8%, including among children ages 0-9.&lt;/p&gt;
+
+&lt;p&gt;In a study of &lt;a href=&quot;https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext&quot;&gt;262 patients in Beijing&lt;/a&gt;, however, 8% of cases younger than age 44 were “severe”, compared to 41% of cases older than age 65 and 17% of cases age 45-64.&lt;/p&gt;
+
+&lt;p&gt;In a study of 221 confirmed COVID-19 cases in &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.full.pdf&quot;&gt;Wuhan&lt;/a&gt;, 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.&lt;/p&gt;
+
+&lt;p&gt;In all three Chinese cities, this comes to a rate of 3% of cases in under-40 or under-45 patients being severe.&lt;/p&gt;
+
+&lt;p&gt;If we assume the age distribution of severity is the same in Korea vs. China, but that the Korean rate of severe illness is the correct one, this gives us 3/19*10 = 1.6% probability of a person under 40 having a severe case, given that they have been infected.&lt;/p&gt;
+
+&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young (&amp;lt;40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young (&amp;lt;40) people who contract the virus have a low (~1.6%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 1-2% severe case rate translates to more like a 1-2% fatality rate if a young person catches the disease when hospitals are over capacity.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -121,102 +426,7 @@
 
 &lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
 
-&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="http://localhost:4000/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
-
-&lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
-
-&lt;p&gt;a.) only includes data up to Feb. 11
-b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed
-c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested
-d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed&lt;/p&gt;
-
-&lt;p&gt;Using the &lt;a href=&quot;https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data&quot;&gt;Johns Hopkins data&lt;/a&gt;, which is current up to March 4th, the overall/cumulative case fatality rate in China is 3.4%, and the case fatality rate outside China is 1.8%.  This lower number may be more predictive of the current case fatality rate since the case fatality rate inside China has dropped over time, from 17% (in January) to under 2% by Feb. 20th, as more individuals have been tested and hospital resources have been mobilized.&lt;/p&gt;
-
-&lt;p&gt;The overall case recovery rate from the Johns Hopkins data is 54% worldwide but only 8% outside China. This may simply indicate recency; according to the &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf&quot;&gt;WHO&lt;/a&gt;, mild cases take 2 weeks to recover and severe cases take 3-6 weeks. Or it may indicate that countries outside China are not following up with confirmed cases.&lt;/p&gt;
-
-&lt;p&gt;According to the &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;Chinese data&lt;/a&gt; on 72,314 cases of COVID-19 (which gives ages for cases, unlike the global data) only about 10% of cases were in people younger than 30, and only 1% of the deaths among confirmed cases were in people younger than 30.  27% of the cases were in people younger than 40, and 2.5% of the deaths. While reporting of cases of coronavirus can be expected to be biased to more severe cases, there is no systematic reason why cases of similar severity would be more or less likely to be reported based on age, so the 10% case risk seems like a credible estimate.&lt;/p&gt;
-
-&lt;p&gt;A sample of &lt;a href=&quot;https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext&quot;&gt;509 cases&lt;/a&gt; whose demographic information was reported in the media, including cases from outside China, found that 12% of cases were younger than 30, which is similar to the Chinese figure; the sample included no deaths in patients younger than 30.&lt;/p&gt;
-
-&lt;p&gt;South Korea may be our best possible estimate of the true case fatality rate, since it is a developed country with a very extensive testing program of more than &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-of-thousands-to-fight-virus-outbreak&quot;&gt;140,000 people&lt;/a&gt; to date. It has &lt;a href=&quot;https://www.businessinsider.com/coronavirus-new-cases-soar-south-korea-slow-in-china-2020-3&quot;&gt;6088 cases and 37 deaths&lt;/a&gt;, or a 0.6% case fatality rate.  In Korea, 35.2% of all cases were in people under 30, and 46.2% under age 40, but there have been no fatalities for people under 30.  There was 1 death of a person age 30-39, out of 693 cases in that age range.  This suggests that in a country with extensive testing for COVID-19, young people are more likely to contract the disease than the Chinese numbers would suggest, but no more likely to die of it. In fact, Korean case fatality rates across all age groups are lower than the corresponding Chinese case fatality rates.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/&quot;&gt;“At least 11 people have died of the COVID-19 disease in the U.S., all but one of them in Washington state, and most of them from a single nursing home in the Seattle area. The other death occurred in California, just outside Sacramento. The coronavirus has been confirmed in 17 states so far.”&lt;/a&gt;, according to a news article on March 5.  Since the number of US cases to date is currently 211, this gives a whopping 5% case fatality rate, but this number is likely inaccurate since the US is barely testing at all for COVID-19.  We don’t have enough data on US cases to get a believable US-specific case fatality rate by age group, but the pattern of deaths is consistent with the story that the disease is much more deadly for the elderly than for younger people.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
-
-&lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
-
-&lt;p&gt;There was a &lt;a href=&quot;https://link.springer.com/article/10.1007/s00415-020-09773-9&quot;&gt;case study&lt;/a&gt; of a 62-year-old man in Wuhan who presented with oculomotor nerve palsy and whose throat swab tested positive for 2019-nCOV.  Other possible causes of the nerve palsy, such as stroke, diabetic neuropathy, brain tumor, and Guillain-Barre syndrome were ruled out, so his doctors hypothesized that the virus caused the nerve failure.&lt;/p&gt;
-
-&lt;p&gt;Another &lt;a href=&quot;http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm&quot;&gt;case&lt;/a&gt; of COVID-19, in Beijing, was confirmed to contain the virus in cerebrospinal fluid, in the first case of viral encephalitis due to COVID-19.&lt;/p&gt;
-
-&lt;p&gt;There is evidence that COVID-19 can infiltrate the central nervous system, and evidence that neurological symptoms are common during COVID-19 infection, but it’s not as yet clear whether the neurological symptoms are usually caused by the virus infiltrating nerve and muscle tissue or whether they’re caused by other organ damage, by the treatments for COVID-19, or by the body’s inflammatory response.&lt;/p&gt;
-
-&lt;p&gt;SARS, an earlier coronavirus epidemic, did frequently cause chronic sequelae.&lt;/p&gt;
-
-&lt;p&gt;Out of 233 formerly hospitalized SARS survivors in one &lt;a href=&quot;https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378&quot;&gt;follow-up study&lt;/a&gt;, 27.1% met the criteria for chronic fatigue syndrome, 40% had a psychiatric disorder, and 40% mentioned a chronic fatigue problem. Only 3%, by contrast, had a psychiatric disorder before contracting SARS; this indicates that SARS may have caused psychiatric problems. (Relatedly, the most common psychiatric disorder was post-traumatic stress disorder.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Johnny_Chan9/publication/228620287_Severe_Acute_Respiratory_Syndrome_SARS_A_Brief_Review_With_Exploration_of_the_Outcomes_Prognostic_Factors_and_Sequelae/links/541157e90cf2f2b29a412dc0.pdf&quot;&gt;Half of SARS survivors&lt;/a&gt;  who were hospitalized experienced mild reduction in pulmonary function even 3 months after being discharged from the hospital.  30-45% of survivors had bone necrosis in their hips or knees; this may be a consequence of the long-term use of corticosteroids in treating SARS.&lt;/p&gt;
-
-&lt;p&gt;SARS has been found in one &lt;a href=&quot;https://academic.oup.com/clinchem/article/49/12/2108/5642159&quot;&gt;case&lt;/a&gt; to infiltrate the cerebrospinal fluid, causing seizures.&lt;/p&gt;
-
-&lt;p&gt;Neurological symptoms are &lt;a href=&quot;http://www.ant-tnsjournal.com/Mag_Files/14-3/14-3_p113.pdf&quot;&gt;uncommon but possible&lt;/a&gt; in SARS; out of 664 SARS patients in Taiwan, eight (1%) were found to have neurological disorders: neuropathy, myopathy, and rhabdomyolysis.  5 out of 206 SARS patients in Singapore, or 2%, had strokes, while none had risk factors for strokes; this may be because SARS, like some other viral infections, causes a hypercoagulable state. These neuromuscular symptoms look similar to the ones observed in COVID-19.&lt;/p&gt;
-
-&lt;p&gt;It’s reasonable to suppose that COVID-19, like SARS, can increase the risk of stroke and cause chronic nerve disorders in perhaps a few percent of patients.&lt;/p&gt;
-
-&lt;p&gt;Though we don’t yet know whether COVID-19 causes chronic fatigue, there is a plausible mechanism: virus-induced immune dysfunction.&lt;/p&gt;
-
-&lt;p&gt;COVID-19 patients have &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/20/2020.02.18.20024364.full.pdf&quot;&gt;diminished T-cell levels&lt;/a&gt;, and more severe cases have a larger reduction.  75% of 522 COVID-19 patients from a Chinese hospital had low T-cell levels, with the lowest levels found in the oldest patients. Inflammatory cytokine levels (IL-6, IL-10, and TNF-alpha) was negatively correlated with T-cell count and positively correlated with the severity of the disease. This is consistent with the “cytokine storm” phenomenon, in which a spike in inflammatory cytokines is responsible for the Acute Respiratory Distress Syndrome (ARDS) and Multiple Organ Dysfunction Syndrome (MODS) which occur in severe and deadly cases of respiratory infections, including COVID-19, SARS, and H5N1.  This opens the door to a mechanism by which COVID-19 could cause long-term immune system dysregulation, if T-cell levels don’t go back to normal after a patient recovers.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
-
-&lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
-
-&lt;p&gt;Korean officials said that &lt;a href=&quot;https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html&quot;&gt;only about 10%&lt;/a&gt; of coronavirus patients had cases severe enough to need hospitalization.&lt;/p&gt;
-
-&lt;p&gt;In China, &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;19% of confirmed cases&lt;/a&gt; were “severe” or “critical”, but this number is likely higher than the true figure, due to limited access to test kits and mild cases of COVID-19 going unreported.&lt;/p&gt;
-
-&lt;p&gt;In a &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf&quot;&gt;study&lt;/a&gt; of 391 patients in Shenzhen, China, 0 cases of COVID-19 among those &amp;lt;30 years old were “severe” (in need of mechanical ventilation, in a state of septic shock or multiple organ failure, or other serious criteria) and only 1% of those aged 30-39 were severe; overall, there was an 0.6% rate of severe cases among cases younger than age 40.&lt;/p&gt;
-
-&lt;p&gt;The rate of contracting COVID-19 among close contacts of confirmed cases, however, was relatively constant across age groups – 7-8%, including among children ages 0-9.&lt;/p&gt;
-
-&lt;p&gt;In a study of &lt;a href=&quot;https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext&quot;&gt;262 patients in Beijing&lt;/a&gt;, however, 8% of cases younger than age 44 were “severe”, compared to 41% of cases older than age 65 and 17% of cases age 45-64.&lt;/p&gt;
-
-&lt;p&gt;In a study of 221 confirmed COVID-19 cases in &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.full.pdf&quot;&gt;Wuhan&lt;/a&gt;, 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.&lt;/p&gt;
-
-&lt;p&gt;In all three Chinese cities, this comes to a rate of 3% of cases in under-40 or under-45 patients being severe.&lt;/p&gt;
-
-&lt;p&gt;If we assume the age distribution of severity is the same in Korea vs. China, but that the Korean rate of severe illness is the correct one, this gives us 3/19*10 = 1.6% probability of a person under 40 having a severe case, given that they have been infected.&lt;/p&gt;
-
-&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract the virus have a low (~1.6%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 1-2% severe case rate translates to more like a 1-2% fatality rate if a young person catches the disease when hospitals are over capacity.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="http://localhost:4000/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/13/intro-post</id><content type="html" xml:base="http://localhost:4000/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/2020/03/13/intro-post</id><content type="html" xml:base="/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
 
@@ -229,7 +439,7 @@ I want it to be searchable and all in one place, and I want to own my own data.&
 
 &lt;p&gt;On this site I’ll be aggregating my old posts from &lt;a href=&quot;https://srconstantin.wordpress.com&quot;&gt;Otium&lt;/a&gt;, my &lt;a href=&quot;https://srconstantin.posthaven.com&quot;&gt;Posthaven site&lt;/a&gt;, &lt;a href=&quot;https://parentingwithevidence.wordpress.com&quot;&gt;Parenting with Evidence&lt;/a&gt;, and the now defunct Hourglass Bio.&lt;/p&gt;
 
-&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="http://localhost:4000/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="http://localhost:4000/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Motivated cognition is the state of emotionally needing to believe something is true, whether it actually is true or not. 
 I’ve found that a good kinaesthetic metaphor for motivated cognition is pressure.  If you’re forcing things with your mind – if you’re going “it’s GOT to be this way, or ELSE” – then you aren’t actually open to the truth being whatever it might happen to be.  &lt;/p&gt;
@@ -257,7 +467,7 @@ Or it comes across as condescending: “Most people go through life never actual
 
 &lt;p&gt;It’s kind of weird that we have this feature at all. Why would we have evolved to self-deceive? If an apparently self-destructive behavior is common, this cries out for explanation.&lt;/p&gt;
 
-&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 1 – Mental Objects, Contradictions, Reconciliation</title><link href="http://localhost:4000/2020/02/21/tangled-thinking-1.html" rel="alternate" type="text/html" title="Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation" /><published>2020-02-21T00:00:00-07:00</published><updated>2020-02-21T00:00:00-07:00</updated><id>http://localhost:4000/2020/02/21/tangled-thinking-1</id><content type="html" xml:base="http://localhost:4000/2020/02/21/tangled-thinking-1.html">&lt;p&gt;&lt;img src=&quot;/images/ascending-and-descending-escher.jpg&quot; alt=&quot;ascending&quot; /&gt;
+&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 1 – Mental Objects, Contradictions, Reconciliation</title><link href="/2020/02/21/tangled-thinking-1.html" rel="alternate" type="text/html" title="Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation" /><published>2020-02-21T00:00:00-07:00</published><updated>2020-02-21T00:00:00-07:00</updated><id>/2020/02/21/tangled-thinking-1</id><content type="html" xml:base="/2020/02/21/tangled-thinking-1.html">&lt;p&gt;&lt;img src=&quot;/images/ascending-and-descending-escher.jpg&quot; alt=&quot;ascending&quot; /&gt;
 &lt;strong&gt;Mental Objects&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s call a &lt;strong&gt;mental object&lt;/strong&gt; anything that you’re aware of, anything that is in your conscious mind. A sense perception, a feeling, a thought, a concept, anything that is under the spotlight of your consciousness at a given moment. &lt;/p&gt;
@@ -328,7 +538,7 @@ Or it comes across as condescending: “Most people go through life never actual
 
 &lt;p&gt;That “outward spiral” makes it harder and harder to resolve the problem at the root of the whole thing, because every time you notice it, it activates all the other meta-problems.  I think this is the structural underpinning of what we experience as negative emotions, “touchy subjects”, and “sore spots.”  They’re wounds that defend themselves from healing.&lt;/p&gt;
 
-&lt;p&gt;Ultimately, if we believe in a world, we must believe that this process too comes from the world, that there is a reason why problems sometimes grow their own defenses. But it’s tricky and deserves exploration at length.  You’re looking at a process that doesn’t “want” to be looked at.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">Mental Objects</summary></entry><entry><title type="html">Aging Interventions from Older Publications that Deserve a New Look</title><link href="http://localhost:4000/2020/01/15/aging-interventions-from-old-papers.html" rel="alternate" type="text/html" title="Aging Interventions from Older Publications that Deserve a New Look" /><published>2020-01-15T00:00:00-07:00</published><updated>2020-01-15T00:00:00-07:00</updated><id>http://localhost:4000/2020/01/15/aging-interventions-from-old-papers</id><content type="html" xml:base="http://localhost:4000/2020/01/15/aging-interventions-from-old-papers.html">&lt;p&gt;&lt;strong&gt;Why Read Old Papers?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ultimately, if we believe in a world, we must believe that this process too comes from the world, that there is a reason why problems sometimes grow their own defenses. But it’s tricky and deserves exploration at length.  You’re looking at a process that doesn’t “want” to be looked at.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">Mental Objects</summary></entry><entry><title type="html">Aging Interventions from Older Publications that Deserve a New Look</title><link href="/2020/01/15/aging-interventions-from-old-papers.html" rel="alternate" type="text/html" title="Aging Interventions from Older Publications that Deserve a New Look" /><published>2020-01-15T00:00:00-07:00</published><updated>2020-01-15T00:00:00-07:00</updated><id>/2020/01/15/aging-interventions-from-old-papers</id><content type="html" xml:base="/2020/01/15/aging-interventions-from-old-papers.html">&lt;p&gt;&lt;strong&gt;Why Read Old Papers?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;These days, from what I’m told by knowledgeable people, there’s a fairly tight feedback loop between current aging research and the biotech industry. When a new, major aging-related paper comes out, there are people seriously evaluating whether they can start a company around it. 
 But that isn’t necessarily true when it comes to old research. There’s no automatic means by which old papers “go viral.”  There are no conferences (that I know of) where people call their colleagues’ attention to remarkable, decades-old results that haven’t received follow-up investigation.&lt;/p&gt;
@@ -483,7 +693,7 @@ Moreover, 7 of 10 aged rats given fetal anterior hypothalamus transplants regai
 [18]Viswanathan, N., and F. C. Davis. “Suprachiasmatic nucleus grafts restore circadian function in aged hamsters.” &lt;strong&gt;Brain research&lt;/strong&gt; 686.1 (1995): 10-16.
 [19]Li, Hua, and Evelyn Satinoff. “Fetal tissue containing the suprachiasmatic nucleus restores multiple circadian rhythms in old rats.” &lt;strong&gt;American Journal of Physiology-Regulatory, Integrative and Comparative Physiology&lt;/strong&gt; 275.6 (1998): R1735-R1744.
 [20]Huang, H. H., J. Q. Kissane, and E. J. Hawrylewicz. “Restoration of sexual function and fertility by fetal hypothalamic transplant in impotent aged male rats.” &lt;strong&gt;Neurobiology of aging&lt;/strong&gt; 8.5 (1987): 465-472.
-[21]MATSUMOTO, Akira, et al. “Recovery of declined ovarian function in aged female rats by transplantation of newborn hypothalamic tissue.” &lt;strong&gt;Proceedings of the Japan Academy, Series B&lt;/strong&gt; 60.4 (1984): 73-76&lt;/p&gt;</content><author><name></name></author><category term="aging" /><category term="lit-review" /><summary type="html">Why Read Old Papers?</summary></entry><entry><title type="html">Genes Involved in Aging – Looking For Intersections</title><link href="http://localhost:4000/2019/12/20/genes-involved-in-aging.html" rel="alternate" type="text/html" title="Genes Involved in Aging -- Looking For Intersections" /><published>2019-12-20T00:00:00-07:00</published><updated>2019-12-20T00:00:00-07:00</updated><id>http://localhost:4000/2019/12/20/genes-involved-in-aging</id><content type="html" xml:base="http://localhost:4000/2019/12/20/genes-involved-in-aging.html">&lt;p&gt;&lt;img src=&quot;/images/Top_Aging_Genes_1.jpg&quot; alt=&quot;topgenes1&quot; /&gt;&lt;/p&gt;
+[21]MATSUMOTO, Akira, et al. “Recovery of declined ovarian function in aged female rats by transplantation of newborn hypothalamic tissue.” &lt;strong&gt;Proceedings of the Japan Academy, Series B&lt;/strong&gt; 60.4 (1984): 73-76&lt;/p&gt;</content><author><name></name></author><category term="aging" /><category term="lit-review" /><summary type="html">Why Read Old Papers?</summary></entry><entry><title type="html">Genes Involved in Aging – Looking For Intersections</title><link href="/2019/12/20/genes-involved-in-aging.html" rel="alternate" type="text/html" title="Genes Involved in Aging -- Looking For Intersections" /><published>2019-12-20T00:00:00-07:00</published><updated>2019-12-20T00:00:00-07:00</updated><id>/2019/12/20/genes-involved-in-aging</id><content type="html" xml:base="/2019/12/20/genes-involved-in-aging.html">&lt;p&gt;&lt;img src=&quot;/images/Top_Aging_Genes_1.jpg&quot; alt=&quot;topgenes1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/Top_Aging_Genes2.jpg&quot; alt=&quot;topgenes2&quot; /&gt;&lt;/p&gt;
 
