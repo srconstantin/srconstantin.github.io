@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Oxygen Supplementation 101
-tags: [COVID-19, lit-review]
+tags: [covid-19, lit-review]
 ---
 
 
