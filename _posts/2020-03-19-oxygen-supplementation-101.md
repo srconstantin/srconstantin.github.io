@@ -18,6 +18,7 @@ Severe cases of COVID-19 result in developing Acute Respiratory Distress Syndrom
 
 
 **Oxygen Therapy: Bag Mask**
+
 ![bagvalvemask]({{ site.baseurl }}/images/bagvalvemask.jpg)
 
 A bag valve mask is used in emergencies and for temporary ventilation while preparing for intubation.
@@ -77,7 +78,7 @@ The pressure on a mechanical ventilator needs to be precisely calibrated to the 
 
 Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.
 
-![laryngoscope]({{ site.baseurl }}/images/laryngoscope.jpg)
+![laryngoscope]({{ site.baseurl }}/images/laryngoscope.jpg = 300x)
 
 You don’t want an untrained person sticking this blade down someone’s throat!
 
@@ -183,7 +184,8 @@ Infection prevention entails reducing aerosol-generating procedures (i.e., airwa
 
 
 
-References
+**References**
+
 [1]Guan, Wei-jie, et al. "Clinical characteristics of coronavirus disease 2019 in China." New England Journal of Medicine (2020).
 
 [2]Murthy, Srinivas, Charles D. Gomersall, and Robert A. Fowler. "Care for Critically Ill Patients With COVID-19." JAMA (2020).

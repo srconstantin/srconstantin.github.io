@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-19T15:30:30-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.html" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.html">&lt;p&gt;COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-19T15:34:10-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.html" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.html">&lt;p&gt;COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
 There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;COVID-19 Symptoms and Clinical Guidelines&lt;/strong&gt;&lt;/p&gt;
@@ -8,8 +8,9 @@ There is a shortage of mechanical ventilators in hospitals, and a shortage of me
 &lt;p&gt;&lt;strong&gt;ARDS&lt;/strong&gt; 
 Severe cases of COVID-19 result in developing Acute Respiratory Distress Syndrome (ARDS). Fluid builds up in the lungs; the lungs may collapse; blood oxygen drops; and mechanical ventilation is required. Merely providing air with a higher oxygen content than room air isn’t enough; pressure needs to be administered to keep the alveoli open.  &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Oxygen Therapy: Bag Mask&lt;/strong&gt;
-&lt;img src=&quot;/images/bagvalvemask.jpg&quot; alt=&quot;bagvalvemask&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oxygen Therapy: Bag Mask&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bagvalvemask.jpg&quot; alt=&quot;bagvalvemask&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A bag valve mask is used in emergencies and for temporary ventilation while preparing for intubation.&lt;/p&gt;
 
@@ -66,7 +67,7 @@ A non-rebreather mask is an oxygen mask with a sealed bag that prevents inhalati
 
 &lt;p&gt;Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/laryngoscope.jpg&quot; alt=&quot;laryngoscope&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/laryngoscope.jpg = 300x&quot; alt=&quot;laryngoscope&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You don’t want an untrained person sticking this blade down someone’s throat!&lt;/p&gt;
 
@@ -164,8 +165,9 @@ In a pandemic crisis, New York State is predicted to be short 15,783 mechanical 
 &lt;p&gt;The same guidelines were implemented by the largest acute care hospital in Singapore:
 Infection prevention entails reducing aerosol-generating procedures (i.e., airway manipulation, face mask ventilation, open airway suctioning, patient coughing) as far as possible…Non-invasive positive pressure ventilation and high flow nasal cannulae such as the transnasal humidified rapid-insufflation ventilatory exchange should be avoided to reduce the risk of viral aerosolization…Venturi masks should be avoided as they may aerosolize the virus.&lt;/p&gt;
 
-&lt;p&gt;References
-[1]Guan, Wei-jie, et al. “Clinical characteristics of coronavirus disease 2019 in China.” New England Journal of Medicine (2020).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Guan, Wei-jie, et al. “Clinical characteristics of coronavirus disease 2019 in China.” New England Journal of Medicine (2020).&lt;/p&gt;
 
 &lt;p&gt;[2]Murthy, Srinivas, Charles D. Gomersall, and Robert A. Fowler. “Care for Critically Ill Patients With COVID-19.” JAMA (2020).&lt;/p&gt;
 
