@@ -2,7 +2,7 @@
 Layout: tag_post
 title: Non-Invasive Ventilation Outcomes
 tags: [covid-19, lit-review]
---
+---
 
 Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?
 
