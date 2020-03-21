@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-19T15:34:10-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.html" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.html">&lt;p&gt;COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-20T22:44:10-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Non Invasive Ventilation</title><link href="/2020/03/20/non-invasive-ventilation.html" rel="alternate" type="text/html" title="Non Invasive Ventilation" /><published>2020-03-20T00:00:00-06:00</published><updated>2020-03-20T00:00:00-06:00</updated><id>/2020/03/20/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/20/non-invasive-ventilation.html">&lt;hr /&gt;
+&lt;p&gt;Layout: tag_post
+title: Non-Invasive Ventilation Outcomes
+tags: [covid-19, lit-review]
+–&lt;/p&gt;
+
+&lt;p&gt;Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?&lt;/p&gt;
+
+&lt;p&gt;This matters because, in the event of a shortage of ICU beds and mechanical ventilators, if a device that can be used at home can reduce a COVID-19 patient’s risk of needing to be hospitalized, it could save potentially millions of lives in the US.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I looked at a total of 19 randomized controlled trials, comprising 3979 patients in all, which directly compared either a type of non-invasive ventilation, high-flow nasal cannula therapy, or both to standard oxygen therapy, for adult patients with acute respiratory failure who had not received surgery or intubation.&lt;/p&gt;
+
+&lt;p&gt;Using a t-test to compare the risk of intubation between treatments, I found that there was a 15% rate of intubation in the non-invasive ventilation (NIV) group vs. a 30% rate of intubation in the standard therapy group, for a significant (p &amp;lt; 0.0001) difference in intubation risk; the NIV group had half the odds of failing and needing intubation, compared with standard oxygen mask therapy.&lt;/p&gt;
+
+&lt;p&gt;Likewise, there was a significant (p &amp;lt; 0.0001) difference in the mortality risk; the NIV group had a mortality risk of 15% at follow-up, while the standard treatment group had a mortality rate of 24%, a relative risk of 0.625.&lt;/p&gt;
+
+&lt;p&gt;There was no significant reduction in risk of mortality or intubation between standard and high flow nasal cannula (HFNC) therapy.&lt;/p&gt;
+
+&lt;p&gt;When restricted to studies of community-acquired pneumonia, NIV still significantly (p &amp;lt; 0.0001) reduces risk of intubation and significantly (p &amp;lt; 0.0001) reduces the risk of mortality.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-Invasive Ventilation Vs. Standard Treatment&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In an RCT of 236 patients admitted to the hospital for exacerbations of COPD, randomized to either standard treatment or non-invasive ventilation (NIV), NIV was associated with a reduced (RR = 0.56, p = 0.038) risk of needing intubation.[1]  Even in the NIV group, 15% of patients still needed intubation.&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 82 elderly patients with chronic pulmonary disease, randomized to receive NIV or standard therapy, the patients receiving NIV had a 7.3% chance of needing intubation, while the patients on standard (oxygen) therapy had a 63% chance; this is a significant difference (RR  = 0.11, p &amp;lt; 0.001).  The mortality rate at one year was also significantly lower in the NIV group (RR = 0.83, p = 0.014).[3]&lt;/p&gt;
+
+&lt;p&gt;In a study (the 3CPO trial)  of 1069 patients with severe cardiogenic pulmonary edema, randomized to CPAP, non-invasive ventilation, or standard oxygen therapy, there was no significant difference in the rate of mortality (9.8% vs 9.5%) or intubation (2.8% vs 2.9%) between groups.[4]&lt;/p&gt;
+
+&lt;p&gt;In a randomized multicenter study over 19 hospitals in China, patients given NIV for exacerbations of COPD were much less likely than patients given standard therapy, (4% vs 15%, RR = 0.13, p = 0.002) but there was no significant difference in in-hospital mortality.[5]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 40 patients with acute lung injury, assigned either NIV or standard oxygen therapy, the proportion of patients requiring intubation was much lower in the NIV group (5% vs 37%: RR = 0.14, p = 0.02) and there was a nonsignificant trent (p = 0.09) towards lower mortality in the NIV group.[6]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 40 patients with acute cardiogenic pulmonary edema, assigned to either NIV or standard oxygen therapy, intubation was required in fewer patients in the NIV group (5% vs 33%, RR = 0.15, p = 0.037).[7]&lt;/p&gt;
+
+&lt;p&gt;In a study of 85 patients with acute exacerbations of COPD, randomized to standard therapy or noninvasive ventilation, significantly fewer of the NIV patients (26% vs 74%, RR = 35%, p &amp;lt; 0.001) were intubated.  NIV patients also had fewer complications, shorter hospital stays, and lower in-hospital mortality (9% vs 29%, RR = 0.31, p =0.02).[9]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 105 patients with severe hypoxemic respiratory failure, randomized to NIV or standard oxygen therapy, NIV reduced the need for intubation (13% vs 29%, RR = 0.45, p = 0.01) and ICU mortality (9% vs 21%, RR = 0.42, p = 0.028).[13]&lt;/p&gt;
+
+&lt;p&gt;In the FLORALI trial, which randomized 310 patients with acute hypoxemic respiratory failure to high-flow nasal cannula oxygen (HFNC), non-invasive ventilation, or standard oxygen therapy through a nonrebreather mask, there was no significant difference in intubation rate between the three groups; but in the patient subgroup with the worst blood oxygenation levels, the high-flow oxygen group had a significantly lower intubation rate (35% vs 53%, RR = 0.66, p = 0.009).  Mortality at 90 days was also significantly lower in the high-flow nasal cannula group (12% vs 23%, RR = 0.52, p= 0.02).[14]&lt;/p&gt;
+
+&lt;p&gt;In the HOT-ER trial of 302 patients with hypoxia and tachypnea presenting to an emergency department, randomly assigned to standard oxygen therapy or HFNC therapy, there was no significant difference between mortality and intubation rates, but this may have been because both groups had low rates of intubation (0.6% and 2.2%) and in-hospital mortality (9.1% and 8.0%).[15]&lt;/p&gt;
+
+&lt;p&gt;In the HIGH trial of 776 adult immunocompromised patients with acute hypoxemic respiratory failure, randomized to HFNC or standard oxygen, there was no significant difference between groups in mortality at day 28 (35.6% vs 36.1%) or intubation rate (38.7% vs 43.6%).[17]&lt;/p&gt;
+
+&lt;p&gt;In a trial of 376 immunocompromised patients, mostly with cancer, randomized to either non-invasive ventilation or standard oxygen therapy, there was no significant difference in intubation rates between the two groups (24.1% vs 27.3%) and no significant difference in 28-day mortality (24.1% vs 27.3%)[19]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 31 patients with acute respiratory failure, randomized to non-invasive ventilation or standard oxygen, significantly fewer patients in the NIV group needed intubation (31% vs 73%, RR = 0.42, p = 0.03), but there was no significant difference in mortality.[20]&lt;/p&gt;
+
+&lt;p&gt;In 52 immunosuppressed patients with acute respiratory distress, pulmonary infiltrates, and fever, randomized either to NIV or standard oxygen, fewer patients in the NIV group required intubation (46% vs 76%, RR = 0.6, p = 0.03) and fewer patients in the NIV died in the hospital (50% vs 81%, RR= 0.58, p = 0.02).[21]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 60 patients with acute cardiogenic pulmonary edema, assigned to CPAP, BIPAP, or standard oxygen, patients assigned to CPAP were more likely to survive to hospital discharge (100% vs 70 % vs 75%, p = 0.02).  There was no difference in the number of patients needing intubation: (20% vs 5% vs 5%).[22]&lt;/p&gt;
+
+&lt;p&gt;In an Indian study of 40 patients with acute exacerbations of COPD randomized to NIV or standard oxygen, the NIV group had a lower rate of intubation (15% vs 60%, RR = 0.25, p = 0.003) but there was no significant difference in hospital mortality (15% vs 20%).[23]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pneumonia-Specific Studies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 56 cases of severe pneumonia, assigned to NIV (with a CPAP mask) or standard oxygen therapy, significantly fewer patients in the NIV group (21% vs 61%, RR = 34%, p = 0.007) met criteria for intubation.  There was no significant difference in hospital death rates or 2-month survival rates.[8]&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 81 patients with acute respiratory failure due to pneumonia, randomized to NIV with a CPAP or standard oxygen therapy with a Venturi mask, significantly fewer from the CPAP group met criteria for intubation (15% vs 63%, RR = 0.24, p &amp;lt; 0.001), and the CPAP group showed a faster and greater oxygenation response.[12]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Types of Non-Invasive Ventilation Compared&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a meta-analysis comprising 290 patients with cardiogenic pulmonary edema, there was no significant difference in either hospital mortality or intubation risk between CPAP and BIPAP machines. [2]&lt;/p&gt;
+
+&lt;p&gt;In 36 patients with acute hypercapnic pulmonary edema randomized to either non-invasive pressure support ventilation or CPAP, there was no significant difference in intubation rates or mortality rates.[18]&lt;/p&gt;
+
+&lt;p&gt;In 83 women with ARDS randomized to NIV either with a face mask or a helmet, the rate of intubation was significantly lower with the helmet (18% vs 63%, RR = 0.29, p &amp;lt; 0.001) and the 90-day mortality rate was also significantly lower (34% vs 56%, RR= 0.6, p = 0.02).  The helmet may be more effective because it prevents air leak.[16]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Out-of-Hospital Non-Invasive Ventilation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a randomized study of 54 patients with acute respiratory failure given standard oxygen therapy or NIV by paramedics, significantly fewer of the NIV patients needed to go to the ICU (36% vs 65%, RR = 0.55, p &amp;lt; 0.05) and there was a nonsignificant trend towards fewer NIV patients needing to be intubated (4% vs 23%, p = 0.1) [10]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Past Pandemics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;20-30% of patients with respiratory failure due to H1N1 influenza were given NIV, but 70-80% of those later needed intubation and invasive ventilation.[11]&lt;/p&gt;
+
+&lt;p&gt;During the SARS outbreak, a Hong Kong hospital that treated patients with respiratory failure through non-invasive ventilation first had 21% of patients need invasive mechanical ventilation, while 41% of SARS patients in a ventilation-first hospital were on mechanical ventilation.  Mortality was also lower in the NIV hospital: 9.5% vs 25.1%.[24]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It looks like, for acute respiratory distress in general and pneumonia specifically, non-invasive ventilation can help prevent it from getting so bad that intubation is necessary.  NIV reduces both intubation risk and mortality.&lt;/p&gt;
+
+&lt;p&gt;This means that, in a world where ICUs are overrun, there’s a good chance that a home non-invasive ventilation device could save lives for people with COVID-19.&lt;/p&gt;
+
+&lt;p&gt;Additionally, we have correlational evidence that non-invasive ventilation can work for acute respiratory failure outside a hospital setting, and can reduce mortality in a past coronavirus epidemic (SARS). This points in favor of the possibility of non-invasive ventilation being useful in COVID-19.&lt;/p&gt;
+
+&lt;p&gt;Because non-invasive ventilation aerosolizes the virus, it is not safe in hospital settings, where it could spread COVID-19.&lt;/p&gt;
+
+&lt;p&gt;If someone has the option of going to a hospital in the event of severe respiratory failure due to COVID-19, it’s better to go immediately than to try to self-treat at home; intubation can’t be done safely by an untrained person, and about 40% of severe COVID-19 cases require intubation.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, if hospitals are unavailable, as seems quite likely if the US doesn’t drastically increase its supply of medical personnel and equipment, a home non-invasive ventilation device may be a distinct improvement over either home oxygen supplementation or, obviously, no treatment at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Plant, Paul Keith, J. L. Owen, and M. W. Elliott. “Non-invasive ventilation in acute exacerbations of chronic obstructive pulmonary disease: long term survival and predictors of in-hospital outcome.” Thorax 56.9 (2001): 708-712.&lt;/p&gt;
+
+&lt;p&gt;[2]Ho, Kwok M., and Karen Wong. “A comparison of continuous and bi-level positive airway pressure non-invasive ventilation in patients with acute cardiogenic pulmonary oedema: a meta-analysis.” Critical care 10.2 (2006): R49.&lt;/p&gt;
+
+&lt;p&gt;[3]Nava, Stefano, et al. “Non-invasive ventilation in elderly patients with acute hypercapnic respiratory failure: a randomised controlled trial.” Age and ageing 40.4 (2011): 444-450.&lt;/p&gt;
+
+&lt;p&gt;[4] Gray, A. J., et al. “A multicentre randomised controlled trial of the use of continuous positive airway pressure and non-invasive positive pressure ventilation in the early treatment of patients presenting to the emergency department with severe acute cardiogenic pulmonary oedema: the 3CPO trial.” Health technology assessment (Winchester, England) 13.33 (2009): 1.&lt;/p&gt;
+
+&lt;p&gt;[5]Collaborative Research Group of Noninvasive Mechanical Ventilation for Chronic Obstructive Pulmonary Disease. “Early use of non-invasive positive pressure ventilation for acute exacerbations of chronic obstructive pulmonary disease: a multicentre randomized controlled trial.” Chinese medical journal 118.24 (2005): 2034.&lt;/p&gt;
+
+&lt;p&gt;[6]Zhan, Qingyuan, et al. “Early use of noninvasive positive pressure ventilation for acute lung injury: a multicenter randomized controlled trial.” Critical care medicine 40.2 (2012): 455-460.&lt;/p&gt;
+
+&lt;p&gt;[7]Masip, Josep, et al. “Non-invasive pressure support ventilation versus conventional oxygen therapy in acute cardiogenic pulmonary oedema: a randomised trial.” The Lancet 356.9248 (2000): 2126-2132.&lt;/p&gt;
+
+&lt;p&gt;[8]Confalonieri, Marco, et al. “Acute respiratory failure in patients with severe community-acquired pneumonia: a prospective randomized evaluation of noninvasive ventilation.” American Journal of Respiratory and Critical Care Medicine 160.5 (1999): 1585-1591.&lt;/p&gt;
+
+&lt;p&gt;[9]Wedzicha, J. A. “Noninvasive ventilation for acute exacerbations of chronic obstructive pulmonary disease.” Thorax 51.Suppl 2 (1996): S35.&lt;/p&gt;
+
+&lt;p&gt;[10]Roessler, Markus Sören, et al. “Early out-of-hospital non-invasive ventilation is superior to standard medical treatment in patients with acute respiratory failure: a pilot study.” Emerg Med J 29.5 (2012): 409-414.&lt;/p&gt;
+
+&lt;p&gt;[11]Winck, João Carlos, and Anabela Marinho. “Non-invasive ventilation in acute respiratory failure related to 2009 pandemic influenza A/H1N1 virus infection.” Critical Care 14.2 (2010): 1-2.&lt;/p&gt;
+
+&lt;p&gt;[12]Brambilla, Anna Maria, et al. “Helmet CPAP vs. oxygen therapy in severe hypoxemic respiratory failure due to pneumonia.” Intensive care medicine 40.7 (2014): 942-949.&lt;/p&gt;
+
+&lt;p&gt;[13]Ferrer, Miquel, et al. “Noninvasive ventilation in severe hypoxemic respiratory failure: a randomized clinical trial.” American journal of respiratory and critical care medicine 168.12 (2003): 1438-1444.&lt;/p&gt;
+
+&lt;p&gt;[14]Frat, Jean-Pierre, et al. “High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.” New England Journal of Medicine 372.23 (2015): 2185-2196.&lt;/p&gt;
+
+&lt;p&gt;[15]Jones, Peter G., et al. “Randomized controlled trial of humidified high-flow nasal oxygen for acute respiratory distress in the emergency department: the HOT-ER study.” Respiratory care 61.3 (2016): 291-299.&lt;/p&gt;
+
+&lt;p&gt;[16]Patel, Bhakti K., et al. “Effect of noninvasive ventilation delivered by helmet vs face mask on the rate of endotracheal intubation in patients with acute respiratory distress syndrome: a randomized clinical trial.” Jama 315.22 (2016): 2435-2441.&lt;/p&gt;
+
+&lt;p&gt;[17] Azoulay, Elie, et al. “Effect of high-flow nasal oxygen vs standard oxygen on 28-day mortality in immunocompromised patients with acute respiratory failure: the HIGH randomized clinical trial.” Jama 320.20 (2018): 2099-2107.&lt;/p&gt;
+
+&lt;p&gt;[18]Bellone, Andrea, et al. “Noninvasive pressure support ventilation vs. continuous positive airway pressure in acute hypercapnic pulmonary edema.” Intensive care medicine 31.6 (2005): 807-811.&lt;/p&gt;
+
+&lt;p&gt;[19]Del Sorbo, Lorenzo, et al. “Non-invasive ventilation in immunocompromised patients with acute hypoxemic respiratory failure.” Journal of thoracic disease 8.3 (2016): E208.&lt;/p&gt;
+
+&lt;p&gt;[20]Kramer, Naomi, et al. “Randomized, prospective trial of noninvasive positive pressure ventilation in acute respiratory failure.” American journal of respiratory and critical care medicine 151.6 (1995): 1799-1806.&lt;/p&gt;
+
+&lt;p&gt;[21]Hilbert, Gilles, et al. “Noninvasive ventilation in immunosuppressed patients with pulmonary infiltrates, fever, and acute respiratory failure.” New England Journal of Medicine 344.7 (2001): 481-487.&lt;/p&gt;
+
+&lt;p&gt;[22]Crane, S. D., et al. “Randomised controlled comparison of continuous positive airways pressure, bilevel non-invasive ventilation, and standard treatment in emergency department patients with acute cardiogenic pulmonary oedema.” Emergency medicine journal 21.2 (2004): 155-161.&lt;/p&gt;
+
+&lt;p&gt;[23]Khilnani, Gopi C., et al. “Non-invasive ventilation for acute exacerbation of COPD with very high PaCO2: a randomized controlled trial.” Lung India: official organ of Indian Chest Society 27.3 (2010): 125.&lt;/p&gt;
+
+&lt;p&gt;[24]Yam, L. Y., et al. “Non-invasive versus invasive mechanical ventilation for respiratory failure in severe acute respiratory syndrome.” Chin Med J 118.17 (2005): 1413-1421.&lt;/p&gt;</content><author><name></name></author><summary type="html">Layout: tag_post title: Non-Invasive Ventilation Outcomes tags: [covid-19, lit-review] –</summary></entry><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.html" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.html">&lt;p&gt;COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
 There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;COVID-19 Symptoms and Clinical Guidelines&lt;/strong&gt;&lt;/p&gt;
