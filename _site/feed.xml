@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-20T22:47:48-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Non-Invasive Ventilation Outcomes</title><link href="/2020/03/20/non-invasive-ventilation.html" rel="alternate" type="text/html" title="Non-Invasive Ventilation Outcomes" /><published>2020-03-20T00:00:00-06:00</published><updated>2020-03-20T00:00:00-06:00</updated><id>/2020/03/20/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/20/non-invasive-ventilation.html">&lt;p&gt;Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-22T08:44:15-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Non-Invasive Ventilation Outcomes</title><link href="/2020/03/20/non-invasive-ventilation.html" rel="alternate" type="text/html" title="Non-Invasive Ventilation Outcomes" /><published>2020-03-20T00:00:00-06:00</published><updated>2020-03-20T00:00:00-06:00</updated><id>/2020/03/20/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/20/non-invasive-ventilation.html">&lt;p&gt;Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?&lt;/p&gt;
 
 &lt;p&gt;This matters because, in the event of a shortage of ICU beds and mechanical ventilators, if a device that can be used at home can reduce a COVID-19 patient’s risk of needing to be hospitalized, it could save potentially millions of lives in the US.&lt;/p&gt;
 
@@ -203,7 +203,7 @@ A non-rebreather mask is an oxygen mask with a sealed bag that prevents inhalati
 
 &lt;p&gt;Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/laryngoscope.jpg = 300x&quot; alt=&quot;laryngoscope&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/laryngoscope.jpg&quot; alt=&quot;laryngoscope&quot; height=&quot;250px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You don’t want an untrained person sticking this blade down someone’s throat!&lt;/p&gt;
 
@@ -279,18 +279,24 @@ This Stanford-founded company is working to develop a low cost ICU ventilator fo
 &lt;p&gt;This ventilator is designed to be deployed in hospitals, specifically in rural Latin America.  It is not for home care.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://medium.com/@brucefenton/we-need-ventilators-we-need-you-to-help-build-them-30805e5ee2ea&quot;&gt;The Ventilator Project&lt;/a&gt;
-	This is a group from NECSI, the New England Complex Systems institute, working to
-	a.) increase production of ventilators by existing manufacturers
-	b.) work on open-source plans for building ventilators for hospitals
-	c.) regulatory efforts to approve hospitals to use emergency ventilators&lt;/p&gt;
+	This is a group from NECSI, the New England Complex Systems institute, working to&lt;/p&gt;
 
-&lt;p&gt;Current Shortages of Oxygen &amp;amp; Breathing Equipment&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a.) increase production of ventilators by existing manufacturers
 
-&lt;p&gt;Oxygen Concentrators
-Oxygen concentrators were in short supply even before the pandemic – a June 2019 article notes that half of people who use portable oxygen supplies had problems with broken equipment or inadequate supplies of oxygen.[7]&lt;/p&gt;
+b.) work on open-source plans for building ventilators for hospitals
 
-&lt;p&gt;Ventilators
-In a pandemic crisis, New York State is predicted to be short 15,783 mechanical ventilators a week at the peak of the outbreak.[8]&lt;/p&gt;
+c.) regulatory efforts to approve hospitals to use emergency ventilators
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Current Shortages of Oxygen &amp;amp; Breathing Equipment&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Oxygen Concentrators&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Oxygen concentrators were in short supply even before the pandemic – a June 2019 article notes that half of people who use portable oxygen supplies had problems with broken equipment or inadequate supplies of oxygen.[7]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ventilators&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a pandemic crisis, New York State is predicted to be short 15,783 mechanical ventilators a week at the peak of the outbreak.[8]&lt;/p&gt;
 
 &lt;p&gt;Evidence that Non-Invasive Ventilation Spreads COVID-19&lt;/p&gt;
 
