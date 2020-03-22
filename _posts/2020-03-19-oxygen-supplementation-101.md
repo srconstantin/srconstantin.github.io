@@ -78,7 +78,7 @@ The pressure on a mechanical ventilator needs to be precisely calibrated to the 
 
 Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.
 
-![laryngoscope]({{ site.baseurl }}/images/laryngoscope.jpg = 300x)
+![laryngoscope]({{ site.baseurl }}/images/laryngoscope.jpg){:height="250px"}
 
 You don’t want an untrained person sticking this blade down someone’s throat!
 
@@ -159,18 +159,23 @@ This ventilator is designed to be deployed in hospitals, specifically in rural L
 
 [The Ventilator Project][necsi]
 	This is a group from NECSI, the New England Complex Systems institute, working to
+	
 	a.) increase production of ventilators by existing manufacturers
+	
 	b.) work on open-source plans for building ventilators for hospitals
+	
 	c.) regulatory efforts to approve hospitals to use emergency ventilators
 
 
 
-Current Shortages of Oxygen & Breathing Equipment
+**Current Shortages of Oxygen & Breathing Equipment**
 
-Oxygen Concentrators
+*Oxygen Concentrators*
+
 Oxygen concentrators were in short supply even before the pandemic -- a June 2019 article notes that half of people who use portable oxygen supplies had problems with broken equipment or inadequate supplies of oxygen.[7]
 
-Ventilators
+*Ventilators*
+
 In a pandemic crisis, New York State is predicted to be short 15,783 mechanical ventilators a week at the peak of the outbreak.[8]
 
 Evidence that Non-Invasive Ventilation Spreads COVID-19
