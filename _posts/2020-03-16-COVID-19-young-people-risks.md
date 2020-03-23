@@ -13,8 +13,11 @@ This analysis was commissioned by the Open Philanthropy Project and shared with 
 The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:
 
 a.) only includes data up to Feb. 11
+
 b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed
+
 c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested
+
 d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed
 
 
