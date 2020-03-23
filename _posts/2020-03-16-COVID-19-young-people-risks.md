@@ -76,9 +76,33 @@ In a study of [262 patients in Beijing][beijingsevere], however, 8% of cases you
 
 In a study of 221 confirmed COVID-19 cases in [Wuhan][wuhansevere], 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.
 
-In all three Chinese cities, this comes to a rate of 3% of cases in under-40 or under-45 patients being severe.
+In all three Chinese cities, this comes to a rate of 4.9% of cases in under-40 or under-45 patients being severe.
 
-If we assume the age distribution of severity is the same in Korea vs. China, but that the Korean rate of severe illness is the correct one, this gives us 3/19*10 = 1.6% probability of a person under 40 having a severe case, given that they have been infected.
+But this is probably an overestimate, since Chinese testing probably understates the number of mild cases -- note that the Chinese numbers show 19% of cases being severe, while Korea, where everyone gets tested, only has 10% of cases severe.
+
+10% of all Korean cases are severe; let’s assume this is the true severity rate, since all Korean people were tested for the disease. 
+
+Let’s assume that in China there is a bias against diagnosing mild cases; let’s assume there are m times more mild cases in reality than were picked up by the Chinese diagnostic testing, such that if you picked up *all* the mild cases you’d actually get the Korean estimate of 10% of cases being severe.
+
+136/(136 + m* (874-136)) = 0.10
+
+136 = 0.10*(136+ m*738)
+
+73.8m = 122.4
+
+m = 1.66
+
+Ok, so let’s compute a *corrected* estimate for the young person’s risk, assuming that there are 1.66x as many mild cases in young people than were observed.
+
+There were 17 severe cases observed under 44, and 332 mild cases. 
+
+The *true* number of mild cases in the three Chinese cities should actually be 332 * 1.66 = 551.
+
+So the *true* corrected risk for getting severe disease as a young person is 17/551 = 3.1%.
+
+
+
+
 
 ## Bottom Lines
 
@@ -86,9 +110,9 @@ If we assume the age distribution of severity is the same in Korea vs. China, bu
 
 * Young (<40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.
 
-* Young (<40) people who contract the virus have a low (~1.6%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.
+* Young (<40) people who contract the virus have a low (~3%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.
 
-However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 1-2% severe case rate translates to more like a 1-2% fatality rate if a young person catches the disease when hospitals are over capacity.
+However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 3% severe case rate translates to more like a 3% fatality rate if a young person catches the disease when hospitals are over capacity.
 
 * Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.
 
