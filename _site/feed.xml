@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-25T11:34:40-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Tangled Thinking 3 – Motivated Cognition and Suffering</title><link href="/2020/03/25/tangled-thinking-3.html" rel="alternate" type="text/html" title="Tangled Thinking 3 -- Motivated Cognition and Suffering" /><published>2020-03-25T00:00:00-06:00</published><updated>2020-03-25T00:00:00-06:00</updated><id>/2020/03/25/tangled-thinking-3</id><content type="html" xml:base="/2020/03/25/tangled-thinking-3.html">&lt;p&gt;&lt;img src=&quot;/images/dogface.png&quot; alt=&quot;dogface&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-27T14:43:17-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Home Care for Mild COVID-19</title><link href="/2020/03/27/home-care-mild-COVID19.html" rel="alternate" type="text/html" title="Home Care for Mild COVID-19" /><published>2020-03-27T00:00:00-06:00</published><updated>2020-03-27T00:00:00-06:00</updated><id>/2020/03/27/home-care-mild-COVID19</id><content type="html" xml:base="/2020/03/27/home-care-mild-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/sick-mom.png&quot; alt=&quot;sickmom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What Should You Do For A Mild Case of COVID-19?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, you, or someone in your household, has a flu-like or pneumonia-like illness that you suspect is COVID-19.  What can you do to increase your chances of getting well, and decrease your chances of getting sick enough to need a hospital?&lt;/p&gt;
+
+&lt;p&gt;This document doesn’t actually have a lot of answers.  &lt;/p&gt;
+
+&lt;p&gt;For respiratory infections not severe enough to need hospitalization, most medical guidelines advise identifying the pathogen, prescribing antivirals or antibiotics effective against that pathogen (we don’t know that much yet about which ones work for COVID-19), and otherwise practicing “supportive care” – rest, fluids, treating symptoms, avoiding infecting others.  &lt;/p&gt;
+
+&lt;p&gt;Supportive care often isn’t specified in studies, which is annoying, because it means we don’t have data on the effectiveness or potential disadvantages of over-the-counter medications to treat symptoms like fever and cough.&lt;/p&gt;
+
+&lt;p&gt;For the purposes of this document, I am restricting attention to studies and reports of human subjects – no animal or in-vitro evidence – but I am including correlational evidence or even case reports, and I am including evidence from other diseases than COVID-19 where it seems that the result could translate. &lt;/p&gt;
+
+&lt;p&gt;(For instance, I’m not including all the evidence about oseltamivir (Tamiflu) being effective against influenza, because it doesn’t seem to help with COVID-19; but I am including evidence about N-acetylcysteine preventing and reducing the severity of influenza, because NAC seems to work by generic immune-stimulatory effects rather than an effect specific to a particular virus.)&lt;/p&gt;
+
+&lt;p&gt;It’s important to get tested by a doctor if you have a respiratory illness you think is COVID-19. Even if you can’t get access to a COVID-19 test, you might also have a different bacterial or viral infection (either instead of or in addition to COVID-19) which is treatable by antivirals or antibiotics. It’s very common for viral pneumonia to be complicated by an opportunistic bacterial infection, and killing the bacteria can help improve outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms of Mild COVID-19&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The most common symptoms of mild COVID-19 are fever, cough, fatigue and muscle pain, and headache.  Other symptoms include sore throat, difficulty breathing, diarrhea, chest tightness, fear of cold, and sputum production.[1][2][4] Rash on the limbs is also possible.[3]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rest and Fluids&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Just like with any mild illness, public health departments are advising patients who have mild COVID-19 to get rest and drink fluids.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t find experimental evidence for this but it makes sense and can’t hurt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sanitation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The WHO’s recommendations for home care for mild COVID-19 cases are primarily about avoiding infection for caregivers; patients should be in their own, well-ventilated room if possible, caregivers should wear masks and clean &amp;amp; disinfect surfaces daily, etc.[5]  There is no mention of how to optimize for recovery of the patient.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Avoid Ibuprofen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;France’s health minister has counseled patients with mild COVID-19 not to use ibuprofen or other NSAIDs to treat symptoms, after four young patients with the disease developed severe symptoms after using NSAIDs.  Patients were advised to take paracetamol instead.[6]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Avoid Corticosteroids&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Corticosteroids were associated with increased mortality and viral shedding in H1N1 viral pneumonia.[8]  Corticosteroids increased viral load in SARS.[11]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favipiravir&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In an open-label study, COVID-19 patients who took favipiravir had on average a shorter course of disease (4 days vs 12 days, p &amp;lt; 0.001) than those who took a combination of lopinavir and ritonavir.  All patients in the study also received interferon-alpha1b by aerosol inhalation, rehydration, electrolytes, antipyretics, analgesics, and antiemetics.[7]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hydroxychloroquine and Azithromycin&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a non-randomized study of 36 patients with COVID-19 treated with placebo, hydroxychloroquine, or hydroxychloroquine + azithromycin, hydroxychloroquine had a significantly higher rate of virological cure (p &amp;lt; 0.001) than placebo.  By day 6, 70% of hydroxychloroquine patients were cured, compared to 20% with placebo. With azithromycin + hydroxychloroquine, 100% of patients were cured by day 5.[10]&lt;/p&gt;
+
+&lt;p&gt;However, a Chinese study (reported by Bloomberg [12] because it’s in Chinese) of 30 patients given hydroxychloroquine or placebo found no difference in the rate of cure between the two groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;N-Acetylcysteine&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a randomized trial of 262 elderly patients, assigned to N-acetylcysteine or placebo for 6 months, NAC significantly (p&amp;lt;0.01) reduced the incidence of influenza-like episodes, and significantly (p &amp;lt; 0.001) reduced the incidence of headache, muscle soreness, sore throat, and cough. In the NAC group, 25% of serologically confirmed H1N1 influenza cases were symptomatic, compared to 79% in the placebo group.[9]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Air Quality&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a retrospective study in Utah hospitals, high concentrations of particulate matter in the air were associated with slightly but significantly higher (OR = 1.004) rates of admission to the emergency room for pneumonia, and slightly (OR = 1.02) but significantly higher rates of pneumonia mortality.[12] &lt;/p&gt;
+
+&lt;p&gt;Having air filters in the home may be slightly protective.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Wan, Suxin, et al. “Clinical Features and Treatment of COVID‐19 Patients in Northeast Chongqing.” Journal of Medical Virology.&lt;/p&gt;
+
+&lt;p&gt;[2]Ong, John, Barnaby Edward Young, and Sharon Ong. “COVID-19 in gastroenterology: a clinical perspective.” Gut (2020).&lt;/p&gt;
+
+&lt;p&gt;[3]Lu, Shubiao, et al. “Alert for non‐respiratory symptoms of Coronavirus Disease 2019 (COVID‐19) patients in epidemic period: A case report of familial cluster with three asymptomatic COVID‐19 patients.” Journal of Medical Virology (2020).&lt;/p&gt;
+
+&lt;p&gt;[4]Xu, Wentao, et al. “Epidemiologic Features and Clinical Findings of COVID-19-Infected Patients in Suzhou.” Available at SSRN 3551352 (2020).&lt;/p&gt;
+
+&lt;p&gt;[5]World Health Organization. Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts: interim guidance, 17 March 2020. No. WHO/nCov/IPC/HomeCare/2020.3. World Health Organization, 2020.&lt;/p&gt;
+
+&lt;p&gt;[6]Day, Michael. “Covid-19: ibuprofen should not be used for managing symptoms, say doctors and scientists.” (2020).&lt;/p&gt;
+
+&lt;p&gt;[7]Cai, Qingxian, et al. “Experimental Treatment with Favipiravir for COVID-19: An Open-Label Control Study.” Engineering (2020).&lt;/p&gt;
+
+&lt;p&gt;[8]Cao, Bin, et al. “Adjuvant corticosteroid treatment in adults with influenza A (H7N9) viral pneumonia.” Critical care medicine 44.6 (2016): e318-e328.&lt;/p&gt;
+
+&lt;p&gt;[9]De Flora, S., C. Grassi, and L. Carati. “Attenuation of influenza-like symptomatology and improvement of cell-mediated immunity with long-term N-acetylcysteine treatment.” European Respiratory Journal 10.7 (1997): 1535-1541.&lt;/p&gt;
+
+&lt;p&gt;[10]Gautret, Philippe, et al. “Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial.” International Journal of Antimicrobial Agents (2020): 105949.&lt;/p&gt;
+
+&lt;p&gt;[11]Lee, Nelson, et al. “Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients.” Journal of clinical virology 31.4 (2004): 304-309.&lt;/p&gt;
+
+&lt;p&gt;[12]Pirozzi, Cheryl S., et al. “Short-term air pollution and incident pneumonia. A case–crossover study.” Annals of the American Thoracic Society 15.4 (2018): 449-459.&lt;/p&gt;
+
+&lt;p&gt;[12]https://www.bloomberg.com/news/articles/2020-03-25/hydroxychloroquine-no-better-than-regular-covid-19-care-in-study&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 3 – Motivated Cognition and Suffering</title><link href="/2020/03/25/tangled-thinking-3.html" rel="alternate" type="text/html" title="Tangled Thinking 3 -- Motivated Cognition and Suffering" /><published>2020-03-25T00:00:00-06:00</published><updated>2020-03-25T00:00:00-06:00</updated><id>/2020/03/25/tangled-thinking-3</id><content type="html" xml:base="/2020/03/25/tangled-thinking-3.html">&lt;p&gt;&lt;img src=&quot;/images/dogface.png&quot; alt=&quot;dogface&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I still have a lot of planned COVID-19 lit review posts, but I’m going to take a quick break and go back to my sequence on psychology/cognition.&lt;/p&gt;
 
@@ -64,7 +150,21 @@
 
 &lt;p&gt;Also, a thing is obviously not “subconscious” if you can &lt;em&gt;literally experience it in consciousness.&lt;/em&gt; I suspect that a lot of what people call “subconscious” is totally available to attention, just stuff that we expect ourselves not to attend to, especially because we don’t normally talk to &lt;em&gt;other&lt;/em&gt; people about it.&lt;/p&gt;
 
-&lt;p&gt;Could it be that attending to &lt;em&gt;more&lt;/em&gt; internal phenomena is actually a “spiritual path” or a “self-improvement path” or whatever? There’s &lt;em&gt;so&lt;/em&gt; much more attention paid to overriding internal phenomena than exploring them; maybe most people know something I don’t, or maybe there’s a really persistent bias in the world of psychological advice.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">How Effective is Non-Invasive Ventilation in COVID-19?</title><link href="/2020/03/22/non-invasive-ventilation.html" rel="alternate" type="text/html" title="How Effective is Non-Invasive Ventilation in COVID-19?" /><published>2020-03-22T00:00:00-06:00</published><updated>2020-03-22T00:00:00-06:00</updated><id>/2020/03/22/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/22/non-invasive-ventilation.html">&lt;p&gt;&lt;img src=&quot;/images/cpapman.jpg&quot; alt=&quot;cpapman&quot; height=&quot;250px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Could it be that attending to &lt;em&gt;more&lt;/em&gt; internal phenomena is actually a “spiritual path” or a “self-improvement path” or whatever? There’s &lt;em&gt;so&lt;/em&gt; much more attention paid to overriding internal phenomena than exploring them; maybe most people know something I don’t, or maybe there’s a really persistent bias in the world of psychological advice.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 4 – Why Do We Self-Deceive?</title><link href="/2020/03/25/tangled-thinking-4.html" rel="alternate" type="text/html" title="Tangled Thinking 4 -- Why Do We Self-Deceive?" /><published>2020-03-25T00:00:00-06:00</published><updated>2020-03-25T00:00:00-06:00</updated><id>/2020/03/25/tangled-thinking-4</id><content type="html" xml:base="/2020/03/25/tangled-thinking-4.html">&lt;p&gt;From an evolutionary perspective, when an organism engages in a behavior that seems to harm itself (that is, reduce its expected number of descendants, either by dying young, having fewer children, or having children that do not survive to maturity), this deserves an explanation. There should be evolutionary pressure against this kind of “self-harm”.&lt;/p&gt;
+
+&lt;p&gt;There are really only a few possible explanations for a case of apparent “self-harm.”&lt;/p&gt;
+
+&lt;p&gt;First, the “self-harm” could only be apparent; the behavior could have a non-obvious benefit to the individual’s fitness.&lt;/p&gt;
+
+&lt;p&gt;For example, consider a peacock’s tail. At first glance it is a disadvantage to a peacock to have a huge, unwieldy tail; but sexual selection provides a countervailing advantage. Peacocks with big gaudy tails get to reproduce more often and with higher-fitness mates.&lt;/p&gt;
+
+&lt;p&gt;Another example of “self-harm” that is only apparent is what’s known as “reciprocal altruism”, AKA cooperation or exchange. Animals and humans sometimes give up something of value to help another, which would seem to be an act of self-harm; but usually this is actually an exchange, either formal (as in trade) or implicit (as in owing each other favors). Mutual exchange of help can be more advantageous than isolation.&lt;/p&gt;
+
+&lt;p&gt;Thus, neither a peacock’s tail nor a human’s generous impulses are mysteries from an evolutionary perspective; they are perfectly explainable by evolutionary self-interest.&lt;/p&gt;
+
+&lt;p&gt;A second explanation of an apparently “self-harming” trait is that it is indeed harmful to the organism’s fitness, but is an unavoidable side effect of something beneficial.  This is called “antagonistic pleiotropy.”&lt;/p&gt;
+
+&lt;p&gt;For instance, there are many traits that are controlled by more than one gene, or sometimes more than one allele of the same gene, but are only beneficial in moderation. One copy of the gene for sickle-cell disease provides resistance to malaria; two copies causes a debilitating blood disorder. For another example, there are a number of genetic neurological disorders which cause severe disability, but are also correlated with higher-than-average intelligence in the &lt;em&gt;relatives&lt;/em&gt; of the affected children.  There is, perhaps, a cluster of genes such that having &lt;em&gt;all&lt;/em&gt; of them is very bad for you, but having a few might be advantageous.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">From an evolutionary perspective, when an organism engages in a behavior that seems to harm itself (that is, reduce its expected number of descendants, either by dying young, having fewer children, or having children that do not survive to maturity), this deserves an explanation. There should be evolutionary pressure against this kind of “self-harm”.</summary></entry><entry><title type="html">How Effective is Non-Invasive Ventilation in COVID-19?</title><link href="/2020/03/22/non-invasive-ventilation.html" rel="alternate" type="text/html" title="How Effective is Non-Invasive Ventilation in COVID-19?" /><published>2020-03-22T00:00:00-06:00</published><updated>2020-03-22T00:00:00-06:00</updated><id>/2020/03/22/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/22/non-invasive-ventilation.html">&lt;p&gt;&lt;img src=&quot;/images/cpapman.jpg&quot; alt=&quot;cpapman&quot; height=&quot;250px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Does non-invasive ventilation even work in critically ill COVID-19 patients?&lt;/p&gt;
 
@@ -519,125 +619,7 @@ Infection prevention entails reducing aerosol-generating procedures (i.e., airwa
 
 &lt;p&gt;[8]https://www.nytimes.com/2020/03/17/nyregion/ny-coronavirus-ventilators.html&lt;/p&gt;
 
-&lt;p&gt;[9]Cheung, Jonathan Chun-Hei, et al. “Staff safety during emergency airway management for COVID-19 in Hong Kong.” The Lancet Respiratory Medicine (2020).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.     There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.</summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
-
-&lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
-
-&lt;p&gt;a.) only includes data up to Feb. 11&lt;/p&gt;
-
-&lt;p&gt;b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed&lt;/p&gt;
-
-&lt;p&gt;c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested&lt;/p&gt;
-
-&lt;p&gt;d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed&lt;/p&gt;
-
-&lt;p&gt;Using the &lt;a href=&quot;https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data&quot;&gt;Johns Hopkins data&lt;/a&gt;, which is current up to March 4th, the overall/cumulative case fatality rate in China is 3.4%, and the case fatality rate outside China is 1.8%.  This lower number may be more predictive of the current case fatality rate since the case fatality rate inside China has dropped over time, from 17% (in January) to under 2% by Feb. 20th, as more individuals have been tested and hospital resources have been mobilized.&lt;/p&gt;
-
-&lt;p&gt;The overall case recovery rate from the Johns Hopkins data is 54% worldwide but only 8% outside China. This may simply indicate recency; according to the &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf&quot;&gt;WHO&lt;/a&gt;, mild cases take 2 weeks to recover and severe cases take 3-6 weeks. Or it may indicate that countries outside China are not following up with confirmed cases.&lt;/p&gt;
-
-&lt;p&gt;According to the &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;Chinese data&lt;/a&gt; on 72,314 cases of COVID-19 (which gives ages for cases, unlike the global data) only about 10% of cases were in people younger than 30, and only 1% of the deaths among confirmed cases were in people younger than 30.  27% of the cases were in people younger than 40, and 2.5% of the deaths. While reporting of cases of coronavirus can be expected to be biased to more severe cases, there is no systematic reason why cases of similar severity would be more or less likely to be reported based on age, so the 10% case risk seems like a credible estimate.&lt;/p&gt;
-
-&lt;p&gt;A sample of &lt;a href=&quot;https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext&quot;&gt;509 cases&lt;/a&gt; whose demographic information was reported in the media, including cases from outside China, found that 12% of cases were younger than 30, which is similar to the Chinese figure; the sample included no deaths in patients younger than 30.&lt;/p&gt;
-
-&lt;p&gt;South Korea may be our best possible estimate of the true case fatality rate, since it is a developed country with a very extensive testing program of more than &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-of-thousands-to-fight-virus-outbreak&quot;&gt;140,000 people&lt;/a&gt; to date. It has &lt;a href=&quot;https://www.businessinsider.com/coronavirus-new-cases-soar-south-korea-slow-in-china-2020-3&quot;&gt;6088 cases and 37 deaths&lt;/a&gt;, or a 0.6% case fatality rate.  In Korea, 35.2% of all cases were in people under 30, and 46.2% under age 40, but there have been no fatalities for people under 30.  There was 1 death of a person age 30-39, out of 693 cases in that age range.  This suggests that in a country with extensive testing for COVID-19, young people are more likely to contract the disease than the Chinese numbers would suggest, but no more likely to die of it. In fact, Korean case fatality rates across all age groups are lower than the corresponding Chinese case fatality rates.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/&quot;&gt;“At least 11 people have died of the COVID-19 disease in the U.S., all but one of them in Washington state, and most of them from a single nursing home in the Seattle area. The other death occurred in California, just outside Sacramento. The coronavirus has been confirmed in 17 states so far.”&lt;/a&gt;, according to a news article on March 5.  Since the number of US cases to date is currently 211, this gives a whopping 5% case fatality rate, but this number is likely inaccurate since the US is barely testing at all for COVID-19.  We don’t have enough data on US cases to get a believable US-specific case fatality rate by age group, but the pattern of deaths is consistent with the story that the disease is much more deadly for the elderly than for younger people.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
-
-&lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
-
-&lt;p&gt;There was a &lt;a href=&quot;https://link.springer.com/article/10.1007/s00415-020-09773-9&quot;&gt;case study&lt;/a&gt; of a 62-year-old man in Wuhan who presented with oculomotor nerve palsy and whose throat swab tested positive for 2019-nCOV.  Other possible causes of the nerve palsy, such as stroke, diabetic neuropathy, brain tumor, and Guillain-Barre syndrome were ruled out, so his doctors hypothesized that the virus caused the nerve failure.&lt;/p&gt;
-
-&lt;p&gt;Another &lt;a href=&quot;http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm&quot;&gt;case&lt;/a&gt; of COVID-19, in Beijing, was confirmed to contain the virus in cerebrospinal fluid, in the first case of viral encephalitis due to COVID-19.&lt;/p&gt;
-
-&lt;p&gt;There is evidence that COVID-19 can infiltrate the central nervous system, and evidence that neurological symptoms are common during COVID-19 infection, but it’s not as yet clear whether the neurological symptoms are usually caused by the virus infiltrating nerve and muscle tissue or whether they’re caused by other organ damage, by the treatments for COVID-19, or by the body’s inflammatory response.&lt;/p&gt;
-
-&lt;p&gt;SARS, an earlier coronavirus epidemic, did frequently cause chronic sequelae.&lt;/p&gt;
-
-&lt;p&gt;Out of 233 formerly hospitalized SARS survivors in one &lt;a href=&quot;https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378&quot;&gt;follow-up study&lt;/a&gt;, 27.1% met the criteria for chronic fatigue syndrome, 40% had a psychiatric disorder, and 40% mentioned a chronic fatigue problem. Only 3%, by contrast, had a psychiatric disorder before contracting SARS; this indicates that SARS may have caused psychiatric problems. (Relatedly, the most common psychiatric disorder was post-traumatic stress disorder.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Johnny_Chan9/publication/228620287_Severe_Acute_Respiratory_Syndrome_SARS_A_Brief_Review_With_Exploration_of_the_Outcomes_Prognostic_Factors_and_Sequelae/links/541157e90cf2f2b29a412dc0.pdf&quot;&gt;Half of SARS survivors&lt;/a&gt;  who were hospitalized experienced mild reduction in pulmonary function even 3 months after being discharged from the hospital.  30-45% of survivors had bone necrosis in their hips or knees; this may be a consequence of the long-term use of corticosteroids in treating SARS.&lt;/p&gt;
-
-&lt;p&gt;SARS has been found in one &lt;a href=&quot;https://academic.oup.com/clinchem/article/49/12/2108/5642159&quot;&gt;case&lt;/a&gt; to infiltrate the cerebrospinal fluid, causing seizures.&lt;/p&gt;
-
-&lt;p&gt;Neurological symptoms are &lt;a href=&quot;http://www.ant-tnsjournal.com/Mag_Files/14-3/14-3_p113.pdf&quot;&gt;uncommon but possible&lt;/a&gt; in SARS; out of 664 SARS patients in Taiwan, eight (1%) were found to have neurological disorders: neuropathy, myopathy, and rhabdomyolysis.  5 out of 206 SARS patients in Singapore, or 2%, had strokes, while none had risk factors for strokes; this may be because SARS, like some other viral infections, causes a hypercoagulable state. These neuromuscular symptoms look similar to the ones observed in COVID-19.&lt;/p&gt;
-
-&lt;p&gt;It’s reasonable to suppose that COVID-19, like SARS, can increase the risk of stroke and cause chronic nerve disorders in perhaps a few percent of patients.&lt;/p&gt;
-
-&lt;p&gt;Though we don’t yet know whether COVID-19 causes chronic fatigue, there is a plausible mechanism: virus-induced immune dysfunction.&lt;/p&gt;
-
-&lt;p&gt;COVID-19 patients have &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/20/2020.02.18.20024364.full.pdf&quot;&gt;diminished T-cell levels&lt;/a&gt;, and more severe cases have a larger reduction.  75% of 522 COVID-19 patients from a Chinese hospital had low T-cell levels, with the lowest levels found in the oldest patients. Inflammatory cytokine levels (IL-6, IL-10, and TNF-alpha) was negatively correlated with T-cell count and positively correlated with the severity of the disease. This is consistent with the “cytokine storm” phenomenon, in which a spike in inflammatory cytokines is responsible for the Acute Respiratory Distress Syndrome (ARDS) and Multiple Organ Dysfunction Syndrome (MODS) which occur in severe and deadly cases of respiratory infections, including COVID-19, SARS, and H5N1.  This opens the door to a mechanism by which COVID-19 could cause long-term immune system dysregulation, if T-cell levels don’t go back to normal after a patient recovers.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
-
-&lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
-
-&lt;p&gt;Korean officials said that &lt;a href=&quot;https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html&quot;&gt;only about 10%&lt;/a&gt; of coronavirus patients had cases severe enough to need hospitalization.&lt;/p&gt;
-
-&lt;p&gt;In China, &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;19% of confirmed cases&lt;/a&gt; were “severe” or “critical”, but this number is likely higher than the true figure, due to limited access to test kits and mild cases of COVID-19 going unreported.&lt;/p&gt;
-
-&lt;p&gt;In a &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf&quot;&gt;study&lt;/a&gt; of 391 patients in Shenzhen, China, 0 cases of COVID-19 among those &amp;lt;30 years old were “severe” (in need of mechanical ventilation, in a state of septic shock or multiple organ failure, or other serious criteria) and only 1% of those aged 30-39 were severe; overall, there was an 0.6% rate of severe cases among cases younger than age 40.&lt;/p&gt;
-
-&lt;p&gt;The rate of contracting COVID-19 among close contacts of confirmed cases, however, was relatively constant across age groups – 7-8%, including among children ages 0-9.&lt;/p&gt;
-
-&lt;p&gt;In a study of &lt;a href=&quot;https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext&quot;&gt;262 patients in Beijing&lt;/a&gt;, however, 8% of cases younger than age 44 were “severe”, compared to 41% of cases older than age 65 and 17% of cases age 45-64.&lt;/p&gt;
-
-&lt;p&gt;In a study of 221 confirmed COVID-19 cases in &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.full.pdf&quot;&gt;Wuhan&lt;/a&gt;, 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.&lt;/p&gt;
-
-&lt;p&gt;In all three Chinese cities, this comes to a rate of 4.9% of cases in under-40 or under-45 patients being severe.&lt;/p&gt;
-
-&lt;p&gt;But this is probably an overestimate, since Chinese testing probably understates the number of mild cases – note that the Chinese numbers show 19% of cases being severe, while Korea, where everyone gets tested, only has 10% of cases severe.&lt;/p&gt;
-
-&lt;p&gt;10% of all Korean cases are severe; let’s assume this is the true severity rate, since all Korean people were tested for the disease.&lt;/p&gt;
-
-&lt;p&gt;Let’s assume that in China there is a bias against diagnosing mild cases; let’s assume there are m times more mild cases in reality than were picked up by the Chinese diagnostic testing, such that if you picked up &lt;em&gt;all&lt;/em&gt; the mild cases you’d actually get the Korean estimate of 10% of cases being severe.&lt;/p&gt;
-
-&lt;p&gt;136/(136 + m* (874-136)) = 0.10&lt;/p&gt;
-
-&lt;p&gt;136 = 0.10&lt;em&gt;(136+ m&lt;/em&gt;738)&lt;/p&gt;
-
-&lt;p&gt;73.8m = 122.4&lt;/p&gt;
-
-&lt;p&gt;m = 1.66&lt;/p&gt;
-
-&lt;p&gt;Ok, so let’s compute a &lt;em&gt;corrected&lt;/em&gt; estimate for the young person’s risk, assuming that there are 1.66x as many mild cases in young people than were observed.&lt;/p&gt;
-
-&lt;p&gt;There were 17 severe cases observed under 44, and 332 mild cases.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;true&lt;/em&gt; number of mild cases in the three Chinese cities should actually be 332 * 1.66 = 551.&lt;/p&gt;
-
-&lt;p&gt;So the &lt;em&gt;true&lt;/em&gt; corrected risk for getting severe disease as a young person is 17/551 = 3.1%.&lt;/p&gt;
-
-&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract the virus have a low (~3%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 3% severe case rate translates to more like a 3% fatality rate if a young person catches the disease when hospitals are over capacity.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[9]Cheung, Jonathan Chun-Hei, et al. “Staff safety during emergency airway management for COVID-19 in Hong Kong.” The Lancet Respiratory Medicine (2020).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.     There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.</summary></entry><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -760,7 +742,125 @@ Infection prevention entails reducing aerosol-generating procedures (i.e., airwa
 
 &lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
 
-&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/2020/03/13/intro-post</id><content type="html" xml:base="/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
+
+&lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
+
+&lt;p&gt;a.) only includes data up to Feb. 11&lt;/p&gt;
+
+&lt;p&gt;b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed&lt;/p&gt;
+
+&lt;p&gt;c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested&lt;/p&gt;
+
+&lt;p&gt;d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed&lt;/p&gt;
+
+&lt;p&gt;Using the &lt;a href=&quot;https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data&quot;&gt;Johns Hopkins data&lt;/a&gt;, which is current up to March 4th, the overall/cumulative case fatality rate in China is 3.4%, and the case fatality rate outside China is 1.8%.  This lower number may be more predictive of the current case fatality rate since the case fatality rate inside China has dropped over time, from 17% (in January) to under 2% by Feb. 20th, as more individuals have been tested and hospital resources have been mobilized.&lt;/p&gt;
+
+&lt;p&gt;The overall case recovery rate from the Johns Hopkins data is 54% worldwide but only 8% outside China. This may simply indicate recency; according to the &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf&quot;&gt;WHO&lt;/a&gt;, mild cases take 2 weeks to recover and severe cases take 3-6 weeks. Or it may indicate that countries outside China are not following up with confirmed cases.&lt;/p&gt;
+
+&lt;p&gt;According to the &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;Chinese data&lt;/a&gt; on 72,314 cases of COVID-19 (which gives ages for cases, unlike the global data) only about 10% of cases were in people younger than 30, and only 1% of the deaths among confirmed cases were in people younger than 30.  27% of the cases were in people younger than 40, and 2.5% of the deaths. While reporting of cases of coronavirus can be expected to be biased to more severe cases, there is no systematic reason why cases of similar severity would be more or less likely to be reported based on age, so the 10% case risk seems like a credible estimate.&lt;/p&gt;
+
+&lt;p&gt;A sample of &lt;a href=&quot;https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext&quot;&gt;509 cases&lt;/a&gt; whose demographic information was reported in the media, including cases from outside China, found that 12% of cases were younger than 30, which is similar to the Chinese figure; the sample included no deaths in patients younger than 30.&lt;/p&gt;
+
+&lt;p&gt;South Korea may be our best possible estimate of the true case fatality rate, since it is a developed country with a very extensive testing program of more than &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-of-thousands-to-fight-virus-outbreak&quot;&gt;140,000 people&lt;/a&gt; to date. It has &lt;a href=&quot;https://www.businessinsider.com/coronavirus-new-cases-soar-south-korea-slow-in-china-2020-3&quot;&gt;6088 cases and 37 deaths&lt;/a&gt;, or a 0.6% case fatality rate.  In Korea, 35.2% of all cases were in people under 30, and 46.2% under age 40, but there have been no fatalities for people under 30.  There was 1 death of a person age 30-39, out of 693 cases in that age range.  This suggests that in a country with extensive testing for COVID-19, young people are more likely to contract the disease than the Chinese numbers would suggest, but no more likely to die of it. In fact, Korean case fatality rates across all age groups are lower than the corresponding Chinese case fatality rates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/&quot;&gt;“At least 11 people have died of the COVID-19 disease in the U.S., all but one of them in Washington state, and most of them from a single nursing home in the Seattle area. The other death occurred in California, just outside Sacramento. The coronavirus has been confirmed in 17 states so far.”&lt;/a&gt;, according to a news article on March 5.  Since the number of US cases to date is currently 211, this gives a whopping 5% case fatality rate, but this number is likely inaccurate since the US is barely testing at all for COVID-19.  We don’t have enough data on US cases to get a believable US-specific case fatality rate by age group, but the pattern of deaths is consistent with the story that the disease is much more deadly for the elderly than for younger people.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
+
+&lt;p&gt;There was a &lt;a href=&quot;https://link.springer.com/article/10.1007/s00415-020-09773-9&quot;&gt;case study&lt;/a&gt; of a 62-year-old man in Wuhan who presented with oculomotor nerve palsy and whose throat swab tested positive for 2019-nCOV.  Other possible causes of the nerve palsy, such as stroke, diabetic neuropathy, brain tumor, and Guillain-Barre syndrome were ruled out, so his doctors hypothesized that the virus caused the nerve failure.&lt;/p&gt;
+
+&lt;p&gt;Another &lt;a href=&quot;http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm&quot;&gt;case&lt;/a&gt; of COVID-19, in Beijing, was confirmed to contain the virus in cerebrospinal fluid, in the first case of viral encephalitis due to COVID-19.&lt;/p&gt;
+
+&lt;p&gt;There is evidence that COVID-19 can infiltrate the central nervous system, and evidence that neurological symptoms are common during COVID-19 infection, but it’s not as yet clear whether the neurological symptoms are usually caused by the virus infiltrating nerve and muscle tissue or whether they’re caused by other organ damage, by the treatments for COVID-19, or by the body’s inflammatory response.&lt;/p&gt;
+
+&lt;p&gt;SARS, an earlier coronavirus epidemic, did frequently cause chronic sequelae.&lt;/p&gt;
+
+&lt;p&gt;Out of 233 formerly hospitalized SARS survivors in one &lt;a href=&quot;https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378&quot;&gt;follow-up study&lt;/a&gt;, 27.1% met the criteria for chronic fatigue syndrome, 40% had a psychiatric disorder, and 40% mentioned a chronic fatigue problem. Only 3%, by contrast, had a psychiatric disorder before contracting SARS; this indicates that SARS may have caused psychiatric problems. (Relatedly, the most common psychiatric disorder was post-traumatic stress disorder.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Johnny_Chan9/publication/228620287_Severe_Acute_Respiratory_Syndrome_SARS_A_Brief_Review_With_Exploration_of_the_Outcomes_Prognostic_Factors_and_Sequelae/links/541157e90cf2f2b29a412dc0.pdf&quot;&gt;Half of SARS survivors&lt;/a&gt;  who were hospitalized experienced mild reduction in pulmonary function even 3 months after being discharged from the hospital.  30-45% of survivors had bone necrosis in their hips or knees; this may be a consequence of the long-term use of corticosteroids in treating SARS.&lt;/p&gt;
+
+&lt;p&gt;SARS has been found in one &lt;a href=&quot;https://academic.oup.com/clinchem/article/49/12/2108/5642159&quot;&gt;case&lt;/a&gt; to infiltrate the cerebrospinal fluid, causing seizures.&lt;/p&gt;
+
+&lt;p&gt;Neurological symptoms are &lt;a href=&quot;http://www.ant-tnsjournal.com/Mag_Files/14-3/14-3_p113.pdf&quot;&gt;uncommon but possible&lt;/a&gt; in SARS; out of 664 SARS patients in Taiwan, eight (1%) were found to have neurological disorders: neuropathy, myopathy, and rhabdomyolysis.  5 out of 206 SARS patients in Singapore, or 2%, had strokes, while none had risk factors for strokes; this may be because SARS, like some other viral infections, causes a hypercoagulable state. These neuromuscular symptoms look similar to the ones observed in COVID-19.&lt;/p&gt;
+
+&lt;p&gt;It’s reasonable to suppose that COVID-19, like SARS, can increase the risk of stroke and cause chronic nerve disorders in perhaps a few percent of patients.&lt;/p&gt;
+
+&lt;p&gt;Though we don’t yet know whether COVID-19 causes chronic fatigue, there is a plausible mechanism: virus-induced immune dysfunction.&lt;/p&gt;
+
+&lt;p&gt;COVID-19 patients have &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/20/2020.02.18.20024364.full.pdf&quot;&gt;diminished T-cell levels&lt;/a&gt;, and more severe cases have a larger reduction.  75% of 522 COVID-19 patients from a Chinese hospital had low T-cell levels, with the lowest levels found in the oldest patients. Inflammatory cytokine levels (IL-6, IL-10, and TNF-alpha) was negatively correlated with T-cell count and positively correlated with the severity of the disease. This is consistent with the “cytokine storm” phenomenon, in which a spike in inflammatory cytokines is responsible for the Acute Respiratory Distress Syndrome (ARDS) and Multiple Organ Dysfunction Syndrome (MODS) which occur in severe and deadly cases of respiratory infections, including COVID-19, SARS, and H5N1.  This opens the door to a mechanism by which COVID-19 could cause long-term immune system dysregulation, if T-cell levels don’t go back to normal after a patient recovers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
+
+&lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
+
+&lt;p&gt;Korean officials said that &lt;a href=&quot;https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html&quot;&gt;only about 10%&lt;/a&gt; of coronavirus patients had cases severe enough to need hospitalization.&lt;/p&gt;
+
+&lt;p&gt;In China, &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;19% of confirmed cases&lt;/a&gt; were “severe” or “critical”, but this number is likely higher than the true figure, due to limited access to test kits and mild cases of COVID-19 going unreported.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf&quot;&gt;study&lt;/a&gt; of 391 patients in Shenzhen, China, 0 cases of COVID-19 among those &amp;lt;30 years old were “severe” (in need of mechanical ventilation, in a state of septic shock or multiple organ failure, or other serious criteria) and only 1% of those aged 30-39 were severe; overall, there was an 0.6% rate of severe cases among cases younger than age 40.&lt;/p&gt;
+
+&lt;p&gt;The rate of contracting COVID-19 among close contacts of confirmed cases, however, was relatively constant across age groups – 7-8%, including among children ages 0-9.&lt;/p&gt;
+
+&lt;p&gt;In a study of &lt;a href=&quot;https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext&quot;&gt;262 patients in Beijing&lt;/a&gt;, however, 8% of cases younger than age 44 were “severe”, compared to 41% of cases older than age 65 and 17% of cases age 45-64.&lt;/p&gt;
+
+&lt;p&gt;In a study of 221 confirmed COVID-19 cases in &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.full.pdf&quot;&gt;Wuhan&lt;/a&gt;, 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.&lt;/p&gt;
+
+&lt;p&gt;In all three Chinese cities, this comes to a rate of 4.9% of cases in under-40 or under-45 patients being severe.&lt;/p&gt;
+
+&lt;p&gt;But this is probably an overestimate, since Chinese testing probably understates the number of mild cases – note that the Chinese numbers show 19% of cases being severe, while Korea, where everyone gets tested, only has 10% of cases severe.&lt;/p&gt;
+
+&lt;p&gt;10% of all Korean cases are severe; let’s assume this is the true severity rate, since all Korean people were tested for the disease.&lt;/p&gt;
+
+&lt;p&gt;Let’s assume that in China there is a bias against diagnosing mild cases; let’s assume there are m times more mild cases in reality than were picked up by the Chinese diagnostic testing, such that if you picked up &lt;em&gt;all&lt;/em&gt; the mild cases you’d actually get the Korean estimate of 10% of cases being severe.&lt;/p&gt;
+
+&lt;p&gt;136/(136 + m* (874-136)) = 0.10&lt;/p&gt;
+
+&lt;p&gt;136 = 0.10&lt;em&gt;(136+ m&lt;/em&gt;738)&lt;/p&gt;
+
+&lt;p&gt;73.8m = 122.4&lt;/p&gt;
+
+&lt;p&gt;m = 1.66&lt;/p&gt;
+
+&lt;p&gt;Ok, so let’s compute a &lt;em&gt;corrected&lt;/em&gt; estimate for the young person’s risk, assuming that there are 1.66x as many mild cases in young people than were observed.&lt;/p&gt;
+
+&lt;p&gt;There were 17 severe cases observed under 44, and 332 mild cases.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;true&lt;/em&gt; number of mild cases in the three Chinese cities should actually be 332 * 1.66 = 551.&lt;/p&gt;
+
+&lt;p&gt;So the &lt;em&gt;true&lt;/em&gt; corrected risk for getting severe disease as a young person is 17/551 = 3.1%.&lt;/p&gt;
+
+&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young (&amp;lt;40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Young (&amp;lt;40) people who contract the virus have a low (~3%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 3% severe case rate translates to more like a 3% fatality rate if a young person catches the disease when hospitals are over capacity.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">Intro Post</title><link href="/2020/03/13/intro-post.html" rel="alternate" type="text/html" title="Intro Post" /><published>2020-03-13T00:00:00-06:00</published><updated>2020-03-13T00:00:00-06:00</updated><id>/2020/03/13/intro-post</id><content type="html" xml:base="/2020/03/13/intro-post.html">&lt;p&gt;&lt;img src=&quot;/images/rembrandtfaust.jpeg&quot; alt=&quot;faust&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been blogging in various places for nearly a decade, but I’ve never actually hosted my own site, or consolidated all my writing in one place.&lt;/p&gt;
 
@@ -773,103 +873,4 @@ I want it to be searchable and all in one place, and I want to own my own data.&
 
 &lt;p&gt;On this site I’ll be aggregating my old posts from &lt;a href=&quot;https://srconstantin.wordpress.com&quot;&gt;Otium&lt;/a&gt;, my &lt;a href=&quot;https://srconstantin.posthaven.com&quot;&gt;Posthaven site&lt;/a&gt;, &lt;a href=&quot;https://parentingwithevidence.wordpress.com&quot;&gt;Parenting with Evidence&lt;/a&gt;, and the now defunct Hourglass Bio.&lt;/p&gt;
 
-&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Motivated cognition is the state of emotionally needing to believe something is true, whether it actually is true or not. 
-I’ve found that a good kinaesthetic metaphor for motivated cognition is pressure.  If you’re forcing things with your mind – if you’re going “it’s GOT to be this way, or ELSE” – then you aren’t actually open to the truth being whatever it might happen to be.  &lt;/p&gt;
-
-&lt;p&gt;Defensiveness, anxiety, revulsion, despair, eagerness to please or to be acceptable, can motivate you to believe that the convenient and pleasant thing is true – or that the awful worst-case scenario is – or both at once (e.g. anxiety can make you fear the worst but flinch from it and profess the best-case scenario.)&lt;/p&gt;
-
-&lt;p&gt;It’s not motivated cognition for &lt;em&gt;motivation to be involved in cognition&lt;/em&gt;.  We think most clearly, in fact, when we’re motivated to do so; for instance, someone who stands to make money by making the correct prediction will be more motivated to be correct than someone who’s merely having a conversation.  &lt;/p&gt;
-
-&lt;p&gt;In fact, I think motivation is &lt;em&gt;essential&lt;/em&gt; to all the words we use to talk about thinking well  – rationality, wisdom, objectivity, science, empiricism, common sense, &lt;a href=&quot;https://www.lesswrong.com/posts/tMhEv28KJYWsu6Wdo/kensh&quot;&gt;“Looking”&lt;/a&gt;, etc. These words get corrupted by connotations of smugness, coldness, superiority, or authoritarianism, and new words have to be continually invented to point at the same thing the old words were intended to point at.  The &lt;em&gt;thing itself&lt;/em&gt; is, perhaps, best described as “thinking in the way everyone naturally does when they actually care about the object of their thought.”  &lt;/p&gt;
-
-&lt;p&gt;If you care about the thing in the real world, you will not want to be wrong about it; a delusion, however pleasant, won’t give you what you want.  You still can be wrong about it, of course, but your incentives are to be as correct as you can be.  A certain amount of pretense and posturing and game-playing may drop away suddenly when, for instance, you find your child’s safety is at stake; suddenly it is vitally important to get real.&lt;/p&gt;
-
-&lt;p&gt;(Of course, phrases like “get real”, “be sensible”, “be reasonable”, often are used to mean “shut up and do what I tell you”, which is &lt;em&gt;not&lt;/em&gt; the thing. A person who Actually Cares about getting something done may often be perceived as an unreasonable or irrational person, because she is doing something that doesn’t meet with everyone’s approval.)&lt;/p&gt;
-
-&lt;p&gt;There’s something related about words like “literally”, “truly”, “actually”, “really”, “very”, “honestly” – and it’s telling that over time language evolves to make them all used as words for emphasis instead of denoting literal exact truth.  It’s hard to find a way to phrase in words “I’m pointing at reality now” as opposed to pointing at a model of reality, or playing a game with language, or speaking ‘in character’ as the persona you want to embody right now.  &lt;/p&gt;
-
-&lt;p&gt;Notions like “rationality” are attempts to encourage people to think and speak literally rather than performatively.&lt;/p&gt;
-
-&lt;p&gt;It seems like sort of a mistake to present them as a specialized discipline to be taught rather than a stance to be adopted that most people naturally have by default from time to time. Doing science doesn’t actually involve going through The Scientific Method as you’re taught in elementary school; but while there may not really be a Scientific Method, there is definitely a scientific mindset. It’s the same mindset you have automatically when you’re curious. 
- 
-If you try to codify how people think when they’re being curious, it winds up sounding like nothing at all.  “Just, y’know, think! Look! Care! Try!”
-Or it comes across as condescending: “Most people go through life never actually trying! You should actually try!” There’s not much content to this, but the “actually” is gesturing at something: the rubber meeting the road, the moon and not the pointing finger. &lt;/p&gt;
-
-&lt;p&gt;By contrast, motivated cognition is being motivated to have certain cognitions, inside your head, rather than being motivated to seek outcomes out in the world.&lt;/p&gt;
-
-&lt;p&gt;It’s kind of weird that we have this feature at all. Why would we have evolved to self-deceive? If an apparently self-destructive behavior is common, this cries out for explanation.&lt;/p&gt;
-
-&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 1 – Mental Objects, Contradictions, Reconciliation</title><link href="/2020/02/21/tangled-thinking-1.html" rel="alternate" type="text/html" title="Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation" /><published>2020-02-21T00:00:00-07:00</published><updated>2020-02-21T00:00:00-07:00</updated><id>/2020/02/21/tangled-thinking-1</id><content type="html" xml:base="/2020/02/21/tangled-thinking-1.html">&lt;p&gt;&lt;img src=&quot;/images/ascending-and-descending-escher.jpg&quot; alt=&quot;ascending&quot; /&gt;
-&lt;strong&gt;Mental Objects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s call a &lt;strong&gt;mental object&lt;/strong&gt; anything that you’re aware of, anything that is in your conscious mind. A sense perception, a feeling, a thought, a concept, anything that is under the spotlight of your consciousness at a given moment. &lt;/p&gt;
-
-&lt;p&gt;Tautologically, if you have &lt;em&gt;any&lt;/em&gt; access to something in the world, it must be a mental object; it must enter your perception.&lt;/p&gt;
-
-&lt;p&gt;So how do you even know there &lt;em&gt;is&lt;/em&gt; an external world?  Why isn’t it “all in your mind”?  What’s even the difference between a totally imaginary world playing out in your consciousness, and a “real world” that’s “out there”?&lt;/p&gt;
-
-&lt;p&gt;Without being knowledgeable about the history of philosophy and the many people who have attempted to answer this question, I think there’s a pretty straightforward way to solve this problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Difference Detection&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the things your mind can do is ask the question “same or different?” about two mental objects.&lt;/p&gt;
-
-&lt;p&gt;“Same or different?” can apply on multiple meta-levels.  You can say “do these propositions contradict?”  You can say “do these motives conflict?”  You can say “does my observation match my prediction?” &lt;/p&gt;
-
-&lt;p&gt;The “evidence” for this proposition is just that you can try it out in your own mind and see if it works.  It’s also analytically necessary that this be true if we believe that people have goals.&lt;/p&gt;
-
-&lt;p&gt;Any kind of optimizing behavior can be viewed as optimizing to minimize a distance or difference between the desired and actual situation. Which means you need to be able to detect differences. If we are goal-achieving machines, we must also be difference-detecting machines.&lt;/p&gt;
-
-&lt;p&gt;Moreover, there are some computational models that fit psychophysics data quite well, like &lt;a href=&quot;http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.2644&quot;&gt;Waltz Filtering&lt;/a&gt;, where you can view the process of visually parsing a line drawing, as an optimization problem where we try to minimize the number of inconsistencies in interpretations of the drawing as representing a 3-d object. (Unreconcilable inconsistencies lead to &lt;a href=&quot;https://en.wikipedia.org/wiki/Impossible_object&quot;&gt;impossible figures&lt;/a&gt;, where we “see” the figure as representing a 3-d form locally, but then can’t extend that same interpretation consistently to the whole figure.)&lt;/p&gt;
-
-&lt;p&gt;Psychophysics data also tells us that our sensory perceptions are keyed to differences, not absolute magnitudes; far more people have relative pitch than absolute pitch, for instance, and our color perceptions are relative to background and lighting, not absolute.  Detecting “same or different?” seems to be more “primitive” or “fundamental” an operation in the brain than detecting “how much?”  In many cases, at least, it seems that we have “difference detectors” and construct absolute measurements out of those, rather than having “absolute magnitude detectors” and computing differences by subtracting them.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Resolving Contradictions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“A” and “Not A” is a flat contradiction – an impossibility.  The mind boggles. It cannot be.&lt;/p&gt;
-
-&lt;p&gt;But not all differences, of course, are impossibilities. It’s possible to notice that a dress has fabric in two different colors, and this doesn’t slow us down a bit.  &lt;/p&gt;
-
-&lt;p&gt;What happens is a kind of “going meta”, I think.  You say “oh, no problem: it’s A here, and not-A there.”  Distinction by dividing up the mental world. “Hey, A and not-A, you can share.”  Now there is no contradiction and everything is hunky-dory.&lt;/p&gt;
-
-&lt;p&gt;Or, you can explain away one half of the contradiction: “oh, I only believed not-A because I was misled by such-and-such; now I can safely discard it as a mistake.”  Again, no problem.&lt;/p&gt;
-
-&lt;p&gt;Or, you can reframe A and not-A so they are both parts of a whole, or not really opposites after all.  There are a lot of things you can do.&lt;/p&gt;
-
-&lt;p&gt;Essentially what you’re doing is handling an &lt;a href=&quot;https://intelligence.org/files/OntologicalCrises.pdf&quot;&gt;ontological crisis&lt;/a&gt;.  You resolve an apparent contradiction by adding some complexity to your mental world, such that both apparently contradicting mental objects are compatible and explainable (or explain-away-able) by your new, expanded view of the world.  It’s the process of noticing that the blind men were seeing different parts of the elephant.&lt;/p&gt;
-
-&lt;p&gt;There seems to be a contradiction, but really, if you shake it all around, if you learn more, if you do some trial and error, you can get into a new configuration where the knot untangles and it all makes sense.&lt;/p&gt;
-
-&lt;p&gt;This is what “thinking” is, I believe. Messing around with your mental objects until apparent contradictions resolve.  &lt;/p&gt;
-
-&lt;p&gt;And this tells us what it means to believe in an external “world.”  It means that you believe that your space of mental objects will come to include things that it does not yet include, but which recontextualize today’s apparent contradictions so they make sense.&lt;/p&gt;
-
-&lt;p&gt;It means &lt;a href=&quot;https://www.youtube.com/watch?v=GIol4aENNEw&quot;&gt;“we will understand it better by and by.”&lt;/a&gt;  Everything has an explanation; everything came from the same world.  If we took a wide enough view, everything would make sense.&lt;/p&gt;
-
-&lt;p&gt;It is a kind of faith, but a very minimal sort – the faith that you live in an intelligible universe, that ultimately you can make more and more sense of things.  Or the stance of trying to see things from the perspective of how they would look once you had made sense of them.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solving Problems Is What Brains Like Doing&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Lulie Tanett likes to write about how “reason is fun” and &lt;a href=&quot;http://www.reasonisfun.com/blog/problems-are-good/&quot;&gt;“problems are good”&lt;/a&gt; – that humans literally enjoy the process of problem-solving.  &lt;/p&gt;
-
-&lt;p&gt;If you think about it, most of our “play” is puzzle-solving – trying to achieve an objective despite an apparent obstacle, or trying to make sense of something initially confusing. Videogames are puzzles even when they’re not “puzzle games”. Sports are puzzles.  Even reading or watching a work of fiction, or listening to music, gets much of its “fun” from a dance between predictability and surprise (and ultimate resolution of the apparent mystery or discordance.) Many of the things we do for no reason other than enjoyment are problem-solving activities.&lt;/p&gt;
-
-&lt;p&gt;We have an instinctive desire to tug on problems in attempts to solve them. That doesn’t mean all problems are perceived as unpleasant.  Sometimes the “problem-solving” happens faster than we can be aware of it; sometimes the process itself is pleasurable. Only sometimes do we have a negative feeling around the problem, and it’s not merely because the problem exists.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Suffering = Problems Metastasizing&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Just having a problem – your conscious mind includes both “A” and “Not A” – doesn’t necessarily cause suffering. But if you then go “there IS a contradiction” and “but there CAN’T be a contradiction”, then things start to get worse. Or “I have mixed feelings” but “but I MUSTN’T have mixed feelings”, or “this is hard” and “but it SHOULDN’T be hard”, and so on. Somehow a problem can result in, not an attempt at resolution, but more problems!  More contradictory beliefs, which vibrate against each other, and make more and more friction in your mind.&lt;/p&gt;
-
-&lt;p&gt;I think this is usually what’s going on when something really bothers us.  Have you ever noticed that sometimes a big life problem stops being upsetting, not when it goes away, but when you find something you can do about it?  You flip out of “bemoaning and denying that the issue is there at all”, focus instead on some constructive activity toward solving the issue, and suddenly it gets easier? Because now all you have to cope with is the issue itself, not the exhausting “is it real or isn’t it”, “should I admit it hurts or tough it out”, internal debates. You now have one less problem to solve.&lt;/p&gt;
-
-&lt;p&gt;If you have problems about problems, issues about issues, etc, it gets much harder to deal with them. These are psychological truisms: negative emotions are worse if you’re ashamed of feeling them; abuse is harder to recover from if everyone around you insists it’s not real; dealing with misfortune is harder if you’re still in denial about it.  &lt;/p&gt;
-
-&lt;p&gt;Having a “meta-problem” means having an internal contradiction around the concept of the problem itself.  “This problem exists” and “this problem doesn’t exist” battle in your head. Trying to believe in a contradiction, trying to do the literally impossible, maintaining the conviction that you should be able to believe contradictions or do the impossible – all of these are ways of making meta-problems out of problems.&lt;/p&gt;
-
-&lt;p&gt;The Buddhist concept of &lt;a href=&quot;https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81&quot;&gt;tanha&lt;/a&gt; is usually translated as “craving” or “desire”, but it literally means “fuel” and is associated with clinging or persistence, trying to make mental states stick around.  If I were to try to map it to this model, I’d say that tanha is the mental motion of returning to a contradiction or a knot in the mind, and trying to will it to not be a knot, thereby creating a bigger meta-knot.  It’s what you do when you remind yourself of a frustration in a way that makes it more and more frustrating.  You keep the contradiction bouncing back and forth, louder and louder – it IS, but it SHOULDN’T BE, and moreover nothing should BE HOW IT SHOULDN’T, but some people told me I should ACCEPT THINGS AS THEY ARE, but I DON’T LIKE THAT…&lt;/p&gt;
-
-&lt;p&gt;That “outward spiral” makes it harder and harder to resolve the problem at the root of the whole thing, because every time you notice it, it activates all the other meta-problems.  I think this is the structural underpinning of what we experience as negative emotions, “touchy subjects”, and “sore spots.”  They’re wounds that defend themselves from healing.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, if we believe in a world, we must believe that this process too comes from the world, that there is a reason why problems sometimes grow their own defenses. But it’s tricky and deserves exploration at length.  You’re looking at a process that doesn’t “want” to be looked at.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html">Mental Objects</summary></entry></feed>
+&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry></feed>
