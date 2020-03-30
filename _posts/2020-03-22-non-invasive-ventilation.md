@@ -4,7 +4,7 @@ title: How Effective is Non-Invasive Ventilation in COVID-19?
 tags: [covid-19, lit-review]
 ---
 
-![cpapman]({{ site.baseurl }}/images/cpapman.jpg){:height="250px"}
+![cpapman]({{ site.baseurl }}/images/totalfacemask.jpg)
 
 Does non-invasive ventilation even work in critically ill COVID-19 patients?
 
