@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-30T10:21:28-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Home Care for Mild COVID-19</title><link href="/2020/03/27/home-care-mild-COVID19.html" rel="alternate" type="text/html" title="Home Care for Mild COVID-19" /><published>2020-03-27T00:00:00-06:00</published><updated>2020-03-27T00:00:00-06:00</updated><id>/2020/03/27/home-care-mild-COVID19</id><content type="html" xml:base="/2020/03/27/home-care-mild-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/sick-mom.png&quot; alt=&quot;sickmom&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-31T13:03:22-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Disinfectants and Anti-Microbial Surfaces Against COVID-19</title><link href="/2020/03/31/disinfectants.html" rel="alternate" type="text/html" title="Disinfectants and Anti-Microbial Surfaces Against COVID-19" /><published>2020-03-31T00:00:00-06:00</published><updated>2020-03-31T00:00:00-06:00</updated><id>/2020/03/31/disinfectants</id><content type="html" xml:base="/2020/03/31/disinfectants.html">&lt;p&gt;&lt;img src=&quot;/images/1200px-NatCopper.jpg&quot; alt=&quot;copper&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A little good news on the COVID-19 front: yes, you can kill the virus on surfaces, with easily available disinfectants.&lt;/p&gt;
+
+&lt;p&gt;Copper surfaces, silver particles, alcohol-based disinfectants, and UV light will kill the virus.  Frequently touched items, especially in public places, should probably just be irradiated with UVC light and/or coated with copper as a routine prevention measure.&lt;/p&gt;
+
+&lt;p&gt;(Regular UV light is an effective disinfectant but can also blind people and burn skin; UVC is a shorter wavelength, equally effective against microbes but not harmful to eyes or skin.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do Copper Surfaces Kill/Inactivate Coronaviruses?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In an experiment with aerosolized SARS-CoV-2 and SARS-CoV-1, at 21-23 degrees C and 40% humidity, both reached undetectable levels within 8 hours exposure to copper; by contrast, they lasted 72 hours on stainless steel and plastic.[1]&lt;/p&gt;
+
+&lt;p&gt;H1N1 influenza, which was another pandemic virus, though not a coronavirus, lasted significantly less time on copper than stainless steel; 10^5 viable viruses after 24 hours on stainless steel vs. 10^2 viable viruses after 2 hours on copper.[2]&lt;/p&gt;
+
+&lt;p&gt;Human coronavirus 229E remains infectious on plastic, ceramic, glass, and stainless steel for at least 5 days, was inactivated in less than 5 minutes on copper and brass when applied dry, and inactivated in less than an hour when applied in solution to metal alloys containing &amp;gt;75% copper.[4]&lt;/p&gt;
+
+&lt;p&gt;Using copper-coated surfaces in real-world environments reduces microbial contamination. In 5 residential healthcare facilities, where half of the doorknobs and handrails were coated with copper alloys while half were not, the bacterial concentration was significantly (p &amp;lt; 0.0001) lower on the copper-coated doorknobs and handrails.[5]  Similarly, when weights and grips in a gym were coated with copper alloy or left as rubber or stainless steel, the bacterial concentrations on the copper-coated surfaces were 94% lower than the controls.[6]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Silver Ion Zeolites as Anti-Microbial Surfaces&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Commercially available silver zeolite powder (AgION powder, manufactured by Sinanen Co.) completely inactivated SARS-CoV at concentrations above 375 mg/L.  &lt;/p&gt;
+
+&lt;p&gt;Zeolites are fine, talc-like powders that can be incorporated into coatings to produce antimicrobial surfaces; the FDA has approved zeolites for use in food packaging.[3]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disinfectants&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a study of 7 disinfectant liquids on the SARS coronavirus, including several with &amp;gt;80% ethanol as active ingredient, all of them significantly reduced SARS concentrations, by a factor of at least 1000.[7]&lt;/p&gt;
+
+&lt;p&gt;70%+ ethanol was effective at reducing (by a factor of &amp;gt;1000) the infectivity of both SARS and MERS coronaviruses; so was 50%+ 2-propanol, hydrogen peroxide, glutaraldehyde, formaldehyde, and povidone iodine. Chlorhexidine was not effective.[9]&lt;/p&gt;
+
+&lt;p&gt;In a study of human coronaviruses 229E and OC43, soap, bleach, and Proviodine (the active ingredient was iodine) all completely inactivated the viruses.[8]&lt;/p&gt;
+
+&lt;p&gt;Axe dishwashing detergent, sodium hypochlorite solution, and the disinfectant Virkon S, all killed SARS-CoV virus by a factor of at least 1000.[10]&lt;/p&gt;
+
+&lt;p&gt;Against two coronaviruses, mouse hepatitis virus and transmissible gastroenteritis virus, a solution of 70% ethanol reduced viral infectivity by a factor of &amp;gt;1000; phenolic, sodium hypochlorite, and orthopthalaldehyde did not.[11]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UVC Radiation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Exposure of SARS virus to UVC radiation for six minutes results in a 400-fold reduction in infectivity.  UVA and gamma radiation did not affect infectivity.[12]  Another study of SARS found 1000-fold inactivation from 15 minutes of exposure to UVC.[13]&lt;/p&gt;
+
+&lt;p&gt;A study of Ebola virus and MERS virus found that UVC light at &amp;gt;0.1 J/cm^2 reduced infectivity more than 5000-fold in both.  Methylene blue plus light at &amp;gt;30 J/cm^2 also reduced infectivity 2000-fold in both.[14]&lt;/p&gt;
+
+&lt;p&gt;Far-UVC light (207-222 nm) inactivates bacteria without harm to human skin.  It also reduces H1N1 infectivity by 100-fold at low doses: 2 mJ/cm^2.[15]&lt;/p&gt;
+
+&lt;p&gt;222-nm far-UVC light applied to a mouse wound where MRSA bacteria had been spread reduced skin bacteria concentrations by &amp;gt;1000-fold, just like 254-nm conventional antimicrobial UV irradiation, but only the 254-nm light increased skin thickness significantly ( a measure of skin damage.)[16]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]van Doremalen, Neeltje, et al. “Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1.” New England Journal of Medicine (2020).&lt;/p&gt;
+
+&lt;p&gt;[2]Otter, J. A., et al. “Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination.” Journal of Hospital Infection 92.3 (2016): 235-250.&lt;/p&gt;
+
+&lt;p&gt;[3]Feied, Craig. “Novel Antimicrobial Surface Coatings and the Potential for Reduced Fomite Transmission of SARS and Other Pathogens.” (2004): 1-22.&lt;/p&gt;
+
+&lt;p&gt;[4]Warnes, Sarah L., Zoë R. Little, and C. William Keevil. “Human coronavirus 229E remains infectious on common touch surface materials.” MBio 6.6 (2015): e01697-15.&lt;/p&gt;
+
+&lt;p&gt;[5]Colin, Marius, et al. “Copper alloy touch surfaces in healthcare facilities: an effective solution to prevent bacterial spreading.” Materials 11.12 (2018): 2479.&lt;/p&gt;
+
+&lt;p&gt;[6]Ibrahim, Zina, et al. “Reduction of bacterial burden by copper alloys on high-touch athletic center surfaces.” American journal of infection control 46.2 (2018): 197-201.&lt;/p&gt;
+
+&lt;p&gt;[7]Rabenau, H. F., et al. “Efficacy of various disinfectants against SARS coronavirus.” Journal of Hospital Infection 61.2 (2005): 107-111.&lt;/p&gt;
+
+&lt;p&gt;[8]Sizun, J., M. W. N. Yu, and P. J. Talbot. “Survival of human coronaviruses 229E and OC43 in suspension and after drying onsurfaces: a possible source ofhospital-acquired infections.” Journal of Hospital Infection 46.1 (2000): 55-60.&lt;/p&gt;
+
+&lt;p&gt;[9]Kampf, Günter, et al. “Persistence of coronaviruses on inanimate surfaces and its inactivation with biocidal agents.” Journal of Hospital Infection (2020).&lt;/p&gt;
+
+&lt;p&gt;[10]Lai, Mary YY, Peter KC Cheng, and Wilina WL Lim. “Survival of severe acute respiratory syndrome coronavirus.” Clinical Infectious Diseases 41.7 (2005): e67-e71.&lt;/p&gt;
+
+&lt;p&gt;[11]Hulkower, Rachel L., et al. “Inactivation of surrogate coronaviruses on hard surfaces by health care germicides.” American journal of infection control 39.5 (2011): 401-407.&lt;/p&gt;
+
+&lt;p&gt;[12]Darnell, Miriam ER, et al. “Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV.” Journal of virological methods 121.1 (2004): 85-91.&lt;/p&gt;
+
+&lt;p&gt;[13]Darnell, Miriam ER, and Deborah R. Taylor. “Evaluation of inactivation methods for severe acute respiratory syndrome coronavirus in noncellular blood products.” Transfusion 46.10 (2006): 1770-1777.&lt;/p&gt;
+
+&lt;p&gt;[14]Eickmann, Markus, et al. “Inactivation of Ebola virus and Middle East respiratory syndrome coronavirus in platelet concentrates and plasma by ultraviolet C light and methylene blue plus visible light, respectively.” Transfusion 58.9 (2018): 2202-2207.&lt;/p&gt;
+
+&lt;p&gt;[15]Welch, David, et al. “Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases.” Scientific Reports 8.1 (2018): 1-7.&lt;/p&gt;
+
+&lt;p&gt;[16]Ponnaiya, Brian, et al. “Far-UVC light prevents MRSA infection of superficial wounds in vivo.” PloS one 13.2 (2018).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Home Care for Mild COVID-19</title><link href="/2020/03/27/home-care-mild-COVID19.html" rel="alternate" type="text/html" title="Home Care for Mild COVID-19" /><published>2020-03-27T00:00:00-06:00</published><updated>2020-03-27T00:00:00-06:00</updated><id>/2020/03/27/home-care-mild-COVID19</id><content type="html" xml:base="/2020/03/27/home-care-mild-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/sick-mom.png&quot; alt=&quot;sickmom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What Should You Do For A Mild Case of COVID-19?&lt;/strong&gt;&lt;/p&gt;
 
@@ -859,32 +937,4 @@ I want it to be searchable and all in one place, and I want to own my own data.&
 
 &lt;p&gt;On this site I’ll be aggregating my old posts from &lt;a href=&quot;https://srconstantin.wordpress.com&quot;&gt;Otium&lt;/a&gt;, my &lt;a href=&quot;https://srconstantin.posthaven.com&quot;&gt;Posthaven site&lt;/a&gt;, &lt;a href=&quot;https://parentingwithevidence.wordpress.com&quot;&gt;Parenting with Evidence&lt;/a&gt;, and the now defunct Hourglass Bio.&lt;/p&gt;
 
-&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 2 – Motivated Cognition and Its Opposite</title><link href="/2020/02/24/tangled-thinking-2.html" rel="alternate" type="text/html" title="Tangled Thinking 2 -- Motivated Cognition and Its Opposite" /><published>2020-02-24T00:00:00-07:00</published><updated>2020-02-24T00:00:00-07:00</updated><id>/2020/02/24/tangled-thinking-2</id><content type="html" xml:base="/2020/02/24/tangled-thinking-2.html">&lt;p&gt;&lt;img src=&quot;/images/escherlizards.jpeg&quot; alt=&quot;lizards&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Motivated cognition is the state of emotionally needing to believe something is true, whether it actually is true or not. 
-I’ve found that a good kinaesthetic metaphor for motivated cognition is pressure.  If you’re forcing things with your mind – if you’re going “it’s GOT to be this way, or ELSE” – then you aren’t actually open to the truth being whatever it might happen to be.  &lt;/p&gt;
-
-&lt;p&gt;Defensiveness, anxiety, revulsion, despair, eagerness to please or to be acceptable, can motivate you to believe that the convenient and pleasant thing is true – or that the awful worst-case scenario is – or both at once (e.g. anxiety can make you fear the worst but flinch from it and profess the best-case scenario.)&lt;/p&gt;
-
-&lt;p&gt;It’s not motivated cognition for &lt;em&gt;motivation to be involved in cognition&lt;/em&gt;.  We think most clearly, in fact, when we’re motivated to do so; for instance, someone who stands to make money by making the correct prediction will be more motivated to be correct than someone who’s merely having a conversation.  &lt;/p&gt;
-
-&lt;p&gt;In fact, I think motivation is &lt;em&gt;essential&lt;/em&gt; to all the words we use to talk about thinking well  – rationality, wisdom, objectivity, science, empiricism, common sense, &lt;a href=&quot;https://www.lesswrong.com/posts/tMhEv28KJYWsu6Wdo/kensh&quot;&gt;“Looking”&lt;/a&gt;, etc. These words get corrupted by connotations of smugness, coldness, superiority, or authoritarianism, and new words have to be continually invented to point at the same thing the old words were intended to point at.  The &lt;em&gt;thing itself&lt;/em&gt; is, perhaps, best described as “thinking in the way everyone naturally does when they actually care about the object of their thought.”  &lt;/p&gt;
-
-&lt;p&gt;If you care about the thing in the real world, you will not want to be wrong about it; a delusion, however pleasant, won’t give you what you want.  You still can be wrong about it, of course, but your incentives are to be as correct as you can be.  A certain amount of pretense and posturing and game-playing may drop away suddenly when, for instance, you find your child’s safety is at stake; suddenly it is vitally important to get real.&lt;/p&gt;
-
-&lt;p&gt;(Of course, phrases like “get real”, “be sensible”, “be reasonable”, often are used to mean “shut up and do what I tell you”, which is &lt;em&gt;not&lt;/em&gt; the thing. A person who Actually Cares about getting something done may often be perceived as an unreasonable or irrational person, because she is doing something that doesn’t meet with everyone’s approval.)&lt;/p&gt;
-
-&lt;p&gt;There’s something related about words like “literally”, “truly”, “actually”, “really”, “very”, “honestly” – and it’s telling that over time language evolves to make them all used as words for emphasis instead of denoting literal exact truth.  It’s hard to find a way to phrase in words “I’m pointing at reality now” as opposed to pointing at a model of reality, or playing a game with language, or speaking ‘in character’ as the persona you want to embody right now.  &lt;/p&gt;
-
-&lt;p&gt;Notions like “rationality” are attempts to encourage people to think and speak literally rather than performatively.&lt;/p&gt;
-
-&lt;p&gt;It seems like sort of a mistake to present them as a specialized discipline to be taught rather than a stance to be adopted that most people naturally have by default from time to time. Doing science doesn’t actually involve going through The Scientific Method as you’re taught in elementary school; but while there may not really be a Scientific Method, there is definitely a scientific mindset. It’s the same mindset you have automatically when you’re curious. 
- 
-If you try to codify how people think when they’re being curious, it winds up sounding like nothing at all.  “Just, y’know, think! Look! Care! Try!”
-Or it comes across as condescending: “Most people go through life never actually trying! You should actually try!” There’s not much content to this, but the “actually” is gesturing at something: the rubber meeting the road, the moon and not the pointing finger. &lt;/p&gt;
-
-&lt;p&gt;By contrast, motivated cognition is being motivated to have certain cognitions, inside your head, rather than being motivated to seek outcomes out in the world.&lt;/p&gt;
-
-&lt;p&gt;It’s kind of weird that we have this feature at all. Why would we have evolved to self-deceive? If an apparently self-destructive behavior is common, this cries out for explanation.&lt;/p&gt;
-
-&lt;p&gt;Why do we (often) care more about the insides of our heads than what’s going on outside them?&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;I’ll cross-promote posts on &lt;a href=&quot;//https://twitter.com/s_r_constantin&quot;&gt;Twitter&lt;/a&gt; (where my handle is @s_r_constantin) and, of course, you can subscribe using RSS.&lt;/p&gt;</content><author><name></name></author><category term="blog-meta" /><summary type="html"></summary></entry></feed>
