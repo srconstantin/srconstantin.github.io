@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Comprehensive PPE Project List
-tags: [aging, lit-review]
+tags: [covid-19, lit-review]
 ---
 
 ![virus]({{ site.baseurl }}/images/face_shield.jpeg)
