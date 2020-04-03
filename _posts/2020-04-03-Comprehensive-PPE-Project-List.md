@@ -4,7 +4,7 @@ title: Comprehensive PPE Project List
 tags: [covid-19, lit-review]
 ---
 
-![virus]({{ site.baseurl }}/images/face_shield.jpeg)
+![shield]({{ site.baseurl }}/images/face_shield.jpg)
 
 The COVID19 crisis has caused a severe shortage of personal protective equipment (PPE) for healthcare workers. Masks, face shields, respirators, and other supplies help keep the people who care for COVID19 patients from getting sick themselves.  
 
