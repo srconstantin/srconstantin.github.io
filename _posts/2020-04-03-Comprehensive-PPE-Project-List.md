@@ -116,7 +116,7 @@ These may provide a better seal and more filter protection than cloth masks, tho
 *   [Swim Mask PAPR](https://www.instructables.com/id/COVID-Swim-Mask-HEPA-PAPR/), designed by a gastroenterologist
 *   [Wasp Space Helmet](https://www.3dwasp.com/en/protection-helmet-with-ventilation/) 3d printed, ventilated & filtered helmet
 
-**Noninvasive Ventilator Masks **
+**Noninvasive Ventilator Masks**
 
 
 
@@ -183,7 +183,7 @@ These may provide a better seal and more filter protection than cloth masks, tho
 
 I’m not including here all the organizations that are donating PPE or money for the COVID19 effort, only orgs that a potential donor (like you!) could use to get PPE where it needs to go.  
 
-There has been a _lot_of corporate and individual philanthropy and it’s not worth tabulating everyone who has donated to date.
+There has been a _lot_ of corporate and individual philanthropy and it’s not worth tabulating everyone who has donated to date.
 
 
 
