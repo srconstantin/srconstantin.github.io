@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-03T13:38:44-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Comprehensive PPE Project List</title><link href="/2020/04/03/Comprehensive-PPE-Project-List.html" rel="alternate" type="text/html" title="Comprehensive PPE Project List" /><published>2020-04-03T00:00:00-06:00</published><updated>2020-04-03T00:00:00-06:00</updated><id>/2020/04/03/Comprehensive-PPE-Project-List</id><content type="html" xml:base="/2020/04/03/Comprehensive-PPE-Project-List.html">&lt;p&gt;&lt;img src=&quot;/images/face_shield.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-05T20:12:45-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
+
+&lt;p&gt;CPAP stands for continuous positive airway pressure, and refers to a device that blows a steady stream of air into the lungs (which may be supplemented with extra oxygen) to help patients who have moderate difficulty breathing independently.  It may reduce the need for ventilation, which is crucial when ventilators are scarce.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-020-00926-4&quot;&gt;Nature&lt;/a&gt;&lt;/em&gt; reports on a team of clinicians from the UK, China, and Italy using a CPAP device, now being used in &lt;a href=&quot;https://www.bmj.com/content/368/bmj.m1294.full&quot;&gt;clinical trials&lt;/a&gt; at University College London Hospital.  These machines have been widely used in Italy, where they prevented the need for ventilation in 50% of patients. (A prospective study on the effectiveness of CPAP on COVID-19 in Italy is &lt;a href=&quot;https://clinicaltrials.gov/ct2/show/NCT04307459?term=covid-19+cpap&amp;amp;draw=2&quot;&gt;ongoing&lt;/a&gt;; in &lt;a href=&quot;https://srconstantin.github.io/2020/03/22/non-invasive-ventilation.html&quot;&gt;China&lt;/a&gt;, non-invasive ventilation such as CPAP successfully avoided the need for invasive ventilation in 77% of treated patients.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2020/03/30/tech/mercedes-f1-breathing-aid-coronavirus/index.html&quot;&gt;Mercedes F1&lt;/a&gt; engineers designed the device, which can be quickly mass produced and has been recommended for use by the UK Medicines and Healthcare Products Regulatory Agency.&lt;/p&gt;
+
+&lt;p&gt;In the US, Elon Musk has been &lt;a href=&quot;https://www.teslarati.com/tesla-elon-musk-cpap-ventilator-coronavirus/&quot;&gt;donating CPAP/BiPAP machines&lt;/a&gt; to hospitals; these machines can be converted into ventilators if necessary, or used as-is on patients with milder respiratory distress to prevent them needing invasive (and scarce) mechanical ventilation.&lt;/p&gt;
+
+&lt;p&gt;CPAP and BiPAP for respiratory disorders are &lt;a href=&quot;https://www.npr.org/sections/health-shots/2020/03/27/822211604/cpap-machines-were-seen-as-ventilator-alternatives-but-could-spread-covid-19&quot;&gt;controversial&lt;/a&gt;, as they are considered “aerosol generating procedures” that could spread particles of the virus around. However, evidence suggests that these non-invasive ventilation procedures actually produce &lt;a href=&quot;https://srconstantin.github.io/2020/03/22/contagion-risk-from-NIV.html&quot;&gt;droplets rather than aerosols&lt;/a&gt;, larger particles which usually land less than one meter from the patient, and CPAP masks don’t leak much exhaled air (less than a meter away from the patient) when the mask is a good fit, as a 2019 Hong Kong study &lt;a href=&quot;https://sci-hub.tw/10.1183/13993003.02339-2018&quot;&gt;showed.&lt;/a&gt;  ResMed, the leading manufacturer of CPAP machines, recommends that they be used in COVID-19 patients only when caregivers have protective equipment such as &lt;a href=&quot;https://www.resmed.com/en-us/covid-19/?utm_source=vanity&amp;amp;utm_medium=print&amp;amp;utm_content=covid19&amp;amp;utm_campaign=covid19-update&quot;&gt;N95 masks and eye protection.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Even the WHO’s guidance on treatment of &lt;a href=&quot;https://apps.who.int/iris/bitstream/handle/10665/331446/WHO-2019-nCoV-clinical-2020.4-eng.pdf&quot;&gt;COVID-19 &lt;/a&gt;acknowledges a place for CPAP and BiPAP machines.  The document recommends patients be given non-invasive ventilation only in monitored circumstances where they can be intubated and placed on mechanical ventilation if their condition worsens, but it still offers CPAP as an option, particularly in the case of children in low-resource settings.&lt;/p&gt;
+
+&lt;p&gt;The FDA’s new guidance on COVID-19 clears the way for modifying respiratory support devices without needing to get the modifications separately approved, including the use of CPAP machines in COVID-19: __&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_Wherever possible, health care facilities should use FDA-cleared conventional/standard full- featured ventilators when necessary to support patients with respiratory failure, or a device subject to an Emergency Use Authorization (EUA), if any. However, to help ensure the availability of the greatest possible number of devices for this purpose, and as described in more detail below, FDA does not intend to object to limited modifications to the indications, claims, functionality, or to the hardware, software, or materials of FDA-cleared devices used to support patients with respiratory failure or respiratory insufficiency, without prior submission of a premarket notification under section 510(k) of the FD&amp;amp;C Act and 21 CFR 807.81 , for the duration of the declared public health emergency…_
+
+
+_Examples of circumstances where FDA currently believes a modification would not create such undue risk include:_
+
+
+_1) The use of powered emergency ventilators and anesthesia gas machines for patients needing mechanical ventilation; _
+
+
+_2) The use of ventilators outside their cleared environment of use (for example, use of a ventilator in a health care facility when it is only cleared for use at home or during transport);_
+
+
+_3) **The use of devices indicated for sleep apnea (including noncontinuous ventilators delivering continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP)) to treat patients with respiratory insufficiency, provided that appropriate design mitigations are in place to minimize aerosolization**;_
+
+
+_4) The use of oxygen concentrators for primary supply when medically necessary and clinically appropriate._
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s time to give CPAP for COVID-19 a second look. Yes, it can disperse air, but the evidence that it spreads disease particles is ambiguous at best; and the risks can be mitigated by using full-face masks with good seals, using filters on the exhaust vents, and making sure medical staff have adequate protective equipment. We know from past pandemics and some early retrospective data in COVID-19 that a sizable fraction of patients improve on CPAP alone without intubation; in a world where invasive ventilation may not be an option for an overwhelmed healthcare system, that means saving lives.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Comprehensive PPE Project List</title><link href="/2020/04/03/Comprehensive-PPE-Project-List.html" rel="alternate" type="text/html" title="Comprehensive PPE Project List" /><published>2020-04-03T00:00:00-06:00</published><updated>2020-04-03T00:00:00-06:00</updated><id>/2020/04/03/Comprehensive-PPE-Project-List</id><content type="html" xml:base="/2020/04/03/Comprehensive-PPE-Project-List.html">&lt;p&gt;&lt;img src=&quot;/images/face_shield.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The COVID19 crisis has caused a severe shortage of personal protective equipment (PPE) for healthcare workers. Masks, face shields, respirators, and other supplies help keep the people who care for COVID19 patients from getting sick themselves.&lt;/p&gt;
 
@@ -1115,122 +1151,4 @@ Infection prevention entails reducing aerosol-generating procedures (i.e., airwa
 
 &lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
 
-&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry><entry><title type="html">COVID-19 Risks For Young People</title><link href="/2020/03/16/COVID-19-young-people-risks.html" rel="alternate" type="text/html" title="COVID-19 Risks For Young People" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-young-people-risks</id><content type="html" xml:base="/2020/03/16/COVID-19-young-people-risks.html">&lt;p&gt;&lt;img src=&quot;/images/N95mask.jpeg&quot; alt=&quot;maskpic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This analysis was commissioned by the Open Philanthropy Project and shared with their permission.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-the-true-case-fatality-rate-for-young-people&quot;&gt;What Is The True Case Fatality Rate For Young People?&lt;/h2&gt;
-
-&lt;p&gt;The Chinese data says 0.2% for ages 0-39 but this may be misleading for a several reasons:&lt;/p&gt;
-
-&lt;p&gt;a.) only includes data up to Feb. 11&lt;/p&gt;
-
-&lt;p&gt;b.) may be biased upwards, because the overall case fatality rate was higher in the early days of the Wuhan outbreak while hospitals were overwhelmed&lt;/p&gt;
-
-&lt;p&gt;c.) may be biased upwards, because cases that had only mild symptoms might never have been reported or tested&lt;/p&gt;
-
-&lt;p&gt;d.) may be biased downwards, not counting the higher death rates from people who never got access to a hospital and so never got diagnosed&lt;/p&gt;
-
-&lt;p&gt;Using the &lt;a href=&quot;https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data&quot;&gt;Johns Hopkins data&lt;/a&gt;, which is current up to March 4th, the overall/cumulative case fatality rate in China is 3.4%, and the case fatality rate outside China is 1.8%.  This lower number may be more predictive of the current case fatality rate since the case fatality rate inside China has dropped over time, from 17% (in January) to under 2% by Feb. 20th, as more individuals have been tested and hospital resources have been mobilized.&lt;/p&gt;
-
-&lt;p&gt;The overall case recovery rate from the Johns Hopkins data is 54% worldwide but only 8% outside China. This may simply indicate recency; according to the &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf&quot;&gt;WHO&lt;/a&gt;, mild cases take 2 weeks to recover and severe cases take 3-6 weeks. Or it may indicate that countries outside China are not following up with confirmed cases.&lt;/p&gt;
-
-&lt;p&gt;According to the &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;Chinese data&lt;/a&gt; on 72,314 cases of COVID-19 (which gives ages for cases, unlike the global data) only about 10% of cases were in people younger than 30, and only 1% of the deaths among confirmed cases were in people younger than 30.  27% of the cases were in people younger than 40, and 2.5% of the deaths. While reporting of cases of coronavirus can be expected to be biased to more severe cases, there is no systematic reason why cases of similar severity would be more or less likely to be reported based on age, so the 10% case risk seems like a credible estimate.&lt;/p&gt;
-
-&lt;p&gt;A sample of &lt;a href=&quot;https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext&quot;&gt;509 cases&lt;/a&gt; whose demographic information was reported in the media, including cases from outside China, found that 12% of cases were younger than 30, which is similar to the Chinese figure; the sample included no deaths in patients younger than 30.&lt;/p&gt;
-
-&lt;p&gt;South Korea may be our best possible estimate of the true case fatality rate, since it is a developed country with a very extensive testing program of more than &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-of-thousands-to-fight-virus-outbreak&quot;&gt;140,000 people&lt;/a&gt; to date. It has &lt;a href=&quot;https://www.businessinsider.com/coronavirus-new-cases-soar-south-korea-slow-in-china-2020-3&quot;&gt;6088 cases and 37 deaths&lt;/a&gt;, or a 0.6% case fatality rate.  In Korea, 35.2% of all cases were in people under 30, and 46.2% under age 40, but there have been no fatalities for people under 30.  There was 1 death of a person age 30-39, out of 693 cases in that age range.  This suggests that in a country with extensive testing for COVID-19, young people are more likely to contract the disease than the Chinese numbers would suggest, but no more likely to die of it. In fact, Korean case fatality rates across all age groups are lower than the corresponding Chinese case fatality rates.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/&quot;&gt;“At least 11 people have died of the COVID-19 disease in the U.S., all but one of them in Washington state, and most of them from a single nursing home in the Seattle area. The other death occurred in California, just outside Sacramento. The coronavirus has been confirmed in 17 states so far.”&lt;/a&gt;, according to a news article on March 5.  Since the number of US cases to date is currently 211, this gives a whopping 5% case fatality rate, but this number is likely inaccurate since the US is barely testing at all for COVID-19.  We don’t have enough data on US cases to get a believable US-specific case fatality rate by age group, but the pattern of deaths is consistent with the story that the disease is much more deadly for the elderly than for younger people.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusion: the true case fatality rate for Americans under age 40 is likely to be LOWER than the Chinese estimate of 0.2%.  The proportion of COVID-19 cases under age 40 is likely to be HIGHER than the Chinese estimate of 27%, perhaps as high as the Korean estimate of 46%.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;chronic-non-fatal-sequelae-of-covid-19&quot;&gt;Chronic Non-Fatal Sequelae of COVID-19&lt;/h2&gt;
-
-&lt;p&gt;Neurological manifestations of COVID-19 may be relatively common: 78 out of 214 patients in one &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/25/2020.02.22.20026500.full.pdf]&quot;&gt;hospital study&lt;/a&gt;, or 36%, had neurological symptoms, most commonly muscle injury and loss of consciousness, but also a few cases of stroke.&lt;/p&gt;
-
-&lt;p&gt;There was a &lt;a href=&quot;https://link.springer.com/article/10.1007/s00415-020-09773-9&quot;&gt;case study&lt;/a&gt; of a 62-year-old man in Wuhan who presented with oculomotor nerve palsy and whose throat swab tested positive for 2019-nCOV.  Other possible causes of the nerve palsy, such as stroke, diabetic neuropathy, brain tumor, and Guillain-Barre syndrome were ruled out, so his doctors hypothesized that the virus caused the nerve failure.&lt;/p&gt;
-
-&lt;p&gt;Another &lt;a href=&quot;http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm&quot;&gt;case&lt;/a&gt; of COVID-19, in Beijing, was confirmed to contain the virus in cerebrospinal fluid, in the first case of viral encephalitis due to COVID-19.&lt;/p&gt;
-
-&lt;p&gt;There is evidence that COVID-19 can infiltrate the central nervous system, and evidence that neurological symptoms are common during COVID-19 infection, but it’s not as yet clear whether the neurological symptoms are usually caused by the virus infiltrating nerve and muscle tissue or whether they’re caused by other organ damage, by the treatments for COVID-19, or by the body’s inflammatory response.&lt;/p&gt;
-
-&lt;p&gt;SARS, an earlier coronavirus epidemic, did frequently cause chronic sequelae.&lt;/p&gt;
-
-&lt;p&gt;Out of 233 formerly hospitalized SARS survivors in one &lt;a href=&quot;https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378&quot;&gt;follow-up study&lt;/a&gt;, 27.1% met the criteria for chronic fatigue syndrome, 40% had a psychiatric disorder, and 40% mentioned a chronic fatigue problem. Only 3%, by contrast, had a psychiatric disorder before contracting SARS; this indicates that SARS may have caused psychiatric problems. (Relatedly, the most common psychiatric disorder was post-traumatic stress disorder.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Johnny_Chan9/publication/228620287_Severe_Acute_Respiratory_Syndrome_SARS_A_Brief_Review_With_Exploration_of_the_Outcomes_Prognostic_Factors_and_Sequelae/links/541157e90cf2f2b29a412dc0.pdf&quot;&gt;Half of SARS survivors&lt;/a&gt;  who were hospitalized experienced mild reduction in pulmonary function even 3 months after being discharged from the hospital.  30-45% of survivors had bone necrosis in their hips or knees; this may be a consequence of the long-term use of corticosteroids in treating SARS.&lt;/p&gt;
-
-&lt;p&gt;SARS has been found in one &lt;a href=&quot;https://academic.oup.com/clinchem/article/49/12/2108/5642159&quot;&gt;case&lt;/a&gt; to infiltrate the cerebrospinal fluid, causing seizures.&lt;/p&gt;
-
-&lt;p&gt;Neurological symptoms are &lt;a href=&quot;http://www.ant-tnsjournal.com/Mag_Files/14-3/14-3_p113.pdf&quot;&gt;uncommon but possible&lt;/a&gt; in SARS; out of 664 SARS patients in Taiwan, eight (1%) were found to have neurological disorders: neuropathy, myopathy, and rhabdomyolysis.  5 out of 206 SARS patients in Singapore, or 2%, had strokes, while none had risk factors for strokes; this may be because SARS, like some other viral infections, causes a hypercoagulable state. These neuromuscular symptoms look similar to the ones observed in COVID-19.&lt;/p&gt;
-
-&lt;p&gt;It’s reasonable to suppose that COVID-19, like SARS, can increase the risk of stroke and cause chronic nerve disorders in perhaps a few percent of patients.&lt;/p&gt;
-
-&lt;p&gt;Though we don’t yet know whether COVID-19 causes chronic fatigue, there is a plausible mechanism: virus-induced immune dysfunction.&lt;/p&gt;
-
-&lt;p&gt;COVID-19 patients have &lt;a href=&quot;https://www.medrxiv.org/content/medrxiv/early/2020/02/20/2020.02.18.20024364.full.pdf&quot;&gt;diminished T-cell levels&lt;/a&gt;, and more severe cases have a larger reduction.  75% of 522 COVID-19 patients from a Chinese hospital had low T-cell levels, with the lowest levels found in the oldest patients. Inflammatory cytokine levels (IL-6, IL-10, and TNF-alpha) was negatively correlated with T-cell count and positively correlated with the severity of the disease. This is consistent with the “cytokine storm” phenomenon, in which a spike in inflammatory cytokines is responsible for the Acute Respiratory Distress Syndrome (ARDS) and Multiple Organ Dysfunction Syndrome (MODS) which occur in severe and deadly cases of respiratory infections, including COVID-19, SARS, and H5N1.  This opens the door to a mechanism by which COVID-19 could cause long-term immune system dysregulation, if T-cell levels don’t go back to normal after a patient recovers.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;In conclusion, it seems at least somewhat likely that a high percentage of hospitalized COVID-19 patients, like SARS patients, may develop a chronic fatigue syndrome, and that a low percentage may develop chronic nerve damage.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-likely-are-young-people-to-have-severehospital-worthy-cases-of-covid-19&quot;&gt;How Likely Are Young People To Have Severe/Hospital-Worthy Cases of COVID-19?&lt;/h2&gt;
-
-&lt;p&gt;Once again, let’s look at South Korea, as a baseline for a country with an outbreak of COVID-19 and extensive testing.&lt;/p&gt;
-
-&lt;p&gt;Korean officials said that &lt;a href=&quot;https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html&quot;&gt;only about 10%&lt;/a&gt; of coronavirus patients had cases severe enough to need hospitalization.&lt;/p&gt;
-
-&lt;p&gt;In China, &lt;a href=&quot;https://jamanetwork.com/journals/jama/article-abstract/2762130&quot;&gt;19% of confirmed cases&lt;/a&gt; were “severe” or “critical”, but this number is likely higher than the true figure, due to limited access to test kits and mild cases of COVID-19 going unreported.&lt;/p&gt;
-
-&lt;p&gt;In a &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf&quot;&gt;study&lt;/a&gt; of 391 patients in Shenzhen, China, 0 cases of COVID-19 among those &amp;lt;30 years old were “severe” (in need of mechanical ventilation, in a state of septic shock or multiple organ failure, or other serious criteria) and only 1% of those aged 30-39 were severe; overall, there was an 0.6% rate of severe cases among cases younger than age 40.&lt;/p&gt;
-
-&lt;p&gt;The rate of contracting COVID-19 among close contacts of confirmed cases, however, was relatively constant across age groups – 7-8%, including among children ages 0-9.&lt;/p&gt;
-
-&lt;p&gt;In a study of &lt;a href=&quot;https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext&quot;&gt;262 patients in Beijing&lt;/a&gt;, however, 8% of cases younger than age 44 were “severe”, compared to 41% of cases older than age 65 and 17% of cases age 45-64.&lt;/p&gt;
-
-&lt;p&gt;In a study of 221 confirmed COVID-19 cases in &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.full.pdf&quot;&gt;Wuhan&lt;/a&gt;, 8% of patients age 44 and under were classified as “severe”,  compared to 29% of cases aged 45-64 and 39% of cases over age 65.&lt;/p&gt;
-
-&lt;p&gt;In all three Chinese cities, this comes to a rate of 4.9% of cases in under-40 or under-45 patients being severe.&lt;/p&gt;
-
-&lt;p&gt;But this is probably an overestimate, since Chinese testing probably understates the number of mild cases – note that the Chinese numbers show 19% of cases being severe, while Korea, where everyone gets tested, only has 10% of cases severe.&lt;/p&gt;
-
-&lt;p&gt;10% of all Korean cases are severe; let’s assume this is the true severity rate, since all Korean people were tested for the disease.&lt;/p&gt;
-
-&lt;p&gt;Let’s assume that in China there is a bias against diagnosing mild cases; let’s assume there are m times more mild cases in reality than were picked up by the Chinese diagnostic testing, such that if you picked up &lt;em&gt;all&lt;/em&gt; the mild cases you’d actually get the Korean estimate of 10% of cases being severe.&lt;/p&gt;
-
-&lt;p&gt;136/(136 + m* (874-136)) = 0.10&lt;/p&gt;
-
-&lt;p&gt;136 = 0.10&lt;em&gt;(136+ m&lt;/em&gt;738)&lt;/p&gt;
-
-&lt;p&gt;73.8m = 122.4&lt;/p&gt;
-
-&lt;p&gt;m = 1.66&lt;/p&gt;
-
-&lt;p&gt;Ok, so let’s compute a &lt;em&gt;corrected&lt;/em&gt; estimate for the young person’s risk, assuming that there are 1.66x as many mild cases in young people than were observed.&lt;/p&gt;
-
-&lt;p&gt;There were 17 severe cases observed under 44, and 332 mild cases.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;true&lt;/em&gt; number of mild cases in the three Chinese cities should actually be 332 * 1.66 = 551.&lt;/p&gt;
-
-&lt;p&gt;So the &lt;em&gt;true&lt;/em&gt; corrected risk for getting severe disease as a young person is 17/551 = 3.1%.&lt;/p&gt;
-
-&lt;h2 id=&quot;bottom-lines&quot;&gt;Bottom Lines&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young people exposed to COVID-19 are as likely as old people to become infected and contagious. Avoiding infection is prosocial, as it prevents passing COVID-19 to more vulnerable people.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract COVID-19 have a very low death rate, 0.1-0.2%.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Young (&amp;lt;40) people who contract the virus have a low (~3%) chance of having a “severe” case, requiring mechanical ventilation or other intensive care.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;However, if hospital beds are unavailable, people with severe cases who don’t go to the hospital will likely die.  So this 3% severe case rate translates to more like a 3% fatality rate if a young person catches the disease when hospitals are over capacity.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Whether severe or mild, a high proportion of confirmed cases of SARS had chronic psychiatric and fatigue symptoms after recovery from acute illness, and it’s possible that similar problems may arise from COVID-19.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;COVID-19 can infect the cerebrospinal fluid, and a few percent of severe SARS cases had chronic neurological problems, so perhaps a similar number of severe COVID-19 cases might have chronic neurological sequelae.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry></feed>
