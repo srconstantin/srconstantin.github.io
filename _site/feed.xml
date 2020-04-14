@@ -1,4 +1,277 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-05T20:12:45-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-13T19:24:50-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Variolation for COVID-19</title><link href="/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/variolation</id><content type="html" xml:base="/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.&lt;/p&gt;
+
+&lt;p&gt;By analogy, is it possible that a low-dose exposure to the SARS-CoV-2 virus could result in a mild illness and immunity to subsequently contracting the disease?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are Low Doses of COVID-19 Virus Safer?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One (imperfect) proxy for this question is whether lower viral titers of SARS-CoV-2 correspond to less severe disease.  It seems intuitively plausible – smaller quantities of the virus in the body might be easier for the immune system to fight off and/or cause less extensive tissue damage.&lt;/p&gt;
+
+&lt;p&gt;Looking at viral RNA titers in COVID-19 patients doesn’t tell us whether they were initially exposed to large or small amounts of virus, though. If there’s a correlation between viral titer and disease severity, it could either be because the sicker patients got a higher initial “dose” of virus, or because the virus was more successful at multiplying in them.  However, we can somewhat alleviate this ambiguity by looking at the trajectories of virus titer over time.&lt;/p&gt;
+
+&lt;p&gt;A retrospective study of 76 Chinese patients found that viral loads (as measured by nasal swab) were significantly higher in severe than mild cases of COVID-19, p &amp;lt; 0.005. All patients’ viral loads followed a similar trajectory over time – they started high and steadily declined.  However, severe cases had detectable levels of virus for much longer – all severe cases still had viral RNA after 10 days from disease onset, while most mild cases were virus-free by 10 days.[1]&lt;/p&gt;
+
+&lt;p&gt;Viral load does not correlate perfectly with disease.  Asymptomatic patients [2][3] can have similar viral loads to sick ones.&lt;/p&gt;
+
+&lt;p&gt;Another, smaller study with 23 COVID-19 patients found a significant association of peak viral load with age but no significant association of either initial or peak viral load with disease severity.[4]  The correlation of viral load with age is explainable by immunosenescence (aging weakens the immune system) and tells us that higher viral load can be caused by a weaker immune system.&lt;/p&gt;
+
+&lt;p&gt;In the SARS epidemic, healthcare workers who were exposed to one of three index patients and tested positive for SARS were significantly more likely to be asymptomatic if they wore masks, which suggests that masks lower the amount of virus exposure and that lower virus exposure results in less severe disease.[5]&lt;/p&gt;
+
+&lt;p&gt;Another study of 16 individuals exposed to a single SARS index patient showed that the healthcare workers, who were wearing PPE, had significantly lower viral load than the non-healthcare workers, who had no masks. The non-healthcare workers were also more likely to have severe disease, but they were also older on average.[7]&lt;/p&gt;
+
+&lt;p&gt;Among people with exposure to a SARS index patient, they were significantly (p &amp;lt; 0.001) more likely to get SARS the longer the index patient stayed home after the onset of fever; when the patient stayed home for &amp;gt;6 days, as opposed to &amp;lt;=2 days, the risk of getting the disease jumps from 38% to 66%.  You were more likely to get the disease if you shared a room and bed with the index patient, if you dined more frequently with the index patient, and if you had more frequent close contact with the index patient.  This indicates that the volume of contact with the SARS virus influences the risk of contracting disease.[8]&lt;/p&gt;
+
+&lt;p&gt;Higher initial viral load is also associated with worse prognosis and shorter survival times in SARS.[6]&lt;/p&gt;
+
+&lt;p&gt;The evidence is relatively sparse but consistent with the hypothesis that lower volumes of exposure to SARS-CoV-2 and SARS-CoV result in lower viral titers and less severe disease.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is COVID-19 Reinfection Possible?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Deliberately infecting a human with a low dose of virus, of course, has not been done enough for there to be a research literature about it.&lt;/p&gt;
+
+&lt;p&gt;But what happens when we do it with animals?&lt;/p&gt;
+
+&lt;p&gt;We have mixed results on reinfection in animals, some studies showing that prior exposure to a coronavirus protects against subsequent infection, while others showed that reinfection can indeed occur.&lt;/p&gt;
+
+&lt;p&gt;Rhesus monkeys that have been infected with SARS-CoV-2 do not get reinfected after a second challenge; they do not show viral replication or clinical symptoms.[15]&lt;/p&gt;
+
+&lt;p&gt;Mice who have previously been exposed to SARS-CoV are protected from disease for at least 28 days. Serum from mice that had previously been exposed to the virus, injected into SARS-naive mice, also had a protective effect, while serum from non-exposed mice did not.[12]&lt;/p&gt;
+
+&lt;p&gt;Ferrets infected with SARS-CoV who were reinfected 4 weeks later did not have as high viral titers upon reinfection and did not show lung histopathology.[14]&lt;/p&gt;
+
+&lt;p&gt;Alpacas and camels experimentally infected with MERS-CoV are protected against reinfection.[17]  On the other hand, a longitudinal study of a camel herd showed that reinfection can occur in camels who have previously acquired antibodies to MERS-CoV.[18]&lt;/p&gt;
+
+&lt;p&gt;Reinfection is possible in cats previously exposed to feline coronavirus [19], and in cows with bovine coronavirus [20].&lt;/p&gt;
+
+&lt;p&gt;Exposure to an inactivated form of a virus is a standard type of vaccine, and it has been found effective in rodents for SARS-CoV.&lt;/p&gt;
+
+&lt;p&gt;Partially inactivated SARS-CoV virus samples (treated with formaldehyde) were no longer able to replicate in vitro. When mice were treated with this inactivated virus (by injection or intranasal administration) they produced detectable antibody responses.[9][10]  SARS-CoV virus inactivated with UV radiation also produced an antibody response in mice.[11]&lt;/p&gt;
+
+&lt;p&gt;Whole killed SARS-CoV vaccine (inactivated with beta-propiolactone)  protected mice against a challenge infection.[13]&lt;/p&gt;
+
+&lt;p&gt;Hamsters immunized with beta-propiolactone inactivated SARS-CoV virus had lower virus titers than non-immunized hamsters upon challenge with active SARS-CoV and had less severe lung lesions than non-immunized hamsters.[16]&lt;/p&gt;
+
+&lt;p&gt;There have been reports of reinfected COVID-19 patients in China and Japan[21] but some think that these are due to testing errors where the patients erroneously tested as having recovered when they were still infected.&lt;/p&gt;
+
+&lt;p&gt;The current state of evidence hasn’t ruled out that reinfection could occur for SARS-CoV-2, but tentatively it seems more likely that people who have been infected once are protected against further infections for some period of time. The duration of protection, and whether there are any individuals who don’t get immunological protection, is still unknown.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s reason to believe that exposure to a lower dose of the SARS-CoV-2 virus produces a milder disease than exposure to larger quantities of SARS-CoV-2.&lt;/p&gt;
+
+&lt;p&gt;And there’s reason to believe that people who have recovered from COVID-19 have some protection against the disease.&lt;/p&gt;
+
+&lt;p&gt;What we _don’t _know is whether a dose low enough not to cause severe symptoms is also high enough to cause immune protection against subsequent infections.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deliberate Exposure as a Policy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A trial of deliberate exposure of young, healthy volunteers to COVID-19 has been &lt;a href=&quot;http://www.overcomingbias.com/2020/04/variolation-test-design.html&quot;&gt;proposed&lt;/a&gt; by Robin Hanson.&lt;/p&gt;
+
+&lt;p&gt;The case for deliberate exposure is to produce a population of immune people who don’t have to be quarantined – for instance, so that they can continue to work as healthcare workers, janitors, and other essential employees in a mostly housebound economy.&lt;/p&gt;
+
+&lt;p&gt;The downside, of course, is that deliberately infecting people with a disease harms them.&lt;/p&gt;
+
+&lt;p&gt;Deliberate exposure looks better relative to other options under certain conditions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;if deliberate exposure causes little harm to the exposed (either because the dose is low or because young people rarely get severe disease)&lt;/li&gt;
+  &lt;li&gt;if reinfection after safe doses of virus is rare or impossible&lt;/li&gt;
+  &lt;li&gt;if exposure to the active virus is much easier and/or more effective than alternative, safer types of immune protection (like convalescent serum or inactivated virus)&lt;/li&gt;
+  &lt;li&gt;if containing the virus is expected to be impossible (i.e. most people will get the disease, the question is when) or so costly that countries decide it’s not worth continuing the lockdowns.&lt;/li&gt;
+  &lt;li&gt;if developing an effective vaccine or treatment is expected to be slow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I am doubtful about the first three conditions.  We don’t know much about what a “safe” dose of SARS-CoV-2 is, and we haven’t fully ruled out reinfection.&lt;/p&gt;
+
+&lt;p&gt;And young people, while less vulnerable than older people, are not immune from severe COVID-19 – in New York, 9% of patients age 18-44 had to be &lt;a href=&quot;https://www.cbsnews.com/news/young-people-coronavirus-new-york-city-percentage-patients-covid-19-symptoms-dying-hospitalizations/&quot;&gt;hospitalized.&lt;/a&gt;  For any given young person, it might be safer to try to stay home and avoid getting the disease until a vaccine or treatment can be developed than to risk deliberate exposure.&lt;/p&gt;
+
+&lt;p&gt;An animal study prior to a human one can identify what the infectious dose of the virus is, as well as what the minimum active dose to produce an immune response and protection against reinfection is.&lt;/p&gt;
+
+&lt;p&gt;Moreover, it seems that it would be safer, and not obviously less effective, to treat healthy subjects with convalescent serum or inactivated virus rather than live virus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Liu, Yang, et al. “Viral dynamics in mild and severe cases of COVID-19.” &lt;em&gt;The Lancet Infectious Diseases&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[2]Zou, Lirong, et al. “SARS-CoV-2 viral load in upper respiratory specimens of infected patients.” &lt;em&gt;New England Journal of Medicine&lt;/em&gt; 382.12 (2020): 1177-1179.&lt;/p&gt;
+
+&lt;p&gt;[3]Kam, Kai-qian, et al. “A Well Infant with Coronavirus Disease 2019 with High Viral Load.” &lt;em&gt;Clinical Infectious Diseases&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[4]To, Kelvin Kai-Wang, et al. “Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.” &lt;em&gt;The Lancet Infectious Diseases&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[5]Wilder-Smith, Annelies, et al. “Asymptomatic SARS coronavirus infection among healthcare workers, Singapore.” &lt;em&gt;Emerging infectious diseases&lt;/em&gt; 11.7 (2005): 1142.&lt;/p&gt;
+
+&lt;p&gt;[6]Chu, Chung-Ming, et al. “Initial viral load and the outcomes of SARS.” &lt;em&gt;Cmaj&lt;/em&gt; 171.11 (2004): 1349-1352.&lt;/p&gt;
+
+&lt;p&gt;[7]Lu, Yen-Ta, et al. “Viral load and outcome in SARS infection: the role of personal protective equipment in the emergency department.” &lt;em&gt;The Journal of emergency medicine&lt;/em&gt; 30.1 (2006): 7-15.&lt;/p&gt;
+
+&lt;p&gt;[8]Lau, Joseph TF, et al. “Probable secondary infections in households of SARS patients in Hong Kong.” &lt;em&gt;Emerging infectious diseases&lt;/em&gt; 10.2 (2004): 236.&lt;/p&gt;
+
+&lt;p&gt;[9]Yang, Zhi-yong, et al. “A DNA vaccine induces SARS coronavirus neutralization and protective immunity in mice.” &lt;em&gt;Nature&lt;/em&gt; 428.6982 (2004): 561-564.&lt;/p&gt;
+
+&lt;p&gt;[10]Xiong, Sheng, et al. “Immunogenicity of SARS inactivated vaccine in BALB/c mice.” &lt;em&gt;Immunology letters&lt;/em&gt; 95.2 (2004): 139-143.&lt;/p&gt;
+
+&lt;p&gt;[11]Takasuka, Naomi, et al. “A subcutaneously injected UV-inactivated SARS coronavirus vaccine elicits systemic humoral immunity in mice.” &lt;em&gt;International immunology&lt;/em&gt; 16.10 (2004): 1423-1430.&lt;/p&gt;
+
+&lt;p&gt;[12]Subbarao, Kanta, et al. “Prior infection and passive transfer of neutralizing antibody prevent replication of severe acute respiratory syndrome coronavirus in the respiratory tract of mice.” &lt;em&gt;Journal of virology&lt;/em&gt; 78.7 (2004): 3572-3577.&lt;/p&gt;
+
+&lt;p&gt;[13]See, Raymond H., et al. “Comparative evaluation of two severe acute respiratory syndrome (SARS) vaccine candidates in mice challenged with SARS coronavirus.” &lt;em&gt;Journal of general virology&lt;/em&gt; 87.3 (2006): 641-650.&lt;/p&gt;
+
+&lt;p&gt;[14]Cameron, Mark J., et al. “Lack of innate interferon responses during SARS coronavirus infection in a vaccination and reinfection ferret model.” &lt;em&gt;PLoS one&lt;/em&gt; 7.9 (2012).&lt;/p&gt;
+
+&lt;p&gt;[15]Bao, Linlin, et al. “Reinfection could not occur in SARS-CoV-2 infected rhesus macaques.” &lt;em&gt;bioRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[16]Roberts, Anjeanette, et al. “Immunogenicity and protective efficacy in mice and hamsters of a β-propiolactone inactivated whole virus SARS-CoV vaccine.” &lt;em&gt;Viral immunology&lt;/em&gt; 23.5 (2010): 509-519.&lt;/p&gt;
+
+&lt;p&gt;[17]Wernery, Ulrich, Susanna KP Lau, and Patrick CY Woo. “Middle East respiratory syndrome (MERS) coronavirus and dromedaries.” &lt;em&gt;The Veterinary Journal&lt;/em&gt; 220 (2017): 75-79.&lt;/p&gt;
+
+&lt;p&gt;[18]Hemida, Maged Gomaa, et al. “Longitudinal study of Middle East respiratory syndrome coronavirus infection in dromedary camel herds in Saudi Arabia, 2014–2015.” &lt;em&gt;Emerging microbes &amp;amp; infections&lt;/em&gt; 6.1 (2017): 1-7.&lt;/p&gt;
+
+&lt;p&gt;[19]Addie, D. D., and O. Jarrett. “Use of a reverse-transcriptase polymerase chain reaction for monitoring the shedding of feline coronavirus by healthy cats.” &lt;em&gt;Veterinary Record&lt;/em&gt; 148.21 (2001): 649-653.&lt;/p&gt;
+
+&lt;p&gt;[20]Heckert, R. A., et al. “Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.” &lt;em&gt;American journal of veterinary research&lt;/em&gt; 52.6 (1991): 845-851.&lt;/p&gt;
+
+&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation.rtf</title><link href="/2020/04/13/Variolation.rtf.sb-d5e4fab6-P5eWKD" rel="alternate" type="text/html" title="Variolation.rtf" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/Variolation.rtf</id><content type="html" xml:base="/2020/04/13/Variolation.rtf.sb-d5e4fab6-P5eWKD">{\rtf1\ansi\ansicpg1252\cocoartf2512
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.\
+\
+By analogy, is it possible that a low-dose exposure to the SARS-CoV-2 virus could result in a mild illness and immunity to subsequently contracting the disease?\
+\
+**Are Low Doses of COVID-19 Virus Safer?**\
+\
+One (imperfect) proxy for this question is whether lower viral titers of SARS-CoV-2 correspond to less severe disease.  It seems intuitively plausible -- smaller quantities of the virus in the body might be easier for the immune system to fight off and/or cause less extensive tissue damage.\
+\
+Looking at viral RNA titers in COVID-19 patients doesn't tell us whether they were initially exposed to large or small amounts of virus, though. If there's a correlation between viral titer and disease severity, it could either be because the sicker patients got a higher initial &quot;dose&quot; of virus, or because the virus was more successful at multiplying in them.  However, we can somewhat alleviate this ambiguity by looking at the trajectories of virus titer over time.\
+\
+A retrospective study of 76 Chinese patients found that viral loads (as measured by nasal swab) were significantly higher in severe than mild cases of COVID-19, p &amp;lt; 0.005. All patients' viral loads followed a similar trajectory over time -- they started high and steadily declined.  However, severe cases had detectable levels of virus for much longer -- all severe cases still had viral RNA after 10 days from disease onset, while most mild cases were virus-free by 10 days.[1]\
+\
+Viral load does not correlate perfectly with disease.  Asymptomatic patients [2][3] can have similar viral loads to sick ones.\
+\
+Another, smaller study with 23 COVID-19 patients found a significant association of peak viral load with age but no significant association of either initial or peak viral load with disease severity.[4]  The correlation of viral load with age is explainable by immunosenescence (aging weakens the immune system) and tells us that higher viral load can be caused by a weaker immune system.\
+\
+In the SARS epidemic, healthcare workers who were exposed to one of three index patients and tested positive for SARS were significantly more likely to be asymptomatic if they wore masks, which suggests that masks lower the amount of virus exposure and that lower virus exposure results in less severe disease.[5] \
+\
+Another study of 16 individuals exposed to a single SARS index patient showed that the healthcare workers, who were wearing PPE, had significantly lower viral load than the non-healthcare workers, who had no masks. The non-healthcare workers were also more likely to have severe disease, but they were also older on average.[7]  \
+\
+Among people with exposure to a SARS index patient, they were significantly (p &amp;lt; 0.001) more likely to get SARS the longer the index patient stayed home after the onset of fever; when the patient stayed home for &gt;6 days, as opposed to &amp;lt;=2 days, the risk of getting the disease jumps from 38% to 66%.  You were more likely to get the disease if you shared a room and bed with the index patient, if you dined more frequently with the index patient, and if you had more frequent close contact with the index patient.  This indicates that the volume of contact with the SARS virus influences the risk of contracting disease.[8]\
+\
+Higher initial viral load is also associated with worse prognosis and shorter survival times in SARS.[6]  \
+\
+The evidence is relatively sparse but consistent with the hypothesis that lower volumes of exposure to SARS-CoV-2 and SARS-CoV result in lower viral titers and less severe disease.\
+\
+**Is COVID-19 Reinfection Possible?**\
+\
+Deliberately infecting a human with a low dose of virus, of course, has not been done enough for there to be a research literature about it.\
+\
+But what happens when we do it with animals?\
+\
+We have mixed results on reinfection in animals, some studies showing that prior exposure to a coronavirus protects against subsequent infection, while others showed that reinfection can indeed occur.\
+\
+Rhesus monkeys that have been infected with SARS-CoV-2 do not get reinfected after a second challenge; they do not show viral replication or clinical symptoms.[15]\
+\
+Mice who have previously been exposed to SARS-CoV are protected from disease for at least 28 days. Serum from mice that had previously been exposed to the virus, injected into SARS-naive mice, also had a protective effect, while serum from non-exposed mice did not.[12]\
+\
+Ferrets infected with SARS-CoV who were reinfected 4 weeks later did not have as high viral titers upon reinfection and did not show lung histopathology.[14]\
+\
+Alpacas and camels experimentally infected with MERS-CoV are protected against reinfection.[17]  On the other hand, a longitudinal study of a camel herd showed that reinfection can occur in camels who have previously acquired antibodies to MERS-CoV.[18]\
+\
+Reinfection is possible in cats previously exposed to feline coronavirus [19], and in cows with bovine coronavirus [20].\
+\
+Exposure to an inactivated form of a virus is a standard type of vaccine, and it has been found effective in rodents for SARS-CoV.\
+\
+Partially inactivated SARS-CoV virus samples (treated with formaldehyde) were no longer able to replicate in vitro. When mice were treated with this inactivated virus (by injection or intranasal administration) they produced detectable antibody responses.[9][10]  SARS-CoV virus inactivated with UV radiation also produced an antibody response in mice.[11]\
+\
+Whole killed SARS-CoV vaccine (inactivated with beta-propiolactone)  protected mice against a challenge infection.[13]\
+\
+Hamsters immunized with beta-propiolactone inactivated SARS-CoV virus had lower virus titers than non-immunized hamsters upon challenge with active SARS-CoV and had less severe lung lesions than non-immunized hamsters.[16]\
+\
+There have been reports of reinfected COVID-19 patients in China and Japan[21] but some think that these are due to testing errors where the patients erroneously tested as having recovered when they were still infected.\
+\
+The current state of evidence hasn't ruled out that reinfection could occur for SARS-CoV-2, but tentatively it seems more likely that people who have been infected once are protected against further infections for some period of time. The duration of protection, and whether there are any individuals who don't get immunological protection, is still unknown.\
+\
+**Conclusion**\
+\
+There's reason to believe that exposure to a lower dose of the SARS-CoV-2 virus produces a milder disease than exposure to larger quantities of SARS-CoV-2.\
+\
+And there's reason to believe that people who have recovered from COVID-19 have some protection against the disease.\
+\
+What we _don't _know is whether a dose low enough not to cause severe symptoms is also high enough to cause immune protection against subsequent infections.\
+\
+**Deliberate Exposure as a Policy**\
+\
+A trial of deliberate exposure of young, healthy volunteers to COVID-19 has been [proposed](http://www.overcomingbias.com/2020/04/variolation-test-design.html) by Robin Hanson.  \
+\
+The case for deliberate exposure is to produce a population of immune people who don't have to be quarantined -- for instance, so that they can continue to work as healthcare workers, janitors, and other essential employees in a mostly housebound economy. \
+\
+The downside, of course, is that deliberately infecting people with a disease harms them.\
+\
+Deliberate exposure looks better relative to other options under certain conditions:\
+\
+\
+\
+*   if deliberate exposure causes little harm to the exposed (either because the dose is low or because young people rarely get severe disease)\
+*   if reinfection after safe doses of virus is rare or impossible\
+*   if exposure to the active virus is much easier and/or more effective than alternative, safer types of immune protection (like convalescent serum or inactivated virus)\
+*   if containing the virus is expected to be impossible (i.e. most people will get the disease, the question is when) or so costly that countries decide it's not worth continuing the lockdowns.\
+*   if developing an effective vaccine or treatment is expected to be slow\
+\
+I am doubtful about the first three conditions.  We don't know much about what a &quot;safe&quot; dose of SARS-CoV-2 is, and we haven't fully ruled out reinfection.  \
+\
+And young people, while less vulnerable than older people, are not immune from severe COVID-19 -- in New York, 9% of patients age 18-44 had to be [hospitalized.](https://www.cbsnews.com/news/young-people-coronavirus-new-york-city-percentage-patients-covid-19-symptoms-dying-hospitalizations/)  For any given young person, it might be safer to try to stay home and avoid getting the disease until a vaccine or treatment can be developed than to risk deliberate exposure.\
+\
+An animal study prior to a human one can identify what the infectious dose of the virus is, as well as what the minimum active dose to produce an immune response and protection against reinfection is.\
+\
+Moreover, it seems that it would be safer, and not obviously less effective, to treat healthy subjects with convalescent serum or inactivated virus rather than live virus.  \
+\
+**References**\
+\
+[1]Liu, Yang, et al. &quot;Viral dynamics in mild and severe cases of COVID-19.&quot; _The Lancet Infectious Diseases_ (2020).\
+\
+[2]Zou, Lirong, et al. &quot;SARS-CoV-2 viral load in upper respiratory specimens of infected patients.&quot; _New England Journal of Medicine_ 382.12 (2020): 1177-1179.\
+\
+[3]Kam, Kai-qian, et al. &quot;A Well Infant with Coronavirus Disease 2019 with High Viral Load.&quot; _Clinical Infectious Diseases_ (2020).\
+\
+[4]To, Kelvin Kai-Wang, et al. &quot;Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.&quot; _The Lancet Infectious Diseases_ (2020).\
+\
+[5]Wilder-Smith, Annelies, et al. &quot;Asymptomatic SARS coronavirus infection among healthcare workers, Singapore.&quot; _Emerging infectious diseases_ 11.7 (2005): 1142.\
+\
+[6]Chu, Chung-Ming, et al. &quot;Initial viral load and the outcomes of SARS.&quot; _Cmaj_ 171.11 (2004): 1349-1352.\
+\
+[7]Lu, Yen-Ta, et al. &quot;Viral load and outcome in SARS infection: the role of personal protective equipment in the emergency department.&quot; _The Journal of emergency medicine_ 30.1 (2006): 7-15.\
+\
+[8]Lau, Joseph TF, et al. &quot;Probable secondary infections in households of SARS patients in Hong Kong.&quot; _Emerging infectious diseases_ 10.2 (2004): 236.\
+\
+[9]Yang, Zhi-yong, et al. &quot;A DNA vaccine induces SARS coronavirus neutralization and protective immunity in mice.&quot; _Nature_ 428.6982 (2004): 561-564.\
+\
+[10]Xiong, Sheng, et al. &quot;Immunogenicity of SARS inactivated vaccine in BALB/c mice.&quot; _Immunology letters_ 95.2 (2004): 139-143.\
+\
+[11]Takasuka, Naomi, et al. &quot;A subcutaneously injected UV-inactivated SARS coronavirus vaccine elicits systemic humoral immunity in mice.&quot; _International immunology_ 16.10 (2004): 1423-1430.\
+\
+[12]Subbarao, Kanta, et al. &quot;Prior infection and passive transfer of neutralizing antibody prevent replication of severe acute respiratory syndrome coronavirus in the respiratory tract of mice.&quot; _Journal of virology_ 78.7 (2004): 3572-3577.\
+\
+[13]See, Raymond H., et al. &quot;Comparative evaluation of two severe acute respiratory syndrome (SARS) vaccine candidates in mice challenged with SARS coronavirus.&quot; _Journal of general virology_ 87.3 (2006): 641-650.\
+\
+[14]Cameron, Mark J., et al. &quot;Lack of innate interferon responses during SARS coronavirus infection in a vaccination and reinfection ferret model.&quot; _PLoS one_ 7.9 (2012).\
+\
+[15]Bao, Linlin, et al. &quot;Reinfection could not occur in SARS-CoV-2 infected rhesus macaques.&quot; _bioRxiv_ (2020).\
+\
+[16]Roberts, Anjeanette, et al. &quot;Immunogenicity and protective efficacy in mice and hamsters of a \uc0\u946 -propiolactone inactivated whole virus SARS-CoV vaccine.&quot; _Viral immunology_ 23.5 (2010): 509-519.\
+\
+[17]Wernery, Ulrich, Susanna KP Lau, and Patrick CY Woo. &quot;Middle East respiratory syndrome (MERS) coronavirus and dromedaries.&quot; _The Veterinary Journal_ 220 (2017): 75-79.\
+\
+[18]Hemida, Maged Gomaa, et al. &quot;Longitudinal study of Middle East respiratory syndrome coronavirus infection in dromedary camel herds in Saudi Arabia, 2014\'962015.&quot; _Emerging microbes &amp; infections_ 6.1 (2017): 1-7.\
+\
+[19]Addie, D. D., and O. Jarrett. &quot;Use of a reverse-transcriptase polymerase chain reaction for monitoring the shedding of feline coronavirus by healthy cats.&quot; _Veterinary Record_ 148.21 (2001): 649-653.\
+\
+[20]Heckert, R. A., et al. &quot;Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.&quot; _American journal of veterinary research_ 52.6 (1991): 845-851.\
+\
+[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. &quot;The COVID-19 Pandemic in the US: A Clinical Update.&quot; _JAMA_.}</content><author><name></name></author><summary type="html">{\rtf1\ansi\ansicpg1252\cocoartf2512 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;} {\colortbl;\red255\green255\blue255;} {\*\expandedcolortbl;;} \margl1440\margr1440\vieww10800\viewh8400\viewkind0 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0</summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
 
@@ -837,318 +1110,4 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;[23]Khilnani, Gopi C., et al. “Non-invasive ventilation for acute exacerbation of COPD with very high PaCO2: a randomized controlled trial.” Lung India: official organ of Indian Chest Society 27.3 (2010): 125.&lt;/p&gt;
 
-&lt;p&gt;[24]Yam, L. Y., et al. “Non-invasive versus invasive mechanical ventilation for respiratory failure in severe acute respiratory syndrome.” Chin Med J 118.17 (2005): 1413-1421.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?</summary></entry><entry><title type="html">Oxygen Supplementation 101</title><link href="/2020/03/19/oxygen-supplementation-101.html" rel="alternate" type="text/html" title="Oxygen Supplementation 101" /><published>2020-03-19T00:00:00-06:00</published><updated>2020-03-19T00:00:00-06:00</updated><id>/2020/03/19/oxygen-supplementation-101</id><content type="html" xml:base="/2020/03/19/oxygen-supplementation-101.html">&lt;p&gt;COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.    
-There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;COVID-19 Symptoms and Clinical Guidelines&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Most patients who go to a hospital for COVID-19 have pneumonia or infection of the lungs, which is visible on a chest X-ray.  A large fraction (41.3%) receive supplemental oxygen therapy; a smaller fraction (5%) needed to be admitted to the ICU, and 6.1% needed mechanical ventilation.[1] &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ARDS&lt;/strong&gt; 
-Severe cases of COVID-19 result in developing Acute Respiratory Distress Syndrome (ARDS). Fluid builds up in the lungs; the lungs may collapse; blood oxygen drops; and mechanical ventilation is required. Merely providing air with a higher oxygen content than room air isn’t enough; pressure needs to be administered to keep the alveoli open.  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oxygen Therapy: Bag Mask&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/bagvalvemask.jpg&quot; alt=&quot;bagvalvemask&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A bag valve mask is used in emergencies and for temporary ventilation while preparing for intubation.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1goz1l28kUQ&quot;&gt;Here&lt;/a&gt; is a doctor demonstrating how to use a bag valve mask.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oxygen Therapy: Nasal Cannulas and Simple Masks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/nasalcannula.jpeg&quot; alt=&quot;nasalcannula&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/simplefacemask.jpeg&quot; alt=&quot;simplefacemask&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When a patient has difficulty getting enough oxygen but can breathe on their own, they get oxygen therapy. That is, they’re given a supply of air with an increased concentration of oxygen, but without any additional pressure.&lt;/p&gt;
-
-&lt;p&gt;Oxygen can be administered non-invasively through a nasal cannula or a simple mask. This can safely be done outside a hospital setting.  Oxygen concentrators are standard to keep in the home for people with chronic lung conditions like emphysema and COPD. Simple oxygen masks are regularly used by non-medical rescue personnel like firefighters and lifeguards.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oxygen Concentrators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To produce a supply of filtered, high-oxygen air from room air, you need an oxygen concentrator, which removes nitrogen from the air through filters. This oxygen-enriched air can then be provided to the patient through a mask or nasal cannula.&lt;/p&gt;
-
-&lt;p&gt;Home oxygen concentrators are available with a prescription.&lt;/p&gt;
-
-&lt;p&gt;Oxygen Therapy: Non-Rebreather Masks
-A non-rebreather mask is an oxygen mask with a sealed bag that prevents inhalation of room air or previously exhaled air, which allows for higher concentrations of oxygen to be administered.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oxygen Therapy: High Flow Nasal Cannula&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/HFNC.png&quot; alt=&quot;HFNC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;[5]&lt;/p&gt;
-
-&lt;p&gt;A high flow nasal cannula provides a higher flow of oxygen, and warms and humidifies it, so that it is less irritating to mucous membranes and easier for the patient to breathe.  The higher flow also increases ventilation and causes the patient to rebreathe less exhaled air, which increases ventilation (the elimination of CO2).  It also provides a small amount of PEEP (positive end-expiratory pressure, keeping the alveoli open) which can be helpful for patients whose lungs are collapsing due to respiratory failure.&lt;/p&gt;
-
-&lt;p&gt;High-flow nasal cannulas will aerosolize the COVID-19 virus, infecting everyone nearby. They are not allowed in hospitals for COVID-19 because they spread disease. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Noninvasive Ventilation: CPAP and BIPAP&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/CPAP.jpg&quot; alt=&quot;CPAP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/BIPAP.jpg&quot; alt=&quot;BIPAP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;CPAP machines keep the patient’s airway open by forcing air continuously through a mask.  It is usually used for sleep apnea and other conditions that cause difficulty breathing.  The patient must initiate all breaths, but has additional pressure support to keep the airway and alveoli open.&lt;/p&gt;
-
-&lt;p&gt;BIPAP machines work the same way, except that they have two pressure settings instead of just one: a higher pressure for inhalation and a lower one for exhalation.&lt;/p&gt;
-
-&lt;p&gt;BIPAPs and CPAPs can be used safely at home and don’t need medical supervision.&lt;/p&gt;
-
-&lt;p&gt;Like high-flow nasal cannulas, CPAP and BIPAP machines aerosolize the COVID-19 virus and are an infection risk for everyone nearby.  They are not allowed in hospitals for COVID-19; they will spread disease.  (Source: doctor interview.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Invasive Mechanical Ventilation for ARDS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;When the alveoli can’t stay open on their own, supplemental oxygen isn’t enough; this is when the patient needs to be intubated and placed on a ventilator that can provide enough pressure to keep the airway and alveoli open, so gas exchange can occur and the blood can be oxygenated.&lt;/p&gt;
-
-&lt;p&gt;The pressure on a mechanical ventilator needs to be precisely calibrated to the patient. Too much pressure and the lung can tear; too little, and the patient’s blood will fill with CO2 and not get enough oxygen. This is one reason why patients need to be placed on ventilators by trained experts (typically ICU nurses, doctors, and respiratory therapists). &lt;/p&gt;
-
-&lt;p&gt;Another reason is that intubation is an invasive procedure; an endotracheal tube is inserted into the airway, which requires sedatives and anaesthetics to avoid pain and the gag reflex. Mistakes with aiming the tube or dosing the medications could cause permanent injury or death.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/laryngoscope.jpg&quot; alt=&quot;laryngoscope&quot; height=&quot;250px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You don’t want an untrained person sticking this blade down someone’s throat!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How Effective Is Outpatient Oxygen Therapy or Noninvasive Ventilation?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There are multiple projects underway to produce open-source oxygen therapy or non-invasive ventilation devices for COVID-19. Are these projects actually useful?&lt;/p&gt;
-
-&lt;p&gt;They’re not going to be used in hospitals, because of the risk that they’ll spread infection.  But could they still be useful for patients self-quarantining at home, in a context where ICU beds and ventilators are scarce?&lt;/p&gt;
-
-&lt;p&gt;In other words, how often do patients who need non-invasive ventilation go on to need invasive ventilation, how long does it take before they need to escalate to invasive ventilation, and how helpful is non-invasive ventilation in preventing the need for invasive ventilation?&lt;/p&gt;
-
-&lt;p&gt;In 310 patients with acute respiratory failure in ICUs (typically due to pneumonia), randomized to standard oxygen therapy in a nonrebreather mask, oxygen therapy in a high flow nasal cannula, or noninvasive ventilation, there was no significant difference in the intubation rate (30-40% needed intubation within 4 days).  However, the high-flow oxygen group had a significantly lower 90-day mortality rate than the other two groups: 7% of the high-flow oxygen group died within 90 days, compared to 28% on standard oxygen and 23% on non-invasive ventilation.  The high-flow oxygen group also had significantly better blood oxygenation and spent fewer days on ventilators than the other two groups.[3]  High-flow nasal cannulas were also more effective than conventional oxygen masks at avoiding the need for repeated ventilation, in another randomized trial.[4]&lt;/p&gt;
-
-&lt;p&gt;So, suppose you’re a person with respiratory failure, but you have an oxygen mask, CPAP, BIPAP, or high-flow nasal cannula at home. 40% of the time or so, your noninvasive home equipment is going to fail and you’ll need to be intubated. Usually this happens quite urgently; if you need to take an ambulance to get to the hospital it might be too late.  &lt;/p&gt;
-
-&lt;p&gt;Since NIV (noninvasive ventilation) does not significantly reduce the risk of needing intubation, it’s strictly inferior to have people on NIV at home (where they may not be able to get to a doctor in time if their condition worsens) than to have them on conventional nonrebreather oxygen masks in the hospital (where they can get an emergency intubation if their condition worsens.) The improved mortality stats for high-flow nasal cannula are probably swamped by the increased risk associated with being at home and not being able to get an emergency intubation quickly.&lt;/p&gt;
-
-&lt;p&gt;Therefore, building open-source CPAP, BIPAP, or high-flow nasal cannulas is not valuable for COVID-19, in any world where ICUs and ventilators are still available.  &lt;/p&gt;
-
-&lt;p&gt;If the situation deteriorates so badly that most people can’t go to ICUs at all, non-invasive home ventilation may be better than nothing, but it’s not the top priority for increasing capacity to respond to the COVID-19 pandemic.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Existing Ventilator Design Projects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve seen a lot of links to projects to design open-source ventilators to handle the current ventilator shortage. Many of these are automated bag masks, or CPAPs, which aren’t recommended for use in hospitals because they spread COVID-19; and they won’t work on the more severe cases of respiratory distress anyway.  Only two projects that I found, the Pandemic Ventilator and the Flometrics project, are explicitly trying to match the specifications of the type of mechanical ventilators found in ICUs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/&quot;&gt;3D-Printed Venturi Valve&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A hospital in Italy, after being unable to source valves for Venturi oxygen masks, got emergency supplies from a local 3D printing company.&lt;/p&gt;
-
-&lt;p&gt;While this is a worthwhile project, it is of course just a single part for an oxygen mask, not a ventilator.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1t2t8d8xtD0&amp;amp;feature=youtu.be&quot;&gt;Auto Bag Ventilator&lt;/a&gt; – a Rice University engineering student designed a low-cost, automatically pumping bag ventilator for low resource settings.  &lt;/p&gt;
-
-&lt;p&gt;This is a type of ventilator for very short term use, in first aid emergencies. It is not a substitute for a mechanical ventilator because there is no way to calibrate the pressure exactly.  (A mechanical ventilator needs to be accurate to within at least 0.001 psi.)[6]&lt;/p&gt;
-
-&lt;p&gt;It is also not safe for COVID-19 in hospital settings because of the risk of aerosolization.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/OpenSourceVentilators/comments/fgrsdg/pandemic_ventilator_project_requirements/&quot;&gt;Flometrics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a low cost mechanical ventilator based on a Shopvac, designed by one of the patent holders for the Phillips Espirit ventilator.&lt;/p&gt;
-
-&lt;p&gt;This is the kind of thing that &lt;em&gt;is&lt;/em&gt; designed to substitute for the mechanical ventilators used in ICUs, and could be very valuable if it works.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/jcl5m1/ventilator&quot;&gt;Low-Cost Open Source Ventilator&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a design for a modified CPAP machine for non-invasive ventilation.  
-That means it’s not going to be usable in hospitals because of disease spread issues, and ~40% of the time, a person with COVID would need to escalate to intubation within a few days anyway.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf&quot;&gt;Low-Cost Portable Mechanical Ventilator&lt;/a&gt; – this is an MIT student project. &lt;/p&gt;
-
-&lt;p&gt;This too is a bag ventilator equipped with a mechanical pump; therefore, not usable for COVID-19 in hospital settings.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.metrictechnologies.com/&quot;&gt;Metric Technologies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;They &lt;a href=&quot;https://helpwithcovid.com/projects/24&quot;&gt;claim&lt;/a&gt; to have a low-cost (&amp;lt;$300) ventilator design and are capable of training staff and deploying the devices. Unclear what type of device this is.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.onebreathventilators.com/&quot;&gt;OneBreath Ventilators&lt;/a&gt;
- 
-This Stanford-founded company is working to develop a low cost ICU ventilator for use in the developing world. These could be suitable for severe COVID-19 cases.&lt;/p&gt;
-
-&lt;p&gt;They are not yet available for sale but they are open to outreach,  info@onebreathventilators.com.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/TrevorSmale/OSV-OpenLung&quot;&gt;OpenLung&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Another motorized Ambu-bag. Again, these are not designed to be used for more than 10 hours at a time &amp;amp; won’t work for ARDS.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit#&quot;&gt;Pandemic Ventilator&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a project to build a mechanical ventilator for ARDS. They also have a blog at &lt;a href=&quot;https://panvent.blogspot.com/&quot;&gt;https://panvent.blogspot.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the type of thing that could potentially be valuable for severe cases of COVID-19; it’s meant to substitute for the type of mechanical ventilators that are currently in short supply. Any new, rapidly developed machine will not meet regulatory approval standards in the US, but in emergencies or in countries with less stringent laws, an unapproved (but functional) machine may be better than nothing.  &lt;/p&gt;
-
-&lt;p&gt;This ventilator is designed to be deployed in hospitals, specifically in rural Latin America.  It is not for home care.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@brucefenton/we-need-ventilators-we-need-you-to-help-build-them-30805e5ee2ea&quot;&gt;The Ventilator Project&lt;/a&gt;
-	This is a group from NECSI, the New England Complex Systems institute, working to&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a.) increase production of ventilators by existing manufacturers
-
-b.) work on open-source plans for building ventilators for hospitals
-
-c.) regulatory efforts to approve hospitals to use emergency ventilators
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Current Shortages of Oxygen &amp;amp; Breathing Equipment&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Oxygen Concentrators&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Oxygen concentrators were in short supply even before the pandemic – a June 2019 article notes that half of people who use portable oxygen supplies had problems with broken equipment or inadequate supplies of oxygen.[7]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ventilators&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In a pandemic crisis, New York State is predicted to be short 15,783 mechanical ventilators a week at the peak of the outbreak.[8]&lt;/p&gt;
-
-&lt;p&gt;Evidence that Non-Invasive Ventilation Spreads COVID-19&lt;/p&gt;
-
-&lt;p&gt;An ICU in Hong Kong gave guidance against bag mask ventilators:&lt;/p&gt;
-
-&lt;p&gt;We recommend avoiding bag mask ventilation for as long as possible; and optimising preoxygenation with nonaerosol-generating means. Methods include the bed-up-head-elevated position, airway manoeuvres, use of a positive end expiratory pressure valve, and airway adjuncts. If manual bagging is required, we suggest gentle ventilation via a supraglottic device instead of bag mask ventilation.[9]&lt;/p&gt;
-
-&lt;p&gt;The same guidelines were implemented by the largest acute care hospital in Singapore:
-Infection prevention entails reducing aerosol-generating procedures (i.e., airway manipulation, face mask ventilation, open airway suctioning, patient coughing) as far as possible…Non-invasive positive pressure ventilation and high flow nasal cannulae such as the transnasal humidified rapid-insufflation ventilatory exchange should be avoided to reduce the risk of viral aerosolization…Venturi masks should be avoided as they may aerosolize the virus.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;[1]Guan, Wei-jie, et al. “Clinical characteristics of coronavirus disease 2019 in China.” New England Journal of Medicine (2020).&lt;/p&gt;
-
-&lt;p&gt;[2]Murthy, Srinivas, Charles D. Gomersall, and Robert A. Fowler. “Care for Critically Ill Patients With COVID-19.” JAMA (2020).&lt;/p&gt;
-
-&lt;p&gt;[3]Frat, Jean-Pierre, et al. “High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.” New England Journal of Medicine 372.23 (2015): 2185-2196.&lt;/p&gt;
-
-&lt;p&gt;[4]Hernández, Gonzalo, et al. “Effect of postextubation high-flow nasal cannula vs conventional oxygen therapy on reintubation in low-risk patients: a randomized clinical trial.” Jama 315.13 (2016): 1354-1361.&lt;/p&gt;
-
-&lt;p&gt;[5]Papazian, Laurent, et al. “Use of high-flow nasal cannula oxygenation in ICU adults: a narrative review.” Intensive Care Medicine 42.9 (2016): 1336-1349.&lt;/p&gt;
-
-&lt;p&gt;[6]http://www.ardsnet.org/files/ventilator_protocol_2008-07.pdf&lt;/p&gt;
-
-&lt;p&gt;[7]https://www.statnews.com/2019/06/14/access-lifesaving-oxygen-therapy/&lt;/p&gt;
-
-&lt;p&gt;[8]https://www.nytimes.com/2020/03/17/nyregion/ny-coronavirus-ventilators.html&lt;/p&gt;
-
-&lt;p&gt;[9]Cheung, Jonathan Chun-Hei, et al. “Staff safety during emergency airway management for COVID-19 in Hong Kong.” The Lancet Respiratory Medicine (2020).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">COVID-19 causes shortness of breath and in severe cases requires artificial ventilation.     There is a shortage of mechanical ventilators in hospitals, and a shortage of medical personnel to treat patients with severe COVID-19, so there’s widespread interest in contributing to open source ventilation projects. For these efforts to be effective, though, we need to understand what COVID-19 patients need in terms of ventilators and other supplemental oxygen sources.</summary></entry><entry><title type="html">Potentially Effective Drugs for COVID-19</title><link href="/2020/03/16/COVID-19-drugs.html" rel="alternate" type="text/html" title="Potentially Effective Drugs for COVID-19" /><published>2020-03-16T00:00:00-06:00</published><updated>2020-03-16T00:00:00-06:00</updated><id>/2020/03/16/COVID-19-drugs</id><content type="html" xml:base="/2020/03/16/COVID-19-drugs.html">&lt;p&gt;&lt;img src=&quot;/images/coronavirus.jpeg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Evidence Type&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Remdesivir&lt;/td&gt;
-      &lt;td&gt;In-vitro effective against COVID-19;  Effective (esp. prophylactically) against MERS in macaque monkeys; More effective than lopinavir/ritonavir against MERS in mice&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Chloroquine&lt;/td&gt;
-      &lt;td&gt;In-vitro effective against COVID-19; In-vitro effective against SARS; &lt;strong&gt;Not&lt;/strong&gt; in-vitro effective against MERS in monocyte-derived cells&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Cinanserin&lt;/td&gt;
-      &lt;td&gt;In-vitro effective against COVID-19;In-vitro effective against SARS&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lopinavir/Ritonavir&lt;/td&gt;
-      &lt;td&gt;Human retrospective evidence of effectiveness in MERS and SARS but &lt;strong&gt;not&lt;/strong&gt; COVID-19; In-silico predicted effectiveness against COVID-19&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Indinavir&lt;/td&gt;
-      &lt;td&gt;In-silico predicted effectiveness against COVID-19;  &lt;strong&gt;Not&lt;/strong&gt; effective in-vitro against SARS&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thalidomide&lt;/td&gt;
-      &lt;td&gt;Improved symptoms in one case study of severe COVID-19&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Remdesivir&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;An in-silico study of HIV drugs for their docking affinity to a key enzymes in the COVID-19 virus – RdRp, the main protein for RNA replication – found an almost perfect match in the antiviral drug remdesivir, suggesting it might be a good candidate drug for treating COVID-19.[3]&lt;/p&gt;
-
-&lt;p&gt;Remdesivir also inhibits the COVID-19 virus in vitro.[7]&lt;/p&gt;
-
-&lt;p&gt;Remdesivir is effective at reducing the clinical signs of infection and viral load from MERS coronavirus in rhesus macaque monkeys; if given prophylactically, it prevents the monkeys from getting any disease symptoms at all and keeps their viral loads negligible.[10]  In mice, remdesivir is more effective than lopinavir/ritonavir in improving pulmonary function and reducing viral load from MERS infection.[11]&lt;/p&gt;
-
-&lt;p&gt;In 3 US patients treated with remdesivir, 2 patients saw fever drop immediately upon receiving the drug (the third didn’t have a fever); one was able to go off supplemental oxygen; all recovered.&lt;/p&gt;
-
-&lt;p&gt;Remdesivir is currently in trials in China and the US for COVID-19.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chloroquine&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A brief summary document [1] claims that clinical trials in China including over 100 patients have found the antimalarial drug chloroquine phosphate “superior to control treatment” in treating COVID-19 pneumonia and shortening disease course. The paper provided no documentation about experimental methods.&lt;/p&gt;
-
-&lt;p&gt;Chloroquine also inhibits the replication of the COVID-19 virus in vitro,[7] as well as the SARS coronavirus in vitro.[9]  It does not inhibit the MERS coronavirus in vitro in a culture of monocyte-derived cells.[13]&lt;/p&gt;
-
-&lt;p&gt;Chloroquine frequently causes gastrointestinal side effects (diarrhea, nausea), problems with visual acuity, insomnia, and paresthesias (prickling skin sensations.)[15]  More rarely, chloroquine can cause psychiatric symptoms like depression.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cinanserin&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cinanserin is a serotonin receptor antagonist which was also found to inhibit the replication of the SARS virus in vitro. Cinanserin inhibits the activity of COVID-19’s main protease in vitro, and inhibits the virus’s replication in vitro.[5]&lt;/p&gt;
-
-&lt;p&gt;Cinanserin also inhibits the replication of the SARS coronavirus in vitro.[14]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lopinavir/Ritonavir&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Lopinavir/Ritonavir is a combination of two antiviral drugs approved for the treatment of HIV.&lt;/p&gt;
-
-&lt;p&gt;In one Korean patient, aged 54, with mild pneumonia and a diagnosis of COVID-19, treatment with the antiviral drug combination of lopinavir and ritonavir diminished coronavirus load to undetectable levels.[2]&lt;/p&gt;
-
-&lt;p&gt;Lopinavir/Ritonavir was also used by the Thai infectious disease team to successfully treat patients with severe COVID-19.[3]&lt;/p&gt;
-
-&lt;p&gt;Lopinavir also had a high binding affinity to the COVID-19 protein 3CL-PRO in an in-silico screen of 3118 FDA-approved drugs.[4]&lt;/p&gt;
-
-&lt;p&gt;Lopinavir is a protease inhibitor, effective in vitro against the main protease of the SARS coronavirus; it also has in vitro antiviral activity against SARS-CoV. Lopinavir reduced viral load and clinical symptoms of the MERS coronavirus in mice and marmoset monkeys.[6]&lt;/p&gt;
-
-&lt;p&gt;In human SARS cases, treatment with lopinavir was associated with lower death rate (2.3%) and intubation rate (0%) compared with standard treatment (11% and 15.6% respectively.). Another case-control study of SARS found a lower rate of ARDS in patients treated with lopinavir (2.4% vs 28.8%).  [6]&lt;/p&gt;
-
-&lt;p&gt;A retrospective study of 40 patients found that post-exposure prophylaxis including lopinavir/ritonavir reduced the spread of MERS-CoV by 40% in healthcare workers.  However, a retrospective study of 134 COVID-19 patients found no significant difference between lopinavir/ritonavir treatment, Abidol treatment, and control treatment.[6]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Indinavir&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Indinavir is an antiviral drug used to treat HIV.&lt;/p&gt;
-
-&lt;p&gt;In an in-silico screen of the binding affinity of 3118 FDA-approved drugs to several key enzymes of the COVID-19 virus, the highest-affinity drug for the protease PDB-6LU7 was indinavir, an antiviral drug approved for use against HIV.  (Even higher affinity were human proteins that closely resemble the enzyme’s ligand – ACE2 and GHRP-2.)  Indinavir also had a high binding affinity to another COVID-19 protein, 3CL-PRO.[4]&lt;/p&gt;
-
-&lt;p&gt;However, in an in-vitro test against the SARS coronavirus, indinavir did not block replication.[12]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thalidomide&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Thalidomide is an immunomodulatory drug used to treat cancers.&lt;/p&gt;
-
-&lt;p&gt;A 45-year-old woman with a severe case COVID-19, with fever, pneumonia, dyspnea, nausea, and vomiting, improved and went into remission after being treated with thalidomide, which has anti-inflammatory effects, reducing the “cytokine storm” responsible for the severe symptoms of COVID-19.[7]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;[1]Gao, Jianjun, Zhenxue Tian, and Xu Yang. “Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies.” BioScience Trends (2020).&lt;/p&gt;
-
-&lt;p&gt;[2]Lim, Jaegyun, et al. “Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR.” Journal of Korean medical science 35.6 (2020).&lt;/p&gt;
-
-&lt;p&gt;[3]Chang, Yu-Chuan, et al. “Potential therapeutic agents for COVID-19 based on the analysis of protease and RNA polymerase docking.” (2020).&lt;/p&gt;
-
-&lt;p&gt;[4]Contini, Alessandro. “Virtual screening of an FDA approved drugs database on two COVID-19 coronavirus proteins.” (2020).&lt;/p&gt;
-
-&lt;p&gt;[5]Jin, Zhenming, et al. “Structure-based drug design, virtual screening and high-throughput screening rapidly identify antiviral leads targeting COVID-19.” bioRxiv (2020).&lt;/p&gt;
-
-&lt;p&gt;[6]Yao, Tian‐Tian, et al. “A Systematic Review of Lopinavir Therapy for SARS Coronavirus and MERS Coronavirus–A Possible Reference for Coronavirus Disease‐19 Treatment Option.” Journal of Medical Virology (2020).&lt;/p&gt;
-
-&lt;p&gt;[7]Wang, Manli, et al. “Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.” Cell research 30.3 (2020): 269-271.&lt;/p&gt;
-
-&lt;p&gt;[8]Chen, Chengshui, et al. “Thalidomide combined with low-dose glucocorticoid in the treatment of COVID-19 Pneumonia.” (2020).&lt;/p&gt;
-
-&lt;p&gt;[9]Vincent, Martin J., et al. “Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.” Virology journal 2.1 (2005): 69.&lt;/p&gt;
-
-&lt;p&gt;[10]de Wit, Emmie, et al. “Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.” Proceedings of the National Academy of Sciences (2020).&lt;/p&gt;
-
-&lt;p&gt;[11]Sheahan, Timothy P., et al. “Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV.” Nature Communications 11.1 (2020): 1-14.&lt;/p&gt;
-
-&lt;p&gt;[12]Tan, Emily LC, et al. “Inhibition of SARS coronavirus infection in vitro with clinically approved antiviral drugs.” Emerging infectious diseases 10.4 (2004): 581.&lt;/p&gt;
-
-&lt;p&gt;[13]Cong, Yu, et al. “MERS-CoV pathogenesis and antiviral efficacy of licensed drugs in human monocyte-derived antigen-presenting cells.” PloS one 13.3 (2018).&lt;/p&gt;
-
-&lt;p&gt;[14]Chen, Lili, et al. “Cinanserin is an inhibitor of the 3C-like proteinase of severe acute respiratory syndrome coronavirus and strongly reduces virus replication in vitro.” Journal of virology 79.11 (2005): 7095-7103.&lt;/p&gt;
-
-&lt;p&gt;[15]Martins, Antonio Camargo, et al. “Side effects of chloroquine and primaquine and symptom reduction in malaria endemic area (Mâncio Lima, Acre, Brazil).” Interdisciplinary perspectives on infectious diseases 2015 (2015).&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="covid-19" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;[24]Yam, L. Y., et al. “Non-invasive versus invasive mechanical ventilation for respiratory failure in severe acute respiratory syndrome.” Chin Med J 118.17 (2005): 1413-1421.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?</summary></entry></feed>
