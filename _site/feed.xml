@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-27T22:07:43-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Antibody Testing for COVID-19</title><link href="/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>/2020/04/27/antibody-testing</id><content type="html" xml:base="/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-27T22:20:56-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Antibody Testing for COVID-19</title><link href="/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>/2020/04/27/antibody-testing</id><content type="html" xml:base="/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What’s In A COVID-19 Antibody Test?&lt;/strong&gt;&lt;/p&gt;
 
@@ -462,7 +462,7 @@
 
 &lt;p&gt;&lt;strong&gt;Do Viral Antibodies Generally Predict Immunity to Future Infection?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The CDC has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?&lt;/p&gt;
+&lt;p&gt;The Who has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?&lt;/p&gt;
 
 &lt;p&gt;In a longitudinal cohort of 7547 Nicaraguan children monitored for dengue virus, preinfection antibody titer correlated with lower risk of having a symptomatic second infection (p &amp;lt; 0.005).  Children with serologically confirmed but asymptomatic second infections had preinfection antibody titers 2.3-fold higher than children with symptomatic second infections.  Also, children with symptomatic first infections were less likely to have symptomatic second infections independent of antibody titer – apparently infection grants immunity through mechanisms other than antibody quantity.[40]&lt;/p&gt;
 
@@ -562,7 +562,7 @@
 
 &lt;p&gt;[38]Ganzenmueller, Tina, et al. “Comparison of the performance of direct fluorescent antibody staining, a point-of-care rapid antigen test and virus isolation with that of RT-PCR for the detection of novel 2009 influenza A (H1N1) virus in respiratory specimens.” &lt;em&gt;Journal of medical microbiology&lt;/em&gt; 59.6 (2010): 713-717.&lt;/p&gt;
 
-&lt;p&gt;[39]&lt;a href=&quot;https://www.sciencetimes.com/articles/25484/20200427/having-antibodies-against-covid-19-guarantee-immunity-doctor-who-retested.htm&quot;&gt;https://www.sciencetimes.com/articles/25484/20200427/having-antibodies-against-covid-19-guarantee-immunity-doctor-who-retested.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[39]&lt;a href=&quot;https://www.cnbc.com/2020/04/17/who-issues-warning-on-coronavirus-testing-theres-no-evidence-antibody-tests-show-immunity.html&quot;&gt;https://www.cnbc.com/2020/04/17/who-issues-warning-on-coronavirus-testing-theres-no-evidence-antibody-tests-show-immunity.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;[40]Katzelnick, Leah C., et al. “Neutralizing antibody titers against dengue virus correlate with protection from symptomatic infection in a longitudinal cohort.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 113.3 (2016): 728-733.&lt;/p&gt;
 
