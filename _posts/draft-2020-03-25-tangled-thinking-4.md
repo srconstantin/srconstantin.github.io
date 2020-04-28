@@ -12,11 +12,17 @@ First, the "self-harm" could only be apparent; the behavior could have a non-obv
 
 For example, consider a peacock's tail. At first glance it is a disadvantage to a peacock to have a huge, unwieldy tail; but sexual selection provides a countervailing advantage. Peacocks with big gaudy tails get to reproduce more often and with higher-fitness mates.
 
-Another example of "self-harm" that is only apparent is what's known as "reciprocal altruism", AKA cooperation or exchange. Animals and humans sometimes give up something of value to help another, which would seem to be an act of self-harm; but usually this is actually an exchange, either formal (as in trade) or implicit (as in owing each other favors). Mutual exchange of help can be more advantageous than isolation.
+Another example of "self-harm" that is only apparent is what's known as "reciprocal altruism", AKA cooperation or exchange. Animals and humans sometimes give up something of value to help another member of their species, which would seem to be an act of self-harm; but usually this is actually an exchange, either formal (as in trade) or implicit (as in owing each other favors). Mutual exchange of help can be more advantageous than isolation.
 
 Thus, neither a peacock's tail nor a human's generous impulses are mysteries from an evolutionary perspective; they are perfectly explainable by evolutionary self-interest.
 
 A second explanation of an apparently "self-harming" trait is that it is indeed harmful to the organism's fitness, but is an unavoidable side effect of something beneficial.  This is called "antagonistic pleiotropy."
 
-For instance, there are many traits that are controlled by more than one gene, or sometimes more than one allele of the same gene, but are only beneficial in moderation. One copy of the gene for sickle-cell disease provides resistance to malaria; two copies causes a debilitating blood disorder. For another example, there are a number of genetic neurological disorders which cause severe disability, but are also correlated with higher-than-average intelligence in the *relatives* of the affected children.  There is, perhaps, a cluster of genes such that having *all* of them is very bad for you, but having a few might be advantageous.  
+For instance, there are many traits that are controlled by more than one gene, or sometimes more than one allele of the same gene, but are only beneficial in moderation. One copy of the gene for sickle-cell disease provides resistance to malaria; two copies causes a debilitating blood disorder. The neurodegenerative disorder Huntington's disease also goes with increased expression of a tumor-suppressor gene and lower rates of cancer. One theory as to why genetic diseases remain in the population is that they have some beneficial side-effect which has been selected for.
+
+A third explanation of an apparently "self-harming" trait is that the trait, while technically harmful to the organism, is only weakly selected against, or not at all. 
+
+For instance, why do we age?  It would seem to be disadvantageous for an organism to function less well over time. The reason is that after an animal has finished reproducing, living a long healthy life no longer affects its inclusive fitness (which, recall, is defined by number of descendants.) Evolution doesn't care how happy you are, it cares about inclusive fitness.  
+
+(Of course, this is a bit question-begging as an explanation for aging in general -- why should an animal lose the ability to reproduce at all? Many reptiles and birds keep the same levels of fertility throughout their lifespan.  But it's )
 

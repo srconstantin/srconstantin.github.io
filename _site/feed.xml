@@ -1,4 +1,588 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-13T19:24:50-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Variolation for COVID-19</title><link href="/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/variolation</id><content type="html" xml:base="/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-27T22:03:48-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Antibody Testing</title><link href="/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>/2020/04/27/antibody-testing</id><content type="html" xml:base="/2020/04/27/antibody-testing.html">&lt;hr /&gt;
+&lt;p&gt;layout: tag_post
+title: Antibody Testing for COVID-19
+tags: [covid-19, lit-review]
+—&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s In A COVID-19 Antibody Test?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As of April 24, there are 4 COVID-19 antibody tests approved for diagnostic purposes in the US, and 44 approved for diagnostic or research purposes around the world.[1]&lt;/p&gt;
+
+&lt;p&gt;Some of these are ELISA tests, which detect the presence of antibodies to viral proteins, such as the N (nucleocapsid) protein or S (spike) protein.  The subject’s blood serum is incubated with the protein, and then washed with antibody-dye conjugates that fluoresce in proportion to the concentration of bound antibody/viral protein complexes.&lt;/p&gt;
+
+&lt;p&gt;Some tests, such as one approved in Singapore, is a viral neutralization assay that tests the patient’s serum for its ability to neutralize viral replication in vitro.&lt;/p&gt;
+
+&lt;p&gt;Finally, some are rapid tests, which screen for the presence or absence of antibodies to the viral protein, but cannot measure the concentration. These can be very quick (&amp;lt;15 min) to perform, but tell us nothing about the concentration of the antibody.&lt;/p&gt;
+
+&lt;p&gt;Viral neutralization tests, compared to ELISA can tell us more about how likely the antibodies are to protect against infection, but they also take longer than ELISA tests (3-5 days vs 1-5 hours.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How Accurate Are COVID-19 Antibody Tests at Predicting Serum Viral RNA?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Manufacturer&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Test Type&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Sensitivity&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Specificity&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Sample Size (# of individuals)&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;USTC (Hefei, China)
+   &lt;/td&gt;
+   &lt;td&gt;IgG/IgA rapid test for S protein receptor binding domain
+   &lt;/td&gt;
+   &lt;td&gt;99.2%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;570
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Jiangsu Medomics
+   &lt;/td&gt;
+   &lt;td&gt;IgM/IgG lateral flow immunoassay for S protein receptor binding domain
+   &lt;/td&gt;
+   &lt;td&gt;88.66%
+   &lt;/td&gt;
+   &lt;td&gt;90.63%
+   &lt;/td&gt;
+   &lt;td&gt;525
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;VITROS
+   &lt;/td&gt;
+   &lt;td&gt;ELISA against spike protein
+   &lt;/td&gt;
+   &lt;td&gt;83%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;436
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Cellex
+   &lt;/td&gt;
+   &lt;td&gt;IgM/IgG lateral flow immunoassay against N protein
+   &lt;/td&gt;
+   &lt;td&gt;93.8%
+   &lt;/td&gt;
+   &lt;td&gt;96.0%
+   &lt;/td&gt;
+   &lt;td&gt;378
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Euroimmun
+   &lt;/td&gt;
+   &lt;td&gt;IgG/IgA rapid test for S1 protein
+   &lt;/td&gt;
+   &lt;td&gt;94%
+   &lt;/td&gt;
+   &lt;td&gt;98%
+   &lt;/td&gt;
+   &lt;td&gt;310
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Zhejiang Orient
+   &lt;/td&gt;
+   &lt;td&gt;IgG rapid test
+   &lt;/td&gt;
+   &lt;td&gt;93.1%
+   &lt;/td&gt;
+   &lt;td&gt;99.2%
+   &lt;/td&gt;
+   &lt;td&gt;153
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Wantai
+   &lt;/td&gt;
+   &lt;td&gt;ELISA for S protein receptor binding domain
+   &lt;/td&gt;
+   &lt;td&gt;93%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;112
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Mount Sinai
+   &lt;/td&gt;
+   &lt;td&gt;ELISA for S protein
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;111
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;NIH
+   &lt;/td&gt;
+   &lt;td&gt;LIPS test for N protein 
+   &lt;/td&gt;
+   &lt;td&gt;67% all, 100% 14 days after symptoms
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;81
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Dynamiker
+   &lt;/td&gt;
+   &lt;td&gt;Rapid IgG/IgM
+   &lt;/td&gt;
+   &lt;td&gt;90%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;62
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;CTK Biotech
+   &lt;/td&gt;
+   &lt;td&gt;Rapid IgG/IgM
+   &lt;/td&gt;
+   &lt;td&gt;90%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;62
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Unnamed
+   &lt;/td&gt;
+   &lt;td&gt;Rapid IgG/IgM
+   &lt;/td&gt;
+   &lt;td&gt;36.4%
+   &lt;/td&gt;
+   &lt;td&gt;88.9%
+   &lt;/td&gt;
+   &lt;td&gt;39
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Beijing Diagreat Biotechnologies
+   &lt;/td&gt;
+   &lt;td&gt;Rapid IgG/IgM
+   &lt;/td&gt;
+   &lt;td&gt;83%
+   &lt;/td&gt;
+   &lt;td&gt;93%
+   &lt;/td&gt;
+   &lt;td&gt;30
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;A Chinese-designed IgM/IgG combined assay for COVID-19 (Jiangsu Medomics)  testing for antibodies against the receptor binding domain of the spike protein, tested on confirmed COVID-19 cases selected from hospitals in 6 different provinces and healthy volunteers, had a sensitivity of 88.66% and a specificity of 90.63%.[2]&lt;/p&gt;
+
+&lt;p&gt;A German-designed IgG/IgA assay against the spike protein S1 of SARS-CoV-2 (Euroimmun) had a 100% specificity (did not react against healthy volunteers, patients with non-coronavirus viruses, or patients with endemic coronaviruses that cause the common cold.  All 3 SARS-CoV-2 patients got positive tests, for a specificity of 100%. 2/2 SARS-CoV patients also got positive results from this antibody test.  More severe patients had higher antibody titers.[3]&lt;/p&gt;
+
+&lt;p&gt;A Swedish preprint study evaluating a Chinese-made rapid antibody test (Zhejiang Orient Gene Biotech) on 29 PCR-confirmed COVID-19 patients or convalescents and 100 healthy controls had a sensitivity of 93.1% and specificity of 99.2% for the IgG test. The IgM test had only a 69% sensitivity but a 100% specificity. [4]&lt;/p&gt;
+
+&lt;p&gt;A Chinese preprint study of RBD antibody kits for combined IgA/IgG antibodies on 330 healthy subjects, 153 patients with non-COVID-19 diseases, and 87 SARS-CoV-2 cases, had a sensitivity of 99.1% and specificity of 100%. IgA levels but not IgM levels were higher in more severe patients (p &amp;lt; 0.0001).[5]&lt;/p&gt;
+
+&lt;p&gt;An ELISA test against the SARS-CoV-2 spike protein, developed at Mount Sinai Hospital in the US and approved for diagnostic use, was tested on 17 confirmed COVID-19 cases (3 convalescent, 14 acute) and 94 negative controls collected before the COVID-19 pandemic began.  All 17 COVID-19 patients had antibodies that reacted strongly in the test, while none of the controls did.  Additionally, the concentration of antibody correlates positively to viral neutralization ability (p &amp;lt;0.0001, r = 0.9279).[6]&lt;/p&gt;
+
+&lt;p&gt;An independent Danish preprint study of 9 antibody tests on 30 confirmed COVID-19 cases admitted to the ICU and 82 non-COVID-19 patients (healthy blood donors or people with other acute viral infections) found that the Wantai test for the spike protein receptor binding domain had a sensitivity of 93% and specificity of 100%, while the Euroimmun IgA test had a specificity of 93% and sensitivity of 93%.  Point-of-care rapid tests were less sensitive – the Dynamiker and CTK Biotech tests (both IgG/IgM tests) had sensitivities of 90% and specificities of 100%. The best two ELISA tests agreed 93% with each other.[7]&lt;/p&gt;
+
+&lt;p&gt;Briefer illnesses (7-13 days vs 14-20 and &amp;gt;21 days) had somewhat lower rates of positive test results, which is consistent with other studies finding that more severe disease correlated with higher antibody levels. [7]&lt;/p&gt;
+
+&lt;p&gt;A German study of an unnamed rapid IgG/IgM test on 39 randomly selected patients who were also tested for COVID-19 with RT-PCR (the benchmark), the sensitivity was only 36.4% while the specificity was 88.9%.  (Note that this could include patients who were in the early stages of the disease, when viral RNA is detectable but antibodies are not.)[8]&lt;/p&gt;
+
+&lt;p&gt;An Italian study of the Beijing Diagreat Biotechnologies rapid IgG/IgM test on 30 patients admitted to the hospital with either confirmed COVID-19, suspected COVID-19 that turned out to be something else, or asymptomatic controls, the sensitivity was 83% and the specificity was 93%.[9]&lt;/p&gt;
+
+&lt;p&gt;A novel type of immunoassay, LIPS (Luciferase Immunoprecipitation System) was  tested on 49 patients with confirmed COVID-19 and 32 blood bank donor controls. None of the controls had a positive result for nucleocapsid antibodies, while 67% of the COVID-19 patients did.  Similarly, none of the controls had a positive result for spike protein antibodies, while 57% of the COVID-19 patients did.  When restricted to samples taken &amp;gt;14 days after symptom onset, the sensitivity and specificity were 100%.[10]&lt;/p&gt;
+
+&lt;p&gt;Premarket testing for the Cellex rapid IgG/IgM test evaluated 128 confirmed COVID-19 cases and 250 negative subjects, and found a sensitivity of 93.8% and a specificity of 96.0%.[11]&lt;/p&gt;
+
+&lt;p&gt;The VITROS modified ELISA test against spike protein was positive in 30/36 patients with confirmed cases of COVID-19 (sensitivity of 83%) and negative in 100% of 400 non-COVID-19 samples.[12]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bottom Lines&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;All in all, the antibody tests are generally quite specific (at least in patients who have had the disease for at least two weeks) and fairly sensitive.&lt;/p&gt;
+
+&lt;p&gt;Antibody levels tend to rise over the course of the disease and tend to be higher in more severe cases.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How Should We Interpret The Antibody Seroprevalence Data in the US?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Several recent papers have come out with estimates of the prevalence of SARS-CoV-2 in US cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PCR Tests of Random Samples in the US&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of 131 patients presenting with mild influenza-like symptoms in a Los Angeles clinic, 7 tested positive for SARS-CoV-2, or 5%.[13]&lt;/p&gt;
+
+&lt;p&gt;Between March 22 and April 4, all pregnant women delivering at New York Presbyterian and Columbia University hospitals in New York were tested for COVID-19. 15.4% of all pregnant women tested positive for SARS-CoV-2.   Only 12% of the patients who tested positive had COVID-19 symptoms, consistent with a picture in which most infections are asymptomatic.[14]&lt;/p&gt;
+
+&lt;p&gt;A screening program of 24 homeless shelters in Seattle, Boston, San Francisco, and Atlanta found 25% of residents and 11% of staff members tested positive for SARS-CoV-2.  This is probably much higher than the general population in those cities since homeless people are sicker than others and living in institutional environments like shelters spreads disease.[20]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PCR Tests of Random Samples In Other Countries&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Iceland did an extensive testing program for SARS-CoV-2, issuing an open invitation to 10,797 people and random invitations to 2283 people.  In total, 6% of the Icelandic population was screened.  0.6% of the open invitation group and 0.8% of the random invitation group tested positive for the virus.  57% of those who tested positive also reported symptoms of COVID-19.[16]&lt;/p&gt;
+
+&lt;p&gt;A study testing 1097 health care workers with mild respiratory symptoms in 9 hospitals in the Netherlands found that 4% tested positive for SARS-CoV-2.[17]&lt;/p&gt;
+
+&lt;p&gt;A screening study for SARS-CoV-2 in 1654 UK medical staff with symptoms of cough or fever found 14% tested positive.[22]&lt;/p&gt;
+
+&lt;p&gt;South Korea has one of the largest COVID-19 testing programs in the world, testing 601,660 people between January 3 and April 27, or about 1% of its population. 1.8% of those tested were positive, and 2.3% of the confirmed cases were fatal.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Antibody Tests in the US&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A study that recruited participants in Santa Clara County, California through Facebook ads tested 3330 participants with a rapid IgG/IgM test (Premier Biotech.)  This test had previously been found to have an 80% sensitivity rate and 99.5% specificity rate, from combining the manufacturer’s data and an independent experiment, 523 patients in all.[15]&lt;/p&gt;
+
+&lt;p&gt;The crude prevalence rate of antibodies in Santa Clara County was 1.5%; after weighting the sample to match Santa Clara County by zipcode, race, and sex, the rate was 2.81%.  Adjusting for the sensitivity and specificity of the test, the estimated prevalence is 2.75%.&lt;/p&gt;
+
+&lt;p&gt;The authors conclude that, because the prevalence of antibodies is much higher than the number of confirmed cases (there were 985 confirmed cases in Santa Clara County, while this study’s data suggests 48,000-81,000 cases should exist), that COVID-19 is almost always asymptomatic and should have a much lower case fatality rate than previously assumed.&lt;/p&gt;
+
+&lt;p&gt;I don’t think this conclusion is reasonable.  Confirmed case numbers were low for a long time in the US, even when the pandemic was spreading rapidly, because there was a shortage of tests before the FDA approved several new tests.  Even a serious case of suspected COVID-19 can’t get a diagnostic confirmation if no tests are available.  It makes more sense to suppose that the confirmed case numbers (and, thus, the confirmed fatality numbers) are underestimates than to take those numbers literally and infer that the disease kills only 0.1-0.2% of those infected.&lt;/p&gt;
+
+&lt;p&gt;Miami-Dade County in Florida has embarked on a random antibody screening program, and preliminary results from 1800 individuals indicate a rate of 6%, which is 16.5x higher than the number of confirmed cases captured by hospitals and testing sites alone.[24] About half of the individuals who tested positive had no symptoms.[25]&lt;/p&gt;
+
+&lt;p&gt;A random antibody test of New York State residents sampled from shoppers at grocery and big-box stores found 21% in New York City, 17% in Long Island, 12% in Westchester, and &amp;lt;4% in the rest of the state, had antibodies to the virus.[26]  These numbers may be overestimates because people who are shopping are less likely to be practicing social distancing and thus are more at risk for infection.&lt;/p&gt;
+
+&lt;p&gt;Preliminary results from a random antibody screening program in Los Angeles County found that 4.1% of residents tested positive for SARS-CoV-19 antibodies.[29]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Antibody Tests in Other Countries&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;1000 blood samples from blood donors in Scotland were screened for SARS-CoV-2 neutralizing antibodies; 0.5% tested positive. Note that blood donors are healthier on average than the general population, since donors with a history of recent respiratory infection are turned away; so this serves as more of a lower bound on the prevalence of SARS-CoV-2 antibodies in the Scottish population.[19]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Other Measurements of Prevalence&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;SARS-CoV-2 levels in the wastewater of a major water treatment facility in Massachussetts suggest that roughly 5% of the stool samples in the state were positive for the virus between March 18-25, a number much higher than the 0.026% prevalence rate for confirmed SARS-CoV-2 cases in Massachusetts. This points towards COVID-19 being underdiagnosed, as we’d expect given the shortage of tests.[18]&lt;/p&gt;
+
+&lt;p&gt;A New York Times report on April 27th observed that New York City had triple the number of all-cause deaths compared to historical baselines, and other countries also had higher rates of all-cause mortality than their historical baselines. (Spain, 67% above normal; Equador, 83% above normal; Jakarta, Indonesia, 57% above normal.) These numbers can’t be confounded by any possible over-diagnosis of COVID-19, and constitute clear evidence that the epidemic is killing people. Moreover, there are more all-cause deaths than can be accounted for by confirmed COVID-19 deaths alone; so either the disease is underdiagnosed or people are dying from other effects of the pandemic (such as a shortage of hospital care.)[21]&lt;/p&gt;
+
+&lt;p&gt;In March 2020, the number of LA County cases of influenza-like symptoms was double that in March of the past 4 years, despite it being past the peak of flu season.[13]  This likewise points to COVID-19 causing a large number of symptomatic cases.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Most screens of random population samples – that is, _not _specifically selected for having symptoms or for having contacts with COVID-19 – seem to show 0.5-5% prevalence for the disease, in different cities and countries, whether measured by antibodies, viral RNA, or even wastewater RNA concentrations.&lt;/p&gt;
+
+&lt;p&gt;Prevalence numbers are higher among high-risk populations (healthcare workers and homeless people) and _much _higher in New York City, the center of the US epidemic and a very dense population.&lt;/p&gt;
+
+&lt;p&gt;In the US specifically, where testing has been scarce, this means that the number of confirmed cases has been underestimated by at least an order of magnitude.&lt;/p&gt;
+
+&lt;p&gt;The antibody screening experiments have been criticized on the grounds that antibody tests are not perfectly accurate. I don’t think this is a valid argument against the main point (that there are probably &amp;gt;10x as many true cases as confirmed cases in the US.)&lt;/p&gt;
+
+&lt;p&gt;Antibody tests vary in their _sensitivity _(how likely they are to give a positive result in a real infection) and tend to not show up as positive until 2 weeks after the onset of symptoms.  But, if anything, this should mean the true positive rate is even _larger _than the numbers in the studies. Antibody tests tend to have fairly high _specificity _– the maximum % of false positives I’ve seen reported is 10% – and so even if 10% of the reported positives are false ones, that would still mean that the seroprevalence of COVID-19 is many times higher than the rate of confirmed cases.&lt;/p&gt;
+
+&lt;p&gt;Some commentators have concluded that this means that the danger of COVID-19 has been overstated; that the risk of dying given a SARS-CoV-19 infection is much lower than previously supposed.  I think this is misleading.&lt;/p&gt;
+
+&lt;p&gt;The official case fatality rate (# of confirmed COVID-19 deaths/ # of confirmed COVID-19 cases) may be an overestimate, because when testing is scarce, more severe cases are more likely to be tested. Right now the cumulative global case fatality rate is a whopping 7% and the US case fatality rate is 2.8%.[27][28]&lt;/p&gt;
+
+&lt;p&gt;However, estimating an infection fatality rate defined by # of confirmed deaths / expected # of antibody-positive individuals is likely to be an &lt;em&gt;underestimate&lt;/em&gt;, since if testing capacity is scarce, we can expect even some fatal COVID-19 cases to go unconfirmed.&lt;/p&gt;
+
+&lt;p&gt;These “optimistic” estimates of infection fatality rate are about 0.3% for Santa Clara County, 0.2% for L.A. County, 0.1% for Miami-Dade County, and 0.7% for New York City.&lt;/p&gt;
+
+&lt;p&gt;If we compare these estimates to two countries that had extensive COVID-19 testing, Iceland and South Korea, the cumulative case fatality rate for Iceland is 0.5% (in line with the optimistic US estimates) and the rate for South Korea is 2.3% (quite a bit higher than the optimistic US estimates.)  So it’s not clear what conclusion to draw from international comparisons.&lt;/p&gt;
+
+&lt;p&gt;One consideration is that the South Korean testing program is not a random sample of the population, though it was extensive – people with symptoms or connections to COVID-19 patients are prioritized for testing.  So its 2.3% mortality rate may be an overestimate as well.&lt;/p&gt;
+
+&lt;p&gt;If we consider the 3x elevated all-cause mortality rate in NYC, and assume that _all _excess deaths are COVID-19 deaths, and that 21% of New Yorkers are infected, this gives a “pessimistic” estimate of 1.2% of COVID-19 infections being fatal in NYC.&lt;/p&gt;
+
+&lt;p&gt;My current best guess is that the true estimate of infection fatality rate in the US is somewhere between the “optimistic” and “pessimistic” probabilities, i.e. between 0.1% and 1.2%.&lt;/p&gt;
+
+&lt;p&gt;This is still not, by any means, &lt;em&gt;good&lt;/em&gt;. If the US ended all quarantines today, without a vaccine or effective treatment, and allowed the virus to spread until herd immunity was achieved, or about 60% of the US population, this would mean about 200,000-2,000,000 deaths this year.  On the high end, that’s as deadly per capita as the US Civil War,[30] and deadlier than the Spanish Flu.[31]  “Less deadly than previously estimated” does not mean “no big deal.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do Viral Antibodies Generally Correspond to Past Viral Infection?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Outside of COVID-19, what’s the track record of accuracy of viral antibody tests?  Are there a sizable population who have positive antibodies to viruses they were never infected with?  Do many people get infected with viruses that they never develop antibodies to?&lt;/p&gt;
+
+&lt;p&gt;This can put the credibility of antibody tests for COVID-19 in a broader context. If antibody false positives are really common overall, then the apparently good specificity of the COVID-19 tests (derived from small studies, often by the manufacturers) may be too optimistic, and the actual prevalence of COVID-19 may be quite a bit lower than it appears in the antibody screening studies.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Test Type&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Virus&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Sensitivity&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Specificity&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;# Of Individuals&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Rapid
+   &lt;/td&gt;
+   &lt;td&gt;HIV
+   &lt;/td&gt;
+   &lt;td&gt;&amp;gt;95%
+   &lt;/td&gt;
+   &lt;td&gt;&amp;gt;99%
+   &lt;/td&gt;
+   &lt;td&gt;6282
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;NS1 ELISA, IgM/IgG
+   &lt;/td&gt;
+   &lt;td&gt;Zika
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;1379
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Rapid
+   &lt;/td&gt;
+   &lt;td&gt;HCV
+   &lt;/td&gt;
+   &lt;td&gt;97.8% \
+88.3% \
+99.3%
+   &lt;/td&gt;
+   &lt;td&gt;99.5%
+   &lt;/td&gt;
+   &lt;td&gt;1083
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Rapid test and ELISA
+   &lt;/td&gt;
+   &lt;td&gt;H5N1
+   &lt;/td&gt;
+   &lt;td&gt;18.2% \
+38.7%
+   &lt;/td&gt;
+   &lt;td&gt;100% \
+100%
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;IgM ELISA
+   &lt;/td&gt;
+   &lt;td&gt;Dengue
+   &lt;/td&gt;
+   &lt;td&gt;96%
+   &lt;/td&gt;
+   &lt;td&gt;84%
+   &lt;/td&gt;
+   &lt;td&gt;225
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;rapid
+   &lt;/td&gt;
+   &lt;td&gt;Chikungunya
+   &lt;/td&gt;
+   &lt;td&gt;20.5% \
+50.8%
+   &lt;/td&gt;
+   &lt;td&gt;100% \
+89.2%
+   &lt;/td&gt;
+   &lt;td&gt;206
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;NS1 ELISA
+   &lt;/td&gt;
+   &lt;td&gt;Dengue
+   &lt;/td&gt;
+   &lt;td&gt;83.2%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;138
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;NS1 Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Dengue
+   &lt;/td&gt;
+   &lt;td&gt;73.8%
+   &lt;/td&gt;
+   &lt;td&gt;100%
+   &lt;/td&gt;
+   &lt;td&gt;138
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;An ELISA test and rapid antibody test for dengue virus, tested in 138 Vietnamese patients admitted to the ICU with clinical suspicion of dengue, had sensitivities of 83.2% and 73.8% respectively, and specificities of 100%.[32]&lt;/p&gt;
+
+&lt;p&gt;In a study of antibody tests for dengue virus on 225 patients from around the world, some with dengue, some with other viruses, and some healthy controls, the ELISA tests for NS1 antigen had sensitivities of 60-75% in acute cases and 19-31% in convalescent cases, and the rapid tests had sensitivities of 40-60% in acute cases and 12-59% in convalescent cases.  The anti-dengue IgM ELISA test had a sensitivity of 98% in both acute and convalescent cases, while the anti-dengue IgM rapid tests had a sensitivity of 45-95 in both acute and convalescent cases.  The specificity of NS1 tests was 71-80%, and the IgM ELISA test had a specificity of 84%.[33]&lt;/p&gt;
+
+&lt;p&gt;3 rapid tests for HCV (hepatitis C) on 1083 samples: all specificities over 99.5%, sensitivities were 97.8%, 88.3%, 99.3%[34]&lt;/p&gt;
+
+&lt;p&gt;6 rapid tests for HIV on 6282 study participants, compared to a gold standard of Western blot, ELISA, &amp;amp; treatment status.  All sensitivities were &amp;gt;95% and specificities were &amp;gt;99%.[35]&lt;/p&gt;
+
+&lt;p&gt;In a study of an IgG/IgM ELISA test for Zika virus, on 112 patients with RT-PCR confirmed or suspected Zika, 1015 healthy patients, and 252 patients with other viruses, the sensitivity of combined IgG and IgM tests was 100% and specificity was 100%.[36]&lt;/p&gt;
+
+&lt;p&gt;Two rapid tests for chikungunya virus, tested on 132 patients with confirmed chikungunya and 74 patients with a different febrile illness; one had a 20.5% sensitivity and 100% specificity, while the other had a 50.8% sensitivity and 89.2% specificity.[37]&lt;/p&gt;
+
+&lt;p&gt;In a study of 524 patients tested for H5N1 (avian flu) a rapid test had a sensitivity of 18.2% and an ELISA test had a sensitivity of 38.7%.  Both had specificities of 100%.[38]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;While the performance of antibody tests for different viruses depends on the test itself, most have high specificities.  There is no reason to suppose that the measured specificity levels for SARS-CoV-2 tests are unrealistically low.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do Viral Antibodies Generally Predict Immunity to Future Infection?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The CDC has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?&lt;/p&gt;
+
+&lt;p&gt;In a longitudinal cohort of 7547 Nicaraguan children monitored for dengue virus, preinfection antibody titer correlated with lower risk of having a symptomatic second infection (p &amp;lt; 0.005).  Children with serologically confirmed but asymptomatic second infections had preinfection antibody titers 2.3-fold higher than children with symptomatic second infections.  Also, children with symptomatic first infections were less likely to have symptomatic second infections independent of antibody titer – apparently infection grants immunity through mechanisms other than antibody quantity.[40]&lt;/p&gt;
+
+&lt;p&gt;In 17 infants born to mothers with HSV1 or HSV2 infections during pregnancy, the babies with milder (or asymptomatic) infections had higher neutralizing antibody titers at birth than the babies with severe cases.  Average titer was 1:13 for severe cases, 1:65 for mild cases, and 1:69 for asymptomatic cases.[41]&lt;/p&gt;
+
+&lt;p&gt;Nine studies of human volunteers previously infected with influenza in the 60’s and 70’s and challenged with exposure to an influenza virus found that _no _volunteers developed symptomatic illness after challenge, out of a total of 86 patients.  “The titer of serum anti-HA antibodies remains the most consistent correlate of immunity to influenza virus infection.”[42]&lt;/p&gt;
+
+&lt;p&gt;In a cohort of 200 Mexican infants monitored for rotavirus, children with higher (&amp;gt; 1:800) rotavirus IgA titers were less likely to have rotavirus infection (RR = 0.21, p &amp;lt; 0.001) and rotavirus diarrhea (RR = 0.16, p &amp;lt; 0.01) and never got severe diarrhea.[43]&lt;/p&gt;
+
+&lt;p&gt;In 1164 healthy children immunized with varicella vaccine, children with lower antibody titers after the vaccine (&amp;lt;5 gpELISA units) were 3.5x as likely to develop a varicella infection in the next 7 years as children with higher antibody titers (&amp;gt;5 gpELISA units.)[44]&lt;/p&gt;
+
+&lt;p&gt;In a study of 38 adults challenged with rotavirus, patients who got ill from the exposure had higher preinoculation rotavirus IgG antibody (7.3 vs 6.1, p = 0.041).  There was no significant difference in infection rate between those exposed to a larger vs. smaller quantity.[45]&lt;/p&gt;
+
+&lt;p&gt;In a study of 696 adults and children in rural Bangladesh, serum IgG rotavirus antibodies were on average 4x higher in cases of symptomatic rotavirus than healthy controls.[46]&lt;/p&gt;
+
+&lt;p&gt;In 33 volunteers experimentally infected with human coronavirus 223E, those who had higher antibody titers prior to exposure were much less likely to get symptomatic disease (average ELISA ratio for neutralizing antibodies was 6.5x higher in the affected group vs the unaffected group, p &amp;lt;0.001)  Those who had had a cold in the last six months had significantly (p&amp;lt;0.05) lower clinical scores than those who had not.[47]&lt;/p&gt;
+
+&lt;p&gt;We have very consistent results across all viruses studied indicating that yes, higher pre-challenge virus-specific antibody titers are predictive of lower rates of symptomatic disease.&lt;/p&gt;
+
+&lt;p&gt;We don’t know yet whether reinfection of people previously infected with COVID-19 is _ever _possible, but we _do _have evidence from other viruses suggesting that if you’ve recovered successfully from a COVID-19 illness you are _less _susceptible to getting a symptomatic disease if you’re exposed again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]&lt;a href=&quot;https://www.centerforhealthsecurity.org/resources/COVID-19/serology/Serology-based-tests-for-COVID-19.html&quot;&gt;https://www.centerforhealthsecurity.org/resources/COVID-19/serology/Serology-based-tests-for-COVID-19.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2]Li, Zhengtu, et al. “Development and clinical application of a rapid IgM‐IgG combined antibody test for SARS‐CoV‐2 infection diagnosis.” &lt;em&gt;Journal of medical virology&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[3]Okba, Nisreen MA, et al. “SARS-CoV-2 specific antibody responses in COVID-19 patients.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[4]Ma, Huan, et al. “COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by a quantitative and sensitive immunoassay.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[5]Zhang, Pingping, et al. “Evaluation of recombinant nucleocapsid and spike proteins for serological diagnosis of novel coronavirus disease 2019 (COVID-19).” &lt;em&gt;MedRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[6]Amanat, Fatima, et al. “A serological assay to detect SARS-CoV-2 seroconversion in humans.” &lt;em&gt;MedRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[7]Lassaunière, Ria, et al. “Evaluation of nine commercial SARS-CoV-2 immunoassays.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[8]Döhla, M., et al. “Rapid point-of-care testing for SARS-CoV-2 in a community screening setting shows low sensitivity.” &lt;em&gt;Public Health&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[9]Spicuzza, Lucia, et al. “Reliability and usefulness of a rapid IgM‐IgG antibody test for the diagnosis of SARS-CoV-2 infection: a preliminary report.” &lt;em&gt;Journal of Infection&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[10]Burbelo, Peter D., et al. “Detection of Nucleocapsid Antibody to SARS-CoV-2 is More Sensitive than Antibody to Spike Protein in COVID-19 Patients.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[11]&lt;a href=&quot;https://www.fda.gov/media/136625/download&quot;&gt;https://www.fda.gov/media/136625/download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[12] &lt;a href=&quot;https://www.fda.gov/media/136967/download&quot;&gt;https://www.fda.gov/media/136967/download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[13]Spellberg, Brad, et al. “Community prevalence of SARS-CoV-2 among patients with influenzalike illnesses presenting to a Los Angeles medical center in March 2020.” &lt;em&gt;JAMA&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[14]Sutton, Desmond, et al. “Universal screening for SARS-CoV-2 in women admitted for delivery.” &lt;em&gt;New England Journal of Medicine&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[15]Bendavid, Eran, et al. “COVID-19 Antibody Seroprevalence in Santa Clara County, California.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[16]Gudbjartsson, Daniel F., et al. “Spread of SARS-CoV-2 in the Icelandic population.” &lt;em&gt;New England Journal of Medicine&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[17]Reusken, Chantal B., et al. “Rapid assessment of regional SARS-CoV-2 community transmission through a convenience sample of healthcare workers, the Netherlands, March 2020.” &lt;em&gt;Eurosurveillance&lt;/em&gt; 25.12 (2020): 2000334.&lt;/p&gt;
+
+&lt;p&gt;[18]Wu, Fuqing, et al. “SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[19]Thompson, Craig, et al. “Neutralising antibodies to SARS coronavirus 2 in Scottish blood donors-a pilot study of the value of serology to determine population exposure.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[20]Mosites, Emily. “Assessment of SARS-CoV-2 Infection Prevalence in Homeless Shelters—Four US Cities, March 27–April 15, 2020.” &lt;em&gt;MMWR. Morbidity and Mortality Weekly Report&lt;/em&gt; 69 (2020).&lt;/p&gt;
+
+&lt;p&gt;[21]&lt;a href=&quot;https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html&quot;&gt;https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[22]Hunter, Ewan, et al. “First experience of COVID-19 screening of health-care workers in England.” &lt;em&gt;The Lancet&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[23]&lt;a href=&quot;https://www.statista.com/statistics/1095848/south-korea-confirmed-and-suspected-coronavirus-cases/&quot;&gt;https://www.statista.com/statistics/1095848/south-korea-confirmed-and-suspected-coronavirus-cases/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[24]&lt;a href=&quot;https://www.miamidade.gov/releases/2020-04-24-sample-testing-results.asp&quot;&gt;https://www.miamidade.gov/releases/2020-04-24-sample-testing-results.asp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[25]&lt;a href=&quot;https://www.miamiherald.com/news/coronavirus/article242260406.html&quot;&gt;https://www.miamiherald.com/news/coronavirus/article242260406.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[26]&lt;a href=&quot;https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html&quot;&gt;https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[27]&lt;a href=&quot;https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm&quot;&gt;https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[28]&lt;a href=&quot;https://coronavirus.jhu.edu/map.html&quot;&gt;https://coronavirus.jhu.edu/map.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[29]&lt;a href=&quot;http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2328&quot;&gt;http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2328&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[30]&lt;a href=&quot;https://prospect.org/power/american-war-dead-numbers/&quot;&gt;https://prospect.org/power/american-war-dead-numbers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[31]&lt;a href=&quot;https://web.archive.org/web/20160923152823/http://www.flu.gov/pandemic/history/1918/&quot;&gt;https://web.archive.org/web/20160923152823/http://www.flu.gov/pandemic/history/1918/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[32]Hang, Vu Ty, et al. “Diagnostic accuracy of NS1 ELISA and lateral flow rapid tests for dengue sensitivity, specificity and relationship to viraemia and antibody responses.” &lt;em&gt;PLoS neglected tropical diseases&lt;/em&gt; 3.1 (2009).&lt;/p&gt;
+
+&lt;p&gt;[33]Hunsperger, Elizabeth A., et al. “Evaluation of commercially available diagnostic tests for the detection of dengue virus NS1 antigen and anti-dengue virus IgM antibody.” &lt;em&gt;PLoS neglected tropical diseases&lt;/em&gt; 8.10 (2014).&lt;/p&gt;
+
+&lt;p&gt;[34]Smith, Bryce D., et al. “Evaluation of three rapid screening assays for detection of antibodies to hepatitis C virus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 204.6 (2011): 825-831.&lt;/p&gt;
+
+&lt;p&gt;[35]Delaney, Kevin P., et al. “Evaluation of the performance characteristics of 6 rapid HIV antibody tests.” &lt;em&gt;Clinical Infectious Diseases&lt;/em&gt; 52.2 (2011): 257-263.&lt;/p&gt;
+
+&lt;p&gt;[36]Steinhagen, Katja, et al. “Serodiagnosis of Zika virus (ZIKV) infections by a novel NS1-based ELISA devoid of cross-reactivity with dengue virus antibodies: a multicohort study of assay performance, 2015 to 2016.” &lt;em&gt;Eurosurveillance&lt;/em&gt; 21.50 (2016).&lt;/p&gt;
+
+&lt;p&gt;[37]Kosasih, Herman, et al. “Evaluation of two IgM rapid immunochromatographic tests during circulation of Asian lineage Chikungunya virus.” &lt;em&gt;Southeast Asian Journal of Tropical Medicineand Public Health&lt;/em&gt; 43.1 (2012): 55.&lt;/p&gt;
+
+&lt;p&gt;[38]Ganzenmueller, Tina, et al. “Comparison of the performance of direct fluorescent antibody staining, a point-of-care rapid antigen test and virus isolation with that of RT-PCR for the detection of novel 2009 influenza A (H1N1) virus in respiratory specimens.” &lt;em&gt;Journal of medical microbiology&lt;/em&gt; 59.6 (2010): 713-717.&lt;/p&gt;
+
+&lt;p&gt;[39]&lt;a href=&quot;https://www.sciencetimes.com/articles/25484/20200427/having-antibodies-against-covid-19-guarantee-immunity-doctor-who-retested.htm&quot;&gt;https://www.sciencetimes.com/articles/25484/20200427/having-antibodies-against-covid-19-guarantee-immunity-doctor-who-retested.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[40]Katzelnick, Leah C., et al. “Neutralizing antibody titers against dengue virus correlate with protection from symptomatic infection in a longitudinal cohort.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 113.3 (2016): 728-733.&lt;/p&gt;
+
+&lt;p&gt;[41]Yeager, Anne S., et al. “Relationship of antibody to outcome in neonatal herpes simplex virus infections.” &lt;em&gt;Infection and immunity&lt;/em&gt; 29.2 (1980): 532-538.&lt;/p&gt;
+
+&lt;p&gt;[42]Couch, Robert B., and Julius A. Kasel. “Immunity to influenza in man.” &lt;em&gt;Annual review of microbiology&lt;/em&gt; 37.1 (1983): 529-549.&lt;/p&gt;
+
+&lt;p&gt;[43]Velázquez, F. Raúl, et al. “Serum antibody as a marker of protection against natural rotavirus infection and disease.” &lt;em&gt;The Journal of infectious diseases&lt;/em&gt; 182.6 (2000): 1602-1609.&lt;/p&gt;
+
+&lt;p&gt;[44]Li, Shu, et al. “Inverse relationship between six week postvaccination varicella antibody response to vaccine and likelihood of long term breakthrough infection.” &lt;em&gt;The Pediatric infectious disease journal&lt;/em&gt; 21.4 (2002): 337-342.&lt;/p&gt;
+
+&lt;p&gt;[45]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;
+
+&lt;p&gt;[46]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;</content><author><name></name></author><summary type="html">layout: tag_post title: Antibody Testing for COVID-19 tags: [covid-19, lit-review] —</summary></entry><entry><title type="html">Variolation for COVID-19</title><link href="/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/variolation</id><content type="html" xml:base="/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.&lt;/p&gt;
 
@@ -132,146 +716,7 @@
 
 &lt;p&gt;[20]Heckert, R. A., et al. “Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.” &lt;em&gt;American journal of veterinary research&lt;/em&gt; 52.6 (1991): 845-851.&lt;/p&gt;
 
-&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation.rtf</title><link href="/2020/04/13/Variolation.rtf.sb-d5e4fab6-P5eWKD" rel="alternate" type="text/html" title="Variolation.rtf" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/Variolation.rtf</id><content type="html" xml:base="/2020/04/13/Variolation.rtf.sb-d5e4fab6-P5eWKD">{\rtf1\ansi\ansicpg1252\cocoartf2512
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.\
-\
-By analogy, is it possible that a low-dose exposure to the SARS-CoV-2 virus could result in a mild illness and immunity to subsequently contracting the disease?\
-\
-**Are Low Doses of COVID-19 Virus Safer?**\
-\
-One (imperfect) proxy for this question is whether lower viral titers of SARS-CoV-2 correspond to less severe disease.  It seems intuitively plausible -- smaller quantities of the virus in the body might be easier for the immune system to fight off and/or cause less extensive tissue damage.\
-\
-Looking at viral RNA titers in COVID-19 patients doesn't tell us whether they were initially exposed to large or small amounts of virus, though. If there's a correlation between viral titer and disease severity, it could either be because the sicker patients got a higher initial &quot;dose&quot; of virus, or because the virus was more successful at multiplying in them.  However, we can somewhat alleviate this ambiguity by looking at the trajectories of virus titer over time.\
-\
-A retrospective study of 76 Chinese patients found that viral loads (as measured by nasal swab) were significantly higher in severe than mild cases of COVID-19, p &amp;lt; 0.005. All patients' viral loads followed a similar trajectory over time -- they started high and steadily declined.  However, severe cases had detectable levels of virus for much longer -- all severe cases still had viral RNA after 10 days from disease onset, while most mild cases were virus-free by 10 days.[1]\
-\
-Viral load does not correlate perfectly with disease.  Asymptomatic patients [2][3] can have similar viral loads to sick ones.\
-\
-Another, smaller study with 23 COVID-19 patients found a significant association of peak viral load with age but no significant association of either initial or peak viral load with disease severity.[4]  The correlation of viral load with age is explainable by immunosenescence (aging weakens the immune system) and tells us that higher viral load can be caused by a weaker immune system.\
-\
-In the SARS epidemic, healthcare workers who were exposed to one of three index patients and tested positive for SARS were significantly more likely to be asymptomatic if they wore masks, which suggests that masks lower the amount of virus exposure and that lower virus exposure results in less severe disease.[5] \
-\
-Another study of 16 individuals exposed to a single SARS index patient showed that the healthcare workers, who were wearing PPE, had significantly lower viral load than the non-healthcare workers, who had no masks. The non-healthcare workers were also more likely to have severe disease, but they were also older on average.[7]  \
-\
-Among people with exposure to a SARS index patient, they were significantly (p &amp;lt; 0.001) more likely to get SARS the longer the index patient stayed home after the onset of fever; when the patient stayed home for &gt;6 days, as opposed to &amp;lt;=2 days, the risk of getting the disease jumps from 38% to 66%.  You were more likely to get the disease if you shared a room and bed with the index patient, if you dined more frequently with the index patient, and if you had more frequent close contact with the index patient.  This indicates that the volume of contact with the SARS virus influences the risk of contracting disease.[8]\
-\
-Higher initial viral load is also associated with worse prognosis and shorter survival times in SARS.[6]  \
-\
-The evidence is relatively sparse but consistent with the hypothesis that lower volumes of exposure to SARS-CoV-2 and SARS-CoV result in lower viral titers and less severe disease.\
-\
-**Is COVID-19 Reinfection Possible?**\
-\
-Deliberately infecting a human with a low dose of virus, of course, has not been done enough for there to be a research literature about it.\
-\
-But what happens when we do it with animals?\
-\
-We have mixed results on reinfection in animals, some studies showing that prior exposure to a coronavirus protects against subsequent infection, while others showed that reinfection can indeed occur.\
-\
-Rhesus monkeys that have been infected with SARS-CoV-2 do not get reinfected after a second challenge; they do not show viral replication or clinical symptoms.[15]\
-\
-Mice who have previously been exposed to SARS-CoV are protected from disease for at least 28 days. Serum from mice that had previously been exposed to the virus, injected into SARS-naive mice, also had a protective effect, while serum from non-exposed mice did not.[12]\
-\
-Ferrets infected with SARS-CoV who were reinfected 4 weeks later did not have as high viral titers upon reinfection and did not show lung histopathology.[14]\
-\
-Alpacas and camels experimentally infected with MERS-CoV are protected against reinfection.[17]  On the other hand, a longitudinal study of a camel herd showed that reinfection can occur in camels who have previously acquired antibodies to MERS-CoV.[18]\
-\
-Reinfection is possible in cats previously exposed to feline coronavirus [19], and in cows with bovine coronavirus [20].\
-\
-Exposure to an inactivated form of a virus is a standard type of vaccine, and it has been found effective in rodents for SARS-CoV.\
-\
-Partially inactivated SARS-CoV virus samples (treated with formaldehyde) were no longer able to replicate in vitro. When mice were treated with this inactivated virus (by injection or intranasal administration) they produced detectable antibody responses.[9][10]  SARS-CoV virus inactivated with UV radiation also produced an antibody response in mice.[11]\
-\
-Whole killed SARS-CoV vaccine (inactivated with beta-propiolactone)  protected mice against a challenge infection.[13]\
-\
-Hamsters immunized with beta-propiolactone inactivated SARS-CoV virus had lower virus titers than non-immunized hamsters upon challenge with active SARS-CoV and had less severe lung lesions than non-immunized hamsters.[16]\
-\
-There have been reports of reinfected COVID-19 patients in China and Japan[21] but some think that these are due to testing errors where the patients erroneously tested as having recovered when they were still infected.\
-\
-The current state of evidence hasn't ruled out that reinfection could occur for SARS-CoV-2, but tentatively it seems more likely that people who have been infected once are protected against further infections for some period of time. The duration of protection, and whether there are any individuals who don't get immunological protection, is still unknown.\
-\
-**Conclusion**\
-\
-There's reason to believe that exposure to a lower dose of the SARS-CoV-2 virus produces a milder disease than exposure to larger quantities of SARS-CoV-2.\
-\
-And there's reason to believe that people who have recovered from COVID-19 have some protection against the disease.\
-\
-What we _don't _know is whether a dose low enough not to cause severe symptoms is also high enough to cause immune protection against subsequent infections.\
-\
-**Deliberate Exposure as a Policy**\
-\
-A trial of deliberate exposure of young, healthy volunteers to COVID-19 has been [proposed](http://www.overcomingbias.com/2020/04/variolation-test-design.html) by Robin Hanson.  \
-\
-The case for deliberate exposure is to produce a population of immune people who don't have to be quarantined -- for instance, so that they can continue to work as healthcare workers, janitors, and other essential employees in a mostly housebound economy. \
-\
-The downside, of course, is that deliberately infecting people with a disease harms them.\
-\
-Deliberate exposure looks better relative to other options under certain conditions:\
-\
-\
-\
-*   if deliberate exposure causes little harm to the exposed (either because the dose is low or because young people rarely get severe disease)\
-*   if reinfection after safe doses of virus is rare or impossible\
-*   if exposure to the active virus is much easier and/or more effective than alternative, safer types of immune protection (like convalescent serum or inactivated virus)\
-*   if containing the virus is expected to be impossible (i.e. most people will get the disease, the question is when) or so costly that countries decide it's not worth continuing the lockdowns.\
-*   if developing an effective vaccine or treatment is expected to be slow\
-\
-I am doubtful about the first three conditions.  We don't know much about what a &quot;safe&quot; dose of SARS-CoV-2 is, and we haven't fully ruled out reinfection.  \
-\
-And young people, while less vulnerable than older people, are not immune from severe COVID-19 -- in New York, 9% of patients age 18-44 had to be [hospitalized.](https://www.cbsnews.com/news/young-people-coronavirus-new-york-city-percentage-patients-covid-19-symptoms-dying-hospitalizations/)  For any given young person, it might be safer to try to stay home and avoid getting the disease until a vaccine or treatment can be developed than to risk deliberate exposure.\
-\
-An animal study prior to a human one can identify what the infectious dose of the virus is, as well as what the minimum active dose to produce an immune response and protection against reinfection is.\
-\
-Moreover, it seems that it would be safer, and not obviously less effective, to treat healthy subjects with convalescent serum or inactivated virus rather than live virus.  \
-\
-**References**\
-\
-[1]Liu, Yang, et al. &quot;Viral dynamics in mild and severe cases of COVID-19.&quot; _The Lancet Infectious Diseases_ (2020).\
-\
-[2]Zou, Lirong, et al. &quot;SARS-CoV-2 viral load in upper respiratory specimens of infected patients.&quot; _New England Journal of Medicine_ 382.12 (2020): 1177-1179.\
-\
-[3]Kam, Kai-qian, et al. &quot;A Well Infant with Coronavirus Disease 2019 with High Viral Load.&quot; _Clinical Infectious Diseases_ (2020).\
-\
-[4]To, Kelvin Kai-Wang, et al. &quot;Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.&quot; _The Lancet Infectious Diseases_ (2020).\
-\
-[5]Wilder-Smith, Annelies, et al. &quot;Asymptomatic SARS coronavirus infection among healthcare workers, Singapore.&quot; _Emerging infectious diseases_ 11.7 (2005): 1142.\
-\
-[6]Chu, Chung-Ming, et al. &quot;Initial viral load and the outcomes of SARS.&quot; _Cmaj_ 171.11 (2004): 1349-1352.\
-\
-[7]Lu, Yen-Ta, et al. &quot;Viral load and outcome in SARS infection: the role of personal protective equipment in the emergency department.&quot; _The Journal of emergency medicine_ 30.1 (2006): 7-15.\
-\
-[8]Lau, Joseph TF, et al. &quot;Probable secondary infections in households of SARS patients in Hong Kong.&quot; _Emerging infectious diseases_ 10.2 (2004): 236.\
-\
-[9]Yang, Zhi-yong, et al. &quot;A DNA vaccine induces SARS coronavirus neutralization and protective immunity in mice.&quot; _Nature_ 428.6982 (2004): 561-564.\
-\
-[10]Xiong, Sheng, et al. &quot;Immunogenicity of SARS inactivated vaccine in BALB/c mice.&quot; _Immunology letters_ 95.2 (2004): 139-143.\
-\
-[11]Takasuka, Naomi, et al. &quot;A subcutaneously injected UV-inactivated SARS coronavirus vaccine elicits systemic humoral immunity in mice.&quot; _International immunology_ 16.10 (2004): 1423-1430.\
-\
-[12]Subbarao, Kanta, et al. &quot;Prior infection and passive transfer of neutralizing antibody prevent replication of severe acute respiratory syndrome coronavirus in the respiratory tract of mice.&quot; _Journal of virology_ 78.7 (2004): 3572-3577.\
-\
-[13]See, Raymond H., et al. &quot;Comparative evaluation of two severe acute respiratory syndrome (SARS) vaccine candidates in mice challenged with SARS coronavirus.&quot; _Journal of general virology_ 87.3 (2006): 641-650.\
-\
-[14]Cameron, Mark J., et al. &quot;Lack of innate interferon responses during SARS coronavirus infection in a vaccination and reinfection ferret model.&quot; _PLoS one_ 7.9 (2012).\
-\
-[15]Bao, Linlin, et al. &quot;Reinfection could not occur in SARS-CoV-2 infected rhesus macaques.&quot; _bioRxiv_ (2020).\
-\
-[16]Roberts, Anjeanette, et al. &quot;Immunogenicity and protective efficacy in mice and hamsters of a \uc0\u946 -propiolactone inactivated whole virus SARS-CoV vaccine.&quot; _Viral immunology_ 23.5 (2010): 509-519.\
-\
-[17]Wernery, Ulrich, Susanna KP Lau, and Patrick CY Woo. &quot;Middle East respiratory syndrome (MERS) coronavirus and dromedaries.&quot; _The Veterinary Journal_ 220 (2017): 75-79.\
-\
-[18]Hemida, Maged Gomaa, et al. &quot;Longitudinal study of Middle East respiratory syndrome coronavirus infection in dromedary camel herds in Saudi Arabia, 2014\'962015.&quot; _Emerging microbes &amp; infections_ 6.1 (2017): 1-7.\
-\
-[19]Addie, D. D., and O. Jarrett. &quot;Use of a reverse-transcriptase polymerase chain reaction for monitoring the shedding of feline coronavirus by healthy cats.&quot; _Veterinary Record_ 148.21 (2001): 649-653.\
-\
-[20]Heckert, R. A., et al. &quot;Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.&quot; _American journal of veterinary research_ 52.6 (1991): 845-851.\
-\
-[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. &quot;The COVID-19 Pandemic in the US: A Clinical Update.&quot; _JAMA_.}</content><author><name></name></author><summary type="html">{\rtf1\ansi\ansicpg1252\cocoartf2512 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;} {\colortbl;\red255\green255\blue255;} {\*\expandedcolortbl;;} \margl1440\margr1440\vieww10800\viewh8400\viewkind0 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0</summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
 
