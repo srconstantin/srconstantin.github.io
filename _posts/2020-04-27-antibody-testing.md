@@ -472,7 +472,7 @@ While the performance of antibody tests for different viruses depends on the tes
 
 **Do Viral Antibodies Generally Predict Immunity to Future Infection?**
 
-The Who has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?
+The WHO has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?
 
 In a longitudinal cohort of 7547 Nicaraguan children monitored for dengue virus, preinfection antibody titer correlated with lower risk of having a symptomatic second infection (p &lt; 0.005).  Children with serologically confirmed but asymptomatic second infections had preinfection antibody titers 2.3-fold higher than children with symptomatic second infections.  Also, children with symptomatic first infections were less likely to have symptomatic second infections independent of antibody titer -- apparently infection grants immunity through mechanisms other than antibody quantity.[40]
 
@@ -587,4 +587,6 @@ We don’t know yet whether reinfection of people previously infected with COVID
 [45]Ward, Richard L., et al. "Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus." _Journal of Infectious Diseases_ 159.1 (1989): 79-88.
 
 [46]Ward, Richard L., et al. "Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus." _Journal of Infectious Diseases_ 159.1 (1989): 79-88.
+
+[47]Callow, Kathleen A. "Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection." Epidemiology & Infection 95.1 (1985): 173-189.
 
