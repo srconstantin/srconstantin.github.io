@@ -28,33 +28,36 @@ This clinical picture implies that Type L patients should be treated noninvasive
 
 A case report from Norway illustrates a typical case of “silent hypoxemia” in COVID-19: a man in his sixties with an O2 saturation of 66% who nevertheless seemed calm, was “smiling bravely”, and breathing almost silently.  Hypocapnia (low CO2) meant there was little or no sensation of breathlessness despite the extremely low oxygen saturation.[5]
 
-Three ICU doctors at the University College London hospital argued in the _Lancet Respiratory Medicine _against early intubation for COVID-19, saying “Early intubation of a patient with known or suspected COVID-19 with respiratory distress could result in the intubation and mechanical ventilation of patients who would have otherwise improved on CPAP or NIV”.[3] They note that the highest incidence of disease transmission to healthcare workers was on general wards, not ICU, i.e. where healthcare staff were least likely to wear personal protective equipment, and that NIV did not increase the risk of disease transmission during the SARS epidemic.
+Three ICU doctors at the University College London hospital argued in the _Lancet Respiratory Medicine _against early intubation for COVID-19, saying 
+
+“Early intubation of a patient with known or suspected COVID-19 with respiratory distress could result in the intubation and mechanical ventilation of patients who would have otherwise improved on CPAP or NIV”.[3]
+
+They note that the highest incidence of disease transmission to healthcare workers was on general wards, not ICU, i.e. where healthcare staff were least likely to wear personal protective equipment, and that NIV did not increase the risk of disease transmission during the SARS epidemic.
 
 Similarly, a statement by tropical disease experts about treating COVID-19 in low-resource areas argues 
 
 
-    “It seems that in a significant proportion of relatively younger patients, hypoxemia, even less than 88%, is reasonably well tolerated and not accompanied by severe respiratory distress or exhaustion. With the current experience, the trigger for intubation should, within certain limits, probably not be based on hypoxemia alone but more on respiratory distress and fatigue….Invasive ventilation can save lives in patients with severe respiratory distress. However, it can also aggravate or even cause damage,including barotrauma (air leaks, caused by high ventilation pressures), volutrauma (pulmonary edema, due to large tidal volumes), atelectrauma (repetitive opening and closing of vulnerable lung parts with atelectasis), biotrauma (local inflammation with spill to the systemic circulation of inflammatory mediators, bacteria, or bacterial products), and oxytrauma (by free oxygen radicals).”
+“It seems that in a significant proportion of relatively younger patients, hypoxemia, even less than 88%, is reasonably well tolerated and not accompanied by severe respiratory distress or exhaustion. With the current experience, the trigger for intubation should, within certain limits, probably not be based on hypoxemia alone but more on respiratory distress and fatigue….Invasive ventilation can save lives in patients with severe respiratory distress. However, it can also aggravate or even cause damage,including barotrauma (air leaks, caused by high ventilation pressures), volutrauma (pulmonary edema, due to large tidal volumes), atelectrauma (repetitive opening and closing of vulnerable lung parts with atelectasis), biotrauma (local inflammation with spill to the systemic circulation of inflammatory mediators, bacteria, or bacterial products), and oxytrauma (by free oxygen radicals).”
 
 The authors recommend, when COVID-19 patients are intubated, using lower PEEP and lower tidal volume than would be typical for ARDS, to avoid ventilator-induced injury.[4]
 
 Early awake self-proning in COVID-19 patients can be very beneficial for the “silent hypoxemic” or “type L” patient population. One emergency department in New York City found that in 50 patients, the median SpO2 was 80% at triage, 84% after supplemental oxygen, and 94% after patients were encouraged to lie on their stomachs (in the prone position.)  [7]
 
 
-    “In New York City, during the early stages of the COVID-19 pandemic, patients presented en masse with moderate to severe hypoxia. Some of these patients were distressed, quickly deteriorated and required endotracheal intubation.  COVID-19 produced another group of patients whose pathophysiology confounded existing disease patterns, however. These patients had low oxygen saturations (SpO2 &lt;90%), but were not in significant respiratory distress and often appeared clinically well; this group has been informally referred to as happy hypoxemics.”
+“In New York City, during the early stages of the COVID-19 pandemic, patients presented en masse with moderate to severe hypoxia. Some of these patients were distressed, quickly deteriorated and required endotracheal intubation.  COVID-19 produced another group of patients whose pathophysiology confounded existing disease patterns, however. These patients had low oxygen saturations (SpO2 &lt;90%), but were not in significant respiratory distress and often appeared clinically well; this group has been informally referred to as happy hypoxemics.”
 
 One of the authors of the above article, Richard Levitan, an emergency physician in New York City, wrote a New York Times op-ed [8] about this phenomenon.  They were seeing COVID-19 pneumonia in nearly every patient who came into the emergency department, even those without respiratory symptoms. 
 
-
-    The patient stabbed in the shoulder, whom we X-rayed because we worried he had a collapsed lung, actually had Covid pneumonia. In patients on whom we did CT scans because they were injured in falls, we coincidentally found Covid pneumonia. Elderly patients who had passed out for unknown reasons and a number of diabetic patients were found to have it.
-
-
-    And here is what really surprised us: These patients did not report any sensation of breathing problems, even though their chest X-rays showed diffuse pneumonia and their oxygen was below normal. How could this be?
+"The patient stabbed in the shoulder, whom we X-rayed because we worried he had a collapsed lung, actually had Covid pneumonia. In patients on whom we did CT scans because they were injured in falls, we coincidentally found Covid pneumonia. Elderly patients who had passed out for unknown reasons and a number of diabetic patients were found to have it.
 
 
-    …
+"And here is what really surprised us: These patients did not report any sensation of breathing problems, even though their chest X-rays showed diffuse pneumonia and their oxygen was below normal. How could this be?
 
 
-    Patients compensate for the low oxygen in their blood by breathing faster and deeper — and this happens without their realizing it. This silent hypoxia, and the patient’s physiological response to it, causes even more inflammation and more air sacs to collapse, and the pneumonia worsens until oxygen levels plummet. In effect, patients are injuring their own lungs by breathing harder and harder. [Twenty percent](https://www.esicm.org/wp-content/uploads/2020/04/684_author-proof.pdf) of Covid pneumonia patients then go on to a second and deadlier phase of lung injury. Fluid builds up and the lungs become stiff, carbon dioxide rises, and patients develop acute respiratory failure.
+ …
+
+
+"Patients compensate for the low oxygen in their blood by breathing faster and deeper — and this happens without their realizing it. This silent hypoxia, and the patient’s physiological response to it, causes even more inflammation and more air sacs to collapse, and the pneumonia worsens until oxygen levels plummet. In effect, patients are injuring their own lungs by breathing harder and harder. [Twenty percent](https://www.esicm.org/wp-content/uploads/2020/04/684_author-proof.pdf) of Covid pneumonia patients then go on to a second and deadlier phase of lung injury. Fluid builds up and the lungs become stiff, carbon dioxide rises, and patients develop acute respiratory failure."
 
 Dr. Levitan recommends that healthy people, and people who test positive for COVID-19, get pulse oximeters -- available over at the counter at the drugstore -- to monitor their oxygen levels _before _they get sick enough to need a hospital.  Silent hypoxemia doesn’t come with symptoms, so most infected patients don’t get supplemental oxygen until they’ve progressed to severe lung injury that requires ventilation.  If they caught the problem earlier, they could get supplemental oxygen and recover without ever needing to be ventilated.
 
