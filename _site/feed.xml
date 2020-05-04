@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-27T22:38:42-06:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Antibody Testing for COVID-19</title><link href="/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>/2020/04/27/antibody-testing</id><content type="html" xml:base="/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-05-04T13:40:46-07:00</updated><id>/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.</subtitle><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-07:00</published><updated>2020-05-04T00:00:00-07:00</updated><id>/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
+
+&lt;p&gt;Initially, patients with COVID-19 experiencing severe respiratory distress were supposed to be intubated and placed on ventilators early, and non-invasive ventilation procedures like CPAP, BiPAP, and high-flow nasal cannula were to be avoided because they might spread the disease.&lt;/p&gt;
+
+&lt;p&gt;Over the course of the pandemic, we’ve seen additional evidence that a population of COVID-19 patients can be treated effectively with CPAP/BiPAP, and may not even need to be invasively ventilated.&lt;/p&gt;
+
+&lt;p&gt;These patients are what’s informally called the “silent hypoxemic” – they have very low oxygen levels, but are otherwise surprisingly functional (they can talk, have minimal altered mental status, etc) and they do _not _have the noncompliant lungs typical of ARDS. Therefore, following typical ventilation procedures like ARDSNet, in which patients are intubated when their oxygen saturation drops below a certain point, and placed on mechanical ventilation with high pressures, is actually a _bad _idea.  Excessive PEEP for compliant lungs can cause barotrauma; and intubation in general carries risks (of e.g. hospital-acquired infections, damage to the airway, and PTSD) so if a patient can recover with _non-invasive _respiratory support, it’s safer to avoid intubation.&lt;/p&gt;
+
+&lt;p&gt;This clinical picture was once purely anecdotal, but the data is starting to come in.&lt;/p&gt;
+
+&lt;p&gt;Helmet CPAP, in which a continuous positive pressure of oxygenated air is administered through a clear helmet that covers the patient’s whole head, has been extensively used for COVID-19 patients in Italy. The helmet is more comfortable than traditional CPAP masks, and has a tighter seal, to avoid spreading virus particles to healthcare workers.  The RICU of the L. Sacco University hospital in Milan had 75% of their severe COVID-19 patients on helmet CPAP, and had an in-hospital mortality rate of only 25%, compared to Seattle ICUs, which had a 50% in-hospital mortality rate and had 100% of patients on invasive mechanical ventilation.[1]&lt;/p&gt;
+
+&lt;p&gt;Helmet CPAP is much less likely to disperse exhaled air than conventional CPAP, making the risks of infection to healthcare workers lower; a study found that air only dispersed 2.5 cm from the helmet.[6]&lt;/p&gt;
+
+&lt;p&gt;Italian intensive care physicians observed that 50% of the 150 severe COVID-19 patients in their ICU were the “silent hypoxemia” type, characterized by “severe hypoxemia often associated with near normal respiratory symptom compliance.”  They describe COVID-19 pneumonia as belonging to two separate “phenotypes”, Type L and Type H.&lt;/p&gt;
+
+&lt;p&gt;Type L COVID-19 has low elastance (= normally compliant lungs), low lung recruitability (most lung tissue is receiving air), but extreme hypoxemia due to ventilation-perfusion mismatch.  That is, the lung is receiving oxygen but not blood flow, so the blood doesn’t get properly oxygenated.&lt;/p&gt;
+
+&lt;p&gt;These Type L patients may improve or suddenly worsen. Increased inflammation and negative intrathoracic pressure can cause swelling and fluid buildup in the lungs.  (High inspiratory pressures literally suck fluid from capillaries into lung tissue, which contributes to pulmonary edema.)  Increased edema transitions the patient to the Type H phenotype: high elastance (= noncompliant lungs), high recruitability (= lots of non-aerated lung tissue), and atelectasis (= collapsed alveoli).&lt;/p&gt;
+
+&lt;p&gt;This clinical picture implies that Type L patients should be treated noninvasively with high concentrations of oxygen (through masks or, in dyspneic patients, high-flow nasal cannula, CPAP, or BiPAP).  Patients at risk of transitioning to type H, as measured by high inspiratory pressures, should be intubated, and type H patients should be placed on standard invasive ventilation for severe ARDS.[2]&lt;/p&gt;
+
+&lt;p&gt;A case report from Norway illustrates a typical case of “silent hypoxemia” in COVID-19: a man in his sixties with an O2 saturation of 66% who nevertheless seemed calm, was “smiling bravely”, and breathing almost silently.  Hypocapnia (low CO2) meant there was little or no sensation of breathlessness despite the extremely low oxygen saturation.[5]&lt;/p&gt;
+
+&lt;p&gt;Three ICU doctors at the University College London hospital argued in the _Lancet Respiratory Medicine _against early intubation for COVID-19, saying “Early intubation of a patient with known or suspected COVID-19 with respiratory distress could result in the intubation and mechanical ventilation of patients who would have otherwise improved on CPAP or NIV”.[3] They note that the highest incidence of disease transmission to healthcare workers was on general wards, not ICU, i.e. where healthcare staff were least likely to wear personal protective equipment, and that NIV did not increase the risk of disease transmission during the SARS epidemic.&lt;/p&gt;
+
+&lt;p&gt;Similarly, a statement by tropical disease experts about treating COVID-19 in low-resource areas argues&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“It seems that in a significant proportion of relatively younger patients, hypoxemia, even less than 88%, is reasonably well tolerated and not accompanied by severe respiratory distress or exhaustion. With the current experience, the trigger for intubation should, within certain limits, probably not be based on hypoxemia alone but more on respiratory distress and fatigue….Invasive ventilation can save lives in patients with severe respiratory distress. However, it can also aggravate or even cause damage,including barotrauma (air leaks, caused by high ventilation pressures), volutrauma (pulmonary edema, due to large tidal volumes), atelectrauma (repetitive opening and closing of vulnerable lung parts with atelectasis), biotrauma (local inflammation with spill to the systemic circulation of inflammatory mediators, bacteria, or bacterial products), and oxytrauma (by free oxygen radicals).”
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The authors recommend, when COVID-19 patients are intubated, using lower PEEP and lower tidal volume than would be typical for ARDS, to avoid ventilator-induced injury.[4]&lt;/p&gt;
+
+&lt;p&gt;Early awake self-proning in COVID-19 patients can be very beneficial for the “silent hypoxemic” or “type L” patient population. One emergency department in New York City found that in 50 patients, the median SpO2 was 80% at triage, 84% after supplemental oxygen, and 94% after patients were encouraged to lie on their stomachs (in the prone position.)  [7]&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“In New York City, during the early stages of the COVID-19 pandemic, patients presented en masse with moderate to severe hypoxia. Some of these patients were distressed, quickly deteriorated and required endotracheal intubation.  COVID-19 produced another group of patients whose pathophysiology confounded existing disease patterns, however. These patients had low oxygen saturations (SpO2 &amp;amp;lt;90%), but were not in significant respiratory distress and often appeared clinically well; this group has been informally referred to as happy hypoxemics.”
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;One of the authors of the above article, Richard Levitan, an emergency physician in New York City, wrote a New York Times op-ed [8] about this phenomenon.  They were seeing COVID-19 pneumonia in nearly every patient who came into the emergency department, even those without respiratory symptoms.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The patient stabbed in the shoulder, whom we X-rayed because we worried he had a collapsed lung, actually had Covid pneumonia. In patients on whom we did CT scans because they were injured in falls, we coincidentally found Covid pneumonia. Elderly patients who had passed out for unknown reasons and a number of diabetic patients were found to have it.
+
+
+And here is what really surprised us: These patients did not report any sensation of breathing problems, even though their chest X-rays showed diffuse pneumonia and their oxygen was below normal. How could this be?
+
+
+…
+
+
+Patients compensate for the low oxygen in their blood by breathing faster and deeper — and this happens without their realizing it. This silent hypoxia, and the patient’s physiological response to it, causes even more inflammation and more air sacs to collapse, and the pneumonia worsens until oxygen levels plummet. In effect, patients are injuring their own lungs by breathing harder and harder. [Twenty percent](https://www.esicm.org/wp-content/uploads/2020/04/684_author-proof.pdf) of Covid pneumonia patients then go on to a second and deadlier phase of lung injury. Fluid builds up and the lungs become stiff, carbon dioxide rises, and patients develop acute respiratory failure.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dr. Levitan recommends that healthy people, and people who test positive for COVID-19, get pulse oximeters – available over at the counter at the drugstore – to monitor their oxygen levels _before _they get sick enough to need a hospital.  Silent hypoxemia doesn’t come with symptoms, so most infected patients don’t get supplemental oxygen until they’ve progressed to severe lung injury that requires ventilation.  If they caught the problem earlier, they could get supplemental oxygen and recover without ever needing to be ventilated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Radovanovic, Dejan, et al. “Helmet CPAP to Treat Acute Hypoxemic Respiratory Failure in Patients with Covid-19: A Management Strategy Proposal.” &lt;em&gt;Journal of Clinical Medicine&lt;/em&gt; 9.4 (2020): 1191.&lt;/p&gt;
+
+&lt;p&gt;[2]Gattinoni, Luciano, et al. “COVID-19 pneumonia: different respiratory treatments for different phenotypes?.” &lt;em&gt;Intensive care medicine&lt;/em&gt; (2020): 1.&lt;/p&gt;
+
+&lt;p&gt;[3]Arulkumaran, Nishkantha, et al. “Use of non-invasive ventilation for patients with COVID-19: a cause for concern?.” &lt;em&gt;The Lancet. Respiratory Medicine&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[4]Dondorp, Arjen M., et al. “Respiratory Support in Novel Coronavirus Disease (COVID-19) Patients, with a Focus on Resource-Limited Settings.” &lt;em&gt;The American Journal of Tropical Medicine and Hygiene&lt;/em&gt; (2020): tpmd200283.&lt;/p&gt;
+
+&lt;p&gt;[5]Ottestad, William, Mari Seim, and Jens Otto Mæhlen. “COVID-19 with silent hypoxemia.” &lt;em&gt;Tidsskrift for Den norske legeforening&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[6]Whittle, Jessica S., et al. “Respiratory Support for Adult Patients with COVID‐19.” &lt;em&gt;Journal of the American College of Emergency Physicians Open&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[7]Caputo, Nicholas D., Reuben J. Strayer, and Richard Levitan. “Early Self‐Proning in Awake, Non‐intubated Patients in the Emergency Department: A Single ED’s Experience during the COVID‐19 Pandemic.” &lt;em&gt;Academic Emergency Medicine&lt;/em&gt; (2020).&lt;/p&gt;
+
+&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry><entry><title type="html">Antibody Testing for COVID-19</title><link href="/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-07:00</published><updated>2020-04-27T00:00:00-07:00</updated><id>/2020/04/27/antibody-testing</id><content type="html" xml:base="/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What’s In A COVID-19 Antibody Test?&lt;/strong&gt;&lt;/p&gt;
 
@@ -578,7 +648,7 @@
 
 &lt;p&gt;[46]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;
 
-&lt;p&gt;[47]Callow, Kathleen A. “Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection.” Epidemiology &amp;amp; Infection 95.1 (1985): 173-189.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation for COVID-19</title><link href="/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>/2020/04/13/variolation</id><content type="html" xml:base="/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[47]Callow, Kathleen A. “Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection.” Epidemiology &amp;amp; Infection 95.1 (1985): 173-189.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation for COVID-19</title><link href="/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-07:00</published><updated>2020-04-13T00:00:00-07:00</updated><id>/2020/04/13/variolation</id><content type="html" xml:base="/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.&lt;/p&gt;
 
@@ -712,7 +782,7 @@
 
 &lt;p&gt;[20]Heckert, R. A., et al. “Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.” &lt;em&gt;American journal of veterinary research&lt;/em&gt; 52.6 (1991): 845-851.&lt;/p&gt;
 
-&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-07:00</published><updated>2020-04-05T00:00:00-07:00</updated><id>/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
 
@@ -748,7 +818,7 @@ _3) **The use of devices indicated for sleep apnea (including noncontinuous vent
 _4) The use of oxygen concentrators for primary supply when medically necessary and clinically appropriate._
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;It’s time to give CPAP for COVID-19 a second look. Yes, it can disperse air, but the evidence that it spreads disease particles is ambiguous at best; and the risks can be mitigated by using full-face masks with good seals, using filters on the exhaust vents, and making sure medical staff have adequate protective equipment. We know from past pandemics and some early retrospective data in COVID-19 that a sizable fraction of patients improve on CPAP alone without intubation; in a world where invasive ventilation may not be an option for an overwhelmed healthcare system, that means saving lives.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Comprehensive PPE Project List</title><link href="/2020/04/03/Comprehensive-PPE-Project-List.html" rel="alternate" type="text/html" title="Comprehensive PPE Project List" /><published>2020-04-03T00:00:00-06:00</published><updated>2020-04-03T00:00:00-06:00</updated><id>/2020/04/03/Comprehensive-PPE-Project-List</id><content type="html" xml:base="/2020/04/03/Comprehensive-PPE-Project-List.html">&lt;p&gt;&lt;img src=&quot;/images/face_shield.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It’s time to give CPAP for COVID-19 a second look. Yes, it can disperse air, but the evidence that it spreads disease particles is ambiguous at best; and the risks can be mitigated by using full-face masks with good seals, using filters on the exhaust vents, and making sure medical staff have adequate protective equipment. We know from past pandemics and some early retrospective data in COVID-19 that a sizable fraction of patients improve on CPAP alone without intubation; in a world where invasive ventilation may not be an option for an overwhelmed healthcare system, that means saving lives.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Comprehensive PPE Project List</title><link href="/2020/04/03/Comprehensive-PPE-Project-List.html" rel="alternate" type="text/html" title="Comprehensive PPE Project List" /><published>2020-04-03T00:00:00-07:00</published><updated>2020-04-03T00:00:00-07:00</updated><id>/2020/04/03/Comprehensive-PPE-Project-List</id><content type="html" xml:base="/2020/04/03/Comprehensive-PPE-Project-List.html">&lt;p&gt;&lt;img src=&quot;/images/face_shield.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The COVID19 crisis has caused a severe shortage of personal protective equipment (PPE) for healthcare workers. Masks, face shields, respirators, and other supplies help keep the people who care for COVID19 patients from getting sick themselves.&lt;/p&gt;
 
@@ -1057,7 +1127,7 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
   &lt;li&gt;&lt;a href=&quot;https://covidtracking.com/&quot;&gt;Covid Tracking&lt;/a&gt; – a project from The Atlantic to aggregate data on US COVID19 testing results.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://findthemasks.com/&quot;&gt;FindTheMasks&lt;/a&gt; – a website with a map of hospital locations currently accepting mask donations and their instructions/requirements to donors.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/14kkwrz8pHXTdkVQQHcWAQ4H0yFAKIGznzNr_RH0btOo/edit#gid=1221424084&quot;&gt;Manufacturer Info Spreadsheet&lt;/a&gt; on face shield manufacturers and how many face shields they’re ready to ship&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Disinfectants and Anti-Microbial Surfaces Against COVID-19</title><link href="/2020/03/31/disinfectants.html" rel="alternate" type="text/html" title="Disinfectants and Anti-Microbial Surfaces Against COVID-19" /><published>2020-03-31T00:00:00-06:00</published><updated>2020-03-31T00:00:00-06:00</updated><id>/2020/03/31/disinfectants</id><content type="html" xml:base="/2020/03/31/disinfectants.html">&lt;p&gt;&lt;img src=&quot;/images/1200px-NatCopper.jpg&quot; alt=&quot;copper&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Disinfectants and Anti-Microbial Surfaces Against COVID-19</title><link href="/2020/03/31/disinfectants.html" rel="alternate" type="text/html" title="Disinfectants and Anti-Microbial Surfaces Against COVID-19" /><published>2020-03-31T00:00:00-07:00</published><updated>2020-03-31T00:00:00-07:00</updated><id>/2020/03/31/disinfectants</id><content type="html" xml:base="/2020/03/31/disinfectants.html">&lt;p&gt;&lt;img src=&quot;/images/1200px-NatCopper.jpg&quot; alt=&quot;copper&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A little good news on the COVID-19 front: yes, you can kill the virus on surfaces, with easily available disinfectants.&lt;/p&gt;
 
@@ -1135,7 +1205,7 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;[15]Welch, David, et al. “Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases.” Scientific Reports 8.1 (2018): 1-7.&lt;/p&gt;
 
-&lt;p&gt;[16]Ponnaiya, Brian, et al. “Far-UVC light prevents MRSA infection of superficial wounds in vivo.” PloS one 13.2 (2018).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Home Care for Mild COVID-19</title><link href="/2020/03/27/home-care-mild-COVID19.html" rel="alternate" type="text/html" title="Home Care for Mild COVID-19" /><published>2020-03-27T00:00:00-06:00</published><updated>2020-03-27T00:00:00-06:00</updated><id>/2020/03/27/home-care-mild-COVID19</id><content type="html" xml:base="/2020/03/27/home-care-mild-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/sick-mom.png&quot; alt=&quot;sickmom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[16]Ponnaiya, Brian, et al. “Far-UVC light prevents MRSA infection of superficial wounds in vivo.” PloS one 13.2 (2018).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Home Care for Mild COVID-19</title><link href="/2020/03/27/home-care-mild-COVID19.html" rel="alternate" type="text/html" title="Home Care for Mild COVID-19" /><published>2020-03-27T00:00:00-07:00</published><updated>2020-03-27T00:00:00-07:00</updated><id>/2020/03/27/home-care-mild-COVID19</id><content type="html" xml:base="/2020/03/27/home-care-mild-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/sick-mom.png&quot; alt=&quot;sickmom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What Should You Do For A Mild Case of COVID-19?&lt;/strong&gt;&lt;/p&gt;
 
@@ -1221,7 +1291,7 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;[12]Pirozzi, Cheryl S., et al. “Short-term air pollution and incident pneumonia. A case–crossover study.” Annals of the American Thoracic Society 15.4 (2018): 449-459.&lt;/p&gt;
 
-&lt;p&gt;[12]https://www.bloomberg.com/news/articles/2020-03-25/hydroxychloroquine-no-better-than-regular-covid-19-care-in-study&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 3 – Motivated Cognition and Suffering</title><link href="/2020/03/25/tangled-thinking-3.html" rel="alternate" type="text/html" title="Tangled Thinking 3 -- Motivated Cognition and Suffering" /><published>2020-03-25T00:00:00-06:00</published><updated>2020-03-25T00:00:00-06:00</updated><id>/2020/03/25/tangled-thinking-3</id><content type="html" xml:base="/2020/03/25/tangled-thinking-3.html">&lt;p&gt;&lt;img src=&quot;/images/dogface.png&quot; alt=&quot;dogface&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[12]https://www.bloomberg.com/news/articles/2020-03-25/hydroxychloroquine-no-better-than-regular-covid-19-care-in-study&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Tangled Thinking 3 – Motivated Cognition and Suffering</title><link href="/2020/03/25/tangled-thinking-3.html" rel="alternate" type="text/html" title="Tangled Thinking 3 -- Motivated Cognition and Suffering" /><published>2020-03-25T00:00:00-07:00</published><updated>2020-03-25T00:00:00-07:00</updated><id>/2020/03/25/tangled-thinking-3</id><content type="html" xml:base="/2020/03/25/tangled-thinking-3.html">&lt;p&gt;&lt;img src=&quot;/images/dogface.png&quot; alt=&quot;dogface&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I still have a lot of planned COVID-19 lit review posts, but I’m going to take a quick break and go back to my sequence on psychology/cognition.&lt;/p&gt;
 
@@ -1287,7 +1357,7 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;Also, a thing is obviously not “subconscious” if you can &lt;em&gt;literally experience it in consciousness.&lt;/em&gt; I suspect that a lot of what people call “subconscious” is totally available to attention, just stuff that we expect ourselves not to attend to, especially because we don’t normally talk to &lt;em&gt;other&lt;/em&gt; people about it.&lt;/p&gt;
 
-&lt;p&gt;Could it be that attending to &lt;em&gt;more&lt;/em&gt; internal phenomena is actually a “spiritual path” or a “self-improvement path” or whatever? There’s &lt;em&gt;so&lt;/em&gt; much more attention paid to overriding internal phenomena than exploring them; maybe most people know something I don’t, or maybe there’s a really persistent bias in the world of psychological advice.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">How Effective is Non-Invasive Ventilation in COVID-19?</title><link href="/2020/03/22/non-invasive-ventilation.html" rel="alternate" type="text/html" title="How Effective is Non-Invasive Ventilation in COVID-19?" /><published>2020-03-22T00:00:00-06:00</published><updated>2020-03-22T00:00:00-06:00</updated><id>/2020/03/22/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/22/non-invasive-ventilation.html">&lt;p&gt;&lt;img src=&quot;/images/totalfacemask.jpg&quot; alt=&quot;cpapman&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Could it be that attending to &lt;em&gt;more&lt;/em&gt; internal phenomena is actually a “spiritual path” or a “self-improvement path” or whatever? There’s &lt;em&gt;so&lt;/em&gt; much more attention paid to overriding internal phenomena than exploring them; maybe most people know something I don’t, or maybe there’s a really persistent bias in the world of psychological advice.&lt;/p&gt;</content><author><name></name></author><category term="tangled-thinking" /><category term="cog-psych" /><summary type="html"></summary></entry><entry><title type="html">How Effective is Non-Invasive Ventilation in COVID-19?</title><link href="/2020/03/22/non-invasive-ventilation.html" rel="alternate" type="text/html" title="How Effective is Non-Invasive Ventilation in COVID-19?" /><published>2020-03-22T00:00:00-07:00</published><updated>2020-03-22T00:00:00-07:00</updated><id>/2020/03/22/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/22/non-invasive-ventilation.html">&lt;p&gt;&lt;img src=&quot;/images/totalfacemask.jpg&quot; alt=&quot;cpapman&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Does non-invasive ventilation even work in critically ill COVID-19 patients?&lt;/p&gt;
 
@@ -1377,7 +1447,7 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;[11]Esquinas, Antonio M., et al. “Noninvasive mechanical ventilation in high-risk pulmonary infections: a clinical review.” European Respiratory Review 23.134 (2014): 427-438.&lt;/p&gt;
 
-&lt;p&gt;[12]Shalhoub, Sarah, et al. “Critically ill healthcare workers with the middle east respiratory syndrome (MERS): A multicenter study.” PloS one 13.11 (2018).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Contagion Risk from Non-Invasive Ventilation</title><link href="/2020/03/22/contagion-risk-from-NIV.html" rel="alternate" type="text/html" title="Contagion Risk from Non-Invasive Ventilation" /><published>2020-03-22T00:00:00-06:00</published><updated>2020-03-22T00:00:00-06:00</updated><id>/2020/03/22/contagion-risk-from-NIV</id><content type="html" xml:base="/2020/03/22/contagion-risk-from-NIV.html">&lt;p&gt;&lt;img src=&quot;/images/spray.jpg&quot; alt=&quot;spray&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[12]Shalhoub, Sarah, et al. “Critically ill healthcare workers with the middle east respiratory syndrome (MERS): A multicenter study.” PloS one 13.11 (2018).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Contagion Risk from Non-Invasive Ventilation</title><link href="/2020/03/22/contagion-risk-from-NIV.html" rel="alternate" type="text/html" title="Contagion Risk from Non-Invasive Ventilation" /><published>2020-03-22T00:00:00-07:00</published><updated>2020-03-22T00:00:00-07:00</updated><id>/2020/03/22/contagion-risk-from-NIV</id><content type="html" xml:base="/2020/03/22/contagion-risk-from-NIV.html">&lt;p&gt;&lt;img src=&quot;/images/spray.jpg&quot; alt=&quot;spray&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Non-invasive ventilation and high-flow nasal cannula are treatments for acute respiratory failure, including in severe cases of viral pneumonia such as COVID-19.&lt;/p&gt;
 
@@ -1415,140 +1485,4 @@ _4) The use of oxygen concentrators for primary supply when medically necessary 
 
 &lt;p&gt;[5]Simonds, A. K., et al. “Evaluation of droplet dispersion during non-invasive ventilation, oxygen therapy, nebuliser treatment and chest physiotherapy in clinical practice: implications for management of pandemic influenza and other airborne infections.” Health technology assessment (Winchester, England) 14.46 (2010): 131-172.&lt;/p&gt;
 
-&lt;p&gt;[6]Thompson, Katy-Anne, et al. “Influenza aerosols in UK hospitals during the H1N1 (2009) pandemic–the risk of aerosol generation during medical procedures.” PloS one 8.2 (2013).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Non-Invasive Ventilation Outcomes</title><link href="/2020/03/20/non-invasive-ventilation.html" rel="alternate" type="text/html" title="Non-Invasive Ventilation Outcomes" /><published>2020-03-20T00:00:00-06:00</published><updated>2020-03-20T00:00:00-06:00</updated><id>/2020/03/20/non-invasive-ventilation</id><content type="html" xml:base="/2020/03/20/non-invasive-ventilation.html">&lt;p&gt;Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?&lt;/p&gt;
-
-&lt;p&gt;This matters because, in the event of a shortage of ICU beds and mechanical ventilators, if a device that can be used at home can reduce a COVID-19 patient’s risk of needing to be hospitalized, it could save potentially millions of lives in the US.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I looked at a total of 19 randomized controlled trials, comprising 3979 patients in all, which directly compared either a type of non-invasive ventilation, high-flow nasal cannula therapy, or both to standard oxygen therapy, for adult patients with acute respiratory failure who had not received surgery or intubation.&lt;/p&gt;
-
-&lt;p&gt;Using a t-test to compare the risk of intubation between treatments, I found that there was a 15% rate of intubation in the non-invasive ventilation (NIV) group vs. a 30% rate of intubation in the standard therapy group, for a significant (p &amp;lt; 0.0001) difference in intubation risk; the NIV group had half the odds of failing and needing intubation, compared with standard oxygen mask therapy.&lt;/p&gt;
-
-&lt;p&gt;Likewise, there was a significant (p &amp;lt; 0.0001) difference in the mortality risk; the NIV group had a mortality risk of 15% at follow-up, while the standard treatment group had a mortality rate of 24%, a relative risk of 0.625.&lt;/p&gt;
-
-&lt;p&gt;There was no significant reduction in risk of mortality or intubation between standard and high flow nasal cannula (HFNC) therapy.&lt;/p&gt;
-
-&lt;p&gt;When restricted to studies of community-acquired pneumonia, NIV still significantly (p &amp;lt; 0.0001) reduces risk of intubation and significantly (p &amp;lt; 0.0001) reduces the risk of mortality.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Non-Invasive Ventilation Vs. Standard Treatment&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In an RCT of 236 patients admitted to the hospital for exacerbations of COPD, randomized to either standard treatment or non-invasive ventilation (NIV), NIV was associated with a reduced (RR = 0.56, p = 0.038) risk of needing intubation.[1]  Even in the NIV group, 15% of patients still needed intubation.&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 82 elderly patients with chronic pulmonary disease, randomized to receive NIV or standard therapy, the patients receiving NIV had a 7.3% chance of needing intubation, while the patients on standard (oxygen) therapy had a 63% chance; this is a significant difference (RR  = 0.11, p &amp;lt; 0.001).  The mortality rate at one year was also significantly lower in the NIV group (RR = 0.83, p = 0.014).[3]&lt;/p&gt;
-
-&lt;p&gt;In a study (the 3CPO trial)  of 1069 patients with severe cardiogenic pulmonary edema, randomized to CPAP, non-invasive ventilation, or standard oxygen therapy, there was no significant difference in the rate of mortality (9.8% vs 9.5%) or intubation (2.8% vs 2.9%) between groups.[4]&lt;/p&gt;
-
-&lt;p&gt;In a randomized multicenter study over 19 hospitals in China, patients given NIV for exacerbations of COPD were much less likely than patients given standard therapy, (4% vs 15%, RR = 0.13, p = 0.002) but there was no significant difference in in-hospital mortality.[5]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 40 patients with acute lung injury, assigned either NIV or standard oxygen therapy, the proportion of patients requiring intubation was much lower in the NIV group (5% vs 37%: RR = 0.14, p = 0.02) and there was a nonsignificant trent (p = 0.09) towards lower mortality in the NIV group.[6]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 40 patients with acute cardiogenic pulmonary edema, assigned to either NIV or standard oxygen therapy, intubation was required in fewer patients in the NIV group (5% vs 33%, RR = 0.15, p = 0.037).[7]&lt;/p&gt;
-
-&lt;p&gt;In a study of 85 patients with acute exacerbations of COPD, randomized to standard therapy or noninvasive ventilation, significantly fewer of the NIV patients (26% vs 74%, RR = 35%, p &amp;lt; 0.001) were intubated.  NIV patients also had fewer complications, shorter hospital stays, and lower in-hospital mortality (9% vs 29%, RR = 0.31, p =0.02).[9]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 105 patients with severe hypoxemic respiratory failure, randomized to NIV or standard oxygen therapy, NIV reduced the need for intubation (13% vs 29%, RR = 0.45, p = 0.01) and ICU mortality (9% vs 21%, RR = 0.42, p = 0.028).[13]&lt;/p&gt;
-
-&lt;p&gt;In the FLORALI trial, which randomized 310 patients with acute hypoxemic respiratory failure to high-flow nasal cannula oxygen (HFNC), non-invasive ventilation, or standard oxygen therapy through a nonrebreather mask, there was no significant difference in intubation rate between the three groups; but in the patient subgroup with the worst blood oxygenation levels, the high-flow oxygen group had a significantly lower intubation rate (35% vs 53%, RR = 0.66, p = 0.009).  Mortality at 90 days was also significantly lower in the high-flow nasal cannula group (12% vs 23%, RR = 0.52, p= 0.02).[14]&lt;/p&gt;
-
-&lt;p&gt;In the HOT-ER trial of 302 patients with hypoxia and tachypnea presenting to an emergency department, randomly assigned to standard oxygen therapy or HFNC therapy, there was no significant difference between mortality and intubation rates, but this may have been because both groups had low rates of intubation (0.6% and 2.2%) and in-hospital mortality (9.1% and 8.0%).[15]&lt;/p&gt;
-
-&lt;p&gt;In the HIGH trial of 776 adult immunocompromised patients with acute hypoxemic respiratory failure, randomized to HFNC or standard oxygen, there was no significant difference between groups in mortality at day 28 (35.6% vs 36.1%) or intubation rate (38.7% vs 43.6%).[17]&lt;/p&gt;
-
-&lt;p&gt;In a trial of 376 immunocompromised patients, mostly with cancer, randomized to either non-invasive ventilation or standard oxygen therapy, there was no significant difference in intubation rates between the two groups (24.1% vs 27.3%) and no significant difference in 28-day mortality (24.1% vs 27.3%)[19]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 31 patients with acute respiratory failure, randomized to non-invasive ventilation or standard oxygen, significantly fewer patients in the NIV group needed intubation (31% vs 73%, RR = 0.42, p = 0.03), but there was no significant difference in mortality.[20]&lt;/p&gt;
-
-&lt;p&gt;In 52 immunosuppressed patients with acute respiratory distress, pulmonary infiltrates, and fever, randomized either to NIV or standard oxygen, fewer patients in the NIV group required intubation (46% vs 76%, RR = 0.6, p = 0.03) and fewer patients in the NIV died in the hospital (50% vs 81%, RR= 0.58, p = 0.02).[21]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 60 patients with acute cardiogenic pulmonary edema, assigned to CPAP, BIPAP, or standard oxygen, patients assigned to CPAP were more likely to survive to hospital discharge (100% vs 70 % vs 75%, p = 0.02).  There was no difference in the number of patients needing intubation: (20% vs 5% vs 5%).[22]&lt;/p&gt;
-
-&lt;p&gt;In an Indian study of 40 patients with acute exacerbations of COPD randomized to NIV or standard oxygen, the NIV group had a lower rate of intubation (15% vs 60%, RR = 0.25, p = 0.003) but there was no significant difference in hospital mortality (15% vs 20%).[23]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pneumonia-Specific Studies&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 56 cases of severe pneumonia, assigned to NIV (with a CPAP mask) or standard oxygen therapy, significantly fewer patients in the NIV group (21% vs 61%, RR = 34%, p = 0.007) met criteria for intubation.  There was no significant difference in hospital death rates or 2-month survival rates.[8]&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 81 patients with acute respiratory failure due to pneumonia, randomized to NIV with a CPAP or standard oxygen therapy with a Venturi mask, significantly fewer from the CPAP group met criteria for intubation (15% vs 63%, RR = 0.24, p &amp;lt; 0.001), and the CPAP group showed a faster and greater oxygenation response.[12]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Types of Non-Invasive Ventilation Compared&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In a meta-analysis comprising 290 patients with cardiogenic pulmonary edema, there was no significant difference in either hospital mortality or intubation risk between CPAP and BIPAP machines. [2]&lt;/p&gt;
-
-&lt;p&gt;In 36 patients with acute hypercapnic pulmonary edema randomized to either non-invasive pressure support ventilation or CPAP, there was no significant difference in intubation rates or mortality rates.[18]&lt;/p&gt;
-
-&lt;p&gt;In 83 women with ARDS randomized to NIV either with a face mask or a helmet, the rate of intubation was significantly lower with the helmet (18% vs 63%, RR = 0.29, p &amp;lt; 0.001) and the 90-day mortality rate was also significantly lower (34% vs 56%, RR= 0.6, p = 0.02).  The helmet may be more effective because it prevents air leak.[16]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Out-of-Hospital Non-Invasive Ventilation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In a randomized study of 54 patients with acute respiratory failure given standard oxygen therapy or NIV by paramedics, significantly fewer of the NIV patients needed to go to the ICU (36% vs 65%, RR = 0.55, p &amp;lt; 0.05) and there was a nonsignificant trend towards fewer NIV patients needing to be intubated (4% vs 23%, p = 0.1) [10]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Past Pandemics&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;20-30% of patients with respiratory failure due to H1N1 influenza were given NIV, but 70-80% of those later needed intubation and invasive ventilation.[11]&lt;/p&gt;
-
-&lt;p&gt;During the SARS outbreak, a Hong Kong hospital that treated patients with respiratory failure through non-invasive ventilation first had 21% of patients need invasive mechanical ventilation, while 41% of SARS patients in a ventilation-first hospital were on mechanical ventilation.  Mortality was also lower in the NIV hospital: 9.5% vs 25.1%.[24]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It looks like, for acute respiratory distress in general and pneumonia specifically, non-invasive ventilation can help prevent it from getting so bad that intubation is necessary.  NIV reduces both intubation risk and mortality.&lt;/p&gt;
-
-&lt;p&gt;This means that, in a world where ICUs are overrun, there’s a good chance that a home non-invasive ventilation device could save lives for people with COVID-19.&lt;/p&gt;
-
-&lt;p&gt;Additionally, we have correlational evidence that non-invasive ventilation can work for acute respiratory failure outside a hospital setting, and can reduce mortality in a past coronavirus epidemic (SARS). This points in favor of the possibility of non-invasive ventilation being useful in COVID-19.&lt;/p&gt;
-
-&lt;p&gt;Because non-invasive ventilation aerosolizes the virus, it is not safe in hospital settings, where it could spread COVID-19.&lt;/p&gt;
-
-&lt;p&gt;If someone has the option of going to a hospital in the event of severe respiratory failure due to COVID-19, it’s better to go immediately than to try to self-treat at home; intubation can’t be done safely by an untrained person, and about 40% of severe COVID-19 cases require intubation.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, if hospitals are unavailable, as seems quite likely if the US doesn’t drastically increase its supply of medical personnel and equipment, a home non-invasive ventilation device may be a distinct improvement over either home oxygen supplementation or, obviously, no treatment at all.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;[1]Plant, Paul Keith, J. L. Owen, and M. W. Elliott. “Non-invasive ventilation in acute exacerbations of chronic obstructive pulmonary disease: long term survival and predictors of in-hospital outcome.” Thorax 56.9 (2001): 708-712.&lt;/p&gt;
-
-&lt;p&gt;[2]Ho, Kwok M., and Karen Wong. “A comparison of continuous and bi-level positive airway pressure non-invasive ventilation in patients with acute cardiogenic pulmonary oedema: a meta-analysis.” Critical care 10.2 (2006): R49.&lt;/p&gt;
-
-&lt;p&gt;[3]Nava, Stefano, et al. “Non-invasive ventilation in elderly patients with acute hypercapnic respiratory failure: a randomised controlled trial.” Age and ageing 40.4 (2011): 444-450.&lt;/p&gt;
-
-&lt;p&gt;[4] Gray, A. J., et al. “A multicentre randomised controlled trial of the use of continuous positive airway pressure and non-invasive positive pressure ventilation in the early treatment of patients presenting to the emergency department with severe acute cardiogenic pulmonary oedema: the 3CPO trial.” Health technology assessment (Winchester, England) 13.33 (2009): 1.&lt;/p&gt;
-
-&lt;p&gt;[5]Collaborative Research Group of Noninvasive Mechanical Ventilation for Chronic Obstructive Pulmonary Disease. “Early use of non-invasive positive pressure ventilation for acute exacerbations of chronic obstructive pulmonary disease: a multicentre randomized controlled trial.” Chinese medical journal 118.24 (2005): 2034.&lt;/p&gt;
-
-&lt;p&gt;[6]Zhan, Qingyuan, et al. “Early use of noninvasive positive pressure ventilation for acute lung injury: a multicenter randomized controlled trial.” Critical care medicine 40.2 (2012): 455-460.&lt;/p&gt;
-
-&lt;p&gt;[7]Masip, Josep, et al. “Non-invasive pressure support ventilation versus conventional oxygen therapy in acute cardiogenic pulmonary oedema: a randomised trial.” The Lancet 356.9248 (2000): 2126-2132.&lt;/p&gt;
-
-&lt;p&gt;[8]Confalonieri, Marco, et al. “Acute respiratory failure in patients with severe community-acquired pneumonia: a prospective randomized evaluation of noninvasive ventilation.” American Journal of Respiratory and Critical Care Medicine 160.5 (1999): 1585-1591.&lt;/p&gt;
-
-&lt;p&gt;[9]Wedzicha, J. A. “Noninvasive ventilation for acute exacerbations of chronic obstructive pulmonary disease.” Thorax 51.Suppl 2 (1996): S35.&lt;/p&gt;
-
-&lt;p&gt;[10]Roessler, Markus Sören, et al. “Early out-of-hospital non-invasive ventilation is superior to standard medical treatment in patients with acute respiratory failure: a pilot study.” Emerg Med J 29.5 (2012): 409-414.&lt;/p&gt;
-
-&lt;p&gt;[11]Winck, João Carlos, and Anabela Marinho. “Non-invasive ventilation in acute respiratory failure related to 2009 pandemic influenza A/H1N1 virus infection.” Critical Care 14.2 (2010): 1-2.&lt;/p&gt;
-
-&lt;p&gt;[12]Brambilla, Anna Maria, et al. “Helmet CPAP vs. oxygen therapy in severe hypoxemic respiratory failure due to pneumonia.” Intensive care medicine 40.7 (2014): 942-949.&lt;/p&gt;
-
-&lt;p&gt;[13]Ferrer, Miquel, et al. “Noninvasive ventilation in severe hypoxemic respiratory failure: a randomized clinical trial.” American journal of respiratory and critical care medicine 168.12 (2003): 1438-1444.&lt;/p&gt;
-
-&lt;p&gt;[14]Frat, Jean-Pierre, et al. “High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.” New England Journal of Medicine 372.23 (2015): 2185-2196.&lt;/p&gt;
-
-&lt;p&gt;[15]Jones, Peter G., et al. “Randomized controlled trial of humidified high-flow nasal oxygen for acute respiratory distress in the emergency department: the HOT-ER study.” Respiratory care 61.3 (2016): 291-299.&lt;/p&gt;
-
-&lt;p&gt;[16]Patel, Bhakti K., et al. “Effect of noninvasive ventilation delivered by helmet vs face mask on the rate of endotracheal intubation in patients with acute respiratory distress syndrome: a randomized clinical trial.” Jama 315.22 (2016): 2435-2441.&lt;/p&gt;
-
-&lt;p&gt;[17] Azoulay, Elie, et al. “Effect of high-flow nasal oxygen vs standard oxygen on 28-day mortality in immunocompromised patients with acute respiratory failure: the HIGH randomized clinical trial.” Jama 320.20 (2018): 2099-2107.&lt;/p&gt;
-
-&lt;p&gt;[18]Bellone, Andrea, et al. “Noninvasive pressure support ventilation vs. continuous positive airway pressure in acute hypercapnic pulmonary edema.” Intensive care medicine 31.6 (2005): 807-811.&lt;/p&gt;
-
-&lt;p&gt;[19]Del Sorbo, Lorenzo, et al. “Non-invasive ventilation in immunocompromised patients with acute hypoxemic respiratory failure.” Journal of thoracic disease 8.3 (2016): E208.&lt;/p&gt;
-
-&lt;p&gt;[20]Kramer, Naomi, et al. “Randomized, prospective trial of noninvasive positive pressure ventilation in acute respiratory failure.” American journal of respiratory and critical care medicine 151.6 (1995): 1799-1806.&lt;/p&gt;
-
-&lt;p&gt;[21]Hilbert, Gilles, et al. “Noninvasive ventilation in immunosuppressed patients with pulmonary infiltrates, fever, and acute respiratory failure.” New England Journal of Medicine 344.7 (2001): 481-487.&lt;/p&gt;
-
-&lt;p&gt;[22]Crane, S. D., et al. “Randomised controlled comparison of continuous positive airways pressure, bilevel non-invasive ventilation, and standard treatment in emergency department patients with acute cardiogenic pulmonary oedema.” Emergency medicine journal 21.2 (2004): 155-161.&lt;/p&gt;
-
-&lt;p&gt;[23]Khilnani, Gopi C., et al. “Non-invasive ventilation for acute exacerbation of COPD with very high PaCO2: a randomized controlled trial.” Lung India: official organ of Indian Chest Society 27.3 (2010): 125.&lt;/p&gt;
-
-&lt;p&gt;[24]Yam, L. Y., et al. “Non-invasive versus invasive mechanical ventilation for respiratory failure in severe acute respiratory syndrome.” Chin Med J 118.17 (2005): 1413-1421.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">Does non-invasive ventilation (providing oxygenated air under pressure to patients who have trouble breathing) prevent the need for intubation and being placed on a mechanical ventilator?</summary></entry></feed>
+&lt;p&gt;[6]Thompson, Katy-Anne, et al. “Influenza aerosols in UK hospitals during the H1N1 (2009) pandemic–the risk of aerosol generation during medical procedures.” PloS one 8.2 (2013).&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry></feed>
