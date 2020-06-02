@@ -57,13 +57,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>15
    </td>
-   <td>Ct = 25
-<p>
-(n = 6, range 17-32)
+   <td>Ct = 25 (n = 6, range 17-32)
    </td>
-   <td>Ct = 27 
-<p>
-(n = 9, range 19-33)
+   <td>Ct = 27 (n = 9, range 19-33)
    </td>
    <td>n.s. 
    </td>
@@ -75,13 +71,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>92
    </td>
-   <td>Ct = 28
-<p>
-(n = 62, sigma = 0.5)
+   <td>Ct = 28 (n = 62, sigma = 0.5)
    </td>
-   <td>Ct = 25
-<p>
-(n = 30, sigma = 0.5)
+   <td>Ct = 25 (n = 30, sigma = 0.5)
    </td>
    <td>p = 0.017
    </td>
@@ -93,13 +85,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>96
    </td>
-   <td>4.1 log copies/mL
-<p>
-(n = 22, sigma = 1.4 )
+   <td>4.1 log copies/mL (n = 22, sigma = 1.4 )
    </td>
-   <td>5.1 log copies/mL
-<p>
-(n = 74, sigma = 1.4)
+   <td>5.1 log copies/mL (n = 74, sigma = 1.4)
    </td>
    <td>p = 0.03
    </td>
@@ -111,13 +99,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>76
    </td>
-   <td>delta-CT = -1.25 
-<p>
-(n = 30, sigma = 5.2)
+   <td>delta-CT = -1.25 (n = 30, sigma = 5.2)
    </td>
-   <td>delta-CT = 4.48
-<p>
-(n = 46, sigma = 3.0)
+   <td>delta-CT = 4.48(n = 46, sigma = 3.0)
    </td>
    <td>p &lt; 0.001
    </td>
@@ -129,13 +113,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>23
    </td>
-   <td>5 log copies/mL
-<p>
-(n = 10, sigma = 2.2)
+   <td>5 log copies/mL (n = 10, sigma = 2.2)
    </td>
-   <td>6 log copies/mL
-<p>
-(n = 13, sigma = 3.0)
+   <td>6 log copies/mL (n = 13, sigma = 3.0)
    </td>
    <td>n.s. 
    </td>
@@ -147,13 +127,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>12
    </td>
-   <td>Ct = 35.2 
-<p>
-(n = 10, sigma = 5)
+   <td>Ct = 35.2 (n = 10, sigma = 5)
    </td>
-   <td>Ct = 26
-<p>
-(n = 3, sigma = 5.1)
+   <td>Ct = 26 (n = 3, sigma = 5.1)
    </td>
    <td>p = 0.0177
    </td>
@@ -165,13 +141,9 @@ Here’s a table of studies that compared viral load in mild and severe COVID-19
   <tr>
    <td>18
    </td>
-   <td>Ct = 30.9
-<p>
-(n = 12, sigma = 5.6)
+   <td>Ct = 30.9(n = 12, sigma = 5.6)
    </td>
-   <td>Ct = 30.3
-<p>
-(n = 6, sigma = 5.3)
+   <td>Ct = 30.3 (n = 6, sigma = 5.3)
    </td>
    <td>n.s. 
    </td>
