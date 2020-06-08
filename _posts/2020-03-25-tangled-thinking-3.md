@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Tangled Thinking 3 -- Motivated Cognition and Suffering
-tags: [tangled-thinking, cog-psych]
+tags: [ cog-psych]
 ---
 ![dogface]({{ site.baseurl }}/images/dogface.png)
 

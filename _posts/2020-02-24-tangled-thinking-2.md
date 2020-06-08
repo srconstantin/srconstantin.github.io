@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Tangled Thinking 2 -- Motivated Cognition and Its Opposite
-tags: [tangled-thinking, cog-psych]
+tags: [ cog-psych]
 ---
 
 ![lizards]({{ site.baseurl }}/images/escherlizards.jpeg)

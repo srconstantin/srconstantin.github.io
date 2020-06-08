@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Tangled Thinking 1 -- Mental Objects, Contradictions, Reconciliation
-tags: [tangled-thinking, cog-psych]
+tags: [ cog-psych]
 ---
 
 ![ascending]({{ site.baseurl }}/images/ascending-and-descending-escher.jpg)
