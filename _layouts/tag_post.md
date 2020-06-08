@@ -8,7 +8,7 @@ layout: post
 <ul class="tags">
   {% for tag in page.tags %}
   <li>
-    <a href="/tag/{{ tag }}.html">{{ site.data.tags[tag].name }}</a>
+    <a href="/tag/{{ tag }}">{{ site.data.tags[tag].name }}</a>
   </li>{% endfor %}
 </ul><br>
 {% endif %}
