@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Tag: Aging"
+title: "Aging"
 tag: aging
 ---

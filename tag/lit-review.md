@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Tag: Lit Review"
+title: "Literature Review"
 tag: lit-review
 ---

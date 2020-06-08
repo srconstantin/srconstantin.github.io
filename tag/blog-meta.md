@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Tag: Blog Meta"
+title: "Blog Meta"
 tag: blog-meta
 ---
