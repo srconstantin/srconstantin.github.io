@@ -16,7 +16,7 @@
 title: Sarah Constantin
 email: srconstantin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Math/machine learning person currently trying to solve aging and make sense of our world. Founder, www.daphnia-labs.com and www.thelri.org.
+  Math/machine learning person currently trying to solve aging and make sense of our world. Founder, [Daphnia Labs](http://www.daphnia-labs.com) and [LRI](https://thelri.org).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-tags
   - jekyll-tagging
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
