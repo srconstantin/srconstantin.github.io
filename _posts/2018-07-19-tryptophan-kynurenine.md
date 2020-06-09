@@ -7,13 +7,13 @@ tags: [aging, lit-review]
 ![tryptophan]({{ site.baseurl }}/images/tryptophan.png)
 
 
-It’s a curious fact that the drugs which extend life the most in experiments on both mammals and nematodes are _not _dietary-restriction mimetics but neurologically active drugs.
+It’s a curious fact that the drugs which extend life the most in experiments on both mammals and nematodes are _not_ dietary-restriction mimetics but neurologically active drugs.
 
 Seven of the top twenty rodent lifespan extending drugs by effect size act primarily on the brain: fullerenes, epitalon, polypeptide bovine pineal extract, melatonin, ginkgo biloba extract, and selegiline.[1]  Selegiline, an MAO inhibitor, is the only drug that has been reported to extend life in a large mammal (dogs.)
 
-Unbiased drug screens measuring effect on _C. elegans _lifespan, from the Petrascheck lab at Scripps, also reveal neurologically active drugs as among the most effective.
+Unbiased drug screens measuring effect on _C. elegans_lifespan, from the Petrascheck lab at Scripps, also reveal neurologically active drugs as among the most effective.
 
-In a screen of 88,000 small-molecule drugs, four drugs with related structures that affect serotonin metabolism in the brain (5-HT2 receptor antagonists) were found to extend lifespan in C. elegans by 20-33%: mianserin, mirtazapine, cyproheptadine, and miothepin.  Mianserin + dietary restriction extends lifespan only 4% more than DR alone, suggesting its effect might be dietary restriction related; however, it does not reduce pharyngeal pumping (the nematode’s method of eating), so it does not directly _cause _dietary restriction.[2]
+In a screen of 88,000 small-molecule drugs, four drugs with related structures that affect serotonin metabolism in the brain (5-HT2 receptor antagonists) were found to extend lifespan in C. elegans by 20-33%: mianserin, mirtazapine, cyproheptadine, and miothepin.  Mianserin + dietary restriction extends lifespan only 4% more than DR alone, suggesting its effect might be dietary restriction related; however, it does not reduce pharyngeal pumping (the nematode’s method of eating), so it does not directly _cause_ dietary restriction.[2]
 
 Out of a library of 1280 compounds with known or suspected mammalian targets, 57 extended life in nematodes, and 29 of these targeted the receptors of biogenic amines found in neurotransmission: adrenaline, dopamine, histamine, and serotonin_._ Ten (amoxapine, nortriptyline, clorotepine, chlorprothixine, loxapine, pergolide, thioridazine, promethazine, amperozide, mianserin) are antidepressants and/or antipsychotics.   The biggest effect size was loxapine, at 43%.[3]
 
@@ -57,7 +57,7 @@ Old rats have increased kynurenine and IDO activity in the brain compared to you
 
 _Depression_
 
-Interestingly enough, the so-called “serotonin hypothesis of depression” which catalyzed the development of SSRI antidepressants was originally not a claim _merely _that depression was a disease of low serotonin levels, but that it was about tryptophan metabolism being directed to kynurenine. “The original 1969 Lancet paper [posing the serotonin hypothesis of depression] proposed, “in depression the activity of liver tryptophan-pyrrolase is stimulated by raised blood corticosteroids levels, and metabolism of tryptophan is shunted away from serotonin production, and towards kynurenine production.””[11]  So theories of depression that claim it’s driven by chronic inflammation or hypercortisolism are actually _consistent _with the serotonin hypothesis.
+Interestingly enough, the so-called “serotonin hypothesis of depression” which catalyzed the development of SSRI antidepressants was originally not a claim _merely_ that depression was a disease of low serotonin levels, but that it was about tryptophan metabolism being directed to kynurenine. “The original 1969 Lancet paper [posing the serotonin hypothesis of depression] proposed, “in depression the activity of liver tryptophan-pyrrolase is stimulated by raised blood corticosteroids levels, and metabolism of tryptophan is shunted away from serotonin production, and towards kynurenine production.””[11]  So theories of depression that claim it’s driven by chronic inflammation or hypercortisolism are actually _consistent_ with the serotonin hypothesis.
 
  
 
@@ -93,17 +93,17 @@ Irritable bowel disease patients have elevated levels of kynurenine and kynurena
 
  
 
-Inhibiting or knocking out IDO (one of the tryptophan-to-kynurenine enzymes) in mice prevents tumor growth and formation; depletion of _tdo-2 _in C. elegans and _vermilion _in Drosophila (the fruit fly gene for TDO, the other tryptophan-to-kynurenine enzyme) extends lifespan in both species and prevents models of neurodegenerative disease.   Rapamycin, the famed mTOR inhibitor and life-extension drug, also inhibits TDO.[20]
+Inhibiting or knocking out IDO (one of the tryptophan-to-kynurenine enzymes) in mice prevents tumor growth and formation; depletion of _tdo-2_ in C. elegans and _vermilion_ in Drosophila (the fruit fly gene for TDO, the other tryptophan-to-kynurenine enzyme) extends lifespan in both species and prevents models of neurodegenerative disease.   Rapamycin, the famed mTOR inhibitor and life-extension drug, also inhibits TDO.[20]
 
 Inhibitors of TDO, alpha-methyl tryptophan and 5-methyl tryptophan, increase fly mean and maximum lifespan (by 27% and 43%,  and 21% and 23%, respectively.)[21]
 
-_Vermilion _flies (a mutation without functional TDO) live 75% longer than wild-type![22]
+_Vermilion_ flies (a mutation without functional TDO) live 75% longer than wild-type![22]
 
 Minocycline and berberine, both IDO inhibitors, extend fruit fly lifespan, p&lt;0.0002.[23]  Berberine is also a cholesterol-lowering and glucose-lowering compound[24][25], while minocycline has been investigated for neuroprotective, anti-inflammatory, antidepressant, and antipsychotic properties, and at 63% life extension, has the second-largest effect on fruit fly lifespan of any compound reported to extend life in _Drosophila._
 
-TDO knockout _C. elegans _live 15% longer.[26]
+TDO knockout _C. elegans_live 15% longer.[26]
 
-Finally, in an RNAi knockdown screen (at the Sutphin Lab at the University of Arizona) testing whether blocking the expression of genes differentially expressed with age in humans extends life in _C. elegans_, the biggest impact on longevity (>30%) is a knockdown of _kynu-1_, which codes for kynureninase, the enzyme that breaks down kynurenine.  _Kynu-1 _alone delayed pathology in models of Alzheimer’s & Huntington’s.  The effect still works on _daf-1, hif-1, eat-2, rsks-1, and sir-2.1 _mutants.[27]
+Finally, in an RNAi knockdown screen (at the Sutphin Lab at the University of Arizona) testing whether blocking the expression of genes differentially expressed with age in humans extends life in _C. elegans_, the biggest impact on longevity (>30%) is a knockdown of _kynu-1_, which codes for kynureninase, the enzyme that breaks down kynurenine.  _Kynu-1_ alone delayed pathology in models of Alzheimer’s & Huntington’s.  The effect still works on _daf-1, hif-1, eat-2, rsks-1, and sir-2.1_ mutants.[27]
 
 In unpublished data from the Sutphin lab, HAAO-1 knockouts & knockdowns (a gene farther down the kynurenine metabolism pathway) and 3HAA supplementation also extend lifespan, by even more (40% median lifespan increase.)
 
