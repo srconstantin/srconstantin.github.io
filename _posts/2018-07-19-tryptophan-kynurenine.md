@@ -77,7 +77,7 @@ In a study of 34 patients with Alzheimer’s and 18 controls, the Alzheimer’s 
 
 In an autopsy study of subjects with and without Parkinson’s disease, the PD brains had lower dopamine and serotonin concentrations, and lower kynurenine and kyurenate levels, but higher 3-hydroxykynurenine levels.[17]
 
-Compared to control patients, patients with ALS had significantly increased levels of CSF and serum tryptophan (_P_ &lt; 0.0001), kynurenine (_P_ &lt; 0.0001) and quinolinic acid. (_P_ &lt; 0.05)[18]
+Compared to control patients, patients with ALS had significantly increased levels of CSF and serum tryptophan (_p_ &lt; 0.0001), kynurenine (_p_ &lt; 0.0001) and quinolinic acid. (_p_ &lt; 0.05)[18]
 
 While the details of differences in kynurenine metabolism seem to be inconsistent between studies, alteration in kynurenine metabolism seems to be a common finding in neurodegenerative disease.
 
@@ -93,7 +93,7 @@ Irritable bowel disease patients have elevated levels of kynurenine and kynurena
 
  
 
-Inhibiting or knocking out IDO (one of the tryptophan-to-kynurenine enzymes) in mice prevents tumor growth and formation; depletion of _tdo-2_ in C. elegans and _vermilion_ in Drosophila (the fruit fly gene for TDO, the other tryptophan-to-kynurenine enzyme) extends lifespan in both species and prevents models of neurodegenerative disease.   Rapamycin, the famed mTOR inhibitor and life-extension drug, also inhibits TDO.[20]
+Inhibiting or knocking out IDO (one of the tryptophan-to-kynurenine enzymes) in mice prevents tumor growth and formation; depletion of _tdo-2_ in _C. elegans_ and _vermilion_ in Drosophila (the fruit fly gene for TDO, the other tryptophan-to-kynurenine enzyme) extends lifespan in both species and prevents models of neurodegenerative disease.   Rapamycin, the famed mTOR inhibitor and life-extension drug, also inhibits TDO.[20]
 
 Inhibitors of TDO, alpha-methyl tryptophan and 5-methyl tryptophan, increase fly mean and maximum lifespan (by 27% and 43%,  and 21% and 23%, respectively.)[21]
 
@@ -101,9 +101,9 @@ _Vermilion_ flies (a mutation without functional TDO) live 75% longer than wild-
 
 Minocycline and berberine, both IDO inhibitors, extend fruit fly lifespan, p&lt;0.0002.[23]  Berberine is also a cholesterol-lowering and glucose-lowering compound[24][25], while minocycline has been investigated for neuroprotective, anti-inflammatory, antidepressant, and antipsychotic properties, and at 63% life extension, has the second-largest effect on fruit fly lifespan of any compound reported to extend life in _Drosophila._
 
-TDO knockout _C. elegans_live 15% longer.[26]
+TDO knockout _C. elegans_ live 15% longer.[26]
 
-Finally, in an RNAi knockdown screen (at the Sutphin Lab at the University of Arizona) testing whether blocking the expression of genes differentially expressed with age in humans extends life in _C. elegans_, the biggest impact on longevity (>30%) is a knockdown of _kynu-1_, which codes for kynureninase, the enzyme that breaks down kynurenine.  _Kynu-1_ alone delayed pathology in models of Alzheimer’s & Huntington’s.  The effect still works on _daf-1, hif-1, eat-2, rsks-1, and sir-2.1_ mutants.[27]
+Finally, in an RNAi knockdown screen (at the Sutphin Lab at the University of Arizona) testing whether blocking the expression of genes differentially expressed with age in humans extends life in _C. elegans_, the biggest impact on longevity (>30%) is a knockdown of _kynu-1_, which codes for kynureninase, the enzyme that breaks down kynurenine.  _Kynu-1_ alone delayed pathology in models of Alzheimer’s & Huntington’s.  The effect still works on _daf-1_, _hif-1_, _eat-2_, _rsks-1_, and _sir-2.1_ mutants.[27]
 
 In unpublished data from the Sutphin lab, HAAO-1 knockouts & knockdowns (a gene farther down the kynurenine metabolism pathway) and 3HAA supplementation also extend lifespan, by even more (40% median lifespan increase.)
 
