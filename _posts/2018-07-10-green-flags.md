@@ -4,6 +4,8 @@ title: "Green Flags -- Heuristics for Biomedical Results"
 tags: [science-and-epistemics]
 ---
 
+![greenflag]({{ site.baseurl }}/images/green-flag.jpg)
+
 1. **Big effect sizes.**
 
 Large, dramatic, qualitative changes are hard to fake, and thus less likely to be the result of statistically manipulating ambiguous or unimpressive data.
