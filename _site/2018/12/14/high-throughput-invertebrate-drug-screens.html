@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>High Throughput Invertebrate Drug Screens | Sarah Constantin</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="High Throughput Invertebrate Drug Screens" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Trained in math and machine learning, currently trying to solve biological problems and make sense of our world." />
+<meta property="og:description" content="Trained in math and machine learning, currently trying to solve biological problems and make sense of our world." />
+<link rel="canonical" href="https://srconstantin.github.io/2018/12/14/high-throughput-invertebrate-drug-screens.html" />
+<meta property="og:url" content="https://srconstantin.github.io/2018/12/14/high-throughput-invertebrate-drug-screens.html" />
+<meta property="og:site_name" content="Sarah Constantin" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-12-14T00:00:00-08:00" />
+<script type="application/ld+json">
+{"description":"Trained in math and machine learning, currently trying to solve biological problems and make sense of our world.","@type":"BlogPosting","url":"https://srconstantin.github.io/2018/12/14/high-throughput-invertebrate-drug-screens.html","headline":"High Throughput Invertebrate Drug Screens","dateModified":"2018-12-14T00:00:00-08:00","datePublished":"2018-12-14T00:00:00-08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://srconstantin.github.io/2018/12/14/high-throughput-invertebrate-drug-screens.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://srconstantin.github.io/feed.xml" title="Sarah Constantin" />
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
+<link rel="alternate" type="application/atom+xml" title="Sarah Constantin's Blog" href="/feed.xml">
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Sarah Constantin</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/tag/aging.html">Aging</a><a class="page-link" href="/tag/blog-meta.html">Blog Meta</a><a class="page-link" href="/tag/cog-psych.html">Cognition and Psychology</a><a class="page-link" href="/tag/covid-19.html">COVID-19</a><a class="page-link" href="/tag/lit-review.html">Literature Review</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">High Throughput Invertebrate Drug Screens</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-12-14T00:00:00-08:00" itemprop="datePublished">Dec 14, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    
+<hr />
+<p>layout: tag_post
+title: High-Throughput Invertebrate Drug Screens
+tags: [aging, lit-review]
+—</p>
+
+<p><img src="/images/purpleworm.png" alt="purpleworm" /></p>
+
+<p>Biogerontologists have found many different drugs that appear to extend lifespan in various animals – despite having tested relatively few drugs to date.  A broad screening effort for aging-modifying drugs could discover many more, some of which might translate to humans, and might also help us better understand the mechanisms of aging.</p>
+
+<p>How can you efficiently test lots of drugs for their effect on lifespan?  You need a <em>short-lived model organism</em> and a _low cost per experiment _enabled by automation.  Fortunately, we’ve begun to see good results from that approach, though it hasn’t yet been deployed at scale and still has a lot of potential for more growth and improvement, which we’re hoping to do at LRI.</p>
+
+<h1 id="nematode-worms-as-model-organisms"><strong>Nematode Worms as Model Organisms</strong></h1>
+
+<p>The obvious choice for a model organism is <em>C. elegans</em>, a species of nematode worm which is well-studied in aging biology, fully genetically sequenced, and provided the first known examples of artificial life extension.</p>
+
+<p>_C. elegans _has a lifespan of only 2-3 weeks.  It can easily be grown on agar medium with _E. coli _bacteria for food, and pipetted onto petri dishes or well plates containing medium, along with any drugs being tested; in other words, it’s a good candidate for use with robotic laboratory automation tools, which reduce the labor costs and improve the accuracy of large-scale experiments.</p>
+
+<p>_C. elegans _is also transparent and easy to observe with low-magnification microscopes or even high-resolution cameras without magnification.  This means that we can also automate the _observation _process of detecting worm survival time and even some other phenotypes, like activity (which declines as worms age), pigmentation (which changes as worms age), and pharyngeal pumping (which is how worms eat, and can be used to understand whether dietary restriction is occurring).</p>
+
+<p>The <a href="https://citp.squarespace.com/">CITP</a>, or Caenorhabditis Interventions Testing Program, a multicenter collaboration funded by the NIA, has done valuable work in examining how variations in worm strain, cohort, experimental conditions, and laboratory site affect the lifespan of worms exposed to different well-known drugs. They found[1] quite significant variation in drug effectiveness between worm strains for several dietary restriction mimetics (suggesting that these will not generalize well beyond <em>C. elegans</em>) and variation between laboratory sites (suggesting that, even with carefully written protocols, standardizing and replicating experiments is difficult.)  These insights will be essential to keep in mind in any systematic nematode drug screen for longevity.</p>
+
+<p>Some other short-lived invertebrates, like the water flea, <em>Daphnia</em>, are also potential candidates; they’re less well-studied, but they ingest drugs dissolved in their water more easily than nematodes do, so accurate dosing is more possible.  The rest of this essay will focus on nematodes because that’s where the most prior work exists and it’s easiest to assess the results, but that shouldn’t be taken to imply that we’ve ruled out studying other invertebrate models.</p>
+
+<h1 id="automated-worm-lifespan-assays"><strong>Automated Worm Lifespan Assays</strong></h1>
+
+<p>Automated lifespan assays for _C. elegans _have recently been developed in several labs (Lifespan Machine[2], WormFarm[3], WorMotel[4], WormBot[5]).</p>
+
+<p>These setups range from petri dishes on flatbed scanners (Lifespan Machine), microfluidic chips for use with light or fluorescence microscopes (WormFarm, WorMotel), and a robotically mounted camera suitable for arrays of standard well plates (WormBot.)</p>
+
+<p>This last, potentially with modifications to ensure reliability at scale (like a robotic arm to move plates around a rigidly mounted camera instead of vice versa, and integration of the camera + plate setup with robotic fluid handling machines) seems the most compatible with the very large number of well plates necessary for screening thousands of different drugs in parallel.</p>
+
+<p>Special-purpose programming languages for laboratory automation also exist, which allow creating protocols programatically and algorithmically optimizing fluid handling to maximize throughput and accuracy.  Using these software tools might well reduce cost per experiment (in time and reagents) and improve replicability relative to the already high CITP standard.</p>
+
+<h1 id="use-of-machine-learning-in-longevity-drug-screens"><strong>Use of Machine Learning in Longevity Drug Screens</strong></h1>
+
+<p>Existing software for detecting worm survival is primitive, using only pixel counting, and in some cases requiring manual tagging of worms. This is still adequate for identifying if worms are alive or dead (automatic scoring is a close match to manual scoring) but is still labor intensive and doesn’t make full use of the rich information available in high-resolution video of worms.</p>
+
+<p>Current machine learning algorithms are capable of automatically tracking objects[6] in video; instead of counting <em>how many _live worms there are in a given well at a given time, we can also track individual worms over time, without the need for manual tagging.  Moreover, we can regress video data to produce a prediction of worm age based on visual features (including behavioral features) of worms – this would allow us to produce a score of _how young a worm looks</em>.  Such a score would allow us to rate drugs by their effect on healthspan as well as lifespan.  We expect that this is possible because visual inspection by biologists _does _easily distinguish between young, healthy worms and old, sick worms.</p>
+
+<p>Automated analysis of video/image data could reduce the labor costs of observation and scoring in a 6000-drug screen by at least a factor of ten, and by much more in the long run, since the cost of building and maintaining the machine learning model grows slowly relative to the number of drugs screened, while the cost of manually inspecting more worms grows linearly.</p>
+
+<h1 id="odds-of-success"><strong>Odds of Success</strong></h1>
+
+<p>Even a “brute force” search through a diverse library of drugs, without assuming any knowledge about which drugs are likely to have pro-longevity effects, will likely turn up enough new hits to be worth the investment.  The few existing drug screens for longevity in worms bear this out.</p>
+
+<p>In one drug screen, from the Petrascheck Lab at Scripps, for lifespan in <em>C. elegans</em>, out of 88,000 chemicals tested, 115 compounds statistically increased lifespan, or about 0.1%.[6]  Another screen, from the Lithgow Lab at the Buck institute, found 57 replicable hits for longevity in _C. elegans _out of a drug screen of 30,000 drug-like compounds, or about 0.2%.[7]</p>
+
+<p>In the Petrascheck Lab’s more targeted screen, of a standard commercially available library (the LOPAC-1280) of 1280 compounds selected for mammalian bioactivity, 60 compounds, or 5%, statistically increased lifespan in <em>C. elegans</em>.[6]  In other words, when we restrict attention to chemicals that we know do _something _in mammals (many of which are FDA-approved drugs), quite a large fraction of them extend life in nematode worms.</p>
+
+<p>(Note that neither of these screens was done with automated lifespan-assessment platforms; so far, all invertebrate drug screens for longevity have been performed manually.)</p>
+
+<p>But, of course, extending life in a worm is no guarantee of extending life in other organisms. How likely is that? We have no exact measurement, but we do have the DrugAge database[8] of compounds that have been found to extend life in various species. 7% of the drugs listed as extending life in nematodes have also been found to extend life in mammals.  This is, in fact, an underestimate, since the majority of drugs tested in worms were likely never tested on mammals (given the high cost and relative rarity of mammalian lifespan experiments.)</p>
+
+<p>Combining these two figures, we can get a rough estimate of 0.35% probability that a compound with mammalian bioactivity, tested on nematodes, will extend life in mammals.  In other words, screening 6000 new drugs in worms will yield, in expectation, 300 hits for life extension, of which we expect 21 to also extend life in mice.</p>
+
+<p>Of course, in real life, we can’t do 300 separate mouse lifespan studies. What we can do is take those 300 primary hits in worms, and narrow them down to a more tractable set by doing more invertebrate studies – selecting for drugs with consistent effects across different worm strains and experimental conditions as in the CITP, selecting for drugs that also modify healthspan and other aging-related phenotypes, and running validation assays to select for drugs with biologically plausible mechanisms of action (such as altering transcription or activation of known aging-related pathways, or clearing senescent cells.)  Applying these more stringent filters, we could get a “top-15” list of candidate drugs worth testing in mammals. And even if (to be quite conservative) these secondary filters don’t allow us to improve _at all _on the 7% transferability rate at baseline, we’ll _still _expect that on average at least one of these drugs will extend life in mammals.</p>
+
+<h1 id="what-well-need"><strong>What We’ll Need</strong></h1>
+
+<p>Most importantly, we’ll need a small team of great <em>people</em>.</p>
+
+<ul>
+  <li>A biogerontologist, ideally specializing in invertebrate aging, to lead the research program</li>
+  <li>An additional junior scientist/technician, with demonstrated research interest in aging, to conduct experiments and procedures</li>
+  <li>A roboticist or hardware engineer with experience in laboratory automation, to build the apparatus for invertebrate screening and video monitoring</li>
+  <li>A machine learning engineer with experience with video/image data, ideally with demonstrated interest in biology, to build the software and models for scoring invertebrates on lifespan and healthspan, as well as monitoring/assessment of the automated screening platform itself.</li>
+  <li>A generalist lab manager to handle procurement, maintenance, and other lab operations.</li>
+</ul>
+
+<p>We’ll also need lab space, lab equipment, reagents and consumables, and materials/computational resources for building the automated screening platform.</p>
+
+<p>Preliminary cost estimates for one year of operation:</p>
+
+<table>
+  <tr>
+   <td>Labor (salaries, benefits, taxes, professional services)
+   </td>
+   <td>$1,200,000 USD
+   </td>
+  </tr>
+  <tr>
+   <td>Rent
+   </td>
+   <td>$500,000 USD
+   </td>
+  </tr>
+  <tr>
+   <td>Equipment and Utilities
+   </td>
+   <td>$150,000 USD
+   </td>
+  </tr>
+  <tr>
+   <td>Reagents (including an initial drug library of 6000 bioactive compounds)
+   </td>
+   <td>$90,000 USD
+   </td>
+  </tr>
+  <tr>
+   <td>Insurance
+   </td>
+   <td>$10,000 USD
+   </td>
+  </tr>
+  <tr>
+   <td>Total
+   </td>
+   <td>$2,000,000 USD
+   </td>
+  </tr>
+</table>
+
+<p>Scaling to an even larger range of compounds is likely going to be cost-effective, given that, with a mostly automated screening process, labor and rent costs will grow much more slowly than screening volume.</p>
+
+<p>In the next post, I’ll cover how mammalian lifespan experiments can be designed to _also _be much more efficient in time and cost scaling with the number of drug candidates.</p>
+
+<p><strong>References</strong></p>
+
+<p>[1]Lucanic, Mark, et al. “Impact of genetic background and experimental reproducibility on identifying chemical compounds with robust longevity effects.” <em>Nature communications</em> 8 (2017): 14256.</p>
+
+<p>[2]Stroustrup, Nicholas, et al. “The Caenorhabditis elegans lifespan machine.” <em>Nature methods</em> 10.7 (2013): 665.</p>
+
+<p>[3]Xian, Bo, et al. “WormFarm: a quantitative control and measurement device toward automated Caenorhabditis elegans aging analysis.” <em>Aging cell</em> 12.3 (2013): 398-409.</p>
+
+<p>[4]Churgin, Matthew A., et al. “Longitudinal imaging of Caenorhabditis elegans in a microfabricated device reveals variation in behavioral decline during aging.” <em>Elife</em> 6 (2017).</p>
+
+<p>[5]]<a href="http://wormbot.org/">http://wormbot.org/</a></p>
+
+<p>[6]Hu, Yuan-Ting, Jia-Bin Huang, and Alexander Schwing. “Maskrnn: Instance level video object segmentation.” <em>Advances in Neural Information Processing Systems</em>. 2017.</p>
+
+<p>[7]Petrascheck, Michael, Xiaolan Ye, and Linda B. Buck. “An antidepressant that extends lifespan in adult Caenorhabditis elegans.” <em>Nature</em> 450.7169 (2007): 553.</p>
+
+<p>[8]Barardo, Diogo, et al. “The DrugAge database of aging‐related drugs.” <em>Aging cell</em> 16.3 (2017): 594-597.</p>
+
+  </div><a class="u-url" href="/2018/12/14/high-throughput-invertebrate-drug-screens.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sarah Constantin</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sarah Constantin</li><li><a class="u-email" href="mailto:srconstantin@gmail.com">srconstantin@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/srconstantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">srconstantin</span></a></li><li><a href="https://www.twitter.com/s_r_constantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">s_r_constantin</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Trained in math and machine learning, currently trying to solve biological problems and make sense of our world.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
