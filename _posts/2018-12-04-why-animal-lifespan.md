@@ -1,4 +1,3 @@
-
 ---
 layout: tag_post
 title: Tradeoffs in Experimental Design: Why Animal Lifespan Studies?
