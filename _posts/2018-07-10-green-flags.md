@@ -1,8 +1,7 @@
-
 ---
 layout: tag_post
-title: "Green Flags" -- Heuristics for Biomedical Results
-tags: [science-and-information-assessment]
+title: "Green Flags -- Heuristics for Biomedical Results"
+tags: [science-and-epistemics]
 ---
 
 1. **Big effect sizes.**
