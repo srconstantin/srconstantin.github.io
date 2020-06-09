@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: tag_post
 title: High-Throughput Invertebrate Drug Screens
