@@ -4,7 +4,7 @@ title: Why Drugs that Work in Mice Don’t Work In Humans
 tags: [aging, lit-review]
 ---
 
-![mouse]({{ site.baseurl }}/images/mouse.png
+![mouse]({{ site.baseurl }}/images/mouse.png)
 
 
 
