@@ -1,6 +1,6 @@
 ---
 layout: tag_post
-title: Is Stupidity Strength? Part 4: Are VCs Stupid?
+title: Is Stupidity Strength? Part 4 -- Are VCs Stupid?
 tags: [social, econ]
 ---
 
