@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Cognition and Psychology"
+title: "Cognition & Psychology"
 tag: cog-psych
 ---

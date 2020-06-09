@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Science And Epistemics"
+title: "Science & Epistemics"
 tag: science-and-epistemics
 ---
 
