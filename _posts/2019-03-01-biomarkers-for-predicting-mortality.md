@@ -6,7 +6,8 @@ tags: [aging, lit-review]
 
 ![oldhands]({{ site.baseurl }}/images/oldhands.jpg)
 
-  <tr>
+<table>  
+ <tr>
    <td><strong>Biomarker</strong>
    </td>
    <td><strong>Adjusted HR for all-cause mortality</strong>
