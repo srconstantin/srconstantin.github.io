@@ -2,7 +2,7 @@
 ---
 layout: tag_post
 title: Tradeoffs in Experimental Design: Why Animal Lifespan Studies?
-tags: [aging, lit-review]
+tags: [aging]
 ---
 
 ![kaplanmeier]({{ site.baseurl }}/images/kaplanmeier.png)
