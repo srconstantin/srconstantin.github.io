@@ -1,0 +1,74 @@
+---
+layout: tag_post
+title: Personalized Medicine For Real
+tags: [medicine]
+---
+
+
+I was part of the founding team at MetaMed, a personalized medicine startup.  We went out of business back in 2015.  We made a lot of mistakes due to inexperience, some of which I deeply regret.
+
+I’m reflecting on that now, because [Perlara ](https://www.perlara.com/)just went out of business, and they got a lot farther on our original dream than we ever did. [Q-State Biosciences](https://www.qstatebio.com/), which is still around, is using a similar model.
+
+The phenomenon that inspired MetaMed is that we knew of stories of heroic, scientifically literate patients and families of patients with incurable diseases, who came up with cures for their _own _conditions.  Physicist Leo Szilard, the “father of the atom bomb”, [designed a course of radiation therapy](https://library.ucsd.edu/dc/object/bb75101231/_1.pdf) to cure his own bladder cancer.  Computer scientist Matt Might [analyzed his son’s genome](https://www.nytimes.com/2018/09/10/health/matthew-might-rare-diseases.html) to find a cure for his rare disorder.  Cognitive scientist [Joshua Tenenbaum](https://en.wikipedia.org/wiki/Joshua_Tenenbaum) found a personalized treatment for his father’s cancer.
+
+So, we thought, could we try to scale up this process to help more people?
+
+In Lois McMaster Bujold’s science fiction novels, the hero suffers an accident that leaves him with a seizure disorder. He goes to a medical research center and clinic, the Durona Group, and they design a neural prosthetic for him that prevents the seizures.
+
+This _sounds _like it ought to be a thing that exists. Patient-led, bench-to-bedside drug discovery or medical device engineering.  You get an incurable disease, you fund scientists/doctors/engineers to discover a cure, and now others with the disease can also be cured.
+
+There’s actually a growing community of organizations trying to do things sort of in this vein.  [Recursion Pharmaceuticals](https://www.recursionpharma.com/), where I used to work, does drug discovery for rare diseases. [Sv.ai](https://sv.ai/) organizes hackathons for analyzing genetic data to help patients with rare diseases find the root cause.  Perlara and Q-state use animal models and in-vitro models respectively to simulate patients’ disorders, and then look for drugs or gene therapies that reverse those disease phenotypes in the animals or cells.
+
+Back at MetaMed, I think we were groping towards something like this, but never really found our way there.
+
+One reason is that we didn’t narrow our focus enough.  We were trying to solve too many problems at once, all called “personalized medicine.”
+
+**Personalized Lifestyle Optimization**
+
+Some “personalized medicine” is about health optimization for basically healthy people. A lot of it amounts to superficial personalization on top of generic lifestyle advice. Harmless, but more of a marketing thing than a science thing, and not very interesting from a humanitarian perspective.  Sometimes, we tried to get clients from this market.  I pretty much always thought this was a bad idea.
+
+**Personalized Medicine For All**
+
+Some “personalized medicine” is about the claim that the best way to treat even _common _diseases often depends on individual factors, such as genes.
+
+This was part of our pitch, but as I learned more, I came to believe that this kind of “personalization” has very little applicability.  In most cases, we don’t know enough about how genes affect response to treatment to be able to improve outcomes by stratifying treatments based on genes.  In the few cases where we know people with different genes need different treatments, it’s often already standard medical practice to run those tests.  I now think there’s not a clear opportunity for a startup to improve the baseline through this kind of personalized medicine.
+
+**Preventing Medical Error**
+
+Some of our founding inspirations were the work of Gerd Gigerenzer and Atul Gawande, who showed that medical errors were the cause of many deaths, that doctors tend to be statistically illiterate, and that systematizing tools like checklists and statistical prediction rules save lives.  We wanted to be part of the “evidence-based medicine” movement by helping patients whose doctors had failed them.
+
+I now think that we weren’t really in a position to do that as a company that sold consultations to individual patients. Many of the improvements in systematization that were clearly “good buys” have, in fact, been implemented in hospitals since Gawande and Gigerenzer first wrote about them.  We never saw a clear-cut case of a patient whose doctors had “dropped the ball” by giving them an obviously wrong treatment, except where the patient was facing financial hardship and had to transfer to substandard medical care.  I think doctors don’t make true unforced errors in diagnosis or treatment plan that often; and medical errors like “operating on the wrong leg” that happen in fast-paced decisionmaking environments were necessarily outside our scope.  I think there _might_ be an opportunity to do a lot better than baseline by building a “smart hospital” that runs on checklists, statistical prediction rules, outcomes monitoring, and other evidence-based practices — [Intermountain](https://intermountainhealthcare.org/about/) is the closest thing I know about, and they _do _get great outcomes — but that’s an epically hard problem, it’s political as much as medical and technological, and we weren’t in a position to make any headway on it.
+
+**AI Diagnosis**
+
+We were _also _hoping to automate diagnosis and treatment planning in a personalized manner.  “Given your symptoms, demographics, and genetic & lab test data, and given published research on epidemiology and clinical experiments, what are the most likely candidate diagnoses for you, and what are the treatments most likely to be effective for you?”
+
+I used to be a big believer in the potential of this approach, but in the process of actually trying to build the AI, I ran into [obstacles which were fundamentally philosophical.](https://srconstantin.wordpress.com/2015/04/30/choice-of-ontology/) (No, it’s not “machines don’t have empathy” or anything like that.  It’s about the irreducible dependence on how you frame the problem, which makes “expert systems” dependent on an impractical, expensive amount of human labor up front.)
+
+**Connecting Patients with Experimental Therapies**
+
+Yet another “personalized medicine” problem we were trying to solve is the fact that patients with incurable diseases have a hard time learning about and getting access to experimental therapies, and could use a consultant who would guide them through the process and help get them into studies of new treatments.
+
+I still think this is a real and serious problem for patients, and potentially an opportunity for entrepreneurs.  (Either on the consulting model, or more on the software side, via creating tools for matching patients with clinical trials — since clinical trials _also _ struggle to recruit patients.)  In order to focus on this model, though, we’d have had to invest a lot more than we did into high-touch relationships with patients and building a network of clinician-researchers we could connect them with.
+
+**When Standard Practice Doesn’t Match Scientific Evidence**
+
+One kind of “medical error” we _did_ see on occasion was when the patient’s doctors are dutifully doing the treatment that’s “standard-of-care”, but the medical literature actually shows that the standard-of-care is _wrong_.
+
+There are cases where large, well-conducted studies clearly show that treatment A and treatment B have the same efficacy but B has worse side effects, and yet, “first-line treatment” is B for some reason.
+
+There are cases where there’s a _lot_ of evidence that “standard” cut-offs are in the wrong place. “Subclinical hypothyroidism” still benefits from supplemental thyroid hormone; higher-than-standard doses of allopurinol control gout better; “standard” light therapy for seasonal affective disorder doesn’t work as well as ultra-bright lights; etc.  [More Dakka.](https://thezvi.wordpress.com/2017/12/02/more-dakka/)
+
+There are also cases where a scientist found an intervention effective, and published a striking result, and maybe it was even publicized widely in places like the _New Yorker_ or _Wired,_ but somehow clinicians never picked it up.  The classic example is [Ramachandran’s mirror box experiment](https://thelastpsychiatrist.com/2009/05/ramachandrans_mirror.html) — it’s a famous experiment that showed that phantom limb pain can be reversed by creating an illusion with mirrors that allows the patient to fix their “body map.” There have since been quite a few randomized trials confirming that the mirror trick works. But, maybe because it’s not a typical kind of “treatment” like a drug, it’s _not_ standard of care for phantom limb pain.
+
+I think we were pretty successful at finding these kinds of mismatches between medical science and medical practice.  By their nature, though, these kinds of solutions are hard to scale to reach lots of people.
+
+**N=1 Translational Medicine for Rare Diseases**
+
+This is the use case of “personalized medicine” that I think can really shine.  It harnesses the incredible motivation of patients with rare incurable diseases and their family members; it’s one of the few cases where genetic data really does make a huge difference; and the path to scale is (relatively) obvious if you discover a new drug or treatment.  I think we should have focused much more tightly on this angle, and that a company based on bench-to-bedside discovery for rare diseases could still _become_ the real-world “Durona Group”.
+
+I think doing it right at MetaMed would have meant getting a lot more in-house expertise in biology and medicine than we ever had, more like Perlara and Q-State, which have their own experimental research programs, something we never got off the ground.
+
+Speaking only about myself and not my teammates, while I was at MetaMed I was deeply _embarrassed _ to be a layman in the biomedical field, and I felt like “why would an expert ever want to work with a layman like me?” So I was far too reluctant to reach out to prominent biologists and doctors. I now know that _experts work with laymen all the time_, especially when that layman brings strategic vision, funding, and logistical/operational manpower, and listens to the expert with genuine curiosity.  Laymen are valuable — just ask [Mary Lasker!](https://en.wikipedia.org/wiki/Mary_Lasker)  I really wish I’d understood this at the time.
+
+People overestimate progress in the short run and underestimate it in the long run.  “Biohackers” and “citizen science” and “N=1 experimentation” have been around for a while, but they haven’t, I think, gotten very far along towards the ultimate impact they’re likely to have in the future.  Naively, that can look a lot like “a few people tried that and it didn’t seem to go anywhere” when the situation is actually “the big break is still ahead of us.”
