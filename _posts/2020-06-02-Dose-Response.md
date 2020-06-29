@@ -18,19 +18,19 @@ If high dose exposures are worse than low-dose exposures, then:
 
 *   We should consider people who spend a lot of time with infected people, like healthcare workers and family members of COVID-19 patients, to be more at risk than people who get briefly exposed to the virus
     *   Reopening lower-risk public spaces (like outdoor cafes or parks) may be low-risk compared to reopening spaces that involve a lot of close contact (like gyms and nightclubs)
-    *   We should prioritize PPE even _more _for people who regularly interact with COVID-19 patients
+    *   We should prioritize PPE even _more_ for people who regularly interact with COVID-19 patients
 *   Low dose exposure to SARS-CoV-2 may produce immunity without producing serious illness.
     *   If low dose exposure is safe and produces immunity, it may be good for people and available faster than a vaccine can be manufactured and approved.
 
 **Bottom Lines**
 
-People who have higher respiratory _viral loads _are significantly more likely to have severe COVID-19; the same pattern held in both the SARS and MERS coronavirus epidemics.  More virus in the body does tend to correspond to more severe disease.
+People who have higher respiratory _viral loads_ are significantly more likely to have severe COVID-19; the same pattern held in both the SARS and MERS coronavirus epidemics.  More virus in the body does tend to correspond to more severe disease.
 
-There’s far less data about how different forms of _exposure _correlate to disease severity, but there are a few studies pointing towards a greater chance of severe COVID-19 from household contacts than from travel, and one study indicates that mask usage increases the probability that a SARS case will be asymptomatic.  These constitute weak evidence that larger doses of exposure to human coronaviruses cause more severe disease.
+There’s far less data about how different forms of _exposure_ correlate to disease severity, but there are a few studies pointing towards a greater chance of severe COVID-19 from household contacts than from travel, and one study indicates that mask usage increases the probability that a SARS case will be asymptomatic.  These constitute weak evidence that larger doses of exposure to human coronaviruses cause more severe disease.
 
 When human volunteers are experimentally exposed to viruses, some viruses cause more severe symptoms at higher doses, while some viruses don’t.  None of the relevant studies were on coronaviruses, however.
 
-In _animal _experimental exposures to virus, higher doses consistently cause more severe symptoms, including in experiments on the coronaviruses SARS, MERS, and PEDV.
+In _animal_ experimental exposures to virus, higher doses consistently cause more severe symptoms, including in experiments on the coronaviruses SARS, MERS, and PEDV.
 
 The available evidence is highly incomplete, but tends towards the conclusion that lower dose exposure to COVID-19 should result in less severe disease.
 
@@ -245,7 +245,7 @@ However we do have two Chinese studies indicating that severe cases of COVID-19 
 
 **Viral Load in Other Human Coronaviruses**
 
-_SARS _
+_SARS_
 
 In 75 SARS patients, there was no difference in the rate of positive viral RNA samples at diagnosis between patients who later developed ARDS and those who did not.[16]
 
@@ -337,7 +337,7 @@ _EEV_
 
 Eastern Equine Encephalitis Virus is lethal in high doses in macaques (6/6 animals died) but less severe in low-dose exposure (2/6 animals died and clinical scores were lower). [39]
 
-_Herpes _
+_Herpes_
 
 Serial dilutions of the baboon herpesvirus HPV2 inoculated into mice showed a dose-response curve with higher doses resulting in higher rates of infection, CNS symptoms, and death.[40]
 
@@ -371,7 +371,7 @@ Low-dose challenge with SIV successfully produced “silent infection” (no sym
 
 Dose-response relationships between virus inoculum and infection rate or death seem to be common in animal studies, and consistently, including in coronaviruses, higher doses cause more severe symptoms.
 
-However, in at least one case (SIV) a dose of virus that was low enough to produce asymptomatic infection did _not _produce immunity to future exposures, so we can’t assume that low-dose exposure always brings immunity.
+However, in at least one case (SIV) a dose of virus that was low enough to produce asymptomatic infection did _not_ produce immunity to future exposures, so we can’t assume that low-dose exposure always brings immunity.
 
 **References**
 
