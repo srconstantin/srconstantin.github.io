@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Using Bullet Points to Improve Arguments
-tags: [social, meta, cog-psych]
+tags: [social, blog-meta, cog-psych]
 ---
 
 Bullet points may not be elegant prose style, but I think they're helpful for making disagreements productive.  I learned this technique from [Paul Christiano](https://paulfchristiano.com/) and I hope it catches on further.
