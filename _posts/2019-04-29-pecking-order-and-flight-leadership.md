@@ -5,7 +5,6 @@ tags: [social]
 ---
 
 
-
 The [pecking order](https://en.wikipedia.org/wiki/Pecking_order), for instance in birds, is literally the ranking of who gets to eat first when food is scarce.
 
 We can also call it a “dominance hierarchy”, but the words “dominance” and “hierarchy” call up associations with _human_ governance systems like aristocracy and monarchy, where the king or chief is _both _ the decisionmaker for the group _ and _ the person entitled to the most abundant resources.
