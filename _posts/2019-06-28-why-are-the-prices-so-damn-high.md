@@ -1,7 +1,7 @@
 ---
 layout: tag_post
 title: Book Review -- Why Are The Prices So Damn High?
-tags: [econ]
+tags: [econ, book-review]
 ---
 
 
