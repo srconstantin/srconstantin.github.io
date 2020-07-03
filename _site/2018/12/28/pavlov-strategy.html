@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>The Pavlov Strategy | Sarah Constantin</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="The Pavlov Strategy" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Epistemic Status: Common knowledge, just not to me" />
+<meta property="og:description" content="Epistemic Status: Common knowledge, just not to me" />
+<link rel="canonical" href="https://srconstantin.github.io/2018/12/28/pavlov-strategy.html" />
+<meta property="og:url" content="https://srconstantin.github.io/2018/12/28/pavlov-strategy.html" />
+<meta property="og:site_name" content="Sarah Constantin" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-12-28T00:00:00-08:00" />
+<script type="application/ld+json">
+{"description":"Epistemic Status: Common knowledge, just not to me","@type":"BlogPosting","url":"https://srconstantin.github.io/2018/12/28/pavlov-strategy.html","headline":"The Pavlov Strategy","dateModified":"2018-12-28T00:00:00-08:00","datePublished":"2018-12-28T00:00:00-08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://srconstantin.github.io/2018/12/28/pavlov-strategy.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://srconstantin.github.io/feed.xml" title="Sarah Constantin" />
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
+<link rel="alternate" type="application/atom+xml" title="Sarah Constantin's Blog" href="/feed.xml">
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Sarah Constantin</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/tag/aging.html">Aging</a><a class="page-link" href="/tag/blog-meta.html">Blog Meta</a><a class="page-link" href="/tag/book-review.html">Book Reviews</a><a class="page-link" href="/tag/cog-psych.html">Cognition &amp; Psychology</a><a class="page-link" href="/tag/covid-19.html">COVID-19</a><a class="page-link" href="/tag/econ.html">Economics</a><a class="page-link" href="/tag/game-theory.html">Game Theory</a><a class="page-link" href="/tag/lit-review.html">Literature Review</a><a class="page-link" href="/tag/machine-learning.html">Machine Learning</a><a class="page-link" href="/tag/medicine.html">Medicine</a><a class="page-link" href="/tag/science-and-epistemics.html">Science &amp; Epistemics</a><a class="page-link" href="/tag/social.html">Social Dynamics</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">The Pavlov Strategy</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-12-28T00:00:00-08:00" itemprop="datePublished">Dec 28, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    
+<ul class="tags">
+  
+  <li>
+    <a href="/tag/game-theory"></a>
+  </li>
+</ul><br>
+
+
+<article>
+  <p><em>Epistemic Status: Common knowledge, just not to me</em></p>
+
+<p><a href="https://ncase.me/trust/">The Evolution of Trust</a> is a deceptively friendly little interactive game.  Near the end, there’s a “sandbox” evolutionary game theory simulator. It’s pretty flexible. You can do quick experiments in it without writing code. I highly recommend playing around.</p>
+
+<p>One of the things that surprised me was a strategy the game calls Simpleton, also known in the literature as Pavlov.  In certain conditions, it works pretty well — even better than tit-for-tat or tit-for-tat with forgiveness.</p>
+
+<p>Let’s set the framework first. You have a Prisoner’s dilemma type game.</p>
+
+<ul>
+  <li>If both parties cooperate, they each get +2 points.</li>
+  <li>If one cooperates and the other defects, the defector gets +3 points and the cooperator gets -1 point</li>
+  <li>If both defect, both get 0 points.</li>
+</ul>
+
+<p>This game is _iterated _— you’re randomly assigned to a partner and you play many rounds.   Longer rounds reward more cooperative strategies; shorter rounds reward more defection.</p>
+
+<p>It’s also _evolutionary _— you have a proportion of bots each playing their strategies, and after each round, the bots with the most points replicate and the bots with the least points die out.  Successful strategies will tend to reproduce while unsuccessful ones die out.  In other words, this is the <a href="https://thezvi.wordpress.com/2017/11/15/the-darwin-game/">Darwin Game.</a></p>
+
+<p>Finally, it’s <em>stochastic</em> — there’s a small probability that any bot will make a mistake and cooperate or defect at random.</p>
+
+<p>Now, how does Pavlov work?</p>
+
+<p>Pavlov starts off cooperating.  If the other player cooperates with Pavlov, Pavlov keeps doing whatever it’s doing, even if it was a mistake; if the other player defects, Pavlov switches its behavior, even if it was a mistake.</p>
+
+<p>In other words, Pavlov:</p>
+
+<ul>
+  <li>cooperates when you cooperate with it, except by mistake</li>
+  <li>“pushes boundaries” and keeps defecting when you cooperate, until you retaliate</li>
+  <li>“concedes when punished” and cooperates after a defect/defect result</li>
+  <li>“retaliates against unprovoked aggression”, defecting if you defect on it while it cooperates.</li>
+</ul>
+
+<p>If there’s any randomness, Pavlov is better at cooperating with itself than Tit-For-Tat. One accidental defection and two Tit-For-Tats are stuck in an eternal defect cycle, while Pavlov’s forgive each other and wind up back in a cooperate/cooperate pattern.</p>
+
+<p>Moreover, Pavlov can exploit CooperateBot (if it defects by accident, it will keep greedily defecting against the hapless CooperateBot, while Tit-For-Tat will not) but still exerts _some _pressure against DefectBot (defecting against it half the time, compared to Tit-For-Tat’s consistent defection.)</p>
+
+<p>The interesting thing is that Pavlov can beat Tit-For-Tat _or _Tit-for-Tat-with-Forgiveness in a wide variety of scenarios.</p>
+
+<p>If there are only Pavlov and Tit-For-Tat bots, Tit-For-Tat has to start out outnumbering Pavlov quite significantly in order to win. The same is true for a population of Pavlov and Tit-For-Tat-With-Forgiveness.  It doesn’t change if we add in some Cooperators or Defectors either.</p>
+
+<p>Why?</p>
+
+<p>Compared to Tit-For-Tat, Pavlov cooperates better with itself.  If two Tit-For-Tat bots are paired, and one of them accidentally defects, they’ll be stuck in a mutual defection equilibrium.  However, if one Pavlov bot accidentally defects against its clone, we’ll see</p>
+
+<p>C/D -&gt; D/D -&gt; C-&gt;C</p>
+
+<p>which recovers a mutual-cooperation equilibrium and picks up more points.</p>
+
+<p>Compared to Tit-For-Tat-With-Forgiveness, Pavlov cooperates <em>worse</em> with itself (it takes longer to recover from mistakes) but it “exploits” TFTWF’s patience better. If Pavlov accidentally defects against TFTWF, the result is</p>
+
+<p>D/C -&gt; D/C -&gt; D/D -&gt; C/D -&gt; D/D -&gt; C/C,</p>
+
+<p>which leaves Pavlov with a net gain of 1 point per turn, (over the first five turns before a cooperative equilibrium) compared to TFTWF’s 1/5 point per turn.</p>
+
+<p>If TFTWF accidentally defects against Pavlov, the result is</p>
+
+<p>C/D -&gt; D/C -&gt; D/C -&gt; D/D -&gt; C/D</p>
+
+<p>which cycles eternally (until the next mistake), getting Pavlov an average of 5/4 points per turn, compared to TFTWF’s 1 point per turn.</p>
+
+<p>Either way, Pavlov eventually overtakes TFTWF.</p>
+
+<p>If you add enough DefectBots to a mix of Pavlovs and TFT’s (and it has to be a large majority of the total population being DefectBots) TFT can win, because it’s more resistant against DefectBots than Pavlov is.  Pavlov cooperates with DefectBots half the time; TFT never does except by mistake.</p>
+
+<p>Pavlov isn’t perfect, but it performs well enough to hold its own in a variety of circumstances.  An adapted version of Pavlov won the <a href="https://bib.irb.hr/datoteka/583494.1818-A-Review-of-Iterated-Prisoner-s-Dilemma-Strategies-v1_2.pdf">2005 iterated game theory tournament</a>.</p>
+
+<p>Why, then, don’t we actually talk about it, the way we talk about Tit-For-Tat?  If it’s true that moral maxims like the Golden Rule emerge out of the fact that Tit-For-Tat is an effective strategy, why aren’t there moral maxims that exemplify the Pavlov strategy?  Why haven’t I even _heard _of Pavlov until now, despite having taken a game theory course once, when _everybody _has heard of Tit-For-Tat and has an intuitive feeling for how it works?</p>
+
+<p>In Wedekind and Milinski’s 1996 <a href="https://www.pnas.org/content/pnas/93/7/2686.full.pdf">experiment</a> with human subjects, playing an iterated prisoner’s dilemma game, a full 70% of them engaged in Pavlov-like strategies.  The human Pavlovians were smarter than a pure Pavlov strategy — they eventually recognized the DefectBots and stopped cooperating with them, while a pure-Pavlov strategy never would — but, just like Pavlov, the humans kept “pushing boundaries” when unopposed.</p>
+
+<p>Moreover, humans basically divided themselves into Pavlovians and Tit-For-Tat-ers; they didn’t switch strategies between game conditions where one strategy or another was superior, but just played the same way each time.</p>
+
+<p>In other words, it seems fairly likely not only that Pavlov performs well in computer simulations, but that humans _do _have some intuitive model of Pavlov.  And, even more suggestively, it might be that “there are two kinds of people” — some people always play Pavlov while others always play Tit-For-Tat.</p>
+
+<p>Human players are <a href="https://www.pnas.org/content/pnas/95/23/13755.full.pdf">more likely</a> to use generous Tit-For-Tat strategies rather than Pavlov when they have to play a working-memory game at the same time as they’re playing iterated Prisoner’s Dilemma.  In other words, Pavlov is probably more costly in working memory than generous Tit for Tat.</p>
+
+<p>If you look at all 16 theoretically possible strategies that only have memory of the previous round, and let them evolve, evolutionary dynamics can wind up quite <a href="https://www.pnas.org/content/pnas/90/11/5091.full.pdf">complex and oscillatory.</a></p>
+
+<p>A population of TFT players will be invaded by more “forgiving” strategies like Pavlov, who in turn can be invaded by DefectBot and other uncooperative strategies, which again can be invaded by TFT, which thrives in high-defection environments.  If you track the overall rate of cooperation over time, you get very regular oscillations, though these are quite sensitive to variation in the error and mutation rates and nonperiodic (chaotic) behavior can occur in some regimes.</p>
+
+<p>This is strangely reminiscent of Peter Turchin’s theory of <a href="http://peterturchin.com/secular-cycles/">secular cycles</a> in history.  Periods of peace and prosperity alternate with periods of conflict and poverty; empires rise and fall.  Periods of low cooperation happen at the fall of an empire/state/civilization; this enables new empires to rise when a subgroup has better ability to <a href="http://peterturchin.com/cliodynamica/the-dune-hypothesis/">cooperate with itself and fight off its enemies</a> than the surrounding warring peoples; but in peacetime, at the height of an empire, more forgiving and exploitative strategies like Pavlov can emerge, which themselves are vulnerable to the barbaric defectors.  This is a vastly simplified story compared to the actual mathematical dynamics _or _the actual history, of course, but it’s an illustrative gist.</p>
+
+<p>The big takeaway from learning about evolutionary game theory is that it’s genuinely complicated from a <a href="https://srconstantin.wordpress.com/2018/12/14/player-vs-character-a-two-level-model-of-ethics/">player-perspective.</a></p>
+
+<p>“It’s complicated” sometimes functions as a curiosity-stopper; you conclude “more research is needed” instead of looking at the data you have and drawing preliminary conclusions, if you want to protect your intellectual “territory” without putting yourself out of a job.</p>
+
+<p>That isn’t the kind of “complexity” I’m talking about here.  Chaos in dynamical systems has a specific meaning: the system is so sensitive to initial conditions that even a small measurement error in determining where it starts means you cannot even approximately predict where it will end up.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Chaos_theory">“Chaos: When the present determines the future, but the approximate present does not approximately determine the future.”</a></p>
+
+<p>Optimal strategy depends sensitively on who else is in the population, how many errors you make, and how likely strategies are to change (or enter or leave).  There are a lot of moving parts here.</p>
+
+</article>
+
+
+  </div><a class="u-url" href="/2018/12/28/pavlov-strategy.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sarah Constantin</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sarah Constantin</li><li><a class="u-email" href="mailto:srconstantin@gmail.com">srconstantin@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/srconstantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">srconstantin</span></a></li><li><a href="https://www.twitter.com/s_r_constantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">s_r_constantin</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Trained in math and machine learning, currently trying to solve biological problems and make sense of our world.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
