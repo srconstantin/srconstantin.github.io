@@ -1,0 +1,41 @@
+---
+layout: tag_post
+title: There Is No Secret Notebook
+tags: [cog-psych]
+---
+
+Once, a friend of mine asked me to help out on his organization’s project. I didn’t feel qualified; I had read everything they’d published, but I assumed that all the things I was uncertain about were solved and written up somewhere in a “secret notebook” by people much smarter than I. My friend laughed and said “that’s what _I _used to think!  I assumed everything had already been written up in a secret notebook! and then I joined the project and found out that there _is no secret notebook_.  We’re all just figuring it out as we go.”
+
+There seems to be a phenomenon here of a _sense that a thing is known_.
+
+Known by whom? Unclear. Known by _smarter people than you_.
+
+But because it is known, it is not your job to deal with, and probably a waste of time for you to try to _personally _find out the answer.
+
+This is a failure mode when, for instance, everybody in a group thinks somebody else is responsible for a task (surely _it is known, _surely_ it is being taken care of_) and then nobody does it.
+
+It’s also a failure mode that leads people to underestimate their capacity to contribute.
+
+“Surely this simple question must already have been answered, right?”  Yeah, probably, you should check and see.  Your first move should be to consult StackExchange, Wikipedia, Google Scholar, a textbook, the smart guy at your office, etc.
+
+But if you try a bunch of avenues and don’t find the answer, and you still care, the mistake is to conclude (even subconsciously) that the answer is _intrinsically inaccessible_ to you.  “This is something that insiders know, and since I’m not an insider, nobody will ever tell me.”  “_Normal people_ get this intuitively, but I’m a weirdo and I just can’t understand.”
+
+The feeling is that the answer to your question belongs to people who have some essential quality that you forever lack. You look at yourself, with your slow and fragile reasoning power, and you feel like you’re counting on your fingers, and imagine that someone out there has a supercomputer.  (Or maybe that _everybody on Earth but you_ has a supercomputer.)
+
+This is an illusion. Everybody’s brain is made out of the same stuff, more or less. Sure, different people have different talents and levels of experience. But humans have _general intelligence_. Counting on your fingers, checking things to see if they match up to facts, going through arguments to see if they’re valid, trying things to see how they work — that’s how _everyone_ figures out what’s true. There aren’t people out there who have found a shortcut.
+
+If something is important to you, you can’t just defer it to “it is known.” You, personally, should try to find out. If it _does _happen to be known, out there somewhere, by someone whom you have no way of contacting, then it still doesn’t help _you._
+
+This isn’t to say that one person is capable of understanding everything on earth. It’s inevitable that the answer to some questions is going to be “I have no idea, and I’ll leave it at that.”  The failure mode is taking on faith that someone else has it covered. If there is no evidence of a “secret notebook”, then there probably isn’t one.
+
+There is probably nobody, for instance, with a secret plan to end global warming.  If I were really motivated to do so,  which I’m not, I’d look much more carefully to see who the players are, and what the most promising proposals are, and so on. But if, after a long and careful search, I could find nobody steering effectively, I wouldn’t imagine that there were, somewhere out of sight, never mentioned in the news, a cabal of wise men guiding Earth’s climate.  That would be a kind of “god of the gaps” fallacy.
+
+The assumption of “I don’t know, but _someone must_“, might be a habit learned in childhood. When you are a small child, you really _are_ a lot less experienced than everyone else, and it really does make sense to assume that the grownups know things that you don’t.
+
+But if you continue on into adulthood, and in particular if you continue to grow in expertise and achievement, and you keep running into situations where you feel like _someone should know this_ and you can’t find anybody who does —
+
+Maybe that’s because nobody actually knows.
+
+Maybe that’s because you’re more capable than you think.
+
+Maybe that’s because it’s _your_ job to figure out.
