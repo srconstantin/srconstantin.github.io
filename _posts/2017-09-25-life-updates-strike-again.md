@@ -1,0 +1,16 @@
+---
+layout: tag_post
+title: Life Updates Strike Again!
+tags: [personal]
+---
+
+
+So, I have again **changed jobs** — I am now working at [Starsky Robotics](http://starskyrobotics.com/) helping build self-driving trucks!
+
+I’m still interested in biotech, but there are a lot of interesting problems in autonomous vehicles that I’m excited to work on. Also, this job is in San Francisco, unlike my last job, and since I am **pregnant**, I’d like to work in the same state as my future kid.
+
+The great thing about California is that local laws allow freelancing, so I am once again **open for business**, to the extent that I have time.  If you have a question that could benefit from a personalized literature review, particularly in the biomedical sciences, I can do that, and you can contact me at **srconstantin@gmail.com.**
+
+Currently my main freelance research project is surveying current experimental avenues for life extension, in cooperation with an investor who’s interested in funding longevity research. I _love_ working on stuff like this, and will be updating this blog with progress.
+
+I’m also going to start seriously preparing to **get my cancer research book published**, which, I’m told, involves doing your own marketing. I’m going to be looking for opportunities to write shorter articles for magazines/blogs and otherwise get publicity, so if you know of any good venues, please let me know.
