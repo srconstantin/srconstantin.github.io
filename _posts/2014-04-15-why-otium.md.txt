@@ -1,0 +1,23 @@
+---
+layout: tag_post
+title: Why Otium?
+tags: [blog-meta]
+---
+
+One of my more controversial beliefs is that speculative thinking is valuable.
+
+This goes against the grain of the ideal that scientists and other professionals should be specialists.  As a mathematician, so says the “specialist ethos”, I should make careful and precise statements about my field of mathematics, and remain deliberately agnostic about everything else.  Over time, I can become an authority in my field, and my statements will be an expert’s judgments; until then, what I think is just “opinion”, and opinions are basically worthless.  Every newspaper reader has an opinion; the Internet is full of idiots with opinions; if you want a real answer, ask an expert.
+
+The “specialist ethos” is, I believe, overly authoritarian and harmful to free inquiry.  Sure, uninformed opinions are less reliable, and it’s valuable to be aware when you don’t know what you’re talking about.  But intellectuals often can make valid contributions to fields outside their own.  And discussion about speculative, early-stage ideas is critical to the development of new paradigms, scientific fields, and technologies.  Speculation is looser and more uncertain than proof or experiment, but if we don’t do it, we calcify.
+
+The alternative to a specialist ethos is a philosophical ethos.  The classical world valued _otium_, literally meaning leisure, but with a connotation of intellectual contemplation outside of the constraints of public life.  Seneca [writes](http://artsonline.monash.edu.au/colloquy/download/colloquy_issue_twenty-three/seneca.pdf) of curiosity for its own sake, and the virtue of the contemplative life as an occasion for exploration and leaving knowledge for posterity.
+
+For most of Western history, the intellectual was not a specialist but a philosopher.  Speculative inquiry was considered a virtue.  And the practice of philosophy was considered incompatible with participation in public life; the Stoics believed that one should balance the active with the contemplative, but believed that a “commonwealth” would inevitably persecute a genuine philosopher as Athens persecuted Socrates. To do philosophy, you would have to retire, for some time, to a private estate, away from the pressures of politics and business.
+
+And so, to blogging. A WordPress site isn’t a villa (unfortunately), and I’m not a Roman philosopher.  But a place for speculative thinking and discussion, apart from professional competition, remains valuable.
+
+When I write here, I’ll write as a human being thinking about things, not as a professional.  It’ll be filtered through the lens of my education, which means there will be some math, at varying levels of technicality, but there’ll also be a lot of hand-waving, rough ideas, metaphors, and wild guesses.  I’ll be wrong sometimes.  I’ll facepalm at my own mistakes.  I’ll talk about things like biology and business, where I’m a novice, and about things like how thinking works, where in some sense everyone’s an amateur.  And maybe this is an unusual practice, but I think of it as the _basic way that a free, complete, thinking human being goes through life._
+
+Happy reading!
+
+ 
