@@ -1,0 +1,227 @@
+---
+layout: tag_post
+title: Response To Criticism On My EA Post
+tags: [philanthropy, social]
+---
+
+My previous post, [“EA Has A Lying Problem”](https://srconstantin.wordpress.com/2017/01/11/ea-has-a-lying-problem/), received a lot of criticism, and I’d like to address some of it here.
+
+I was very impressed by what I learned about EA discourse norms from preparing this post and responding to comments on it. I’m appreciating anew that this is a community where people really _do the thing_ of responding directly to arguments, updating on evidence, and continuing to practice discourse instead of collapsing into verbal fights.  I’m going to try to follow that norm in this post.
+
+Structurally, what I did in my previous post was
+
+
+
+*   quote some EAs making comments on forums and Facebook
+*   interpret what I think is the attitude behind those quotes
+*   claim that the quotes show a pervasive problem in which the EA community doesn’t value honesty enough.
+
+There are three possible points of failure to this argument:
+
+
+
+*   The quotes don’t mean what I took them to mean
+*   The views I claimed EAs hold are not actually bad
+*   The quotes aren’t evidence of a broader problem in EA.
+
+There’s also a possible prudential issue: that I may have, indeed, called attention to a real problem, but that my tone was too extreme or my language too sloppy, and that this is harmful.
+
+I’m going to address each of these possibilities separately.
+
+**Possibility 1: The quotes don’t mean what I took them to mean**
+
+_Case 1: Ben Todd’s Quotes on Criticism_
+
+I described Ben Todd as asking people to consult with EA orgs before criticizing them, and as heavily implying that it’s more useful for orgs to prioritize growth over engaging with the kind of highly critical people who are frequent commenters on EA debates.
+
+I went on to claim that this underlying attitude is going to favor growth over course correction, and prioritize “movement-building” by gaining appeal among _uncritical _EA fans, while ignoring real concerns.
+
+I said,
+
+
+    _Essentially, this maps to a policy of “let’s not worry over-much about internally critiquing whether we’re going in the right direction; let’s just try to scale up, get a bunch of people to sign on with us, move more money, grow our influence.”  An uncharitable way of reading this is “c’mon, guys, our marketing doesn’t have to satisfy you, it’s for the marks!”  _
+
+This is a pretty large extrapolation from Todd’s actual comments, and I think I was putting words in his mouth that are much more extreme than anything he’d agree with. The quotes I pulled didn’t come close to proving that Todd actually _wants _to ignore criticism and pander to an uncritical audience.  It was wrong of me to give the impression that he’s deliberately pursuing a nefarious strategy.
+
+And in the comments, he makes it clear that this wasn’t his intent and that he’s actually made a point of engaging with criticism:
+
+
+    _Hi Sarah,_
+
+
+    _The 80,000 Hours career guide says what we think. That’s true even when it comes to issues that could make us look bad, such as our belief in the importance of the risks from artificial intelligence, or when are issues could be offputtingly complex, such as giving now vs. giving later and the pros and cons of earning to give. This is the main way we engage with users, and it’s honest._
+
+
+    _As an organisation, we welcome criticism, and we post detailed updates on our progress, including our mistakes:_
+
+
+    _[https://80000hours.org/about/credibility/evaluations/](https://80000hours.org/about/credibility/evaluations/)_
+
+
+    _[https://80000hours.org/about/credibility/evaluations/mistakes/](https://80000hours.org/about/credibility/evaluations/mistakes/)_
+
+
+    _I regret that my comments might have had the effect of discouraging important criticism._
+
+
+    _My point was that public criticism has costs, which need to be weighed against the benefits of the criticism (whether or not you’re an act utilitarian). In extreme cases, organisations have been destroyed by memorable criticism that turned out to be false or unfounded. These costs, however, can often be mitigated with things like talking to the organisation first – this isn’t to seek permission, but to do things like check whether they’ve already written something on the topic, and whether your understanding of the issues is correct. For instance, GiveWell runs their charity reviews past the charity before posting, but that doesn’t mean their reports are always to the charity’s liking. I’d prefer a movement where people bear these considerations in mind as well, but it seems like they’re often ignored._
+
+
+    _None of this is to deny that criticism is often extremely valuable._
+
+I think this is plainly enough to show that Ben Todd is not anti-criticism. I’m also impressed that 80,000 Hours has a “mistakes page” in which they describe past failures (which is an unusual and especially praiseworthy sign of transparency in an organization.)
+
+Todd _did_, in his reply to my post, reiterate that he thinks criticism should face a high burden of proof because “organisations have been destroyed by memorable criticism that turned out to be false or unfounded.” I’m not sure this is a good policy; Ben Hoffman articulates some problems with it [here.](http://benjaminrosshoffman.com/honesty-and-perjury/)
+
+But I was wrong to conflate this with an across-the-board opposition to criticism.  It’s probably fairer to say that Todd opposes _adversarial _criticism and prefers cooperative or friendly criticism (for example, he thinks critics should privately ask organizations to change their policies rather than publicly lambasting them for having bad policies.)
+
+I still think this is a mistake on his part, but when I framed it as “EA Leader says criticizing EA orgs is harmful to the movement”, I was exaggerating for effect, and I probably shouldn’t have done that.
+
+_Case 2: Robert Wiblin on Promises_
+
+I quoted Robert Wiblin on his interpretation of the Giving What We Can pledge, and interpreted Wiblin’s words to mean that he doesn’t think the pledge is morally binding.
+
+I think this is pretty clear-cut and I interpreted Wiblin correctly.
+
+The context there was that Alyssa Vance, in the original post, had said that many people might rationally choose not to take the pledge because unforeseen financial circumstances might make it inadvisable in future. She said that Wiblin had previously claimed that this was _not _a problem, because he didn’t view the pledge as binding on his future self:
+
+
+    _“pledge taker Rob Wiblin said that, if he changed his mind about donating 10% every year being the best choice, he would simply un-take the pledge.”  _
+
+Wiblin doesn’t think that “maybe I won’t be able to afford to give 10% of my income in future” is a good enough reason for people to choose not to pledge 10% of their lifetime income, because if they ever did become poor, they could just stop giving.
+
+Some commenters claimed that Wiblin doesn’t have a cavalier attitude towards promises, he just thinks that in extreme cases it’s okay to break them.  In the Jewish ritual law, it’s permissible to break a commandment if it’s necessary to save a human life, but that doesn’t mean that the overall attitude to the commandments is casual.
+
+However, I think it _does _imply a cavalier attitude towards promises to say that you _shouldn’t hesitate to make them on the grounds that you might not want to keep them_.  If you don’t think, before making a lifelong pledge, that people should think “hmm, am I prepared to make this big a commitment?” and in some cases answer “no”, then you clearly don’t think that the pledge is a particularly strong commitment.
+
+_Case 3: Robert Wiblin on Autism_
+
+Does Robert Wiblin actually mean it as a pejorative when he speculates that maybe the reason some people are especially hesitant to commit to the GWWC pledge is that they’re on the autism spectrum?
+
+Some people (including the person he said it to, who is autistic), didn’t take it as a negative.  And, in principle, if we aren’t biased against disabled people, “autistic” should be a neutral descriptive word, not a pejorative.
+
+But we do live in a society where people throw around “autistic” as an insult to refer to anybody who supposedly has poor social skills, so in context, Wiblin’s comment does have a pejorative connotation.
+
+Moreover, Wiblin was using the accusation of autism as a reason to dismiss the concerns of people who are especially serious about keeping promises. It’s equivalent to saying “your beliefs are the result of a medical condition, so I don’t have to take them seriously.”  He’s _medicalizing _the beliefs of those who disagree with him.  Even if his opponents _are _autistic, if he respected them, he’d take their disagreement seriously.
+
+_Case 4: Jacy Reese on Evidence from Intuition_
+
+I quoted Jacy Reese responding to criticism about his cost-effectiveness estimates by saying that the evidence base in favor of leafleting includes _his intuition_ and _studies that are better described as “evidence against the effectiveness of leafleting.”_
+
+His, and ACE’s, defense of the leafleting studies as merely “weak evidence” for leafleting, is a matter of public record in many places. He definitely believes this.
+
+Does he really think that his intuition is evidence, or did he just use ambiguous wording? I don’t know, and I’d be willing to concede that this isn’t a big deal.
+
+**Possibility 2: The views I accused EAs of holding are not actually bad.**
+
+_Case 1: Dishonesty for the greater good might sometimes be worthwhile_.
+
+A number of people in the comments to my previous post are making the argument that I need to weigh the harms of dishonest or misleading information against its benefits.
+
+First of all, the fact that people are making these arguments at least partly belies the notion that all EAs oppose lying across the board; I’ll say more about the prevalence of these views in the community in the next section.
+
+Holly Elmore:
+
+
+    _What if, for the sake of argument, it *was* better to persuade easy marks to take the pledge and give life-saving donations than to persuade fewer people more gently and (as she perceives it) respectfully? How many lives is extra respect worth? She’s acting like this isn’t even an argument._
+
+
+    _…_
+
+
+    _This is a more general problem I’ve had with Sarah’s writing and medical ethics in general– the fixation on meticulously informed consent as if it’s the paramount moral issue._
+
+Gleb Tsipursky:
+
+
+    _If you do not lie, that’s fine, but don’t pretend that you care about doing the most good, please. Just don’t. You care about being as transparent and honest as possible over doing the most good._
+
+I’m including Gleb here, even though he’s been kicked out of the EA community, because he is saying the same things as Holly Elmore, who is a respected member of the community.  There may be more EAs out there sharing the same views.
+
+So, cards on the table: I am not an act-utilitarian. I am a eudaimonistic virtue ethicist. What that means is that I believe:
+
+
+
+*   The point of behaving ethically is to have a better life for yourself.
+*   Dishonesty will predictably damage your life.
+*   If you find yourself tempted to be dishonest because it seems like a good idea, you should instead trust that the general principle of “be honest” is more reliable than your guess that lying is a good idea in this particular instance.
+
+(Does this apply to me and my lapses in honesty?  YOU BET.  Whenever it seems like a good idea at the time for me to deceive, I wind up suffering for it later.)
+
+I also believe consent is really important.
+
+I believe that giving money to charitable causes is a non-obligatory personal decision, while respecting consent to a high standard is not.
+
+Are these significant values differences with many EAs? Yes, they are.
+
+I wasn’t honest enough in my previous post about this, and I apologize for that. I should have owned my beliefs more candidly.
+
+I also exaggerated for effect in my previous post, and that was misleading, and I apologize for that. Furthermore, in the comments, I claimed that I _intended _to exaggerate for effect; that was an emotional outburst and isn’t what I really believe. I _don’t _endorse dishonesty “for a good cause”, and on occasions  when I’ve gotten upset and yielded to temptation, it has always turned out to be a bad idea that came back to bite me.
+
+I do think that even if you are a more conventional utilitarian, there are arguments in favor of being honest _always _and not just when the local benefits outweigh the costs.
+
+[Eliezer Yudkowsky](http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/) and [Paul Christiano](https://sideways-view.com/2016/11/14/integrity-for-consequentialists/) have written about why utilitarians should still have integrity.
+
+One way of looking at this is rule-utilitarianism: there are gains from being known to be reliably trustworthy.
+
+Another way of looking at this is the comment about “financial bubbles” I made in my previous post.  If utilitarians take their best guess about what action is the Most Good, and inflate public perceptions of its goodness so that more people will take that action, and encourage the public to further inflate perceptions of its goodness, then _errors in people’s judgments of the good will expand without bound_.  A highly popular bad idea will end up dominating most mindshare and charity dollars. However, if utilitarians critique each other’s best guesses about which actions do the most good, then bad ideas will get shot down quickly, to make room for good ones.
+
+_Case 2: It’s better to check in with EA orgs before criticizing them_
+
+Ben Todd, and some people in the comments, have argued that it’s better to run critical blog posts by EA orgs before making those criticisms public.  This rhymes a little with the traditional advice to admonish friends in private but praise them in public, in order to avoid causing them to lose face.  The idea seems to be that public criticism will be less accurate and also that it will draw negative attention to the movement.
+
+Now, some of the issues I criticized in my blog post have also been brought up by others, both publicly and privately, which is where I first heard about them. But I don’t agree with the basic premise in the first place.
+
+Journalists check quotes with sources, that’s true, and usually get quotes from the organizations they’re reporting on. But bloggers are not journalists, first of all.  A blog post is more like engaging in an extended conversation than reporting the news. Some of that conversation is _with _EA orgs and their leaders — this post, and the discussions it pulls from, are drawn from discussions about writings of various degrees of “officialness” coming from EA orgs.  I think the public record of discussion is enough of a “source” for this purpose; we know what was said, by whom, and when, and there’s no ambiguity about whether the comments were really made.
+
+What we _don’t _necessarily know without further discussion is what leaders of EA orgs _mean, _and what they say behind closed doors. It may be that their quotes don’t represent their intent.  I think this is the gist of what people saying “talk to the orgs in private” mean — if we talked to them, we’d understand that they’re already working on the problem, or that they don’t really have the problematic views they seem to have, etc.
+
+However, I think this is an unfair standard.  “Talk to us first to be sure you’re getting the real story” is extra work for both the blogger and the EA org (do you _really _have to check in with GWWC every time you discuss the pledge?)
+
+And it’s trying to massage the discussion away from sharp, adversarial critics. A journalist who got his stories about politics almost entirely from White House sources, and relied very heavily on his good relationship with the White House, would have a conflict of interest and would probably produce biased reporting. You don’t _want _all the discussion of EA to be coming from people who are cozy with EA orgs.  You don’t necessarily want all discussion to be influenced by “well, I talked to this EA leader, and I’m confident his heart’s in the right place.”
+
+There’s something valuable about having a conversation going on in public. It’s useful for transparency and it’s useful for common knowledge. EA orgs like GiveWell and 80K are unusually transparent already; they’re engaging in open dialogue with their readers and donors, rather than funneling all communication through a narrow, PR-focused information stream.  That’s a remarkable and commendable choice.
+
+But it’s also a risky one; because they’re talking a lot, they can incur reputational damage if they’re quoted unfavorably (as I did in my previous post).  So they’re asking us, the EA and EA-adjacent community, to do some work in guarding their reputation.
+
+I think this is not necessarily a fair thing to expect from everyone discussing an EA topic. Some people are skeptical of EA as a whole, and thus don’t have a reason to protect its reputation. Some people, like Alyssa in her post on the GWWC pledge, aren’t even accusing an org of doing anything wrong, just discussing a topic of interest to EAs like “who should and shouldn’t take the pledge?” She couldn’t reasonably have foreseen that this would be perceived as an attack on GWWC’s reputation.
+
+I think, if an EA org says or does something _in public _that people find problematic, they should expect to be criticized in public, and not necessarily get a chance to check over the criticism first.
+
+**Possibility 3: The quotes I pulled are not strong evidence of a big problem in EA.**
+
+I picked quotes that I and a few friends had noticed offhand as unusually bad.  So, obviously, it’s not the same thing as a survey of EA-wide attitudes.
+
+On the other hand, “picking egregious examples” is a perfectly fine way to suggest that there may be a broader trend. If you know that a few people in a Presidential administration have made racist remarks, for instance, it’s not out of line to suggest that the administration has a racism problem.
+
+So, I stand behind cherry-picked examples as a way to highlight trends, in the context of “something suspicious is going on here, maybe we should pay attention to it.”
+
+The fact that people are, in response to my post, defending the practice of lying for the greater good is also evidence that these aren’t entirely isolated cases.
+
+Of course, it’s possible that the quotes I picked _aren’t _egregiously bad, but I think I’ve covered my views on that in the previous two sections.
+
+I think that, given the Intentional Insights scandal, it’s reasonable to ask the question “was this just one guy, or is the EA community producing a climate that shelters bullshit artists?”  And I think there’s enough evidence to be suspicious that the latter is true.
+
+**Possibility 4: My point stands, but my tactics were bad**
+
+I did not handle this post like a pro.
+
+I used the title “EA Has a Lying Problem”, which is inflammatory, and also (worse, in my view), not quite the right word. None of the things I quoted were lies. They were defenses of dishonest behavior, or, in Ben Todd’s case, what I thought was a bias against transparency and open debate. I probably should have called it “dishonesty” rather than “lying.”
+
+In general, I think I was inflammatory in a careless rather than a pointed way. I do think it’s important to make bad things look bad, but I didn’t take care to avoid discrediting a vast swath of innocents, and that was wrong of me.
+
+Then, I got emotional in the comments section, and expressed an attitude of “I’m a bad person who does bad things on purpose”, which is rude, untrue, and not a good look on me.
+
+I definitely think these were mistakes on my part.
+
+It’s also been pointed out to me that I could have raised my criticisms privately, within EA orgs, rather than going public with a potentially reputation-damaging post (damaging to my own reputation or to the EA movement.)
+
+I don’t think that would have been a good idea in my case.
+
+When it comes to my own reputation, for better or for worse I’m a little reckless.  I don’t have a great deal of ability to consciously control how I’m perceived — things tend to slip out impulsively — so I try not to worry about it too much.  I’ll live with how I’m judged.
+
+When it comes to EA’s reputation, I think it’s possible I should have been more careful. Some of the organizations I’ve criticized have done really good work promoting causes I care about.  I should have thought of that, and perhaps worded my post in a way that produced less risk of scandal.
+
+On the other hand, I never had a close relationship with any EA orgs, and I don’t think internal critique would have been a useful avenue for me.
+
+In general, I think I want to sanity-check my accusatory posts with more beta readers in future.  My blog is supposed to represent a pretty close match to my true beliefs, not just my more emotional impulses, and I should be more circumspect before posting stuff.

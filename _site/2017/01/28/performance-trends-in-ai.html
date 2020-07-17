@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Performance Trends in AI | Sarah Constantin</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Performance Trends in AI" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="**Edit To Add: **It’s been brought to my attention that I was wrong to claim that progress in image recognition is “slowing down”. As classification accuracy approaches 100%, obviously improvements in raw scores will be smaller, by necessity, since accuracy can’t exceed 100%. If you look at negative log error rates rather than raw accuracy scores, improvement in image recognition (as measured by performance on the ImageNet competition) is increasing roughly linearly over 2010-2016, with a discontinuity in 2012 with the introduction of deep learning algorithms." />
+<meta property="og:description" content="**Edit To Add: **It’s been brought to my attention that I was wrong to claim that progress in image recognition is “slowing down”. As classification accuracy approaches 100%, obviously improvements in raw scores will be smaller, by necessity, since accuracy can’t exceed 100%. If you look at negative log error rates rather than raw accuracy scores, improvement in image recognition (as measured by performance on the ImageNet competition) is increasing roughly linearly over 2010-2016, with a discontinuity in 2012 with the introduction of deep learning algorithms." />
+<link rel="canonical" href="https://srconstantin.github.io/2017/01/28/performance-trends-in-ai.html" />
+<meta property="og:url" content="https://srconstantin.github.io/2017/01/28/performance-trends-in-ai.html" />
+<meta property="og:site_name" content="Sarah Constantin" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-01-28T00:00:00-08:00" />
+<script type="application/ld+json">
+{"description":"**Edit To Add: **It’s been brought to my attention that I was wrong to claim that progress in image recognition is “slowing down”. As classification accuracy approaches 100%, obviously improvements in raw scores will be smaller, by necessity, since accuracy can’t exceed 100%. If you look at negative log error rates rather than raw accuracy scores, improvement in image recognition (as measured by performance on the ImageNet competition) is increasing roughly linearly over 2010-2016, with a discontinuity in 2012 with the introduction of deep learning algorithms.","@type":"BlogPosting","url":"https://srconstantin.github.io/2017/01/28/performance-trends-in-ai.html","headline":"Performance Trends in AI","dateModified":"2017-01-28T00:00:00-08:00","datePublished":"2017-01-28T00:00:00-08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://srconstantin.github.io/2017/01/28/performance-trends-in-ai.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://srconstantin.github.io/feed.xml" title="Sarah Constantin" />
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
+<link rel="alternate" type="application/atom+xml" title="Sarah Constantin's Blog" href="/feed.xml">
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Sarah Constantin</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/tag/aging.html">Aging</a><a class="page-link" href="/tag/blog-meta.html">Blog Meta</a><a class="page-link" href="/tag/book-review.html">Book Reviews</a><a class="page-link" href="/tag/business.html">Business</a><a class="page-link" href="/tag/cancer.html">Cancer</a><a class="page-link" href="/tag/cog-psych.html">Cognition &amp; Psychology</a><a class="page-link" href="/tag/covid-19.html">COVID-19</a><a class="page-link" href="/tag/econ.html">Economics</a><a class="page-link" href="/tag/game-theory.html">Game Theory</a><a class="page-link" href="/tag/lit-review.html">Literature Review</a><a class="page-link" href="/tag/machine-learning.html">Machine Learning</a><a class="page-link" href="/tag/medicine.html">Medicine</a><a class="page-link" href="/tag/personal.html">Personal</a><a class="page-link" href="/tag/philanthropy.html">Philanthropy</a><a class="page-link" href="/tag/science-and-epistemics.html">Science &amp; Epistemics</a><a class="page-link" href="/tag/social.html">Social Dynamics</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Performance Trends in AI</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2017-01-28T00:00:00-08:00" itemprop="datePublished">Jan 28, 2017
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    
+<ul class="tags">
+  
+  <li>
+    <a href="/tag/machine-learning"></a>
+  </li>
+</ul><br>
+
+
+<article>
+  <p>**Edit To Add: **It’s been brought to my attention that I was wrong to claim that progress in image recognition is “slowing down”. As classification accuracy approaches 100%, obviously improvements in raw scores will be smaller, by necessity, since accuracy can’t <em>exceed</em> 100%. If you look at negative log error rates rather than raw accuracy scores, improvement in image recognition (as measured by performance on the ImageNet competition) is increasing roughly linearly over 2010-2016, with a discontinuity in 2012 with the introduction of deep learning algorithms.</p>
+
+<p>Deep learning has revolutionized the world of artificial intelligence. But _how much _does it improve performance?  How have computers gotten better at different tasks over time, since the rise of deep learning?</p>
+
+<p>In <em>games</em>, what the data seems to show is that <em>exponential growth in data and computation power yields exponential improvements in raw performance</em>. In other words, you get out what you put in. Deep learning matters, but only because it provides a way to turn Moore’s Law into corresponding performance improvements, for a wide class of problems.  It’s not even clear it’s a discontinuous advance in performance over non-deep-learning systems.</p>
+
+<p>In <em>image recognition</em>, deep learning clearly is a discontinuous advance over other algorithms.  But the returns to scale and the improvements over time seem to be flattening out as we approach or surpass human accuracy.</p>
+
+<p>In <em>speech recognition</em>, deep learning is again a discontinuous advance. We are still far away from human accuracy, and in this regime, accuracy seems to be improving linearly over time.</p>
+
+<p>In <em>machine translation</em>, neural nets seem to have made progress over conventional techniques, but it’s not yet clear if that’s a real phenomenon, or what the trends are.</p>
+
+<p>In <em>natural language processing</em>, trends are positive, but deep learning doesn’t generally seem to do better than trendline.</p>
+
+<p><strong>Chess</strong></p>
+
+<p><img src="/images/chesselo1.png" alt="chess" /></p>
+
+<p>These are Elo ratings of the best computer chess engines over time.</p>
+
+<p>There was a discontinuity in 2008, corresponding to a jump in hardware; this was the Rybka 2.3.1, a tree-search-based engine without any deep learning or indeed probabilistic elements. Apart from that, progress looks roughly linear.</p>
+
+<p>Here again is the Swedish Chess Computer Association data on Elo scores over time:</p>
+
+<p><img src="/images/chesselo2.png" alt="chess2" /></p>
+
+<p>Deep learning chess engines have only just recently been introduced; <a href="https://www.technologyreview.com/s/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/">Giraffe</a>, originated by Matthew Lai at Imperial College London, was created in 2015. It only has an Elo rating of <a href="http://www.computerchess.org.uk/ccrl/404/cgi/engine_details.cgi?print=Details+(text)&amp;eng=Giraffe%2020150908%2064-bit">2412</a>, about equivalent to late-90’s-era computer chess engines. (Of course, learning to predict patterns in good moves probabilistically from data is a more impressive achievement than brute-force computation, and it’s quite possible that deep-learning-based chess engines, once tuned over time, will improve.)</p>
+
+<p><strong>Go</strong></p>
+
+<p>(Figures from the <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf">Nature paper</a> on AlphaGo.)</p>
+
+<p><img src="/images/alphago.png" alt="go" /></p>
+
+<p>Fan Hui is a human player.  Alpha Go performed notably better than its predecessors Crazy Stone (2008, beat human players in mini go games), Pachi (2011), Fuego (2010), and GnuGo, all MCTS programs, but without deep learning or GPUs. AlphaGo uses _much _more hardware and more data.</p>
+
+<p><a href="http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress">Miles Brundage </a>has argued that AlphaGo doesn’t represent that much of a surprise given the improvements in hardware and data (and effort).  He also graphed the returns in Elo rating to hardware by the AlphaGo team:</p>
+
+<p><img src="/images/alphagovhardware.png" alt="alphagovhardware" /></p>
+
+<p>In other words, _exponential _growth in hardware produces only roughly _linear _(or even sublinear) growth in performance as measured by Elo score. To do better would require algorithmic innovation as well.</p>
+
+<p><strong>Arcade Games</strong></p>
+
+<p>Artificial Atari games are scored relative to a human professional playtester: (Computer score – random play)/(Human score – random play).</p>
+
+<p>Compare to Elo scores: the ratio of expected scores for player A vs. player B is Q_A / Q_B, where Q_A = 10^(E_A/400), E_A being the Elo score.</p>
+
+<p><em>Linear growth in Elo scores is equivalent to exponential growth in absolute scores.</em></p>
+
+<p>Miles Brundage’s blog also offers a trend in Atari performance that looks exponential:</p>
+
+<p><img src="/images/atari.png" alt="atari" /></p>
+
+<p>This would, of course, still be plausibly linear in Elo score.</p>
+
+<p>Superhuman performance at arcade games is already <a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf">here</a>:</p>
+
+<p><img src="/images/ataribygame.png" alt="ataribygame" /></p>
+
+<p>This was a single reinforcement learner trained with a convolutional neural net over images of the game screen outputting behaviors (arrows).  Basically it’s dynamic programming, with a nonlinear approximation of the Q-function that estimates the quality of a move; in Deepmind’s case, that Q-function approximator is a convolutional neural net.  Apart from the convnet, Q-learning with function approximation has been around since<a href="http://karpathy.github.io/2016/05/31/rl/"> the 90’s</a> and Q-learning itself since <a href="https://en.wikipedia.org/wiki/Q-learning#cite_note-9">1989.</a></p>
+
+<p>Interestingly enough, here’s a video of a computer playing Breakout:</p>
+
+<p><a href="https://www.youtube.com/watch?v=UXgU37PrIFM">https://www.youtube.com/watch?v=UXgU37PrIFM</a></p>
+
+<p>It obviously doesn’t “know” the law of reflection as a principle, or it would place the bar near where the ball will eventually land, and it doesn’t.  There are erratic jerky movements that obviously could not in principle be optimal.  It does, however, find the optimal strategy of tunnelling through the bricks and hitting the ball behind the wall.  This is _creative _learning but not _conceptual _learning.</p>
+
+<p>You can see the same phenomenon in a game of Pong:</p>
+
+<p><a href="https://www.youtube.com/watch?v=YOW8m2YGtRg">https://www.youtube.com/watch?v=YOW8m2YGtRg</a></p>
+
+<p>The learned agent performs much better than the hard-coded agent, but moves more jerkily and “randomly” and doesn’t know the law of reflection.  Similarly, the reports of AlphaGo producing “unusual” Go moves are consistent with an agent that can do pattern-recognition over a broader space than humans can, but which doesn’t find the “laws” or “regularities” that humans do.</p>
+
+<p>Perhaps, contrary to the stereotype that contrasts “mechanical” with “outside-the-box” thinking, reinforcement learners can “think outside the box” but can’t <em>find the box</em>?</p>
+
+<p><strong>ImageNet</strong></p>
+
+<p>Image recognition as measured by ImageNet classification performance has improved dramatically with the rise of deep learning.</p>
+
+<p><img src="/images/imagenet (1).png" alt="imagenet" /></p>
+
+<p>There’s a dramatic performance improvement starting in 2012, corresponding to Geoffrey Hinton’s winning entry, followed by a leveling-off.  Plausibly accuracy is an S-shaped curve.</p>
+
+<p>How does accuracy scale with processing power?</p>
+
+<p>This paper from <a href="https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf">Baidu</a> illustrates:</p>
+
+<p><img src="/images/baiduscurve.png" alt="baiduscurve" /></p>
+
+<p>The performance of a deep neural net follows an S-shaped curve over time spent training, but works faster with more GPUs.  How much faster?</p>
+
+<p><img src="/images/baiduscaling.png" alt="baiduscaling" /></p>
+
+<p>Each doubling in GPUs provides only a linear boost in speed.  At a _given _time interval for training (as one would have in a timed competition), this means that doubling the number of GPUs would result in a sublinear boost in accuracy.</p>
+
+<p><strong>MNIST</strong></p>
+
+<p><img src="/images/mnist (1).png" alt="mnist" /></p>
+
+<p>Using the performance data from Yann LeCun’s <a href="http://yann.lecun.com/exdb/mnist/">website</a>, we can see that deep neural nets hugely improved MNIST digit recognition accuracy. The best algorithms of 1998, which were convolutional nets and boosted convolutional nets due to LeCun, had error rates of 0.7-0.8. Within 5 years, that had dropped to error rates of 0.4, within 10 years, to 0.39 (also a convolutional net), within 15 years, to 0.23, and within 20 years, to 0.21.  Clearly, performance on MNIST is leveling off; it took five years to halve and then 20 years to halve again.</p>
+
+<p>As with ImageNet, we may be getting close to the limits of deep-learning performance (which may easily be human-level.)</p>
+
+<p><strong>Speech Recognition</strong></p>
+
+<p><a href="http://itl.nist.gov/iad/mig/publications/ASRhistory/index.html">Before the rise of deep learning</a>, speech recognition was already progressing rapidly, though it was leveling off in conversational speech well above the 10% accuracy rate.</p>
+
+<p><img src="/images/speech.png" alt="speech" /></p>
+
+<p>Then, in 2011, the advent of context-dependent deep neural network hidden Markov models produced a discontinuity in performance:</p>
+
+<p><img src="/images/speechdeep.png" alt="speechdeep" /></p>
+
+<p>More recently, accuracy has continued to progress:</p>
+
+<p>Nuance, a dictation software company, shows steadily improving <a href="http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/">performance</a> on word recognition through to the present day, with a plausibly exponential trend.</p>
+
+<p><img src="/images/nuance.png" alt="nuance" /></p>
+
+<p>Baidu has<a href="https://medium.com/s-c-a-l-e/how-baidu-mastered-mandarin-with-deep-learning-and-lots-of-data-1d94032564a5#.u1l00sbza"> progressed even faster</a>, as of 2015, in speech recognition on Mandarin.</p>
+
+<p><img src="/images/baiduspeech.png" alt="baiduspeech" /></p>
+
+<p>As of 2016, the best performance on the NIST 2000 Switchboard set (of phone conversations) is due to <a href="http://blogs.microsoft.com/next/2016/09/13/microsoft-researchers-achieve-speech-recognition-milestone/#sm.0000v6ouru6d0emm11kftqvqjhpb4">Microsoft</a>, with a word-error rate of 6.3%.</p>
+
+<p><strong>Translation</strong></p>
+
+<p>Machine translation is evaluated by BLEU score, which compares the translation to the reference via overlap in words or n-grams.  BLEU scores range from 0 to 1, with 1 being perfect translation.  As of <a href="http://www.tilde.com/tilde-mt-performs-better-google-translate-comparative-evaluation">2012</a>, Tilde’s  had BLEU scores in the 0.25-0.45 range, with Google and Microsoft performing similarly but worse.</p>
+
+<p>In 2016, Google came out with a new <a href="https://arxiv.org/pdf/1609.08144v1.pdf">neural-network-based version</a> of its translation tool.  BLEU scores on English -&gt; French and English -&gt; German were 0.404 and 0.263 respectively. Human evaluations, however, rated the neural machine translations 60-87% better.</p>
+
+<p>OpenMT, the machine translation contest, had top BLEU scores in 2012 of about 0.4 for Arabic-to-English, 0.32 for Chinese-to-English, 0.24 for Dari-to-English, 0.27 for Farsi-to-English, and 0.11 for Korean-to-English.</p>
+
+<p>In 2008, Urdu-to-English had top BLEU scores of 0.32, Arabic-to-English scores of 0.48, and Chinese-to-English scores of 0.30.</p>
+
+<p>This doesn’t correspond to an improvement in machine translation <em>at all</em>. Apart from Google’s improvement in human ratings, celebrated in this <a href="https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html">New York Times Magazine article</a>, it’s unclear whether neural networks actually improve BLEU scores at all. On the other hand, scoring metrics may be an imperfect match to translation quality.</p>
+
+<p><strong>Natural Language Processing</strong></p>
+
+<p>The Association for Computational Linguistics Wiki has some numbers on <a href="https://www.aclweb.org/aclwiki/index.php?title=State_of_the_art">state of the art</a> performance for various natural language processing tasks.</p>
+
+<p>SAT analogies have been becoming more accurate over time, roughly linearly, until the present day when they are roughly as accurate as the average US college applicant.  None of these are deep learning techniques.</p>
+
+<p><img src="/images/satanalogies.png" alt="satanalogies" /></p>
+
+<p>Question answering (multiple choice of sentences that answer the question) has improved roughly steadily over time, with a discontinuity around 2006.  Neural nets did not start being used until 2014, but were _not _a discontinuous advance from the best models of 2013.</p>
+
+<p><img src="/images/questions.png" alt="questions" /></p>
+
+<p>Paraphrase identification (recognizing if one paragraph is a paraphrase of another) seems to have risen steadily over the past decade, with no special boost due to deep learning techniques; the top performance is not from deep learning but from matrix factorization.</p>
+
+<p><img src="/images/paraphrase.png" alt="paraphrase" /></p>
+
+<p>On NLP tasks that have a long enough history to graph, there seems to be no clear indication that deep learning performs above trendline.</p>
+
+<p><strong>Trends relative to processing power and time</strong></p>
+
+<p>Performance/accuracy returns to processing power seem to differ based on problem domain.</p>
+
+<p>In image recognition, we see _sublinear _returns to linear improvements in processing power, and gains leveling off over time as computers reach and surpass human-level performance. This may mean simply that image recognition is a nearly-solved problem.</p>
+
+<p>In NLP, we see roughly linear improvements over time, and in machine translation, it’s unclear if we see _any _trends in improvements over time, both of which suggest sublinear returns to processing power, but this is not very confident.</p>
+
+<p>In games, we see roughly _linear _returns to linear improvements in processing power, which means exponential improvements in performance over time (because of Moore’s law and increasing investment in AI).</p>
+
+<p>This would suggest that far-superhuman abilities are more likely to be possible in game-like problem domains.</p>
+
+<p><strong>What does this imply about deep learning?</strong></p>
+
+<p>What we’re seeing here is that deep learning algorithms can provide improvements in narrow AI across many types of problem domains.</p>
+
+<p>Deep learning provides discontinuous jumps relative to previous machine learning or AI performance trendlines in image recognition and speech recognition; it <em>doesn’t</em> in strategy games or natural language processing, and machine translation and arcade games are ambiguous (machine translation because metrics differ; arcade games because there is no pre-deep-learning comparison.)</p>
+
+<p>A speculative thought: perhaps deep learning is best for problem domains oriented around sensory data? Images or sound, rather than symbols. If current neural net architectures, like convolutional nets, mimic the structure of the sensory cortex of the brain, which I think they do, one would expect this result.</p>
+
+<p>Arcade games would be more analogous to the motor cortex, and <a href="https://en.wikipedia.org/wiki/Perceptual_control_theory">perceptual control theory</a> suggests that something similar to Q-learning may be going on in motor learning, though I’d have to learn more to be confident in that.  If mammalian motor learning turns out to look like Q-learning, I’d expect deep reinforcement learning to be especially good in arcade games and robotics, just as deep neural networks are especially good in visual and audio classification.</p>
+
+<p>Deep learning hasn’t really proven itself better than trendline in strategy games (Go and chess) or in natural language tasks.</p>
+
+<p>I might wonder if there are things humans can do with concepts and symbols and principles, the traditional tools of the “higher intellect”, the skills that show up on highly g-loaded tasks, that deep learning cannot do with current algorithms. Obviously hard-coding rules into an AI has grave limitations (the failure of such hard-coded systems was what caused several of the AI winters), but there may also be limitations to non-conceptual pattern recognition.  The continued difficulty of automating language-based tasks may be related to this issue.</p>
+
+<p>Miles Brundage <a href="http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress">points out</a>,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_Progress so far has largely been toward demonstrating general approaches for building narrow systems rather than general approaches for building general systems. Progress toward the former does not entail substantial progress toward the latter. The latter, which requires transfer learning among other elements, has yet to have its Atari/AlphaGo moment, but is an important area to keep an eye on going forward, and may be especially relevant for economic/safety purposes._
+</code></pre></div></div>
+
+<p>I agree.  General AI systems, as far as I know, do not exist today, and the million-dollar question is whether they can be built with algorithms similar to those used today, or if there are further fundamental algorithmic advances that have yet to be discovered. So far, I think there is no empirical evidence from the world of deep learning to indicate that today’s deep learning algorithms are headed for general AI in the near future.  Discontinuous performance jumps in image recognition and speech recognition with the advent of deep learning are the most suggestive evidence, but it’s not clear whether those are above and beyond returns to processing power. And so far I couldn’t find any estimates of trends in cross-domain generalization ability.  Whether deep learning algorithms _can _be general-purpose is perhaps a more theoretical question; what we can say is that recent AI progress doesn’t offer any reason to suspect that they already are.</p>
+
+</article>
+
+
+  </div><a class="u-url" href="/2017/01/28/performance-trends-in-ai.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sarah Constantin</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sarah Constantin</li><li><a class="u-email" href="mailto:srconstantin@gmail.com">srconstantin@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/srconstantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">srconstantin</span></a></li><li><a href="https://www.twitter.com/s_r_constantin"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">s_r_constantin</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Trained in math and machine learning, currently trying to solve biological problems and make sense of our world.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
