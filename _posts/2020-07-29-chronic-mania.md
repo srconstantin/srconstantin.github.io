@@ -10,9 +10,9 @@ Let me clarify; I don’t mean “happiness” in any kind of complex sense. I d
 
 In the psychiatry literature they call this state “euphoria” or “elation.”  It can be produced by recreational drugs, or by placing electrodes in some locations in the brain, or by some brain injuries, or by neurological or psychiatric disorders.  It is common in manic and hypomanic episodes.  And, of course, it is a normal mood that healthy sober people can enter as well.
 
-But most euphoric states are transient, and most ways to deliberately induce euphoria don’t work. Morphine, for instance, can produce euphoria, but not continuously for months at a time; you develop tolerance for the drug until the euphoria-producing dose and the fatal dose intersect.  And people who have a stroke of good fortune like [winning the lottery](https://en.wikipedia.org/wiki/Hedonic_treadmill#Happiness_set_point) don’t stay euphoric forever -- they initially feel great but then _adapt _to their changed circumstances.
+But most euphoric states are transient, and most ways to deliberately induce euphoria don’t work. Morphine, for instance, can produce euphoria, but not continuously for months at a time; you develop tolerance for the drug until the euphoria-producing dose and the fatal dose intersect.  And people who have a stroke of good fortune like [winning the lottery](https://en.wikipedia.org/wiki/Hedonic_treadmill#Happiness_set_point) don’t stay euphoric forever -- they initially feel great but then _adapt_ to their changed circumstances.
 
-So, you might ask, is there some kind of negative feedback loop in the brain such that euphoria is _always _temporary?  Is it literally impossible to feel awesome all the time, for months or years at a stretch?
+So, you might ask, is there some kind of negative feedback loop in the brain such that euphoria is _always_ temporary?  Is it literally impossible to feel awesome all the time, for months or years at a stretch?
 
 Turns out the answer is no.
 
