@@ -90,7 +90,7 @@ The frontal and temporal lobes are involved in self-restraint and appropriate be
 
 **Conclusions**
 
-I think we can safely say that it _is _possible for humans to remain in a euphoric state, continuously for months or years on end.  (Often in these case studies the euphoria is punctuated by irritability, but _not _sadness or depressed mood.)
+I think we can safely say that it _is_ possible for humans to remain in a euphoric state, continuously for months or years on end.  (Often in these case studies the euphoria is punctuated by irritability, but _not_ sadness or depressed mood.)
 
 Now, most of the examples we know of these prolonged euphoric states are undesirable. They often come with reckless or harmful behavior, delusions, and cognitive impairment.  
 
@@ -98,7 +98,7 @@ They’re also unpredictable -- some but not all people who get strokes, tumors,
 
 But the existence of persistent euphoric states suggests that it could be in principle possible to deliberately induce a long-lasting elevated mood without some of the problematic side effects.
 
-It’s a common finding that deep brain stimulation of the nucleus accumbens or subthalamic nucleus can cause transient feelings of euphoria.[21][22][23][24][25][26][27][28]  However, there is a tolerance effect here -- with continuous stimulation for a year, the same stimulus that initially caused euphoria produced no perceivable effect at 12 months.[29]  It’s not impossible that some variant on this type of electrical stimulation could produce long-term euphoria, though, at a deliberately tuned dose (since higher voltages cause stronger mood effects).  So I’m intrigued by the prospects of developing a form of “[wireheading done right](https://qualiacomputing.com/2016/08/20/wireheading_done_right/).”
+It’s a common finding that deep brain stimulation of the nucleus accumbens or subthalamic nucleus can cause transient feelings of euphoria, and sometimes outright manic episodes.[21][22][23][24][25][26][27][28]  However, there is a tolerance effect here -- with continuous stimulation for a year, the same stimulus that initially caused euphoria produced no perceivable effect at 12 months.[29]  It’s not impossible that some variant on this type of electrical stimulation could produce long-term euphoria, though, at a deliberately tuned dose (since higher voltages cause stronger mood effects).  So I’m intrigued by the prospects of developing a form of “[wireheading done right](https://qualiacomputing.com/2016/08/20/wireheading_done_right/).”
 
 **References**
 
