@@ -165,9 +165,7 @@ What the mammal literature says about aggression is that it splits neatly into d
    </td>
    <td>dorsal raphe, lateral septum
    </td>
-   <td>amygdala, 
-<p>
-lateral hypothalamus, olfactory bulb
+   <td>amygdala, lateral hypothalamus, olfactory bulb
    </td>
   </tr>
   <tr>
