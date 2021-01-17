@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-01-17T08:32:59-05:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-01-17T08:35:19-05:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In trying to understand how aggression works, as well as aggressive emotions like anger, I decided to go to the animal literature.  Human psychology research is all too prone to being determined by researchers’ preconceptions, and we all have a lot of firsthand experience and personal agendas when it comes to theorizing about human behavior. It’s easier to get some distance when thinking about animals; we have less stake in any particular theory of how animal emotions work.  It’s also easier to set up experimental conditions with animals that would be hard to do ethically with humans, like keeping them in confinement and exposing them to stressors.&lt;/p&gt;
 
-&lt;p&gt;What the mammal literature says about aggression is that it splits neatly into discrete types.  Researchers disagree on exactly how many clusters there are, since there are inevitable judgment calls in defining taxonomies. And the pattern is somewhat different depending on species.  But one very consistent finding is that there _are _qualitatively different types of aggression.  They are governed by different hormones, activated in different situations, and seem to involve different subjective experiences.&lt;/p&gt;
+&lt;p&gt;What the mammal literature says about aggression is that it splits neatly into discrete types.  Researchers disagree on exactly how many clusters there are, since there are inevitable judgment calls in defining taxonomies. And the pattern is somewhat different depending on species.  But one very consistent finding is that there &lt;em&gt;are&lt;/em&gt; qualitatively different types of aggression.  They are governed by different hormones, activated in different situations, and seem to involve different subjective experiences.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tr&gt;
@@ -128,19 +128,15 @@
   &lt;tr&gt;
    &lt;td&gt;&lt;strong&gt;Other positively associated hormones&lt;/strong&gt;
    &lt;/td&gt;
-   &lt;td&gt;cholecystokinin, dopamine,
-&lt;p&gt;
-histamine, 
-&lt;p&gt;
-substance P 
-   &amp;lt;/td&amp;gt;
+   &lt;td&gt;cholecystokinin, dopamine,histamine, substance P 
+   &lt;/td&gt;
    &lt;td&gt;ACTH, CRH,histamine, norepinephrine,substance P,vasopressin
    &lt;/td&gt;
    &lt;td&gt;NO, vasopressin, oxytocin
    &lt;/td&gt;
    &lt;td&gt;acetylcholine
    &lt;/td&gt;
-  &amp;lt;/tr&amp;gt;
+  &lt;/tr&gt;
   &lt;tr&gt;
    &lt;td&gt;&lt;strong&gt;Other negatively associated hormones&lt;/strong&gt;
    &lt;/td&gt;
@@ -994,7 +990,7 @@ Perhaps testosterone increases motivation to engage in _all_ social-status-relat
 [117]Naganuma, Fumito, et al. &quot;Histamine N-methyltransferase regulates aggression and the sleep-wake cycle.&quot; _Scientific reports_ 7.1 (2017): 1-9.
 
 [118]De Felipe, Carmen, et al. &quot;Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.&quot; _Nature_ 392.6674 (1998): 394-397.
-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
+&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
 
 &lt;p&gt;Let me clarify; I don’t mean “happiness” in any kind of complex sense. I don’t mean wellbeing or eudaimonia or life satisfaction or anything like that.  I mean &lt;em&gt;being in a good mood&lt;/em&gt; – better than good, “high”, bubbly, enthusiastic.&lt;/p&gt;
 

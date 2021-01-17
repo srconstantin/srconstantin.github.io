@@ -8,7 +8,7 @@ tags: [lit-review]
 
 In trying to understand how aggression works, as well as aggressive emotions like anger, I decided to go to the animal literature.  Human psychology research is all too prone to being determined by researchers’ preconceptions, and we all have a lot of firsthand experience and personal agendas when it comes to theorizing about human behavior. It’s easier to get some distance when thinking about animals; we have less stake in any particular theory of how animal emotions work.  It’s also easier to set up experimental conditions with animals that would be hard to do ethically with humans, like keeping them in confinement and exposing them to stressors.
 
-What the mammal literature says about aggression is that it splits neatly into discrete types.  Researchers disagree on exactly how many clusters there are, since there are inevitable judgment calls in defining taxonomies. And the pattern is somewhat different depending on species.  But one very consistent finding is that there _are _qualitatively different types of aggression.  They are governed by different hormones, activated in different situations, and seem to involve different subjective experiences.
+What the mammal literature says about aggression is that it splits neatly into discrete types.  Researchers disagree on exactly how many clusters there are, since there are inevitable judgment calls in defining taxonomies. And the pattern is somewhat different depending on species.  But one very consistent finding is that there _are_ qualitatively different types of aggression.  They are governed by different hormones, activated in different situations, and seem to involve different subjective experiences.
 
 
 <table>
@@ -135,11 +135,7 @@ What the mammal literature says about aggression is that it splits neatly into d
   <tr>
    <td><strong>Other positively associated hormones</strong>
    </td>
-   <td>cholecystokinin, dopamine,
-<p>
-histamine, 
-<p>
-substance P 
+   <td>cholecystokinin, dopamine,histamine, substance P 
    </td>
    <td>ACTH, CRH,histamine, norepinephrine,substance P,vasopressin
    </td>
