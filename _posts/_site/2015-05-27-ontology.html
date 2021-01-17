@@ -1,0 +1,67 @@
+<p><em>This sequence of posts is an experiment in fleshing out how I see the world. I expect to revise and correct things, especially in response to discussion.</em></p>
+
+<p>“Ontology” is an answer to the question “what are the things that exist?”</p>
+
+<p>Consider an reasoning agent making decisions. This can be a person or an algorithm.  It has a model of the world, and it chooses the decision that has the best outcome, where “best” is rated by some evaluative standard.</p>
+
+<p>A structure like this requires an ontology — you have to define what are the states of the world, what are the decision options, and so on.  If outcomes are probabilistic, you have to define a sample space.  If you are trying to choose the decision that maximizes the expected value of the outcome, you have to have probability distributions over outcomes that sum to one.</p>
+
+<p>[You could, in principle, have a decision-making agent that has no model of the world at all, but just responds to positive and negative feedback with the algorithm “do more of what rewards you and less of what punishes you.” This is much simpler than what humans do or what interesting computer programs do, and leads to problems with <a href="http://wiki.lesswrong.com/wiki/Wireheading">wireheading</a>. So in this sequence I’ll be restricting attention to decision theories that do require a model of the world.]</p>
+
+<p>The problem with standard decision theory is that you can define an “outcome” in lots of ways, seemingly arbitrarily. You want to partition all possible configurations of the universe into categories that represent “outcomes”, but there are infinitely many ways to do this, and most of them would wind up being very strange, like the taxonomy in Borges’ <a href="http://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge">Celestial Emporium of Benevolent Knowledge</a>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_Those that belong to the emperor_
+
+
+_[Embalmed](http://en.wikipedia.org/wiki/Embalming) ones_
+
+
+_Those that are trained_
+
+
+_Suckling pigs_
+
+
+_Mermaids (or [Sirens](http://en.wikipedia.org/wiki/Siren_(mythology)))_
+
+
+_Fabulous ones_
+
+
+_Stray dogs_
+
+
+_Those that are included in this classification_
+
+
+_Those that tremble as if they were mad_
+
+
+_Innumerable ones_
+
+
+_Those drawn with a very fine [camel hair brush](http://en.wikipedia.org/wiki/Brush#Bristles)_
+
+
+_[Et cetera](http://en.wikipedia.org/wiki/Et_cetera)_
+
+
+_Those that have just broken the flower vase_
+
+
+_Those that, at a distance, resemble flies_
+</code></pre></div></div>
+
+<p>We know that statistical measurements, including how much “better” one decision is than another, can depend on the <a href="https://srconstantin.wordpress.com/2015/04/30/choice-of-ontology/">choice of ontology</a>. So we’re faced with a problem here. One would presume that an agent, given a model of the world and a way to evaluate outcomes, would be able to determine the best decision to make.  But the best decision depends on how you construct what the world is “made of”! Decision-making seems to be disappointingly ill-defined, even in an idealized mathematical setting.</p>
+
+<p>This is akin to the <a href="http://en.wikipedia.org/wiki/Measure_problem_%28cosmology%29">measure problem</a> in cosmology.  In a multiverse, for every event, we think of there as being universes where the event happens and universes where the event doesn’t happen. The problem is that there are infinitely many universes where the event happens, and infinitely many where it doesn’t. We can construct the probability of the event as a limit as the number of universes becomes large, but the result depends sensitively on precisely how we do the scaling; there isn’t a single well-defined probability.</p>
+
+<p>The direction I’m going to go in this sequence is to suggest a possible model for dealing with ontology, and cash it out somewhat into machine-learning language. My thoughts on this are very speculative, and drawn mostly from introspection and a little bit of what I know about computational neuroscience.</p>
+
+<p>The motivation is basically a practical one, though. When trying to model a phenomenon computationally, there are a lot of judgment calls made by humans.  Statistical methods can abstract away model selection to some degree (e.g. generate a lot of features and <a href="http://en.wikipedia.org/wiki/Feature_selection">select</a> the most relevant ones algorithmically) but never completely. To some degree, good models will always require <em>good modelers.</em>  So it’s important to understand what we’re doing when we do the <a href="http://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/">illegible</a>, low-tech step of framing the problem and choosing which hypotheses to test.</p>
+
+<p>Back when I was trying to build a Bayes net model for automated medical diagnosis, I thought it would be relatively simple. The medical literature is full of journal articles of the form “A increases/decreases the risk of B by X%.”  A might be a treatment that reduces incidence of disease B; A might be a risk factor for disease B; A might be a disease that sometimes causes symptom B; etc.  So, think of a graph, where A and B are nodes and X is the weight between them. Have researchers read a bunch of papers and add the corresponding nodes to the graph; then, when you have a patient with some known risk factors, symptoms, and diseases, just fill in the known values and propagate the probabilities throughout the graph to get the patient’s posterior probability of having various diseases.</p>
+
+<p>This is pretty computationally impractical at large scales, but that wasn’t the main problem. The problem was deciding what a node is. Do you have a node for “heart attack”? Well, one study says a certain risk factor increases the risk of having a heart attack before 50, while another says that a different risk factor increases the lifetime number of heart attacks. Does this mean we need two nodes? How would we represent the relationship between them? Probably having early heart attacks and having lots of heart attacks are correlated, but we aren’t likely to be able to find a paper that quantifies that correlation.  On the other hand, if we fuse the two nodes into one, then the strengths of the risk factors will be incommensurate.  There’s a difficult judgment call inherent in just deciding what the primary “objects” of our model of the world are.</p>
+
+<p>One reaction is to say “automating human judgment is harder than you thought”, which, of course, is true. But how do <em>we</em> make judgments, then? Obviously I’m not going to solve open problems in AI here, but I can at least think about how to concretize quantitatively the sorts of things that minds seem to be doing when they define objects and make judgments about them.</p>
