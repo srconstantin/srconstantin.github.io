@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-01-17T08:24:46-05:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-01-17T08:32:59-05:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In trying to understand how aggression works, as well as aggressive emotions like anger, I decided to go to the animal literature.  Human psychology research is all too prone to being determined by researchers’ preconceptions, and we all have a lot of firsthand experience and personal agendas when it comes to theorizing about human behavior. It’s easier to get some distance when thinking about animals; we have less stake in any particular theory of how animal emotions work.  It’s also easier to set up experimental conditions with animals that would be hard to do ethically with humans, like keeping them in confinement and exposing them to stressors.&lt;/p&gt;
 
@@ -134,22 +134,10 @@ histamine,
 &lt;p&gt;
 substance P 
    &amp;lt;/td&amp;gt;
-   &lt;td&gt;ACTH, 
-&lt;p&gt;
-CRH,
-&lt;p&gt;
-histamine
-&lt;p&gt;
-norepinephrine,
-&lt;p&gt;
-substance P
-&lt;p&gt;
-vasopressin
-   &amp;lt;/td&amp;gt;
-   &lt;td&gt;NO,
-&lt;p&gt;
-vasopressin, oxytocin
-   &amp;lt;/td&amp;gt;
+   &lt;td&gt;ACTH, CRH,histamine, norepinephrine,substance P,vasopressin
+   &lt;/td&gt;
+   &lt;td&gt;NO, vasopressin, oxytocin
+   &lt;/td&gt;
    &lt;td&gt;acetylcholine
    &lt;/td&gt;
   &amp;lt;/tr&amp;gt;
@@ -170,10 +158,8 @@ vasopressin, oxytocin
    &lt;/td&gt;
    &lt;td&gt;amygdala, hippocampus, PAG
    &lt;/td&gt;
-   &lt;td&gt;Amygdala,
-&lt;p&gt;
-lateral hypothalamus, lateral septum, olfactory bulb
-   &amp;lt;/td&amp;gt;
+   &lt;td&gt;Amygdala,lateral hypothalamus, lateral septum, olfactory bulb
+   &lt;/td&gt;
    &lt;td&gt;dorsal raphe, lateral septum
    &lt;/td&gt;
    &lt;td&gt;amygdala, 
@@ -196,73 +182,27 @@ lateral hypothalamus, olfactory bulb
   &lt;tr&gt;
    &lt;td&gt;&lt;strong&gt;Drugs that increase the behavior&lt;/strong&gt;
    &lt;/td&gt;
-   &lt;td&gt;amitriptyline, delta-9-THC, desmethylimipramine
-&lt;p&gt;
-ethanol,
-&lt;p&gt;
-imipramine,
-&lt;p&gt;
-iproniazid,
-&lt;p&gt;
-naloxone,
-&lt;p&gt;
-nialamide, 
-&lt;p&gt;
-pargyline
-   &amp;lt;/td&amp;gt;
-   &lt;td&gt;amphetamine, anabolic steroids, 
-&lt;p&gt;
-chlordiazepoxide,
-&lt;p&gt;
-cyproheptadine,
-&lt;p&gt;
-ethanol, fenfluramine, PCPA
-   &amp;lt;/td&amp;gt;
-   &lt;td&gt;alprazolam,
-&lt;p&gt;
-chlordiazepoxide,
-&lt;p&gt;
-diazepam,
-&lt;p&gt;
-fluoxetine, 
-&lt;p&gt;
-oxazepam 
-   &amp;lt;/td&amp;gt;
+   &lt;td&gt;amitriptyline, delta-9-THC, desmethylimipramine, ethanol,imipramine,iproniazid, naloxone, nialamide, pargyline
+   &lt;/td&gt;
+   &lt;td&gt;amphetamine, anabolic steroids, chlordiazepoxide,cyproheptadine,ethanol,fenfluramine, PCPA
+   &lt;/td&gt;
+   &lt;td&gt;alprazolam,chlordiazepoxide, diazepam,fluoxetine,oxazepam 
+   &lt;/td&gt;
    &lt;td&gt;arecoline
    &lt;/td&gt;
-  &amp;lt;/tr&amp;gt;
+  &lt;/tr&gt;
   &lt;tr&gt;
    &lt;td&gt;&lt;strong&gt;Drugs that decrease the behavior&lt;/strong&gt;
    &lt;/td&gt;
-   &lt;td&gt;lithium, 
-&lt;p&gt;
-opioids,
-&lt;p&gt;
-PCP
-   &amp;lt;/td&amp;gt;
-   &lt;td&gt;5-HT,
-&lt;p&gt;
-cannabis, 
-&lt;p&gt;
-citalopram,
-&lt;p&gt;
-fluoxetine, fluprazine, naloxone, quipazine,
-&lt;p&gt;
-tryptophan
-   &amp;lt;/td&amp;gt;
-   &lt;td&gt;5-HT, amitriptyline, amfonelic acid, 
-&lt;p&gt;
-desipramine,
-&lt;p&gt;
-fluprazine,
-&lt;p&gt;
-GnRH antagonists, imipramine, morphine, 
-&lt;p&gt;
-NOS inhibitors, PCPA
-   &amp;lt;/td&amp;gt;
+   &lt;td&gt;lithium,opioids,PCP
+   &lt;/td&gt;
+   &lt;td&gt;5-HT,cannabis,citalopram,fluoxetine, fluprazine, naloxone, quipazine, tryptophan
+   &lt;/td&gt;
+   &lt;td&gt;5-HT, amitriptyline, amfonelic acid, desipramine,fluprazine, GnRH antagonists, imipramine, morphine, NOS inhibitors, PCPA
+   &lt;/td&gt;
    &lt;td&gt;5-HT, amphetamine, atropine,  delta-9-cannabidiol, ethanol, scopolamine
    &lt;/td&gt;
-  &amp;lt;/tr&amp;gt;
+  &lt;/tr&gt;
   &lt;tr&gt;
    &lt;td&gt;&lt;strong&gt;Effect of domestication&lt;/strong&gt;
    &lt;/td&gt;
@@ -1054,7 +994,7 @@ Perhaps testosterone increases motivation to engage in _all_ social-status-relat
 [117]Naganuma, Fumito, et al. &quot;Histamine N-methyltransferase regulates aggression and the sleep-wake cycle.&quot; _Scientific reports_ 7.1 (2017): 1-9.
 
 [118]De Felipe, Carmen, et al. &quot;Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.&quot; _Nature_ 392.6674 (1998): 394-397.
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
+&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
 
 &lt;p&gt;Let me clarify; I don’t mean “happiness” in any kind of complex sense. I don’t mean wellbeing or eudaimonia or life satisfaction or anything like that.  I mean &lt;em&gt;being in a good mood&lt;/em&gt; – better than good, “high”, bubbly, enthusiastic.&lt;/p&gt;
 

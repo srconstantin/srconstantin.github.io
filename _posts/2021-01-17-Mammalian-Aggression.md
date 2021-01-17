@@ -141,21 +141,9 @@ histamine,
 <p>
 substance P 
    </td>
-   <td>ACTH, 
-<p>
-CRH,
-<p>
-histamine
-<p>
-norepinephrine,
-<p>
-substance P
-<p>
-vasopressin
+   <td>ACTH, CRH,histamine, norepinephrine,substance P,vasopressin
    </td>
-   <td>NO,
-<p>
-vasopressin, oxytocin
+   <td>NO, vasopressin, oxytocin
    </td>
    <td>acetylcholine
    </td>
@@ -177,9 +165,7 @@ vasopressin, oxytocin
    </td>
    <td>amygdala, hippocampus, PAG
    </td>
-   <td>Amygdala,
-<p>
-lateral hypothalamus, lateral septum, olfactory bulb
+   <td>Amygdala,lateral hypothalamus, lateral septum, olfactory bulb
    </td>
    <td>dorsal raphe, lateral septum
    </td>
@@ -203,37 +189,11 @@ lateral hypothalamus, olfactory bulb
   <tr>
    <td><strong>Drugs that increase the behavior</strong>
    </td>
-   <td>amitriptyline, delta-9-THC, desmethylimipramine
-<p>
-ethanol,
-<p>
-imipramine,
-<p>
-iproniazid,
-<p>
-naloxone,
-<p>
-nialamide, 
-<p>
-pargyline
+   <td>amitriptyline, delta-9-THC, desmethylimipramine, ethanol,imipramine,iproniazid, naloxone, nialamide, pargyline
    </td>
-   <td>amphetamine, anabolic steroids, 
-<p>
-chlordiazepoxide,
-<p>
-cyproheptadine,
-<p>
-ethanol, fenfluramine, PCPA
+   <td>amphetamine, anabolic steroids, chlordiazepoxide,cyproheptadine,ethanol,fenfluramine, PCPA
    </td>
-   <td>alprazolam,
-<p>
-chlordiazepoxide,
-<p>
-diazepam,
-<p>
-fluoxetine, 
-<p>
-oxazepam 
+   <td>alprazolam,chlordiazepoxide, diazepam,fluoxetine,oxazepam 
    </td>
    <td>arecoline
    </td>
@@ -241,31 +201,11 @@ oxazepam
   <tr>
    <td><strong>Drugs that decrease the behavior</strong>
    </td>
-   <td>lithium, 
-<p>
-opioids,
-<p>
-PCP
+   <td>lithium,opioids,PCP
    </td>
-   <td>5-HT,
-<p>
-cannabis, 
-<p>
-citalopram,
-<p>
-fluoxetine, fluprazine, naloxone, quipazine,
-<p>
-tryptophan
+   <td>5-HT,cannabis,citalopram,fluoxetine, fluprazine, naloxone, quipazine, tryptophan
    </td>
-   <td>5-HT, amitriptyline, amfonelic acid, 
-<p>
-desipramine,
-<p>
-fluprazine,
-<p>
-GnRH antagonists, imipramine, morphine, 
-<p>
-NOS inhibitors, PCPA
+   <td>5-HT, amitriptyline, amfonelic acid, desipramine,fluprazine, GnRH antagonists, imipramine, morphine, NOS inhibitors, PCPA
    </td>
    <td>5-HT, amphetamine, atropine,  delta-9-cannabidiol, ethanol, scopolamine
    </td>
