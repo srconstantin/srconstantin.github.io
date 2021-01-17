@@ -1,4 +1,3 @@
-
 ---
 layout: tag_post
 title: Mammalian Aggression
