@@ -341,7 +341,7 @@ Septal lesions increase defensive responses (like foot thumping) to human experi
 
 _Defensive Aggression in Rats_
 
-Defensive biting in rats is different from attack biting; it is usually targeted at the snout, while attacking rats bite their opponent’s back; and defensive biting is seen _more _often against human hands or tools than against rats.  Defensive biting only occurs during or immediately after the defending animal has been hurt, and only when escape is impossible. Defensive biting also does not involve piloerection, while offensive biting always does.[4] 
+Defensive biting in rats is different from attack biting; it is usually targeted at the snout, while attacking rats bite their opponent’s back; and defensive biting is seen _more_ often against human hands or tools than against rats.  Defensive biting only occurs during or immediately after the defending animal has been hurt, and only when escape is impossible. Defensive biting also does not involve piloerection, while offensive biting always does.[4] 
 
 Defensive aggression is specifically selected against when rats are domesticated.
 
@@ -397,9 +397,9 @@ In primates and social carnivores such as wolves and mongooses, however, studies
 
 The relationship between dominance, aggression, and the hormones testosterone, serotonin, and cortisol, is likewise complicated in primates and in social carnivores. Dominance rank does not necessarily correlate positively with aggression.  Completely nonviolent individuals are, by definition, at the bottom of the dominance hierarchy (they lose all fights they’re in), but otherwise, in primates and carnivores, “fighting more” is not necessarily “winning more.”  The most dominant individuals in a stable hierarchy are rarely threatened, and can easily cause others to back down with a harmless threat display.
 
-Aggression does not always correlate with cortisol in primates and social carnivores. Dominance usually correlates positively with baseline cortisol levels.  On the other hand, losing fights causes an _acute _spike in cortisol in the loser. Because of the negative feedback in cortisol levels, these two observations are consistent; frequent experiences of losing fights can be expected to _depress _long-term baseline cortisol levels, even as each losing battle causes a spike in cortisol in the short term.  
+Aggression does not always correlate with cortisol in primates and social carnivores. Dominance usually correlates positively with baseline cortisol levels.  On the other hand, losing fights causes an _acute_ spike in cortisol in the loser. Because of the negative feedback in cortisol levels, these two observations are consistent; frequent experiences of losing fights can be expected to _depress_ long-term baseline cortisol levels, even as each losing battle causes a spike in cortisol in the short term.  
 
-Serotonin in primates correlates _positively _with dominance rank and with _non-severe _aggression (initiating threat displays or harmless physical scuffles) but _negatively _with severe aggression (wounding another primate).  As in rodents, low serotonin correlates with serious violence in primates, but primates also have a more complex repertoire of dominant/threatening social behavior which are associated with _high_ serotonin.  
+Serotonin in primates correlates _positively _with dominance rank and with _non-severe_ aggression (initiating threat displays or harmless physical scuffles) but _negatively_ with severe aggression (wounding another primate).  As in rodents, low serotonin correlates with serious violence in primates, but primates also have a more complex repertoire of dominant/threatening social behavior which are associated with _high_ serotonin.  
 
 Testosterone, though, in primates and carnivores just as in rodents, has a straightforward positive correlation with both dominance and aggression.
 
@@ -430,7 +430,7 @@ Behavioral style in chimpanzees was broken down into 6 principal components:
 
 Cortisol did not correlate with rank, aggression given, or aggression received.  There was a nonsignificant positive association between cortisol and the “Smart” and “Aggressive” styles.[61]
 
-In adolescent male chimpanzees, testosterone (after correcting for age) was positively associated with dominance and aggression given, negatively associated with aggression received, and positively associated with the “mellow” behavioral style.  Testosterone was not associated with the “Aggressiveness” behavioral style.  Note that “Aggressiveness” indicates that a high percent of one’s total social interactions are aggressive, so an individual who is both aggressive and friendly might have a _low _“Aggressiveness” score.[100]
+In adolescent male chimpanzees, testosterone (after correcting for age) was positively associated with dominance and aggression given, negatively associated with aggression received, and positively associated with the “mellow” behavioral style.  Testosterone was not associated with the “Aggressiveness” behavioral style.  Note that “Aggressiveness” indicates that a high percent of one’s total social interactions are aggressive, so an individual who is both aggressive and friendly might have a _low_ “Aggressiveness” score.[100]
 
 Dominance rank, aggression, and testosterone are correlated in adult male chimpanzees.[98]
 
@@ -532,7 +532,7 @@ Offensive aggression in male rats increases after copulation with females.[7]
 
 Male intruder rats display offensive aggression against female residents, but never males.  Female intruder rats rarely are attacked, and when they are it is usually only after they rebuff multiple attempts to mate.[8]
 
-When access to food or water is restricted, the “alpha” male or female rats in a colony (those who attack intruders the most) are _not _the same rats who get the most access to the food or water.  But alpha male rats _are _the ones who have the most access to copulating with females.[8]
+When access to food or water is restricted, the “alpha” male or female rats in a colony (those who attack intruders the most) are _not_ the same rats who get the most access to the food or water.  But alpha male rats _are_ the ones who have the most access to copulating with females.[8]
 
 Rats surprised by a lack of reward in a situation that normally provides rewards show a reduction in social aggression and a greater propensity to be attacked.[9]  
 
@@ -560,7 +560,7 @@ _Social Aggression in Oryx_
 
 _Social Aggression in Rhesus Monkeys_
 
-In rhesus monkeys, serotonin is negatively associated with intra-species aggression in rhesus monkeys, but positively associated with dominance.  When aggression is split into the two categories of competitive aggression (threatening, chasing, and displacing, without causing serious injury) vs. severe aggression (causing wounds), we find that serotonin, and dominance rank, are _positively _associated with competitive aggression and _negatively _associated with severe aggression.  
+In rhesus monkeys, serotonin is negatively associated with intra-species aggression in rhesus monkeys, but positively associated with dominance.  When aggression is split into the two categories of competitive aggression (threatening, chasing, and displacing, without causing serious injury) vs. severe aggression (causing wounds), we find that serotonin, and dominance rank, are _positively_ associated with competitive aggression and _negatively_ associated with severe aggression.  
 
 Testosterone is positively associated with aggression.  Cortisol is negatively associated with threat displays.
 
@@ -570,7 +570,7 @@ In free-living young male rhesus monkeys, ACTH and norepinephrine levels were po
 
 Dominance among females in a free-living macaque colony is associated with the frequency of threatening, displacing, and chasing behavior, but not with severe aggression or spontaneous wounding.  High dominance rank correlated positively with 5-HIAA (a serotonin metabolite.)  Severe aggression or wounding correlated negatively with 5-HIAA.[41]
 
-The C77G polymorphism in the mu-opioid receptor gene in macaques is associated with an abnormally low cortisol response to stress and pain.  Threat displays, such as teeth-baring, staring, and ear-flapping, correlated _negatively _with cortisol levels.  The mutant macaques had significantly higher rates of threat display, but not more cage-shaking or attacks on self or inanimate objects.[35]
+The C77G polymorphism in the mu-opioid receptor gene in macaques is associated with an abnormally low cortisol response to stress and pain.  Threat displays, such as teeth-baring, staring, and ear-flapping, correlated _negatively_ with cortisol levels.  The mutant macaques had significantly higher rates of threat display, but not more cage-shaking or attacks on self or inanimate objects.[35]
 
 Testosterone in male rhesus monkeys correlates positively with rates of aggression, dominance rank, rate of receiving submission, and “tension” (yawning, teeth grinding, and banging objects; also symptomatic of inhibited aggressive behavior due to the presence of dominant animals.)  High testosterone correlates negatively with submissive behaviors. On the other hand, the reverse correlation does not apply; the monkeys most likely to submit do not have the lowest testosterone.[40]
 
@@ -578,7 +578,7 @@ Dominance in rhesus monkeys seems to involve activity in the amygdala and latera
 
 If you remove the amygdala from a dominant rhesus monkey, he becomes submissive, never aggresses or retaliates, and moves to the bottom of the dominance hierarchy. He also becomes more aggressive/fearless in individual-cage settings.[41]
 
-Stimulation of male rhesus monkeys in the lateral hypothalamus prompts them to aggressively attack the dominant monkey.  The stimulated monkeys did not attack females or inanimate objects.  The stimulated subordinate monkey usually lost fights with the dominant; the dominant monkey mounted the female more and actively threatened the stimulated subordinate male.  Eventually the formerly subordinate monkeys became dominant; their hair stood on end, they strutted, they _looked _dominant, while the formerly dominant monkeys crouched and had matted hair.[39]
+Stimulation of male rhesus monkeys in the lateral hypothalamus prompts them to aggressively attack the dominant monkey.  The stimulated monkeys did not attack females or inanimate objects.  The stimulated subordinate monkey usually lost fights with the dominant; the dominant monkey mounted the female more and actively threatened the stimulated subordinate male.  Eventually the formerly subordinate monkeys became dominant; their hair stood on end, they strutted, they _looked_ dominant, while the formerly dominant monkeys crouched and had matted hair.[39]
 
 When amphetamine is administered to stumptail macacques, affiliative behavior decreases and aggressive behavior increases.[97]
 
@@ -590,7 +590,7 @@ _Dominance in Vervet Monkeys_
 
 Dominance is measured by how often a male monkey succeeds in agonistic encounters (i.e. the other monkey submits or avoids).  36 adult male vervet monkeys were separated into 12 groups of 4. In each, a dominant male (winning over 85% of encounters) emerged.  Tryptophan and fluoxetine (both serotonergic) significantly increased the frequency of approaching, proximity, and grooming but decreased the rate of aggressive behaviors.  By contrast, fenfluramine and cyproheptadine (which deplete serotonin), decreased approaching, proximity, and grooming and increased aggression.[38]
 
-The animals treated with serotonergic drugs became dominant and remained so; the animals treated with anti-serotonin drugs became subordinate and remained so.  This suggests that low serotonin may be a signal of _low _or _threatened_ dominance, which prompts aggression.[38]
+The animals treated with serotonergic drugs became dominant and remained so; the animals treated with anti-serotonin drugs became subordinate and remained so.  This suggests that low serotonin may be a signal of _low_ or _threatened_ dominance, which prompts aggression.[38]
 
 Cortisol levels do not correlate with social dominance in stable groups of vervet monkeys. Cortisol levels rise during competition for dominance among familiar males, particularly among the winners of such competitions.[60]
 
@@ -670,7 +670,7 @@ _Maternal Aggression in Voles_
 
 A nitric oxide synthesis inhibitor reduces maternal aggression in prairie voles.[72]
 
-Prairie voles are monogamous, and after pair-bonding, _male _prairie voles become much more aggressive against intruders.  Vasopressin receptor antagonists prevent this increase in aggression, while supplemental vasopressin increases it.[113]
+Prairie voles are monogamous, and after pair-bonding, _male_ prairie voles become much more aggressive against intruders.  Vasopressin receptor antagonists prevent this increase in aggression, while supplemental vasopressin increases it.[113]
 
 It’s possible that male aggression in voles actually is a closer hormonal match to maternal aggression given the pair-bonding aspect.  Consistent with this hypothesis, supplemental testosterone does not increase aggression in male voles[114] and castration does not inhibit aggression.[115]
 
@@ -678,7 +678,7 @@ It’s possible that male aggression in voles actually is a closer hormonal matc
 
 Predatory aggression is violence against edible prey. It is almost always directed against members of a different species, though some mutations make animals attack conspecifics in ways that resemble predatory aggression. 
 
-Predation is distinct from social and defensive aggression in that it is _stealthy _(there is no vocalization or threat display, to avoid scaring off the prey) and it is _pleasurable rather than stressful_ to the predator.  Predatory behavior is not associated with cortisol response, and it is stimulated by the centers of the brain associated with reward and alertness, rather than the ones associated with fear and pain.
+Predation is distinct from social and defensive aggression in that it is _stealthy_ (there is no vocalization or threat display, to avoid scaring off the prey) and it is _pleasurable rather than stressful_ to the predator.  Predatory behavior is not associated with cortisol response, and it is stimulated by the centers of the brain associated with reward and alertness, rather than the ones associated with fear and pain.
 
 _Predatory Aggression in Baboons_
 
@@ -792,33 +792,33 @@ Human hunter-gatherers rarely engage in spontaneous “reactive” aggression, w
 
 When animals such as dogs are bred for tameness, it is chiefly defensive aggression that is selected against (since we are selecting primarily for lack of violence against humans, who are neither prey nor conspecifics).  Hominid facial morphology has changed in the same way as dog facial morphology, and we have developed a longer developmental period, prolonged play, and cooperative communication, similar to the “domestication syndrome” in other animals. 
 
-Some hypothesize that have “bred ourselves” for tameness starting about 200,000 years ago, perhaps through capital punishment of reactively-aggressive, antisocial individuals.  Capital punishment appears to be a human universal, and in hunter-gatherer societies it is typically antisocial males with a history of selfish violence who are executed.  Capital punishment itself, of course, is an example of _proactive _aggression -- carefully planned and calmly premeditated.[32]
+Some hypothesize that have “bred ourselves” for tameness starting about 200,000 years ago, perhaps through capital punishment of reactively-aggressive, antisocial individuals.  Capital punishment appears to be a human universal, and in hunter-gatherer societies it is typically antisocial males with a history of selfish violence who are executed.  Capital punishment itself, of course, is an example of _proactive_ aggression -- carefully planned and calmly premeditated.[32]
 
 Chimpanzees have a lower death rate from intergroup aggression than human subsistence farmers, but comparable to human subsistence hunter-gatherers, based on 33 human groups from around the world.[99]
 
 **Generalizations & Speculations**
 
-Defensive aggression is pretty clearly a response to fear and pain, which belongs in the same category with other behaviors like fleeing, hiding, freezing, cowering (protecting vulnerable body parts), and fawning (submission signals.)  It is an _agitated, reactive, and non-strategic _form of aggression, as you can see from the fact that it is relatively ineffective at harming the opponent, and that often an animal in pain will “take its frustration out on” any nearby animals or inanimate objects, regardless of whether they caused the pain. Human experiences like frustration, irritability, or “defensiveness” are probably manifestations of defensive aggression.
+Defensive aggression is pretty clearly a response to fear and pain, which belongs in the same category with other behaviors like fleeing, hiding, freezing, cowering (protecting vulnerable body parts), and fawning (submission signals.)  It is an _agitated, reactive, and non-strategic_ form of aggression, as you can see from the fact that it is relatively ineffective at harming the opponent, and that often an animal in pain will “take its frustration out on” any nearby animals or inanimate objects, regardless of whether they caused the pain. Human experiences like frustration, irritability, or “defensiveness” are probably manifestations of defensive aggression.
 
-Translating social aggression into the human realm is more complicated. It seems clearly related to testosterone, competition, and status conflict, as well as protecting valuable resources (like territory, food, or mates), all of which of course humans do.  But it’s unclear to me what the _subjective feeling _is that corresponds with social aggression.  Even valence is unclear -- is engaging in social aggression pleasant or unpleasant for animals?
+Translating social aggression into the human realm is more complicated. It seems clearly related to testosterone, competition, and status conflict, as well as protecting valuable resources (like territory, food, or mates), all of which of course humans do.  But it’s unclear to me what the _subjective feeling_ is that corresponds with social aggression.  Even valence is unclear -- is engaging in social aggression pleasant or unpleasant for animals?
 
 The lateral hypothalamus is generally considered a pleasure center (or at least a “reward-seeking” center), and stimulating it makes rhesus monkeys much more socially aggressive, suggesting that they are in a “seeking”, eager mood when they start fights; the amygdala is associated with fear, and amygdalectomized monkeys are passive and placid and never fight back.  So, at least, social aggression is associated with energetic, urgent feelings, but it seems to be a mix or an ambiguous relationship between fear and pleasure-seeking.
 
-Maternal aggression is very clearly associated with _fearlessness _and the _absence of stress_.  It is a calm, non-agitated, deadly type of aggression.  It’s not otherwise clear to me what it “feels like from the inside”, though, or what situations (if any) apart from defending young children it would arise in.
+Maternal aggression is very clearly associated with _fearlessness_ and the _absence of stress_.  It is a calm, non-agitated, deadly type of aggression.  It’s not otherwise clear to me what it “feels like from the inside”, though, or what situations (if any) apart from defending young children it would arise in.
 
 Predatory aggression has a very consistent psychological profile -- it’s alert, calm, focused, and eager.  It is a strategic and goal-directed kind of aggression, very effective at killing.  In humans, it probably shows up during literal hunting (we are a predatory species after all), as well as in strategic types of conflict such as warfare.  It seems to have a lot in common with the “flow state” of enjoyable, focused, trance-like absorption in a stimulating activity, which humans also engage in through nonviolent activities such as games and skilled work. 
 
 Animal domestication selectively breeds animals for reduced defensive aggression, while preserving other types of aggression (social, maternal, and predatory.)  Tame animals are less fearful and skittish around new objects and surprising encounters, less likely to either flee or fight out of fear or irritation.  
 
-Human evolution, our own “domestication”, probably did the same thing; we have drastically fewer impulsive, irritable violent reactions to our neighbors than other primates, but probably equal motivation for defending our children and competing for social status, and _greater _skill than any of our primate relatives in forms of organized violence such as hunting and warfare.
+Human evolution, our own “domestication”, probably did the same thing; we have drastically fewer impulsive, irritable violent reactions to our neighbors than other primates, but probably equal motivation for defending our children and competing for social status, and _greater_ skill than any of our primate relatives in forms of organized violence such as hunting and warfare.
 
 Among contemporary humans, showing frustration is viewed as a sign of weakness, but being calmly dangerous can earn respect. We admire predatory (and social) aggression, but disdain defensive aggression.  
 
-As far as hormones go, serotonin seems to clearly correlate with what might be termed “contentment” or “satiety.” It reduces motivation to hunt and to engage in social aggression, reliably across animals.  High serotonin levels correlate with and even cause dominant social rank; the very most dominant individuals in a hierarchy are typically_ less _violent, or less severely violent, than the mid-rank individuals, presumably because they’re so high status they don’t have to fight much.
+As far as hormones go, serotonin seems to clearly correlate with what might be termed “contentment” or “satiety.” It reduces motivation to hunt and to engage in social aggression, reliably across animals.  High serotonin levels correlate with and even cause dominant social rank; the very most dominant individuals in a hierarchy are typically _less_violent, or less severely violent, than the mid-rank individuals, presumably because they’re so high status they don’t have to fight much.
 
-Testosterone seems to increase motivation to engage in _both _social aggression and social submission, while progesterone inhibits both aggression and submission.  This is contrary to the stereotype of submission as “unmanly”.  
+Testosterone seems to increase motivation to engage in _both_ social aggression and social submission, while progesterone inhibits both aggression and submission.  This is contrary to the stereotype of submission as “unmanly”.  
 
-Perhaps testosterone increases motivation to engage in _all _social-status-related activities, both fighting and submission, while serotonin has a somewhat independent effect, such that low serotonin increases aggression but not submission.  
+Perhaps testosterone increases motivation to engage in _all_ social-status-related activities, both fighting and submission, while serotonin has a somewhat independent effect, such that low serotonin increases aggression but not submission.  
 
 **References**
 
