@@ -219,6 +219,7 @@ What the mammal literature says about aggression is that it splits neatly into d
 </table>
 
 
+
 **“Defensive Aggression”/”Defensive Rage” -- Cortisol, Substance P**
 
 A certain cluster of behaviors in mammals can be called “defensive aggression”, “affective defense,” or “defensive rage”. These behaviors are reactions to pain or immediate threat, whether that threat comes from a member of the same species, a member of a different species, or an inanimate object.  
