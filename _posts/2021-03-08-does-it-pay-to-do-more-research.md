@@ -17,52 +17,49 @@ The interesting question is whether being unusually info-seeking correlates with
 This Venkat Rao [thread ](https://twitter.com/vgr/status/1277262959828283392)claims that a major problem with society is that too many “rich people” are “lazy” when they make resource allocation decisions. 
 
 
-    The word “invest” has 2 distinct meanings in relation to capital:
+>    The word “invest” has 2 distinct meanings in relation to capital:
+>   Invest (1): Spend money to build a capability. Example: a bridge, a factory, a mansion.
+
+>   Invest (2): Spend money to acquire a formal stake in an existing capability. Example: stock, bond, lien.
 
 
-    Invest (1): Spend money to build a capability. Example: a bridge, a factory, a mansion.
+>   2 now dominates 1.
 
 
-    Invest (2): Spend money to acquire a formal stake in an existing capability. Example: stock, bond, lien.
-
-
-    2 now dominates 1.
-
-
-    The two are coupled. For example, you invest (2) in my company so I can invest (1) in a new factory. Instead of shareholder value or a dividend, you might claim a share of the output at a good price for example (offtakes, kinda like futures).
+>   The two are coupled. For example, you invest (2) in my company so I can invest (1) in a new factory. Instead of shareholder value or a dividend, you might claim a share of the output at a good price for example (offtakes, kinda like futures).
 
 
     …
 
 
-    It’s a moral hazard to purely invest (2) in money-in-money-out (MIMO) ways. You have no interest in how black box works. All knowledge risk lies with investee. If your MIMO deal is not honored you can’t tell fraud apart from real problems. You can’t judge whether to grant relief.
+>   It’s a moral hazard to purely invest (2) in money-in-money-out (MIMO) ways. You have no interest in how black box works. All knowledge risk lies with investee. If your MIMO deal is not honored you can’t tell fraud apart from real problems. You can’t judge whether to grant relief.
 
 
-    This is the definition of dumb money. Of course most real investment (2) does informally include some appreciation of the underlying investment (1), but not in any way that is operationally specific. Few investors who play for even controlling stakes actually desire control.
+>   This is the definition of dumb money. Of course most real investment (2) does informally include some appreciation of the underlying investment (1), but not in any way that is operationally specific. Few investors who play for even controlling stakes actually desire control.
 
 
-    Control in finance has come to mean “control of the board and ability to hire/fire top executives”, which is increasingly just too shallow to address the complexity of modern principal-agent relations. Money _wants _to be stupid because the rich don’t want to do invest (1) work.
+>   Control in finance has come to mean “control of the board and ability to hire/fire top executives”, which is increasingly just too shallow to address the complexity of modern principal-agent relations. Money _wants _to be stupid because the rich don’t want to do invest (1) work.
 
 
-    Financialization, “shareholder value” as a disease, etc, all have their tools in a single psychological problem: the rich are really lazy. They don’t want to put in the work to make their money smart. They want to either swarm opportunities via imitation, or rely on “analysts.”
+>   Financialization, “shareholder value” as a disease, etc, all have their tools in a single psychological problem: the rich are really lazy. They don’t want to put in the work to make their money smart. They want to either swarm opportunities via imitation, or rely on “analysts.”
 
 
-    There is a lot of bullshit conservative sermonizing about how the poor deserve their fates because they don’t work hard and that’s why the economy suffers etc. This is not only not the problem, it’s not even true. Most economic problems arise from the rich not working hard enough.
+>    There is a lot of bullshit conservative sermonizing about how the poor deserve their fates because they don’t work hard and that’s why the economy suffers etc. This is not only not the problem, it’s not even true. Most economic problems arise from the rich not working hard enough.
 
 
-    If you have 10s of millions of dollars, it _matters_ how hard you, PERSONALLY, think about where to put it.  Even a single degree of delegation causes huge principal-agent distortions. To the extent that some wealth creation opportunities need concentrated capital, the rich must think.
+>    If you have 10s of millions of dollars, it _matters_ how hard you, PERSONALLY, think about where to put it.  Even a single degree of delegation causes huge principal-agent distortions. To the extent that some wealth creation opportunities need concentrated capital, the rich must think.
 
 
-    Some rich do think and work hard but they think wide and shallow for “highest ROIC” (where the I is investment (2), not investment (1)) opportunities. They rarely think deep about how a particular investment (2) will drive the invest (1). They don’t care about the meaning of the money.
+>    Some rich do think and work hard but they think wide and shallow for “highest ROIC” (where the I is investment (2), not investment (1)) opportunities. They rarely think deep about how a particular investment (2) will drive the invest (1). They don’t care about the meaning of the money.
 
 
-    There is something deeply nihilistic, stupid, fearful, and acting-dead about this. If the only difference between 2 investments for you is return rates, and you are not curious about the futures implied by investing in either, you’re kinda dumb and boring.
+>    There is something deeply nihilistic, stupid, fearful, and acting-dead about this. If the only difference between 2 investments for you is return rates, and you are not curious about the futures implied by investing in either, you’re kinda dumb and boring.
 
 
-    …
+>    …
 
 
-    This whole point is why I’m not a socialist. I don’t think it matters much who “owns” the capital. Whether it is a workers’ co-op or a fat-cat single rich person, the question is how hard they think.
+>    This whole point is why I’m not a socialist. I don’t think it matters much who “owns” the capital. Whether it is a workers’ co-op or a fat-cat single rich person, the question is how hard they think.
 
 
 

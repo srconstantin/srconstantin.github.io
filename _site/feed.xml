@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-03-09T23:34:40-05:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-05:00</published><updated>2021-03-08T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-06-09T10:08:38-06:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-07:00</published><updated>2021-03-08T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Do investors profit from spending more time and effort researching and analyzing their decisions?  Does it pay to be an “infovore” who seeks out an unusual amount of information?&lt;/p&gt;
 
@@ -10,53 +10,65 @@
 
 &lt;p&gt;This Venkat Rao &lt;a href=&quot;https://twitter.com/vgr/status/1277262959828283392&quot;&gt;thread &lt;/a&gt;claims that a major problem with society is that too many “rich people” are “lazy” when they make resource allocation decisions.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The word “invest” has 2 distinct meanings in relation to capital:
+&lt;blockquote&gt;
+  &lt;p&gt;The word “invest” has 2 distinct meanings in relation to capital:
+  Invest (1): Spend money to build a capability. Example: a bridge, a factory, a mansion.&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;Invest (2): Spend money to acquire a formal stake in an existing capability. Example: stock, bond, lien.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-Invest (1): Spend money to build a capability. Example: a bridge, a factory, a mansion.
+&lt;blockquote&gt;
+  &lt;p&gt;2 now dominates 1.&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;The two are coupled. For example, you invest (2) in my company so I can invest (1) in a new factory. Instead of shareholder value or a dividend, you might claim a share of the output at a good price for example (offtakes, kinda like futures).&lt;/p&gt;
+&lt;/blockquote&gt;
 
-Invest (2): Spend money to acquire a formal stake in an existing capability. Example: stock, bond, lien.
-
-
-2 now dominates 1.
-
-
-The two are coupled. For example, you invest (2) in my company so I can invest (1) in a new factory. Instead of shareholder value or a dividend, you might claim a share of the output at a good price for example (offtakes, kinda like futures).
-
-
-…
-
-
-It’s a moral hazard to purely invest (2) in money-in-money-out (MIMO) ways. You have no interest in how black box works. All knowledge risk lies with investee. If your MIMO deal is not honored you can’t tell fraud apart from real problems. You can’t judge whether to grant relief.
-
-
-This is the definition of dumb money. Of course most real investment (2) does informally include some appreciation of the underlying investment (1), but not in any way that is operationally specific. Few investors who play for even controlling stakes actually desire control.
-
-
-Control in finance has come to mean “control of the board and ability to hire/fire top executives”, which is increasingly just too shallow to address the complexity of modern principal-agent relations. Money _wants _to be stupid because the rich don’t want to do invest (1) work.
-
-
-Financialization, “shareholder value” as a disease, etc, all have their tools in a single psychological problem: the rich are really lazy. They don’t want to put in the work to make their money smart. They want to either swarm opportunities via imitation, or rely on “analysts.”
-
-
-There is a lot of bullshit conservative sermonizing about how the poor deserve their fates because they don’t work hard and that’s why the economy suffers etc. This is not only not the problem, it’s not even true. Most economic problems arise from the rich not working hard enough.
-
-
-If you have 10s of millions of dollars, it _matters_ how hard you, PERSONALLY, think about where to put it.  Even a single degree of delegation causes huge principal-agent distortions. To the extent that some wealth creation opportunities need concentrated capital, the rich must think.
-
-
-Some rich do think and work hard but they think wide and shallow for “highest ROIC” (where the I is investment (2), not investment (1)) opportunities. They rarely think deep about how a particular investment (2) will drive the invest (1). They don’t care about the meaning of the money.
-
-
-There is something deeply nihilistic, stupid, fearful, and acting-dead about this. If the only difference between 2 investments for you is return rates, and you are not curious about the futures implied by investing in either, you’re kinda dumb and boring.
-
-
-…
-
-
-This whole point is why I’m not a socialist. I don’t think it matters much who “owns” the capital. Whether it is a workers’ co-op or a fat-cat single rich person, the question is how hard they think.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;…
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s a moral hazard to purely invest (2) in money-in-money-out (MIMO) ways. You have no interest in how black box works. All knowledge risk lies with investee. If your MIMO deal is not honored you can’t tell fraud apart from real problems. You can’t judge whether to grant relief.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is the definition of dumb money. Of course most real investment (2) does informally include some appreciation of the underlying investment (1), but not in any way that is operationally specific. Few investors who play for even controlling stakes actually desire control.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Control in finance has come to mean “control of the board and ability to hire/fire top executives”, which is increasingly just too shallow to address the complexity of modern principal-agent relations. Money _wants _to be stupid because the rich don’t want to do invest (1) work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Financialization, “shareholder value” as a disease, etc, all have their tools in a single psychological problem: the rich are really lazy. They don’t want to put in the work to make their money smart. They want to either swarm opportunities via imitation, or rely on “analysts.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a lot of bullshit conservative sermonizing about how the poor deserve their fates because they don’t work hard and that’s why the economy suffers etc. This is not only not the problem, it’s not even true. Most economic problems arise from the rich not working hard enough.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you have 10s of millions of dollars, it &lt;em&gt;matters&lt;/em&gt; how hard you, PERSONALLY, think about where to put it.  Even a single degree of delegation causes huge principal-agent distortions. To the extent that some wealth creation opportunities need concentrated capital, the rich must think.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Some rich do think and work hard but they think wide and shallow for “highest ROIC” (where the I is investment (2), not investment (1)) opportunities. They rarely think deep about how a particular investment (2) will drive the invest (1). They don’t care about the meaning of the money.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is something deeply nihilistic, stupid, fearful, and acting-dead about this. If the only difference between 2 investments for you is return rates, and you are not curious about the futures implied by investing in either, you’re kinda dumb and boring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This whole point is why I’m not a socialist. I don’t think it matters much who “owns” the capital. Whether it is a workers’ co-op or a fat-cat single rich person, the question is how hard they think.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;There’s a lot in this thread, a lot of it resonates with me, and I think it’s worth taking seriously enough to actually unpack the claims and investigate whether they’re literally &lt;em&gt;true.&lt;/em&gt;&lt;/p&gt;
 
@@ -217,7 +229,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[14] Farago, Adam, et al. &lt;em&gt;Cognitive skills and economic preferences in the fund industry&lt;/em&gt;. No. 2019-16. Working Papers in Economics and Statistics, 2019.&lt;/p&gt;
 
-&lt;p&gt;[15] Wiltbank, Robert. “Investment practices and outcomes of informal venture investors.” &lt;em&gt;Venture Capital&lt;/em&gt; 7.4 (2005): 343-357.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">The Hypothesis</summary></entry><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[15] Wiltbank, Robert. “Investment practices and outcomes of informal venture investors.” &lt;em&gt;Venture Capital&lt;/em&gt; 7.4 (2005): 343-357.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">The Hypothesis</summary></entry><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-07:00</published><updated>2021-01-17T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In trying to understand how aggression works, as well as aggressive emotions like anger, I decided to go to the animal literature.  Human psychology research is all too prone to being determined by researchers’ preconceptions, and we all have a lot of firsthand experience and personal agendas when it comes to theorizing about human behavior. It’s easier to get some distance when thinking about animals; we have less stake in any particular theory of how animal emotions work.  It’s also easier to set up experimental conditions with animals that would be hard to do ethically with humans, like keeping them in confinement and exposing them to stressors.&lt;/p&gt;
 
@@ -1205,7 +1217,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[117]Naganuma, Fumito, et al. “Histamine N-methyltransferase regulates aggression and the sleep-wake cycle.” &lt;em&gt;Scientific reports&lt;/em&gt; 7.1 (2017): 1-9.&lt;/p&gt;
 
-&lt;p&gt;[118]De Felipe, Carmen, et al. “Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.” &lt;em&gt;Nature&lt;/em&gt; 392.6674 (1998): 394-397.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
+&lt;p&gt;[118]De Felipe, Carmen, et al. “Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.” &lt;em&gt;Nature&lt;/em&gt; 392.6674 (1998): 394-397.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-06:00</published><updated>2020-07-29T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
 
 &lt;p&gt;Let me clarify; I don’t mean “happiness” in any kind of complex sense. I don’t mean wellbeing or eudaimonia or life satisfaction or anything like that.  I mean &lt;em&gt;being in a good mood&lt;/em&gt; – better than good, “high”, bubbly, enthusiastic.&lt;/p&gt;
 
@@ -1355,7 +1367,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[28]Tsai, Hsin-Chi, et al. “Hypomania following bilateral ventral capsule stimulation in a patient with refractory obsessive-compulsive disorder.” &lt;em&gt;Biological psychiatry&lt;/em&gt; 68.2 (2010): e7-e8.&lt;/p&gt;
 
-&lt;p&gt;[29]Springer, Utaka S., et al. “Long-term habituation of the smile response with deep brain stimulation.” &lt;em&gt;Neurocase&lt;/em&gt; 12.3 (2006): 191-196.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><summary type="html">Can a human be happy all the time?</summary></entry><entry><title type="html">COVID-19 Vaccine Update</title><link href="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html" rel="alternate" type="text/html" title="COVID-19 Vaccine Update" /><published>2020-07-24T00:00:00-04:00</published><updated>2020-07-24T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html">&lt;p&gt;So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.&lt;/p&gt;
+&lt;p&gt;[29]Springer, Utaka S., et al. “Long-term habituation of the smile response with deep brain stimulation.” &lt;em&gt;Neurocase&lt;/em&gt; 12.3 (2006): 191-196.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><summary type="html">Can a human be happy all the time?</summary></entry><entry><title type="html">COVID-19 Vaccine Update</title><link href="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html" rel="alternate" type="text/html" title="COVID-19 Vaccine Update" /><published>2020-07-24T00:00:00-06:00</published><updated>2020-07-24T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html">&lt;p&gt;So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.&lt;/p&gt;
 
 &lt;p&gt;Moderna [1] has been testing an mRNA vaccine called mRNA-1273, consisting of the RNA encoding a portion of the COVID-19 virus’s spike protein, wrapped in a lipid nanoparticle. Their Phase 1 study on 45 healthy adults aged 18-55 found that there was a dose-dependent antibody response (relative to baseline) lasting until the end of the 60-day study, and that all participants’ antibodies were able to neutralize at least 80% of the COVID-19 virus in vitro. The antibodies were as effective at neutralizing virus as those in convalescent plasma from patients who had recovered.&lt;/p&gt;
 
@@ -1413,7 +1425,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[8]DiMasi, Joseph A., et al. “Development times and approval success rates for drugs to treat infectious diseases.” &lt;em&gt;Clinical Pharmacology &amp;amp; Therapeutics&lt;/em&gt; 107.2 (2020): 324-332&lt;/p&gt;
 
-&lt;p&gt;[9]Pronker, Esther S., et al. “Risk in vaccine research and development quantified.” &lt;em&gt;PloS one&lt;/em&gt; 8.3 (2013): e57755.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><category term="covid-19" /><summary type="html">So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.</summary></entry><entry><title type="html">Moving to New York</title><link href="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html" rel="alternate" type="text/html" title="Moving to New York" /><published>2020-07-20T00:00:00-04:00</published><updated>2020-07-20T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/20/moving-to-new-york</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html">&lt;p&gt;Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of &lt;a href=&quot;https://nanotronics.co/&quot;&gt;Nanotronics&lt;/a&gt;, a company that does automation and AI for manufacturing process control.&lt;/p&gt;
+&lt;p&gt;[9]Pronker, Esther S., et al. “Risk in vaccine research and development quantified.” &lt;em&gt;PloS one&lt;/em&gt; 8.3 (2013): e57755.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><category term="covid-19" /><summary type="html">So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.</summary></entry><entry><title type="html">Moving to New York</title><link href="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html" rel="alternate" type="text/html" title="Moving to New York" /><published>2020-07-20T00:00:00-06:00</published><updated>2020-07-20T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/20/moving-to-new-york</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html">&lt;p&gt;Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of &lt;a href=&quot;https://nanotronics.co/&quot;&gt;Nanotronics&lt;/a&gt;, a company that does automation and AI for manufacturing process control.&lt;/p&gt;
 
 &lt;p&gt;I’m going to be researching new applications for their core technology, a system that uses machine learning to tune parameters along a manufacturing pipeline – or to guide a human worker – to optimize output and quality.  I’m really excited about the possibilities here.  I’ve known some of the Nanotronics people for a long time, and feel lucky to be working with such brilliant and high-integrity folks.&lt;/p&gt;
 
@@ -1427,7 +1439,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;I still think that research thesis should be done, but we weren’t able to make it work as a business. We may have been too early; a new model organism &lt;em&gt;and&lt;/em&gt; a new technology platform &lt;em&gt;and&lt;/em&gt; being in the relatively new and controversial field of longevity means we had some skepticism to overcome.  Not to mention we were hit with a global pandemic before we could really get sales off the ground.&lt;/p&gt;
 
-&lt;p&gt;I’m disappointed that I couldn’t figure out a way to make Daphnia Labs work, but I’m moving on and excited for what lies ahead.&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of Nanotronics, a company that does automation and AI for manufacturing process control.</summary></entry><entry><title type="html">Dose-Response Effects of Viral Exposure in COVID-19</title><link href="https://srconstantin.github.io/2020/06/02/Dose-Response.html" rel="alternate" type="text/html" title="Dose-Response Effects of Viral Exposure in COVID-19" /><published>2020-06-02T00:00:00-04:00</published><updated>2020-06-02T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/06/02/Dose-Response</id><content type="html" xml:base="https://srconstantin.github.io/2020/06/02/Dose-Response.html">&lt;p&gt;&lt;img src=&quot;/images/virus-infection.jpg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’m disappointed that I couldn’t figure out a way to make Daphnia Labs work, but I’m moving on and excited for what lies ahead.&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of Nanotronics, a company that does automation and AI for manufacturing process control.</summary></entry><entry><title type="html">Dose-Response Effects of Viral Exposure in COVID-19</title><link href="https://srconstantin.github.io/2020/06/02/Dose-Response.html" rel="alternate" type="text/html" title="Dose-Response Effects of Viral Exposure in COVID-19" /><published>2020-06-02T00:00:00-06:00</published><updated>2020-06-02T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/06/02/Dose-Response</id><content type="html" xml:base="https://srconstantin.github.io/2020/06/02/Dose-Response.html">&lt;p&gt;&lt;img src=&quot;/images/virus-infection.jpg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Does being exposed to a small quantity of SARS-CoV-2 virus result in less severe disease than being exposed to a large quantity?&lt;/p&gt;
 
@@ -1896,7 +1908,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[48]Holterman, Lennart, et al. “The rate of progression to AIDS is independent of virus dose in simian immunodeficiency virus-infected macaques.” &lt;em&gt;Journal of General Virology&lt;/em&gt; 81.7 (2000): 1719-1726&lt;/p&gt;
 
-&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-04:00</published><updated>2020-05-04T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
+&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-06:00</published><updated>2020-05-04T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
 
 &lt;p&gt;Initially, patients with COVID-19 experiencing severe respiratory distress were supposed to be intubated and placed on ventilators early, and non-invasive ventilation procedures like CPAP, BiPAP, and high-flow nasal cannula were to be avoided because they might spread the disease.&lt;/p&gt;
 
@@ -1964,7 +1976,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[7]Caputo, Nicholas D., Reuben J. Strayer, and Richard Levitan. “Early Self‐Proning in Awake, Non‐intubated Patients in the Emergency Department: A Single ED’s Experience during the COVID‐19 Pandemic.” &lt;em&gt;Academic Emergency Medicine&lt;/em&gt; (2020).&lt;/p&gt;
 
-&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry><entry><title type="html">Antibody Testing for COVID-19</title><link href="https://srconstantin.github.io/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-04:00</published><updated>2020-04-27T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/04/27/antibody-testing</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry><entry><title type="html">Antibody Testing for COVID-19</title><link href="https://srconstantin.github.io/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/04/27/antibody-testing</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What’s In A COVID-19 Antibody Test?&lt;/strong&gt;&lt;/p&gt;
 
@@ -2544,7 +2556,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[46]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;
 
-&lt;p&gt;[47]Callow, Kathleen A. “Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection.” Epidemiology &amp;amp; Infection 95.1 (1985): 173-189.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation for COVID-19</title><link href="https://srconstantin.github.io/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-04:00</published><updated>2020-04-13T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/04/13/variolation</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[47]Callow, Kathleen A. “Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection.” Epidemiology &amp;amp; Infection 95.1 (1985): 173-189.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Variolation for COVID-19</title><link href="https://srconstantin.github.io/2020/04/13/variolation.html" rel="alternate" type="text/html" title="Variolation for COVID-19" /><published>2020-04-13T00:00:00-06:00</published><updated>2020-04-13T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/04/13/variolation</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/13/variolation.html">&lt;p&gt;&lt;img src=&quot;/images/anti-vaccination-cartoon.jpg&quot; alt=&quot;variolation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Variolation refers to a historical precursor of vaccination used for smallpox. Healthy subjects were inoculated with material from the scabs of smallpox patients, which usually gave them a mild version of the disease and protected them from contracting the full disease.&lt;/p&gt;
 
@@ -2678,7 +2690,7 @@ This whole point is why I’m not a socialist. I don’t think it matters much w
 
 &lt;p&gt;[20]Heckert, R. A., et al. “Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.” &lt;em&gt;American journal of veterinary research&lt;/em&gt; 52.6 (1991): 845-851.&lt;/p&gt;
 
-&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-04:00</published><updated>2020-04-05T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
 
