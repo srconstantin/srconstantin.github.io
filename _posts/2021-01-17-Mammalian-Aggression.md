@@ -135,9 +135,9 @@ What the mammal literature says about aggression is that it splits neatly into d
   <tr>
    <td><strong>Other positively associated hormones</strong>
    </td>
-   <td>cholecystokinin, dopamine,histamine, substance P 
+   <td>cholecystokinin, dopamine, histamine, substance P 
    </td>
-   <td>ACTH, CRH,histamine, norepinephrine,substance P,vasopressin
+   <td>ACTH, CRH, histamine, norepinephrine, substance P, vasopressin
    </td>
    <td>NO, vasopressin, oxytocin
    </td>
@@ -161,7 +161,7 @@ What the mammal literature says about aggression is that it splits neatly into d
    </td>
    <td>amygdala, hippocampus, PAG
    </td>
-   <td>Amygdala,lateral hypothalamus, lateral septum, olfactory bulb
+   <td>Amygdala, lateral hypothalamus, lateral septum, olfactory bulb
    </td>
    <td>dorsal raphe, lateral septum
    </td>
@@ -183,11 +183,11 @@ What the mammal literature says about aggression is that it splits neatly into d
   <tr>
    <td><strong>Drugs that increase the behavior</strong>
    </td>
-   <td>amitriptyline, delta-9-THC, desmethylimipramine, ethanol,imipramine,iproniazid, naloxone, nialamide, pargyline
+   <td>amitriptyline, delta-9-THC, desmethylimipramine, ethanol, imipramine, iproniazid, naloxone, nialamide, pargyline
    </td>
-   <td>amphetamine, anabolic steroids, chlordiazepoxide,cyproheptadine,ethanol,fenfluramine, PCPA
+   <td>amphetamine, anabolic steroids, chlordiazepoxide, cyproheptadine, ethanol, fenfluramine, PCPA
    </td>
-   <td>alprazolam,chlordiazepoxide, diazepam,fluoxetine,oxazepam 
+   <td>alprazolam, chlordiazepoxide, diazepam, fluoxetine, oxazepam 
    </td>
    <td>arecoline
    </td>
@@ -195,11 +195,11 @@ What the mammal literature says about aggression is that it splits neatly into d
   <tr>
    <td><strong>Drugs that decrease the behavior</strong>
    </td>
-   <td>lithium,opioids,PCP
+   <td>lithium, opioids, PCP
    </td>
-   <td>5-HT,cannabis,citalopram,fluoxetine, fluprazine, naloxone, quipazine, tryptophan
+   <td>5-HT, cannabis, citalopram, fluoxetine, fluprazine, naloxone, quipazine, tryptophan
    </td>
-   <td>5-HT, amitriptyline, amfonelic acid, desipramine,fluprazine, GnRH antagonists, imipramine, morphine, NOS inhibitors, PCPA
+   <td>5-HT, amitriptyline, amfonelic acid, desipramine, fluprazine, GnRH antagonists, imipramine, morphine, NOS inhibitors, PCPA
    </td>
    <td>5-HT, amphetamine, atropine,  delta-9-cannabidiol, ethanol, scopolamine
    </td>
@@ -328,13 +328,13 @@ There are major differences between the ways “social aggression” is studied 
 
 In rodents, “offensive aggression” is defined as the propensity for an individual to attack an unknown intruder into his space.  Since the “resident” invariably defeats the “intruder”, dominance and “offensive aggression” are identical.  Dominant rodents are higher in testosterone than average and have more access to mates.  In rodents, the relationship between social aggression and the hormones serotonin and testosterone is straightforward: testosterone raises social aggression and serotonin lowers it.   Stress and anxiety anticorrelate with offensive aggression.
 
-In primates and social carnivores such as wolves and mongooses, however, studies are typically done within a group of individuals who live together (in the wild or the lab).  Conflicts are primarily with community members, and only occasionally with strangers.  And intragroup conflicts often resolve with little or no physical violence, just threat behaviors and mild scuffling.  So “dominance” is a more complex phenomenon; a dominant individual in a group is the one who wins most conflicts and receives the most submission behavior, and has the most access to resources (like mates, food, and water), but the dominant individual is _not _necessarily the most aggressive individual.  
+In primates and social carnivores such as wolves and mongooses, however, studies are typically done within a group of individuals who live together (in the wild or the lab).  Conflicts are primarily with community members, and only occasionally with strangers.  And intragroup conflicts often resolve with little or no physical violence, just threat behaviors and mild scuffling.  So “dominance” is a more complex phenomenon; a dominant individual in a group is the one who wins most conflicts and receives the most submission behavior, and has the most access to resources (like mates, food, and water), but the dominant individual is _not_ necessarily the most aggressive individual.  
 
 The relationship between dominance, aggression, and the hormones testosterone, serotonin, and cortisol, is likewise complicated in primates and in social carnivores. Dominance rank does not necessarily correlate positively with aggression.  Completely nonviolent individuals are, by definition, at the bottom of the dominance hierarchy (they lose all fights they’re in), but otherwise, in primates and carnivores, “fighting more” is not necessarily “winning more.”  The most dominant individuals in a stable hierarchy are rarely threatened, and can easily cause others to back down with a harmless threat display.
 
 Aggression does not always correlate with cortisol in primates and social carnivores. Dominance usually correlates positively with baseline cortisol levels.  On the other hand, losing fights causes an _acute_ spike in cortisol in the loser. Because of the negative feedback in cortisol levels, these two observations are consistent; frequent experiences of losing fights can be expected to _depress_ long-term baseline cortisol levels, even as each losing battle causes a spike in cortisol in the short term.  
 
-Serotonin in primates correlates _positively _with dominance rank and with _non-severe_ aggression (initiating threat displays or harmless physical scuffles) but _negatively_ with severe aggression (wounding another primate).  As in rodents, low serotonin correlates with serious violence in primates, but primates also have a more complex repertoire of dominant/threatening social behavior which are associated with _high_ serotonin.  
+Serotonin in primates correlates _positively_ with dominance rank and with _non-severe_ aggression (initiating threat displays or harmless physical scuffles) but _negatively_ with severe aggression (wounding another primate).  As in rodents, low serotonin correlates with serious violence in primates, but primates also have a more complex repertoire of dominant/threatening social behavior which are associated with _high_ serotonin.  
 
 Testosterone, though, in primates and carnivores just as in rodents, has a straightforward positive correlation with both dominance and aggression.
 
@@ -567,7 +567,7 @@ Morphine reduces maternal care for pups and maternal aggression in mice.[68]
 
 _Maternal Aggression in Rats_
 
-Maternal aggression in rodents, like predatory aggression and unlike social aggression, is _not _accompanied by a cortisol response, elevated arousal, or social signaling (threats).  Maternal aggression tends to attack more vulnerable body parts (the belly) as opposed to social aggression (which attacks the back) or defensive aggression (which attacks the face).[33]
+Maternal aggression in rodents, like predatory aggression and unlike social aggression, is _not_ accompanied by a cortisol response, elevated arousal, or social signaling (threats).  Maternal aggression tends to attack more vulnerable body parts (the belly) as opposed to social aggression (which attacks the back) or defensive aggression (which attacks the face).[33]
 
 Female rats become more aggressive against unfamiliar rats during pregnancy, after birth, and during lactation. To a lesser extent, cohabiting with even a sterile male induces increased aggression in female rats.[6]
 
@@ -673,7 +673,7 @@ _Predatory Aggression in Primates_
 
 Many species of primates engage in some predation, against frogs, lizards, snakes, birds, or monkeys. Almost all use the craniocervical bite, a killing bite to the head or neck of the prey.  The exception is the baboon, which often starts to eat before its prey is dead, perhaps because the baboon’s size and strength allow it to immobilize prey even without immediately killing it.[30]
 
-_Predatory Aggression in Rats _
+_Predatory Aggression in Rats_
 
 Rats often kill and eat frogs and turtles. Attacks on these animals are probably a better measure of rat predatory aggression than mouse-killing, even though rats do often eat mice as well; mouse-killing seems stimulated by some of the same mechanisms as social aggression and is a less “pure” instance of the class.
 
@@ -749,7 +749,7 @@ Human evolution, our own “domestication”, probably did the same thing; we ha
 
 Among contemporary humans, showing frustration is viewed as a sign of weakness, but being calmly dangerous can earn respect. We admire predatory (and social) aggression, but disdain defensive aggression.  
 
-As far as hormones go, serotonin seems to clearly correlate with what might be termed “contentment” or “satiety.” It reduces motivation to hunt and to engage in social aggression, reliably across animals.  High serotonin levels correlate with and even cause dominant social rank; the very most dominant individuals in a hierarchy are typically _less_violent, or less severely violent, than the mid-rank individuals, presumably because they’re so high status they don’t have to fight much.
+As far as hormones go, serotonin seems to clearly correlate with what might be termed “contentment” or “satiety.” It reduces motivation to hunt and to engage in social aggression, reliably across animals.  High serotonin levels correlate with and even cause dominant social rank; the very most dominant individuals in a hierarchy are typically _less_ violent, or less severely violent, than the mid-rank individuals, presumably because they’re so high status they don’t have to fight much.
 
 Testosterone seems to increase motivation to engage in _both_ social aggression and social submission, while progesterone inhibits both aggression and submission.  This is contrary to the stereotype of submission as “unmanly”.  
 
