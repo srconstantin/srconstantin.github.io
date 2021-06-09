@@ -6,7 +6,7 @@ tags: [lit-review]
 
 In the last post, I found evidence for the claim that a minority of investment firms seek out _more information_ than others, and that firms in this “infovore” minority see above-average returns on investments.
 
-In other words, the median financial investment firm is doing _less research_than is optimal, in terms of economic self-interest.
+In other words, the median financial investment firm is doing _less research_ than is optimal, in terms of economic self-interest.
 
 Is this a social problem that we should care about even if we don’t work at investment firms?  
 
