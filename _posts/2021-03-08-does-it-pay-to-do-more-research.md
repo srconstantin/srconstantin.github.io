@@ -102,7 +102,7 @@ Overall, engaging in more research into company fundamentals, and being in some 
 *   Mutual fund managers who score higher on the Cognitive Reflection Test (a measure of how good people are at avoiding intuitive-but-wrong answers; strongly correlated with IQ) have funds with higher Sharpe ratios (the same returns, but less risk) than their low-scoring peers.  That is, roughly, being less prone to “jump to conclusions” is associated with better investment performance.
 *   Angel investors who do more due diligence have a significantly higher proportion of their investments become “home runs”, defined as investments where the investor receives returns of at least 100% upon exit of the company.
 
-Strikingly, the biggest downloader of public financial documents is Renaissance Capital, whose [66% annual returns over the past 30 years](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3504766) dwarf anything else in the financial markets.
+Strikingly, the biggest downloader of public financial documents is Renaissance Technologies, whose [66% annual returns over the past 30 years](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3504766) dwarf anything else in the financial markets.
 
 It seems to be the case that spending more time and effort on fact-finding that relates to fundamentals (reading financial documents, visiting factory sites, engaging in due diligence) and listening more closely to the employees who specialize in such research, is profitable -- and thus that most firms underinvest in it.
 
