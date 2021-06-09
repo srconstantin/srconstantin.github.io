@@ -1,4 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-06-09T14:17:58-06:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-07:00</published><updated>2021-03-08T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-06-09T14:21:45-06:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Do High-Performing Investment Firms Drive Out Low Performers?</title><link href="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html" rel="alternate" type="text/html" title="Do High-Performing Investment Firms Drive Out Low Performers?" /><published>2021-06-09T00:00:00-06:00</published><updated>2021-06-09T00:00:00-06:00</updated><id>https://srconstantin.github.io/2021/06/09/Investment-Turnover</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html">&lt;p&gt;In the last post, I found evidence for the claim that a minority of investment firms seek out _more information _than others, and that firms in this “infovore” minority see above-average returns on investments.&lt;/p&gt;
+
+&lt;p&gt;In other words, the median financial investment firm is doing _less research _than is optimal, in terms of economic self-interest.&lt;/p&gt;
+
+&lt;p&gt;Is this a social problem that we should care about even if we don’t work at investment firms?&lt;/p&gt;
+
+&lt;p&gt;Does it indicate that there’s pervasive &lt;em&gt;malinvestment&lt;/em&gt; into bad projects, and &lt;em&gt;underinvestment&lt;/em&gt; into good projects?&lt;/p&gt;
+
+&lt;p&gt;Well, not exactly.&lt;/p&gt;
+
+&lt;p&gt;First of all, there’s the issue that “good” from my perspective as a person who lives on Planet Earth, does not necessarily line up exactly with “profitable for its investors.”&lt;/p&gt;
+
+&lt;p&gt;But I’m not too worried about that issue. If an investor is failing to do enough research to maximize his own profits, it’s very unlikely that he’s doing enough research to invest in companies with the most “positive externalities” or “public benefit.” Benefits and harms to third parties are harder to find good information about than financial returns, and investors have less incentive to seek out that information.  So “investors don’t do enough research to maximize profits” probably means they &lt;em&gt;also&lt;/em&gt; don’t do enough research to maximally make the world a better place.&lt;/p&gt;
+
+&lt;p&gt;The more critical issue is about turnover and competition.&lt;/p&gt;
+
+&lt;p&gt;Maybe the majority of investment firms are Terrible At Investing (to dramatize the situation a bit), but they are also small and go out of business quickly, while the few firms that are Good At Investing stick around year after year and grow large.  In such a situation, most investment capital is &lt;em&gt;not&lt;/em&gt; tied up in unprofitable projects; the bad investors may be more numerous but the good investors control more of the resources.  (Or, the good investors are &lt;em&gt;trending towards&lt;/em&gt; controlling most of the resources in the long run.)&lt;/p&gt;
+
+&lt;p&gt;This is a testable hypothesis.  It makes certain predictions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;High-performing investment firms survive longer than low-performing investment firms.&lt;/li&gt;
+  &lt;li&gt;High-performing investment firms have more money under management than low-performing investment firms.&lt;/li&gt;
+  &lt;li&gt;High-performing investment firms get more inflows (new investment dollars from clients) than low-performing investment firms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Survival&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The available data confirms the hypothesis that high-performing investment firms usually survive longer than low-performing ones.&lt;/p&gt;
+
+&lt;p&gt;Most hedge funds don’t live long.  The median hedge fund only lasts a few years. And survival probabilities consistently correlate with performance, as measured by market returns.  Bad hedge funds, it seems, do tend to go out of business faster than good ones, and in relatively short time frames.&lt;/p&gt;
+
+&lt;p&gt;Commodity trading advisors (CTAs) also have short lifespans, with median survival of 4.42 years, and they too survive longer when their returns are higher.&lt;/p&gt;
+
+&lt;p&gt;Mutual funds live longer, with a median lifespan of about 12-17 years.  In most, but not all, studies, they too have higher survival probabilities when they perform better. But malinvestment can persist longer in poorly-performing mutual funds.  (In fact, mutual funds as a class usually underperform index funds without dying out, which indicates persistent malinvestment.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Commodity Trading Funds&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a sample of 1504 commodity trading funds (CTAs) between 1990 and 2003, median survival was 4.42 years. Mean monthly return correlated positively with survival, p&amp;lt;0.0001.  Above-median return firms survived an median of 6.16 years, while below-median return firms survived an average of 3.25 years.[1]&lt;/p&gt;
+
+&lt;p&gt;The hazard ratio associated with median return was 0.88, i.e. for each 1% additional percentage point of monthly return, there’s a reduction of 11.20% of the risk of failure.[1]&lt;/p&gt;
+
+&lt;p&gt;In a sample of 1053 CTAs, each 1% additional percentage point of annual alpha, or risk-adjusted return in the CAPM model, corresponds to a 9.6% reduced risk of firm failure.[4]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hedge Funds&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 3491 hedge funds located in the Asia Pacific region, a probit model for the probability of failure of a firm found a negative relationship with mean firm performance, (-0.39, p&amp;lt;0.01), indicating that better-performing firms survive longer.  The hazard ratio for mean return is 0.52, indicating that each 1% increase in annual returns corresponds to a halving of the annual risk of firm failure.[2]&lt;/p&gt;
+
+&lt;p&gt;Assets under management also have a slight negative correlation (-0.01, p&amp;lt;0.01) with probability of failure, indicating that larger firms survive longer.[2]&lt;/p&gt;
+
+&lt;p&gt;In a sample of 5827 hedge funds, firm returns correlate negatively (p&amp;lt;0.01) with the probability of firm liquidation. Each 1% increase in average return corresponds to a 7% reduction in the rate of failure.[3]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 1091 hedge funds and commodity trading advisor funds, 1971-1998, in a probit multivariate model predicting probability of firm failure, there was a significant negative association between a firm’s CAPM alpha (or market risk-adjusted performance) and its probability of failure.  A 1% increase in a hedge fund’s annual alpha corresponds to a 18.7% lower risk of failure, in a Cox proportional hazards model. [4]&lt;/p&gt;
+
+&lt;p&gt;In a database of 2776 hedge funds, 1990-2001, the median survival time was 5.5 years. In a chi-squared test, there was a significant (p&amp;lt;0.001) positive association between survival time and both amount under management and average monthly return. The hazard ratio associated with mean monthly return was 0.899; that is, a 1% increase in monthly return corresponds to a 10% lower risk of liquidation.[5]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 1222 hedge funds, 1985-2005, mean survival was around 4-6 years, and failure probability was negatively correlated (p&amp;lt;0.01) with return in the past year or in the previous year.  Mean return was associated with a hazard ratio of 0.726, or each 1% increase in mean return corresponds to a 27.4% lower risk of firm failure.[6]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 6943 hedge funds over the period 1963-2005, 64% of the hedge funds survived for less than 5 years, 25% survived 10-30 years, and 11% survived more than 30 years. Median survival was 5 years.  The probability of failure in a year was negatively correlated (coefficient -0.034, p&amp;lt;0.001) with performance.  Every 1% increase in monthly performance corresponds to a 3.6% decrease in the hazard rate of firm failure.[7]&lt;/p&gt;
+
+&lt;p&gt;Larger hedge funds’ failure risk is more sensitive to performance; in firms with &amp;gt;$100M under management, each 1% increase in monthly performance corresponds to a 6% decrease in hazard rate.  That is, small firms have a high failure rate whether they’re good or bad, but large firms are much more likely to survive if they’re good than if they’re bad.[7]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mutual Funds&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 2375 UK mutual funds, over the period 1972-1995, median survival was 16.7 years, and hazard rate correlated negatively (t = -3.180) with market return.[8]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 1057 Spanish mutual funds, over the period 2006-2016,  median survival is 17 years.  Survival does &lt;em&gt;not&lt;/em&gt; correlate with returns in the past year or three years.[9]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of mutual funds, 1980-2000, median survival was 12 years.  Survival was significantly associated with fund performance; a 1% increase in Sharpe ratio was associated with a 2% reduction of risk of fund liquidation.[10]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It appears that better-performing funds cannot generally grow their amount under management to “take over” the market.  The most inclusive datasets show that as funds grow, their returns worsen.&lt;/p&gt;
+
+&lt;p&gt;In a sample of 924 hedge funds listed in a commercial dataset between 1994 and 1996, average returns were positively correlated (coeff = 0.090) with the amount of assets under management.[11]&lt;/p&gt;
+
+&lt;p&gt;In a sample of 4327 hedge funds in a commercial dataset from 1994-2003, there is a weak positive correlation between asset sizes and returns.  In a linear regression, the correlation coefficient of log assets on mean annualized returns was 0.0036 (p = 0.0048). There is a much stronger negative correlation between firm size and variance in returns, and correspondingly a positive correlation between firm size and Sharpe ratio (which is mean excess return divided by standard deviation of return).[12]&lt;/p&gt;
+
+&lt;p&gt;The largest hedge funds are not listed at all in the commercially available hedge fund databases. When unlisted hedge funds are included, firm size correlates &lt;em&gt;negatively&lt;/em&gt; with firm returns (coefficient = -0.03, t-value = -2.17)[13]&lt;/p&gt;
+
+&lt;p&gt;In a sample of 7417 hedge funds from commercial datasets, 1994-2008, the two smallest size quintiles have significantly higher average abnormal returns than the two largest size quintiles, and there is a negative correlation (-0.25) between average risk-adjusted returns and amount under management.[14]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inflows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;New inflows of investment (in institutional or individual investors) do correlate positively with fund performance, indicating that investors reward good performance and punish bad performance. However, this incentive tends to be focused on the low end of performance (investors punish the lowest performing funds, but don’t reward the highest performing funds) and focused on short-term results.&lt;/p&gt;
+
+&lt;p&gt;Hedge fund performance and inflows correlate positively.  The top quintile of hedge funds by performance, measured by excess returns, gets 0.2% more investment a year by wealthy individuals, and 0.15% more investment a year by institutional investors; by contrast, the bottom-performing quintile of hedge funds &lt;em&gt;loses&lt;/em&gt; 0.05% per year from institutional investors and loses 0.17% per year from wealthy individuals.[15]&lt;/p&gt;
+
+&lt;p&gt;Growth in amount under management correlates positively (0.32) with firm returns, out of a sample of 5827 hedge funds.[3]&lt;/p&gt;
+
+&lt;p&gt;In a dataset of 1392 hedge funds, 1979-2000, cash inflows correlate well with returns in the previous quarter.  A 1% increase in returns in the most recent quarter corresponds to an 0.25% expected increase in cash inflows.[12]&lt;/p&gt;
+
+&lt;p&gt;Hedge funds are required to file Form D with the SEC, disclosing their number of new investors and size of offering.  Using this dataset, there were 22,800 hedge funds that filed Form D between 2009 and 2014, only 17% of which were listed in the commercial databases used in other studies of hedge funds. Net flows greatly differ based on prior quarter performance: the bottom quintile performers in the previous quarter had net cashflow of -10.2%, while the top quintile performers had net cashflow of 27.2%.  Inflows correlate strongly (p&amp;lt;0.01) positively with high returns and anticorrelate with the standard deviation of returns. Outflows are positively correlated (p &amp;lt;0.05) with low returns.  Fund death is significantly (p&amp;lt;0.01) negatively correlated with fund returns.[16]&lt;/p&gt;
+
+&lt;p&gt;If you look at the above-median cashflow funds as an “investment portfolio” (the funds that investors increased their holdings in) and the below-median cashflow funds as the “divestment portfolio” (the funds that investors decreased their holdings in, the difference between these portfolios (either equal-weighted or cash-flow weighted) actually &lt;em&gt;underperforms&lt;/em&gt; the market,by at least 1% per quarter in subsequent quarters.  In other words, investors reward short-term good performance and punish short-term bad performance, but this isn’t generally predictive of long-term results.  Good short-run performance is &lt;em&gt;not&lt;/em&gt; predictive of good long-run performance, so the cash-flow weighted “investment portfolio” underperforms an equal-weighted strategy.  By contrast, bad short-run performance &lt;em&gt;is&lt;/em&gt; predictive of bad long-run performance, so the cash-flow weighted “divestment portfolio” outperforms an equal-weighted strategy.[17]&lt;/p&gt;
+
+&lt;p&gt;86% of all negative cash flows are from investors divesting from the bottom-decile performing hedge funds, which also have very high (&amp;gt;22%) rates of liquidation within two years. Investors are good at driving out the very worst hedge funds, but not at picking persistent winners.  Investors tend to invest the most in the largest funds, which have medium returns, and neglect the smaller funds that comprise the top and bottom performers. There is persistence in winners, but investors aren’t exploiting it; a portfolio that just invested in last quarter’s above-median hedge funds would have outperformed the actual cash flow allocations of investors.[17]&lt;/p&gt;
+
+&lt;p&gt;Similarly, in corporate bond mutual funds, their outflows are more sensitive to bad performance than their inflows are to good performance.[18]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems that of our three hypotheses, one is true, one is false, and one is mixed.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do high-performing investment firms survive longer than low-performing investment firms?
+    &lt;ul&gt;
+      &lt;li&gt;Yes, they do.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Do high-performing investment firms have more money under management than low-performing investment firms?
+    &lt;ul&gt;
+      &lt;li&gt;No; the correlation between size and performance may even be negative.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Do high-performing investment firms get more inflows (new investment dollars from clients) than low-performing investment firms?
+    &lt;ul&gt;
+      &lt;li&gt;Yes, but this is generally an asymmetric relationship; investors “punish” especially low-performing firms but don’t “reward” especially high-performing firms.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a world where a minority of exceptionally good investors and investment firms perform &lt;em&gt;much&lt;/em&gt; better than the mediocre majority, do we see the exceptionally good investors “driving out” the mediocre ones?&lt;/p&gt;
+
+&lt;p&gt;The picture is mixed, but it seems that no, on the whole, we do not. The below-average firms do die sooner than average, but the best firms don’t necessarily grow to “take over.”  And new firms, mostly mediocre, will enter the market to fill the gap when the worst of the last batch have gone out of business.  “Bad investors”, in the long term, remain a substantial percent of the market, even if they have higher turnover than “good investors.”&lt;/p&gt;
+
+&lt;p&gt;So yes, we can conclude that a substantial fraction of investment dollars are being allocated by “bad investors.”&lt;/p&gt;
+
+&lt;p&gt;One model of why “good investors” don’t drive out “bad investors” is that there are diminishing returns to scale.&lt;/p&gt;
+
+&lt;p&gt;A small firm may show great investment returns because it knows about a handful of good investment opportunities; if you give that firm more money to manage, it doesn’t necessarily know more good things to do with the money, so its returns will drop.  To the extent institutional investors know this, they will be reluctant to reward especially-high-performing firms with more inflows. This would explain the picture we see.&lt;/p&gt;
+
+&lt;p&gt;On this model, “allocate more resources to the smartest existing investors” isn’t going to reduce the amount of malinvestment in the system as a whole, nor will it even necessarily be profitable.&lt;/p&gt;
+
+&lt;p&gt;That’s the bad news. The good news is that the model predicts that there’s “room” for many more small, smart investors to enter the market, and that they’ll be more likely than average to stick around, even if they have trouble growing very big.&lt;/p&gt;
+
+&lt;p&gt;This &lt;em&gt;would&lt;/em&gt; decrease the total amount of malinvestment, albeit slowly, because new, small, smart investors would compete with the exceptionally bad investors (who tend to fail early).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Gregoriou, Greg N., et al. “Survival of commodity trading advisors: 1990–2003.” &lt;em&gt;Journal of Futures Markets: Futures, Options, and Other Derivative Products&lt;/em&gt; 25.8 (2005): 795-816.&lt;/p&gt;
+
+&lt;p&gt;[2]Chen, Jianguo, Martin Young, and Mui Kuen Yuen. “HEDGE FUND FACTORS AND SURVIVAL ANALYSIS: EVIDENCE FROM ASIA PACIFIC.”&lt;/p&gt;
+
+&lt;p&gt;[3]Gupta, Jairaj, Adrien Becam, and Andros Gregoriou. “Does Size Matter in Predicting Hedge Funds’ Liquidation?.” &lt;em&gt;European Financial Management (Forthcoming)&lt;/em&gt; (2017).&lt;/p&gt;
+
+&lt;p&gt;[4]Goetzmann, William N., Stephen J. Brown, and James M. Park. “Conditions for survival: Changing risk and the performance of hedge fund managers and CTAs.” &lt;em&gt;Yale School of Management Working Paper No. F-59&lt;/em&gt; (1997).&lt;/p&gt;
+
+&lt;p&gt;[5]Gregoriou, Greg N. “Hedge fund survival lifetimes.” &lt;em&gt;Journal of Asset Management&lt;/em&gt; 3.3 (2002): 237-252.&lt;/p&gt;
+
+&lt;p&gt;[6]Baba, Naohiko, and Hiromichi Goko. “Survival analysis of hedge funds.” &lt;em&gt;Institute for Monetary and Economic Studies and Financial Markets Department&lt;/em&gt; 6 (2006).&lt;/p&gt;
+
+&lt;p&gt;[7]Nhogue Wabo, Blanche Nadege. &lt;em&gt;Hedge funds and Survival analysis&lt;/em&gt;. Diss. Université d’Ottawa/University of Ottawa, 2013.&lt;/p&gt;
+
+&lt;p&gt;[8]Lunde, Asger, Allan Timmermann, and David Blake. “The hazards of mutual fund underperformance: A Cox regression analysis.” &lt;em&gt;Journal of Empirical Finance&lt;/em&gt; 6.2 (1999): 121-152.&lt;/p&gt;
+
+&lt;p&gt;[9]Barberà-Mariné, M. Glòria, Laura Fabregat-Aibar, and Antonio Terceño. “Investment objectives and factors that influence the disappearance of Spanish mutual funds.” &lt;em&gt;Journal of Business Economics and Management&lt;/em&gt; 21.1 (2020): 255-276&lt;/p&gt;
+
+&lt;p&gt;[10]Keenan, Alexander J. &lt;em&gt;The CAPM and the duration of poorly performing mutual funds&lt;/em&gt;. No. 2001-04. Working Paper, 2001..&lt;/p&gt;
+
+&lt;p&gt;[11]Liang, Bing. “On the performance of hedge funds.” &lt;em&gt;Financial Analysts Journal&lt;/em&gt; 55.4 (1999): 72-85.&lt;/p&gt;
+
+&lt;p&gt;[12]Ammann, Manuel, and Patrick Moerth. “Impact of fund size on hedge fund performance.” &lt;em&gt;Journal of Asset Management&lt;/em&gt; 6.3 (2005): 219-238.&lt;/p&gt;
+
+&lt;p&gt;[13]Barth, Daniel, et al. “The hedge fund industry is bigger (and has performed better) than you think.” &lt;em&gt;OFR WP&lt;/em&gt; (2020): 20-01.&lt;/p&gt;
+
+&lt;p&gt;[14]Teo, Melvyn. “Does size matter in the hedge fund industry?.” &lt;em&gt;Available at SSRN 1331754&lt;/em&gt; (2009).&lt;/p&gt;
+
+&lt;p&gt;[15]Sinclair, Andrew, and Chuyi Zhang. “Do Wealthy Investors Benefit from Access to Hedge Funds?.” &lt;em&gt;Available at SSRN 3779042&lt;/em&gt; (2021).&lt;/p&gt;
+
+&lt;p&gt;[16]Jorion, Philippe, and Christopher Schwarz. &lt;em&gt;Who are the smartest investors in the room? Evidence from US hedge funds solicitation&lt;/em&gt;. Working paper, University of California at Irvine, 2015.&lt;/p&gt;
+
+&lt;p&gt;[17]Baquero, Guillermo, and Marno Verbeek. “A portrait of hedge fund investors: Flows, performance and smart money.” ERIM Report Series Reference No. ERS-2005-068-F&amp;amp;A (2005).&lt;/p&gt;
+
+&lt;p&gt;[18]Goldstein, Itay, Hao Jiang, and David T. Ng. “Investor flows and fragility in corporate bond funds.” &lt;em&gt;Journal of Financial Economics&lt;/em&gt; 126.3 (2017): 592-613.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">In the last post, I found evidence for the claim that a minority of investment firms seek out _more information _than others, and that firms in this “infovore” minority see above-average returns on investments.</summary></entry><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-07:00</published><updated>2021-03-08T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Do investors profit from spending more time and effort researching and analyzing their decisions?  Does it pay to be an “infovore” who seeks out an unusual amount of information?&lt;/p&gt;
 
@@ -2664,40 +2838,4 @@
 
 &lt;p&gt;[20]Heckert, R. A., et al. “Epidemiologic factors and isotype-specific antibody responses in serum and mucosal secretions of dairy calves with bovine coronavirus respiratory tract and enteric tract infections.” &lt;em&gt;American journal of veterinary research&lt;/em&gt; 52.6 (1991): 845-851.&lt;/p&gt;
 
-&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">CPAP for COVID-19</title><link href="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html" rel="alternate" type="text/html" title="CPAP for COVID-19" /><published>2020-04-05T00:00:00-06:00</published><updated>2020-04-05T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/05/CPAP-for-COVID19.html">&lt;p&gt;&lt;img src=&quot;/images/mercedes-CPAP.jpg&quot; alt=&quot;shield&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As COVID-19 sweeps the world, there are more patients who have severe cases of respiratory failure than there are ICU beds and ventilator machines to help them breathe.  Doctors have been forced to find creative solutions to the crisis – and they’re turning to a technique called CPAP, which is gaining credence as a treatment for severe COVID-19.&lt;/p&gt;
-
-&lt;p&gt;CPAP stands for continuous positive airway pressure, and refers to a device that blows a steady stream of air into the lungs (which may be supplemented with extra oxygen) to help patients who have moderate difficulty breathing independently.  It may reduce the need for ventilation, which is crucial when ventilators are scarce.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-020-00926-4&quot;&gt;Nature&lt;/a&gt;&lt;/em&gt; reports on a team of clinicians from the UK, China, and Italy using a CPAP device, now being used in &lt;a href=&quot;https://www.bmj.com/content/368/bmj.m1294.full&quot;&gt;clinical trials&lt;/a&gt; at University College London Hospital.  These machines have been widely used in Italy, where they prevented the need for ventilation in 50% of patients. (A prospective study on the effectiveness of CPAP on COVID-19 in Italy is &lt;a href=&quot;https://clinicaltrials.gov/ct2/show/NCT04307459?term=covid-19+cpap&amp;amp;draw=2&quot;&gt;ongoing&lt;/a&gt;; in &lt;a href=&quot;https://srconstantin.github.io/2020/03/22/non-invasive-ventilation.html&quot;&gt;China&lt;/a&gt;, non-invasive ventilation such as CPAP successfully avoided the need for invasive ventilation in 77% of treated patients.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2020/03/30/tech/mercedes-f1-breathing-aid-coronavirus/index.html&quot;&gt;Mercedes F1&lt;/a&gt; engineers designed the device, which can be quickly mass produced and has been recommended for use by the UK Medicines and Healthcare Products Regulatory Agency.&lt;/p&gt;
-
-&lt;p&gt;In the US, Elon Musk has been &lt;a href=&quot;https://www.teslarati.com/tesla-elon-musk-cpap-ventilator-coronavirus/&quot;&gt;donating CPAP/BiPAP machines&lt;/a&gt; to hospitals; these machines can be converted into ventilators if necessary, or used as-is on patients with milder respiratory distress to prevent them needing invasive (and scarce) mechanical ventilation.&lt;/p&gt;
-
-&lt;p&gt;CPAP and BiPAP for respiratory disorders are &lt;a href=&quot;https://www.npr.org/sections/health-shots/2020/03/27/822211604/cpap-machines-were-seen-as-ventilator-alternatives-but-could-spread-covid-19&quot;&gt;controversial&lt;/a&gt;, as they are considered “aerosol generating procedures” that could spread particles of the virus around. However, evidence suggests that these non-invasive ventilation procedures actually produce &lt;a href=&quot;https://srconstantin.github.io/2020/03/22/contagion-risk-from-NIV.html&quot;&gt;droplets rather than aerosols&lt;/a&gt;, larger particles which usually land less than one meter from the patient, and CPAP masks don’t leak much exhaled air (less than a meter away from the patient) when the mask is a good fit, as a 2019 Hong Kong study &lt;a href=&quot;https://sci-hub.tw/10.1183/13993003.02339-2018&quot;&gt;showed.&lt;/a&gt;  ResMed, the leading manufacturer of CPAP machines, recommends that they be used in COVID-19 patients only when caregivers have protective equipment such as &lt;a href=&quot;https://www.resmed.com/en-us/covid-19/?utm_source=vanity&amp;amp;utm_medium=print&amp;amp;utm_content=covid19&amp;amp;utm_campaign=covid19-update&quot;&gt;N95 masks and eye protection.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Even the WHO’s guidance on treatment of &lt;a href=&quot;https://apps.who.int/iris/bitstream/handle/10665/331446/WHO-2019-nCoV-clinical-2020.4-eng.pdf&quot;&gt;COVID-19 &lt;/a&gt;acknowledges a place for CPAP and BiPAP machines.  The document recommends patients be given non-invasive ventilation only in monitored circumstances where they can be intubated and placed on mechanical ventilation if their condition worsens, but it still offers CPAP as an option, particularly in the case of children in low-resource settings.&lt;/p&gt;
-
-&lt;p&gt;The FDA’s new guidance on COVID-19 clears the way for modifying respiratory support devices without needing to get the modifications separately approved, including the use of CPAP machines in COVID-19: __&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_Wherever possible, health care facilities should use FDA-cleared conventional/standard full- featured ventilators when necessary to support patients with respiratory failure, or a device subject to an Emergency Use Authorization (EUA), if any. However, to help ensure the availability of the greatest possible number of devices for this purpose, and as described in more detail below, FDA does not intend to object to limited modifications to the indications, claims, functionality, or to the hardware, software, or materials of FDA-cleared devices used to support patients with respiratory failure or respiratory insufficiency, without prior submission of a premarket notification under section 510(k) of the FD&amp;amp;C Act and 21 CFR 807.81 , for the duration of the declared public health emergency…_
-
-
-_Examples of circumstances where FDA currently believes a modification would not create such undue risk include:_
-
-
-_1) The use of powered emergency ventilators and anesthesia gas machines for patients needing mechanical ventilation; _
-
-
-_2) The use of ventilators outside their cleared environment of use (for example, use of a ventilator in a health care facility when it is only cleared for use at home or during transport);_
-
-
-_3) **The use of devices indicated for sleep apnea (including noncontinuous ventilators delivering continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP)) to treat patients with respiratory insufficiency, provided that appropriate design mitigations are in place to minimize aerosolization**;_
-
-
-_4) The use of oxygen concentrators for primary supply when medically necessary and clinically appropriate._
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;It’s time to give CPAP for COVID-19 a second look. Yes, it can disperse air, but the evidence that it spreads disease particles is ambiguous at best; and the risks can be mitigated by using full-face masks with good seals, using filters on the exhaust vents, and making sure medical staff have adequate protective equipment. We know from past pandemics and some early retrospective data in COVID-19 that a sizable fraction of patients improve on CPAP alone without intubation; in a world where invasive ventilation may not be an option for an overwhelmed healthcare system, that means saving lives.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;[21]Omer, Saad B., Preeti Malani, and Carlos del Rio. “The COVID-19 Pandemic in the US: A Clinical Update.” &lt;em&gt;JAMA&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry></feed>
