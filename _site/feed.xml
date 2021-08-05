@@ -1,4 +1,2658 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-06-09T15:45:12-06:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Do High-Performing Investment Firms Drive Out Low Performers?</title><link href="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html" rel="alternate" type="text/html" title="Do High-Performing Investment Firms Drive Out Low Performers?" /><published>2021-06-09T00:00:00-06:00</published><updated>2021-06-09T00:00:00-06:00</updated><id>https://srconstantin.github.io/2021/06/09/Investment-Turnover</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html">&lt;p&gt;In the last post, I found evidence for the claim that a minority of investment firms seek out &lt;em&gt;more information&lt;/em&gt; than others, and that firms in this “infovore” minority see above-average returns on investments.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-08-05T17:56:33-04:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Rtms</title><link href="https://srconstantin.github.io/2021/08/05/rTMS.html" rel="alternate" type="text/html" title="Rtms" /><published>2021-08-05T00:00:00-04:00</published><updated>2021-08-05T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/08/05/rTMS</id><content type="html" xml:base="https://srconstantin.github.io/2021/08/05/rTMS.html">&lt;hr /&gt;
+&lt;p&gt;layout: tag_post
+title: Interesting rTMS Results in Healthy People
+tags: [lit-review]
+—&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an overview of selected research on repetitive transcranial magnetic stimulation, or rTMS, which involves applying a coil that produces a rapidly fluctuating magnetic field to the outside of the head, thereby stimulating the surface of the brain beneath the coil.&lt;/p&gt;
+
+&lt;p&gt;RTMS is an approved treatment for depression and has been investigated for various other psychiatric disorders, but it’s particularly intriguing that it also seems to have effects on healthy people that include cognitive improvements above the “normal” baseline.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary, by Type of Intervention&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: stimulation of &amp;lt;1 Hz is generally thought to have an inhibitory effect on a brain region, while stimulation of &amp;gt;5 Hz is thought to have an excitatory effect.&lt;/p&gt;
+
+&lt;p&gt;I only include results that have been observed in at least two studies and not been disconfirmed.&lt;/p&gt;
+
+&lt;p&gt;I focus on studies in healthy subjects, and on improvements rather than impairments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Dorsolateral Prefrontal Cortex, Inhibitory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increased accuracy on working memory tasks (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Dorsolateral Prefrontal Cortex, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduced addiction symptoms (2)&lt;/li&gt;
+  &lt;li&gt;Reduced stress response to criticism (3)&lt;/li&gt;
+  &lt;li&gt;Reduced pain (2)&lt;/li&gt;
+  &lt;li&gt;Reduced reaction times on cognitive tasks (6)&lt;/li&gt;
+  &lt;li&gt;Reduced impulsivity (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Dorsolateral Prefrontal Cortex, Inhibitory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduced costly reciprocal fairness signaling (ultimatum game, dictator game, trade-back game with reputation) (3)&lt;/li&gt;
+  &lt;li&gt;Increased risk-taking behavior (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Dorsolateral Prefrontal Cortex, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduced reaction times on cognitive tasks (4)&lt;/li&gt;
+  &lt;li&gt;Increased startle &amp;amp; distraction by threats (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bilateral Dorsomedial Prefrontal Cortex, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increased empathy and comfort with social interaction (3)&lt;/li&gt;
+  &lt;li&gt;Improved fear extinction/phobia recovery (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Inferior Frontal Cortex, Inhibitory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improved performance on abstract reasoning tasks such as syllogisms and artificial grammar (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;M1, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduced pain (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Temporoparietal Junction, Inhibitory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduced ingroup bias (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Inferior Parietal Lobule, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improved reading accuracy (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Inferior Parietal Lobule, Excitatory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improved accuracy and reaction time on numerical estimation and calculation tasks (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Inferior Parietal Lobule, Inhibitory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shorter reaction time in bottom-up processing and visual perception tasks (4)&lt;/li&gt;
+  &lt;li&gt;Reduced startle response to pain and loud noises (2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Analogic Reasoning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[6]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid2 Stimulator and 70mm figure-eight coil
+   &lt;/td&gt;
+   &lt;td&gt;Improved response time (10% faster) on geometric shape based analogy questions
+   &lt;/td&gt;
+   &lt;td&gt;16
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Addiction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[6]
+   &lt;/td&gt;
+   &lt;td&gt;DLPFC (F3)
+   &lt;/td&gt;
+   &lt;td&gt;5 days/week for 4 weeks, 30 min/day
+   &lt;/td&gt;
+   &lt;td&gt;15 hz
+   &lt;/td&gt;
+   &lt;td&gt;Magpro R30 with Cool-b80 figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;9/16 patients seeking treatment for cocaine use tested negative for cocaine at end of study. Big significant drops in depression and anxiety scales.
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[27]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;13 min, twice daily for a week followed by weekly for 8 weeks
+   &lt;/td&gt;
+   &lt;td&gt;15 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro R30
+   &lt;/td&gt;
+   &lt;td&gt;Significant drops in cocaine craving &amp;amp; gambling severity scores in gambling and cocaine addicts.
+   &lt;/td&gt;
+   &lt;td&gt;7
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[44]
+   &lt;/td&gt;
+   &lt;td&gt;Medial PFC and anterior cingulate cortex
+   &lt;/td&gt;
+   &lt;td&gt;15 minute sessions, every weekday for 3 weeks
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz, 10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;H7 coil and Magstim Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Significant reduction in preference for cocaine over monetary reward, among cocaine addicts in a lab environment, compared to low-frequency and sham.
+   &lt;/td&gt;
+   &lt;td&gt;18
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Blame, Character Judgment, Intentionality Attribution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[35]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right temporoparietal junction
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagStim Rapid2
+   &lt;/td&gt;
+   &lt;td&gt;Right TPJ inhibition increases perception of hostile intentionality in stories
+   &lt;/td&gt;
+   &lt;td&gt;23
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[36]
+   &lt;/td&gt;
+   &lt;td&gt;Right temporoparietal junction
+   &lt;/td&gt;
+   &lt;td&gt;25 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagStim Super Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Right TPJ inhibition causes study subjects to attribute less moral blame to stories in which harm was attempted but failed. 
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[47]
+   &lt;/td&gt;
+   &lt;td&gt;DMPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 with butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Increased tendency to rate someone as “trustworthy” when both “good” and “bad” actions were attributed to them.
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[48]
+   &lt;/td&gt;
+   &lt;td&gt;DMPFC, right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 with butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC stimulation decreased the number of faces rated “trustworthy.”  DMPFC stimulation eliminated the tendency to rate faces as more trustworthy if accompanied by “beautiful” vs. “ugly” adjectives.
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bottom-Up Processing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[61]
+   &lt;/td&gt;
+   &lt;td&gt;P3 and P4 sites (inferior parietal lobule)
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 and butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Right parietal rTMS, but not left, reduced reaction times in searching for an X among many X’s that has a particular angle orientation, but not for searching for a non-X line among other X’s. Right IPL rTMS improves bottom-up perception.
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Criticism&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[48]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;One 20-min session
+   &lt;/td&gt;
+   &lt;td&gt;20 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim + figure-eight coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly reduced salivary cortisol increase in response to negative/critical feedback, compared to sham stimulation. 
+   &lt;/td&gt;
+   &lt;td&gt;30
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[60]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;One 20-min session
+   &lt;/td&gt;
+   &lt;td&gt;20 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Significantly increased heart rate variability in response to negative/critical feedback after left DLPFC but not right DLPFC stimulation.
+   &lt;/td&gt;
+   &lt;td&gt;38
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[105]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;20 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, figure eight coil
+   &lt;/td&gt;
+   &lt;td&gt;Reduced cortisol response to negative/critical feedback in treated vs. sham
+   &lt;/td&gt;
+   &lt;td&gt;75
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Delusions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[14]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC (F3 and F4)
+   &lt;/td&gt;
+   &lt;td&gt;13 sessions in 3 weeks, 37 min each
+   &lt;/td&gt;
+   &lt;td&gt;10 hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid and figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;One patient being treated for depression developed his first-ever psychotic symptoms; agitated, anxious, felt observed &amp;amp; persecuted.
+   &lt;/td&gt;
+   &lt;td&gt;1
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Deductive Reasoning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[59]
+   &lt;/td&gt;
+   &lt;td&gt;Right and left inferior frontal cortex (BA 45)
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid with figure-8 coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Right IFC stimulation increased the “belief-bias” effect, worsening accuracy at syllogism evaluation when conclusions are logically valid but unrealistic. Left IFC stimulation removed the belief-bias effect; subjects performed a bit worse on “believable” syllogisms, and better on “unbelievable” ones.
+   &lt;/td&gt;
+   &lt;td&gt;72
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[15]
+   &lt;/td&gt;
+   &lt;td&gt;Bilateral medial PFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid and Haut-coil
+   &lt;/td&gt;
+   &lt;td&gt;Increased self-reported empathy in low-EQ, decreased self-reported empathy in high-EQ patients. No change in cognitive empathy.
+   &lt;/td&gt;
+   &lt;td&gt;16
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[41]
+   &lt;/td&gt;
+   &lt;td&gt;Dorsal medial prefrontal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 with figure-8 coil &amp;amp; Brainstem
+   &lt;/td&gt;
+   &lt;td&gt;Significantly (2x) more likely to misidentify anger and fear in facial expressions than controls, but not happiness or neutral.
+   &lt;/td&gt;
+   &lt;td&gt;19
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[52]
+   &lt;/td&gt;
+   &lt;td&gt;Right TPJ
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid, figure-eight coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;rTMS to the right TPJ increases the rate of irritation after watching a sad video and decreases the rate of compassion/sympathy.
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[10]
+   &lt;/td&gt;
+   &lt;td&gt;Bilateral dorsomedial prefrontal cortex; 7 cm anterior to M1
+   &lt;/td&gt;
+   &lt;td&gt;15 min per session; 30 10-second trains and a 20 second rest period, for two weeks, 5 days per week
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;HAUTcoil and Magstim Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Significantly increased “social relatedness” and reduced “fantasizing” in treatment but not sham groups a month later, in autistic subjects
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[32]
+   &lt;/td&gt;
+   &lt;td&gt;Bilateral medial PFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min each weekday for 2 weeks
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;6 months later, autistic subject showed greater ease with eye contact, more comfortable around others, more physically affectionate, more considerate of others
+   &lt;/td&gt;
+   &lt;td&gt;1
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[86]
+   &lt;/td&gt;
+   &lt;td&gt;Medial prefrontal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, figure-8 coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Compared to control site &amp;amp; sham, reduced reaction times in identifying emotions in the test condition; increased smiles while looking at happy faces &amp;amp; frowns while looking at angry, sad, or disgusted faces
+   &lt;/td&gt;
+   &lt;td&gt;16
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[104]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, figure 8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Compared to a control site, reduced reaction times at cognitive but not affective theory of mind tasks
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Focus/Attention&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[72]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim  figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Reduced reaction time in both congruent &amp;amp; incongruent conditions of a Stroop task; no change in interference effect, no effect on mood
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[75]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Reduced reaction time relative to sham in both congruent and incongruent conditions of a Stroop task; no effect on mood
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[78]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;5 daily sessions
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;In healthy elderly subjects, significantly reduced reaction times (but no change in accuracy) in active but not sham stimulation on the Stroop task.
+   &lt;/td&gt;
+   &lt;td&gt;16
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[80]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;7 consecutive days
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim high speed, figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly reduced reaction time on both congruent &amp;amp; incongruent conditions of a Stroop task
+   &lt;/td&gt;
+   &lt;td&gt;25
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[89]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;20 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Softaxic navigation
+   &lt;/td&gt;
+   &lt;td&gt;Significantly reduced reaction time on action-naming task in older adults but not an object-naming task
+   &lt;/td&gt;
+   &lt;td&gt;13
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[92]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagStim + figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Increased psychomotor speed, relative to sham control and left DLPFC, with right DLPFC stimulation
+   &lt;/td&gt;
+   &lt;td&gt;36
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Grammar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[24]
+   &lt;/td&gt;
+   &lt;td&gt;Inferior frontal cortex; BA 44/45
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim  figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Increased accuracy and decreased response time after stimulation in an artificial grammar learning task.
+   &lt;/td&gt;
+   &lt;td&gt;25
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Hypnotic Suggestibility&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[13]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC (F3 and F4)
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;?
+   &lt;/td&gt;
+   &lt;td&gt;Significantly (p = 0.002) increased intensity of hypnotic suggestion vs. sham. Cohen’s d =0.6
+   &lt;/td&gt;
+   &lt;td&gt;23
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[26]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC and right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;4 sessions of 5 min each
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2
+   &lt;/td&gt;
+   &lt;td&gt;right DLPFC stimulation, but not left, increased hypnotic suggestibility (Cohen’s d = 0.37)
+   &lt;/td&gt;
+   &lt;td&gt;38
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Impulsivity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[56]
+   &lt;/td&gt;
+   &lt;td&gt;cerebellum
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magpro X100 with B-65 butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Raises accuracy of BPD patients on an affective go/no-go task (measure of impulsivity) to the level of healthy controls.
+   &lt;/td&gt;
+   &lt;td&gt;17
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[79]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;3 blocks, 2.5 min each, before testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim 200 + figure 8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly improved performance on a continuous performance task, a measure of impulsivity and response inhibition. Significant increase in negative affect relative to sham. 
+   &lt;/td&gt;
+   &lt;td&gt;17
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[90]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;10 sessions
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 and double air film coil
+   &lt;/td&gt;
+   &lt;td&gt;No effect on a go/no-go task in alcoholics
+   &lt;/td&gt;
+   &lt;td&gt;80
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[91]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;10 sessions
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Improves performance in a go/no-go task in bulimics
+   &lt;/td&gt;
+   &lt;td&gt;39
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[102]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;30 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim with figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;In a gambling game, DLPFC inhibition made players more likely to make choices with better short-term but worse long-term options.
+   &lt;/td&gt;
+   &lt;td&gt;64
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[11]
+   &lt;/td&gt;
+   &lt;td&gt;Midline parietal site centered on the precuneus
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz, but not 1 Hz or 10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid Stimulator &amp;amp; 8-coil
+   &lt;/td&gt;
+   &lt;td&gt;Improved accuracy &amp;amp; reaction time on a delayed matching task
+   &lt;/td&gt;
+   &lt;td&gt;44
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[12]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid Stimulator &amp;amp; 8-coil
+   &lt;/td&gt;
+   &lt;td&gt;Improved accuracy (by 30%) in healthy patients and by 15% in memory impaired patients
+   &lt;/td&gt;
+   &lt;td&gt;108
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[65]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min, every weekday for 2 weeks
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid + Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;No effect compared to sham stimulation on n-back performance in healthy subjects
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[66]
+   &lt;/td&gt;
+   &lt;td&gt;Left middle occipital gyrus, BA 19
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Increased accuracy and reduced reaction time in delayed matching task after sleep deprivation, compared to controls.
+   &lt;/td&gt;
+   &lt;td&gt;33
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[82]
+   &lt;/td&gt;
+   &lt;td&gt;Right or left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Significant improvement in reaction time (p=0.01) but not accuracy on a memory task
+   &lt;/td&gt;
+   &lt;td&gt;32
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[94]
+   &lt;/td&gt;
+   &lt;td&gt;Left anterior temporal lobe
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magpro with butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;36% reduction in false memories (falsely saying they remembered having seen words previously) vs. sham
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[95]
+   &lt;/td&gt;
+   &lt;td&gt;Left inferior frontal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;7 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Cadwell + round coil; Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Significantly increased accuracy in recognition memory for words relative to right inferior frontal cortex &amp;amp; left parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;12
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[96]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During memory encoding
+   &lt;/td&gt;
+   &lt;td&gt;Theta bursts: 3 at 50 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magpro X &amp;amp; cooled figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly higher accuracy in recognition memory task
+   &lt;/td&gt;
+   &lt;td&gt;18
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[112]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;22.5 min
+   &lt;/td&gt;
+   &lt;td&gt;TBS at 50 Hz, HF-rTMS at 20 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, figure 8 coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Both TBS and high-frequency rTMS mproved accuracy and reaction time in 3-back task relative to sham
+   &lt;/td&gt;
+   &lt;td&gt;60
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Mood&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[8]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC (F4)
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neopulse
+   &lt;/td&gt;
+   &lt;td&gt;Reduced self-reported anxiety 0-65 min after treatment
+   &lt;/td&gt;
+   &lt;td&gt;12
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[30]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right PFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Cadwell High Speed Magnetic Stimulator
+   &lt;/td&gt;
+   &lt;td&gt;Left prefrontal cortex stimulation made subjects more sad; right prefrontal cortex stimulation made subjects more happy
+   &lt;/td&gt;
+   &lt;td&gt;10
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[68]
+   &lt;/td&gt;
+   &lt;td&gt;Right parietal cortex (P4)
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;2 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neopulse
+   &lt;/td&gt;
+   &lt;td&gt;Reduced depressive mood in healthy subjects, less avoidance of angry faces
+   &lt;/td&gt;
+   &lt;td&gt;8
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[29]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min/day, 5 days/wk, for 2 weeks
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;?
+   &lt;/td&gt;
+   &lt;td&gt;reduced affective instability and anger in BPD patients
+   &lt;/td&gt;
+   &lt;td&gt;11
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Moral Decisionmaking (Helping, Sharing, Punishing, etc)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[50]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 minutes
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro X100, butterfly coil, Eximia 2.3 MRI-guided positioning system
+   &lt;/td&gt;
+   &lt;td&gt;rTMS group was more likely than sham group to choose “utilitarian” answers in moral dilemmas like the trolley problem.  (70% vs 56%)
+   &lt;/td&gt;
+   &lt;td&gt;24
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[57]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC stimulation, but not left DLPFC or sham, increased tendency to accept low offers in the Ultimatum Game (45% vs 15%). No difference in perceived unfairness.
+   &lt;/td&gt;
+   &lt;td&gt;52
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[58]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC stimulation, compared to sham and left DLPFC stimulation, reduces the amount people share in a trust game with reputation, but not in the anonymous condition.
+   &lt;/td&gt;
+   &lt;td&gt;87
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[87]
+   &lt;/td&gt;
+   &lt;td&gt;Right and left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro R30, figure 8 coil, MRI navigation
+   &lt;/td&gt;
+   &lt;td&gt;Participants played the Ultimatum Game and then the Dictator Game. Right DLPFC was more likely than the other two groups to give unfair offers in the dictator game, whether in response to fair or unfair offers.
+   &lt;/td&gt;
+   &lt;td&gt;46
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[97]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;12 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid with figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Participants were significantly faster to accept unfair offers in the Ultimatum Game with true vs sham stimulation, but no less likely to rate the offers as unfair
+   &lt;/td&gt;
+   &lt;td&gt;7
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[98]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;40 sec
+   &lt;/td&gt;
+   &lt;td&gt;5Hz theta bursts of 50 Hz pulses for 40 sec
+   &lt;/td&gt;
+   &lt;td&gt;Magventure
+   &lt;/td&gt;
+   &lt;td&gt;Stimulated vs. placebo participants were significantly more likely (60% vs 45%) to penalize unfair opponents in the Ultimatum Game by presenting them with a bad offer next time.
+   &lt;/td&gt;
+   &lt;td&gt;19
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[37]
+   &lt;/td&gt;
+   &lt;td&gt;Right TPJ
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid, figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Decreased tendency to pay to punish outgroup members more harshly than ingroup members (soccer fandoms)
+   &lt;/td&gt;
+   &lt;td&gt;36
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[38]
+   &lt;/td&gt;
+   &lt;td&gt;DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;30 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Reduced punishment for culpable criminal acts but not reduced blame
+   &lt;/td&gt;
+   &lt;td&gt;66
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[99]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC, BA46
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, figure-8 coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Significantly more likely (relative to control &amp;amp; sham) to be willing to help in hypothetical social situation
+   &lt;/td&gt;
+   &lt;td&gt;25
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[100]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC &amp;amp; DMPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;50 Hz cTBS
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Inhibiting right DLPFC increased generosity in an ultimatum game to high SES players, Cohen’s d 0.95; inhibiting DMPFC increased generosity to low SES players.
+   &lt;/td&gt;
+   &lt;td&gt;58
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[101]
+   &lt;/td&gt;
+   &lt;td&gt;Right TPJ
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;50 Hz cTBS
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid2, BrainVoyager neuronavigation from MRI images
+   &lt;/td&gt;
+   &lt;td&gt;Sham-stimulated subjects share more in a trust game with “ingroup” than “outgroup” players; TPJ inhibited subjects don’t, they share more with the outgroup
+   &lt;/td&gt;
+   &lt;td&gt;22
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Numerical &amp;amp; Quantitative Reasoning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[65]
+   &lt;/td&gt;
+   &lt;td&gt;Inferior parietal lobule, left and right
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid
+   &lt;/td&gt;
+   &lt;td&gt;Untreated or control patients tend to underestimate the midpoint between two large numbers. Right IPL stimulation reduces the error.
+   &lt;/td&gt;
+   &lt;td&gt;14
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[92]
+   &lt;/td&gt;
+   &lt;td&gt;Left anterior temporal lobe
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Medtronic MagPro
+   &lt;/td&gt;
+   &lt;td&gt;Significantly improved ability to guess the number of shapes without counting (savant-like skill)
+   &lt;/td&gt;
+   &lt;td&gt;12
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[103]
+   &lt;/td&gt;
+   &lt;td&gt;Intraparietal sulcus, left and right
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid w/ Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Right IPL stimulation, relative to sham, speeded up reaction times on a number and dot estimation task; left IPL stimulation slowed it down.
+   &lt;/td&gt;
+   &lt;td&gt;36
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[106]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right supramarginal gyrus
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid2 w/ Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Right SMG stimulation reduced reaction time on a mental arithmetic task; left SMG stimulation increased it
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Pain&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[73]
+   &lt;/td&gt;
+   &lt;td&gt;Right M1, right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagProX100, figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Both right M1 and DLPFC stimulation, relative to sham, reduced sensitivity to cold pain, but not heat pain or cold/heat detection
+   &lt;/td&gt;
+   &lt;td&gt;52
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[74]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;10 sessions, 20 minutes/session
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;NeoPulse NeoTonus with a solid coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly more pain improvement (p&amp;lt;0.01, 20% drop) with real vs. sham stimulation in fibromyalgia patients
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[76]
+   &lt;/td&gt;
+   &lt;td&gt;M1 contralateral to pain side
+   &lt;/td&gt;
+   &lt;td&gt;3 sessions, 3 weeks apart: sham, hotspot, and neuronavigated
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro X100 and Excimia neuronavigation system
+   &lt;/td&gt;
+   &lt;td&gt;Significantly reduced (17%, p &amp;lt; 0.0001) pain score in chronic neuropathic pain patients
+   &lt;/td&gt;
+   &lt;td&gt;66
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[77]
+   &lt;/td&gt;
+   &lt;td&gt;Left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;10 daily sessions
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neuronetics Neopulse with figure-8 coil &amp;amp; Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Reduced pain in neuropathic chronic pain patients relative to sham
+   &lt;/td&gt;
+   &lt;td&gt;4
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Perceptual Illusions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[32]
+   &lt;/td&gt;
+   &lt;td&gt;Cerebellum
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neotonus
+   &lt;/td&gt;
+   &lt;td&gt;Illusion of falling or drifting
+   &lt;/td&gt;
+   &lt;td&gt;1
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[64]
+   &lt;/td&gt;
+   &lt;td&gt;Right inferior parietal lobule
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Illusion of time dilation
+   &lt;/td&gt;
+   &lt;td&gt;10
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[84]
+   &lt;/td&gt;
+   &lt;td&gt;Right anterior temporal lobe
+   &lt;/td&gt;
+   &lt;td&gt;5 days/week for two weeks
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Cadwell
+   &lt;/td&gt;
+   &lt;td&gt;A patient with post-head-injury music hallucinations was treated with rTMS
+   &lt;/td&gt;
+   &lt;td&gt;1
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[88]
+   &lt;/td&gt;
+   &lt;td&gt;M1
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Motor cortex inhibition increases the “sense of effort” in a force-matching task
+   &lt;/td&gt;
+   &lt;td&gt;10
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Phobias and Fear Conditioning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[43]
+   &lt;/td&gt;
+   &lt;td&gt;Medial PFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Medtronic MagPro X100 with round coil 
+   &lt;/td&gt;
+   &lt;td&gt;Increased reductions in anxiety and avoidance of heights after an exposure therapy program, relative to sham stimulation.
+   &lt;/td&gt;
+   &lt;td&gt;39
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[45]
+   &lt;/td&gt;
+   &lt;td&gt;Medial PFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Medtronic MagPro X100 with round coil
+   &lt;/td&gt;
+   &lt;td&gt;More rapid extinction of a conditioned fear eyeblink startle response &amp;amp; skin conduction response when the conditioned stimulus was removed, than with sham stimulation.
+   &lt;/td&gt;
+   &lt;td&gt;85
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[71]
+   &lt;/td&gt;
+   &lt;td&gt;Intraparietal sulcus
+   &lt;/td&gt;
+   &lt;td&gt;During test 
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magventure Magpro 100
+   &lt;/td&gt;
+   &lt;td&gt;Reduced blink startle response in reaction to predictable and unpredictable scary stimuli (loud sounds)
+   &lt;/td&gt;
+   &lt;td&gt;25
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Planning &amp;amp; Sequencing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[29]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min/day, 5 days/wk, for 2 weeks
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;?
+   &lt;/td&gt;
+   &lt;td&gt;Significant improvement at 3 months in the Tower of London task
+   &lt;/td&gt;
+   &lt;td&gt;11
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[62]
+   &lt;/td&gt;
+   &lt;td&gt;Left inferior parietal lobule (P3 and P4)
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid with figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Left IPL stimulation, but not right or control or supratemporal gyrus, reduced errors in reading non-words in normal readers
+   &lt;/td&gt;
+   &lt;td&gt;10
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[63]
+   &lt;/td&gt;
+   &lt;td&gt;Left inferior parietal lobule (P3 and P4)
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid with figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Left IPL stimulation increased non-word reading accuracy in dyslexics
+   &lt;/td&gt;
+   &lt;td&gt;10
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[83]
+   &lt;/td&gt;
+   &lt;td&gt;Left and right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;15 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid with figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Reduced reaction times for sentence comprehension tasks but decreased accuracy in interpreting idiomatic sentences.
+   &lt;/td&gt;
+   &lt;td&gt;14
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Risk Aversion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[29]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;6 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Nexstim MRI-assisted device
+   &lt;/td&gt;
+   &lt;td&gt;Increased rate of hitting the ceiling in a ball game where the aim is to get as close as possible without touching the ceiling. Cohen’s d = 0.98
+   &lt;/td&gt;
+   &lt;td&gt;12
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[98]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim, figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Increased high-risk choices and worse overall performance in a gambling task, relative to sham and left DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;27
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Self-Other Discrimination&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[5]
+   &lt;/td&gt;
+   &lt;td&gt;Right inferior parietal lobule
+   &lt;/td&gt;
+   &lt;td&gt;20 min, before test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid Stimulator
+   &lt;/td&gt;
+   &lt;td&gt;Increased tendency to identify images of others’ faces as own
+   &lt;/td&gt;
+   &lt;td&gt;8
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[34]
+   &lt;/td&gt;
+   &lt;td&gt;M1, primary motor cortex
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2
+   &lt;/td&gt;
+   &lt;td&gt;Rubber hand illusion was strengthened, only when stimulation was on the opposite side’s motor cortex
+   &lt;/td&gt;
+   &lt;td&gt;32
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[52][53]
+   &lt;/td&gt;
+   &lt;td&gt;Right temporoparietal junction
+   &lt;/td&gt;
+   &lt;td&gt;30 min/day for 3 weeks
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid
+   &lt;/td&gt;
+   &lt;td&gt;50% of subjects with depersonalization disorder had at least a 25% improvement on a severity score, especially in symptoms related to “anomalous body experiences” (50% mean improvement, p = 0.008)
+   &lt;/td&gt;
+   &lt;td&gt;12
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[54]
+   &lt;/td&gt;
+   &lt;td&gt;Right temporoparietal junction (MNI coordinates (62, -34, 30)
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;Theta burst stimulation, triplets at 30 Hz (inhibitory)
+   &lt;/td&gt;
+   &lt;td&gt;Magpro x100  with MC-B70 butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Decreased the sense of agency relative to control stimulation
+   &lt;/td&gt;
+   &lt;td&gt;15
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[65]
+   &lt;/td&gt;
+   &lt;td&gt;Posterior parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;Theta burst stimulation, triplets at 50 Hz (inhibitory)
+   &lt;/td&gt;
+   &lt;td&gt;Magstim 200
+   &lt;/td&gt;
+   &lt;td&gt;Decreased phantom sensations in spinal cord injury patients during session
+   &lt;/td&gt;
+   &lt;td&gt;5
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[70]
+   &lt;/td&gt;
+   &lt;td&gt;Inferior parietal cortex (MNI coordinates (44, -54, 38)
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid, custom figure-8 coil, Brainsight
+   &lt;/td&gt;
+   &lt;td&gt;Reduced sense of agency in participant-controlled movements on computer screen
+   &lt;/td&gt;
+   &lt;td&gt;14
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Social Attention&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[69]
+   &lt;/td&gt;
+   &lt;td&gt;Posterior parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz, dual pulse (inhibitory)
+   &lt;/td&gt;
+   &lt;td&gt;Two Magstim Mode 200
+   &lt;/td&gt;
+   &lt;td&gt;Increased reaction time when distracted by pointing hands in a task involving a pointing arrow
+   &lt;/td&gt;
+   &lt;td&gt;14
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Sensory Perception&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[3]
+   &lt;/td&gt;
+   &lt;td&gt;Index finger region of primary somatosensory cortex
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;5 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid Stimulator &amp;amp; 8-coil
+   &lt;/td&gt;
+   &lt;td&gt;Improved tactile acuity; lowered discrimination threshold
+   &lt;/td&gt;
+   &lt;td&gt;33
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[21]
+   &lt;/td&gt;
+   &lt;td&gt;Index finger region of primary somatosensory cortex
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;50 Hz bursts for 2 s every 10 s, for 3 min
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid &amp;amp; 8-coil
+   &lt;/td&gt;
+   &lt;td&gt;Improved tactile acuity
+   &lt;/td&gt;
+   &lt;td&gt;23
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Spatial Estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[52]
+   &lt;/td&gt;
+   &lt;td&gt;Right temporoparietal junction
+   &lt;/td&gt;
+   &lt;td&gt;20 sec
+   &lt;/td&gt;
+   &lt;td&gt;Trains of 3 pulses at 50 Hz, delivered at 5 Hz, for 20 seconds
+   &lt;/td&gt;
+   &lt;td&gt;Magstim model 200 Monopulse
+   &lt;/td&gt;
+   &lt;td&gt;Inhibitory rTPJ stimulation, but not sham or control, increased the error rate for judging the angle of a rod off the vertical.
+   &lt;/td&gt;
+   &lt;td&gt;22
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Task Switching&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[31]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid Stimulator &amp;amp; 8-coil
+   &lt;/td&gt;
+   &lt;td&gt;Reduced reaction time (20% faster) on a task switching task
+   &lt;/td&gt;
+   &lt;td&gt;22
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Time Discounting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[40]
+   &lt;/td&gt;
+   &lt;td&gt;Medial prefrontal cortex
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2 with double cone coil
+   &lt;/td&gt;
+   &lt;td&gt;Significantly increased preference for larger delayed rewards and decreased preference for small immediate rewards.
+   &lt;/td&gt;
+   &lt;td&gt;24
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Time Estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[67]
+   &lt;/td&gt;
+   &lt;td&gt;Superior parietal cortex (Pz)
+   &lt;/td&gt;
+   &lt;td&gt;15 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neuro-Ms Stimulator
+   &lt;/td&gt;
+   &lt;td&gt;Significantly reduced error in estimating 9-second time intervals (but not shorter)
+   &lt;/td&gt;
+   &lt;td&gt;23
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[111]
+   &lt;/td&gt;
+   &lt;td&gt;Superior parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Neuro-Ms stimulator
+   &lt;/td&gt;
+   &lt;td&gt;Increased error in 4 and 9 second time intervals, 
+   &lt;/td&gt;
+   &lt;td&gt;20
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Threat Perception&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[68]
+   &lt;/td&gt;
+   &lt;td&gt;Right posterior parietal cortex (P4)
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Mag-Pro X100 with butterfly coil
+   &lt;/td&gt;
+   &lt;td&gt;Compared to sham or left PPC controls, right PPC inhibition increases reaction time on a visual search task in response to a scary (loud sound) distractor but not a neutral distractor.
+   &lt;/td&gt;
+   &lt;td&gt;26
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[85]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;20 min
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim with figure-8 coil &amp;amp; MRI guidance
+   &lt;/td&gt;
+   &lt;td&gt;No effect on mood or anxiety; treated subjects showed more reaction-time impairment when distracted by an angry face in a cueing task, but not a neutral face.  The higher anxiety was at baseline, the more rTMS increased attentional bias to threat.
+   &lt;/td&gt;
+   &lt;td&gt;28
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[109]
+   &lt;/td&gt;
+   &lt;td&gt;Intraparietal sulcus
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro 100 &amp;amp; Cool-B65 A/P coil
+   &lt;/td&gt;
+   &lt;td&gt;Compared to sham stimulation or no stimulation, rTMS reduced the startle response to electric shocks
+   &lt;/td&gt;
+   &lt;td&gt;19
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[110]
+   &lt;/td&gt;
+   &lt;td&gt;Right DLPFC
+   &lt;/td&gt;
+   &lt;td&gt;During testing
+   &lt;/td&gt;
+   &lt;td&gt;10 Hz
+   &lt;/td&gt;
+   &lt;td&gt;MagPro 100 &amp;amp; Cool-B65 A/P coil
+   &lt;/td&gt;
+   &lt;td&gt;Compared to sham stimulation, increased startle response to electric shocks
+   &lt;/td&gt;
+   &lt;td&gt;24
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Visual Search/Perception&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&lt;strong&gt;Reference&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Brain Location&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Treatment Duration&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Machine&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Result&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;N&lt;/strong&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[81]
+   &lt;/td&gt;
+   &lt;td&gt;P3 and P4 sites (posterior parietal cortex)
+   &lt;/td&gt;
+   &lt;td&gt;During test
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid, Figure-8 Coil
+   &lt;/td&gt;
+   &lt;td&gt;Right, but not left or sham, parietal rTMS improved reaction times when a distractor is present on a visual search task.
+   &lt;/td&gt;
+   &lt;td&gt;8
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[107]
+   &lt;/td&gt;
+   &lt;td&gt;Left posterior parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;10 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Rapid 2, Figure-8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Left, but not right, posterior parietal cortex rTMS reduced reaction times in a visual search task for picking out a mirror image letter from a field of letters
+   &lt;/td&gt;
+   &lt;td&gt;88
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[108]
+   &lt;/td&gt;
+   &lt;td&gt;Right posterior parietal cortex
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;Magstim Super Rapid, Figure 8 coil
+   &lt;/td&gt;
+   &lt;td&gt;Compared to control stimulation at the vertex, right PPC stimulation reduced reaction times in a visual detection task with low-frequency Gabor filters
+   &lt;/td&gt;
+   &lt;td&gt;36
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;[113]
+   &lt;/td&gt;
+   &lt;td&gt;Right intraparietal sulcus
+   &lt;/td&gt;
+   &lt;td&gt;8 min
+   &lt;/td&gt;
+   &lt;td&gt;1 Hz
+   &lt;/td&gt;
+   &lt;td&gt;NeoTonus with Brainsight and MRI guidance
+   &lt;/td&gt;
+   &lt;td&gt;Compared to sham stimulation and left IPS stimulation, right IPS stimulation significantly reduced errors in identifying the color and shape of figures briefly flashed in peripheral vision.
+   &lt;/td&gt;
+   &lt;td&gt;24
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Mantovani, Antonio, et al. “Repetitive transcranial magnetic stimulation (rTMS) in the treatment of obsessive–compulsive disorder (OCD) and Tourette’s syndrome (TS).” &lt;em&gt;International Journal of Neuropsychopharmacology&lt;/em&gt; 9.1 (2006): 95-100.&lt;/p&gt;
+
+&lt;p&gt;[2]Fierro, Brigida, et al. “Contralateral neglect induced by right posterior parietal rTMS in healthy subjects.” &lt;em&gt;Neuroreport&lt;/em&gt; 11.7 (2000): 1519-1521.&lt;/p&gt;
+
+&lt;p&gt;[3]Tegenthoff, Martin, et al. “Improvement of tactile discrimination performance and enlargement of cortical somatosensory maps after 5 Hz rTMS.” &lt;em&gt;PLoS Biol&lt;/em&gt; 3.11 (2005): e362.&lt;/p&gt;
+
+&lt;p&gt;[4]Oliveri, M., et al. “rTMS of the unaffected hemisphere transiently reduces contralesional visuospatial hemineglect.” &lt;em&gt;Neurology&lt;/em&gt; 57.7 (2001): 1338-1340.&lt;/p&gt;
+
+&lt;p&gt;[5]Uddin, Lucina Q., et al. “rTMS to the right inferior parietal lobule disrupts self–other discrimination.” &lt;em&gt;Social cognitive and affective neuroscience&lt;/em&gt; 1.1 (2006): 65-71.&lt;/p&gt;
+
+&lt;p&gt;[6]Boroojerdi, Babak, et al. “Enhancing analogic reasoning with rTMS over the left prefrontal cortex.” &lt;em&gt;Neurology&lt;/em&gt; 56.4 (2001): 526-528.&lt;/p&gt;
+
+&lt;p&gt;[7]Praško, Ján, et al. “The effect of repetitive transcranial magnetic stimulation (rTMS) on symptoms in obsessive compulsive disorder.” &lt;em&gt;Neuroendocrinology Letters&lt;/em&gt; 27.3 (2006).&lt;/p&gt;
+
+&lt;p&gt;[8]Schutter, Dennis JLG, et al. “Effects of slow rTMS at the right dorsolateral prefrontal cortex on EEG asymmetry and mood.” &lt;em&gt;Neuroreport&lt;/em&gt; 12.3 (2001): 445-447.&lt;/p&gt;
+
+&lt;p&gt;[9]Barwood, Caroline HS, et al. “The effects of low frequency Repetitive Transcranial Magnetic Stimulation (rTMS) and sham condition rTMS on behavioural language in chronic non-fluent aphasia: Short term outcomes.” &lt;em&gt;NeuroRehabilitation&lt;/em&gt; 28.2 (2011): 113-128.&lt;/p&gt;
+
+&lt;p&gt;[10]Enticott, Peter G., et al. “A double-blind, randomized trial of deep repetitive transcranial magnetic stimulation (rTMS) for autism spectrum disorder.” &lt;em&gt;Brain Stimulation&lt;/em&gt; 7.2 (2014): 206-211.&lt;/p&gt;
+
+&lt;p&gt;[11]Luber, B., et al. “Facilitation of performance in a working memory task with rTMS stimulation of the precuneus: frequency-and time-dependent effects.” &lt;em&gt;Brain research&lt;/em&gt; 1128 (2007): 120-129.&lt;/p&gt;
+
+&lt;p&gt;[12]Turriziani, Patrizia. “Enhancing memory performance with rTMS in healthy subjects and individuals with Mild Cognitive Impairment: the role of the right dorsolateral prefrontal cortex.” &lt;em&gt;Frontiers in Human Neuroscience&lt;/em&gt; 6 (2012): 62.&lt;/p&gt;
+
+&lt;p&gt;[13]Dienes, Zoltan, and Sam Hutton. “Understanding hypnosis metacognitively: rTMS applied to left DLPFC increases hypnotic suggestibility.” &lt;em&gt;Cortex&lt;/em&gt; 49.2 (2013): 386-392.&lt;/p&gt;
+
+&lt;p&gt;[14]Zwanzger, Peter, et al. “Occurrence of delusions during repetitive transcranial magnetic stimulation (rTMS) in major depression.” &lt;em&gt;Biological Psychiatry&lt;/em&gt; 51.7 (2002): 602-603.&lt;/p&gt;
+
+&lt;p&gt;[15]Krause, Laura, et al. “The role of medial prefrontal cortex in theory of mind: a deep rTMS study.” &lt;em&gt;Behavioural brain research&lt;/em&gt; 228.1 (2012): 87-90.&lt;/p&gt;
+
+&lt;p&gt;[16]Montagne-Larmurier, A., et al. “Two-day treatment of auditory hallucinations by high frequency rTMS guided by cerebral imaging: a 6 month follow-up pilot study.” &lt;em&gt;Schizophrenia research&lt;/em&gt; 113.1 (2009): 77-83.&lt;/p&gt;
+
+&lt;p&gt;[17]Finocchiaro, Chiara, et al. “A case study of primary progressive aphasia: improvement on verbs after rTMS treatment.” &lt;em&gt;Neurocase&lt;/em&gt; 12.6 (2006): 317-321.&lt;/p&gt;
+
+&lt;p&gt;[18]Wölwer, Wolfgang, et al. “Repetitive transcranial magnetic stimulation (rTMS) improves facial affect recognition in schizophrenia.” &lt;em&gt;Brain Stimulation&lt;/em&gt; 7.4 (2014): 559-563.&lt;/p&gt;
+
+&lt;p&gt;[19]Pettorruso, Mauro, et al. “rTMS reduces psychopathological burden and cocaine consumption in treatment-seeking subjects with cocaine use disorder: an open label, feasibility study.” &lt;em&gt;Frontiers in psychiatry&lt;/em&gt; 10 (2019): 621.&lt;/p&gt;
+
+&lt;p&gt;[20]Loo, Colleen K., et al. “A sham-controlled trial of left and right temporal rTMS for the treatment of auditory hallucinations.” &lt;em&gt;Psychological medicine&lt;/em&gt; 40.4 (2010): 541.&lt;/p&gt;
+
+&lt;p&gt;[21]Ragert, Patrick, et al. “Improvement of tactile perception and enhancement of cortical excitability through intermittent theta burst rTMS over human primary somatosensory cortex.” &lt;em&gt;Experimental Brain Research&lt;/em&gt; 184.1 (2008): 1-11.&lt;/p&gt;
+
+&lt;p&gt;[22]Casanova, Manuel Fernando, et al. “Effects of weekly low-frequency rTMS on autonomic measures in children with autism spectrum disorder.” &lt;em&gt;Frontiers in human neuroscience&lt;/em&gt; 8 (2014): 851.&lt;/p&gt;
+
+&lt;p&gt;[23]Barwood, Caroline HS, et al. “Long term language recovery subsequent to low frequency rTMS in chronic non-fluent aphasia.” &lt;em&gt;NeuroRehabilitation&lt;/em&gt; 32.4 (2013): 915-928.&lt;/p&gt;
+
+&lt;p&gt;[24]Uddén, Julia, et al. “The inferior frontal cortex in artificial syntax processing: An rTMS study.” &lt;em&gt;Brain research&lt;/em&gt; 1224 (2008): 69-78.&lt;/p&gt;
+
+&lt;p&gt;[25]Balconi, Michela, and Ylenia Canavesio. “High-frequency rTMS on DLPFC increases prosocial attitude in case of decision to support people.” &lt;em&gt;Social neuroscience&lt;/em&gt; 9.1 (2014): 82-93.&lt;/p&gt;
+
+&lt;p&gt;[26]Coltheart, Max, et al. “Belief, delusion, hypnosis, and the right dorsolateral prefrontal cortex: A transcranial magnetic stimulation study.” &lt;em&gt;Cortex&lt;/em&gt; 101 (2018): 234-248.&lt;/p&gt;
+
+&lt;p&gt;[27]Cardullo, Stefano, et al. “Clinical improvements in comorbid gambling/cocaine use disorder (GD/CUD) patients undergoing repetitive transcranial magnetic stimulation (rTMS).” &lt;em&gt;Journal of clinical medicine&lt;/em&gt; 8.6 (2019): 768.&lt;/p&gt;
+
+&lt;p&gt;[28]Cailhol, Lionel, et al. “Borderline personality disorder and rTMS: a pilot trial.” &lt;em&gt;Psychiatry research&lt;/em&gt; 216.1 (2014): 155-157.&lt;/p&gt;
+
+&lt;p&gt;[29]Tulviste, Jaan, and Talis Bachmann. “Diminished risk-aversion after right DLPFC stimulation: effects of rTMS on a risky ball throwing task.” &lt;em&gt;Journal of the International Neuropsychological Society: JINS&lt;/em&gt; 25.1 (2019): 72-78.&lt;/p&gt;
+
+&lt;p&gt;[30]Steppel, Jeanne, et al. “Changes in mood and hormone levels after rapid-rate transcranial magnetic stimulation (rTMS) of the prefrontal cortex.” &lt;em&gt;Neurosciences&lt;/em&gt; 8.2 (1996): 172-180.&lt;/p&gt;
+
+&lt;p&gt;[31]Vanderhasselt, Marie-Anne, et al. “The influence of rTMS over the right dorsolateral prefrontal cortex on intentional set switching.” &lt;em&gt;Experimental brain research&lt;/em&gt; 172.4 (2006): 561-565.&lt;/p&gt;
+
+&lt;p&gt;[32]Enticott, Peter G., et al. “Deep repetitive transcranial magnetic stimulation associated with improved social functioning in a young woman with an autism spectrum disorder.” &lt;em&gt;The journal of ECT&lt;/em&gt; 27.1 (2011): 41-43.&lt;/p&gt;
+
+&lt;p&gt;[33]Schutter, Dennis JLG, et al. “A case of illusory own-body perceptions after transcranial magnetic stimulation of the cerebellum.” &lt;em&gt;The Cerebellum&lt;/em&gt; 5.3 (2006): 238-240.&lt;/p&gt;
+
+&lt;p&gt;[34]Fossataro, Carlotta, et al. “Losing my hand. Body ownership attenuation after virtual lesion of the primary motor cortex.” &lt;em&gt;European Journal of Neuroscience&lt;/em&gt; 48.6 (2018): 2272-2287.&lt;/p&gt;
+
+&lt;p&gt;[35]Giardina, Angela, Carlo Caltagirone, and Massimiliano Oliveri. “Temporo-parietal junction is involved in attribution of hostile intentionality in social interactions: an rTMS study.” &lt;em&gt;Neuroscience letters&lt;/em&gt; 495.2 (2011): 150-154.&lt;/p&gt;
+
+&lt;p&gt;[36]Young, Liane, et al. “Disruption of the right temporoparietal junction with transcranial magnetic stimulation reduces the role of beliefs in moral judgments.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 107.15 (2010): 6753-6758.&lt;/p&gt;
+
+&lt;p&gt;[37]Baumgartner, Thomas, et al. “Diminishing parochialism in intergroup conflict by disrupting the right temporo-parietal junction.” &lt;em&gt;Social cognitive and affective neuroscience&lt;/em&gt; 9.5 (2014): 653-660.&lt;/p&gt;
+
+&lt;p&gt;[38]Buckholtz, Joshua W., et al. “From blame to punishment: disrupting prefrontal cortex activity reveals norm enforcement mechanisms.” &lt;em&gt;Neuron&lt;/em&gt; 87.6 (2015): 1369-1380.&lt;/p&gt;
+
+&lt;p&gt;[39]Buckholtz, Joshua W., et al. “From blame to punishment: disrupting prefrontal cortex activity reveals norm enforcement mechanisms.” &lt;em&gt;Neuron&lt;/em&gt; 87.6 (2015): 1369-1380.&lt;/p&gt;
+
+&lt;p&gt;[40]Cho, Sang Soo, et al. “Investing in the future: stimulation of the medial prefrontal cortex reduces discounting of delayed rewards.” &lt;em&gt;Neuropsychopharmacology&lt;/em&gt; 40.3 (2015): 546-553.&lt;/p&gt;
+
+&lt;p&gt;[41]Balconi, Michela, and Adriana Bortolotti. “Emotional face recognition, empathic trait (BEES), and cortical contribution in response to positive and negative cues. The effect of rTMS on dorsal medial prefrontal cortex.” &lt;em&gt;Cognitive neurodynamics&lt;/em&gt; 7.1 (2013): 13-21.&lt;/p&gt;
+
+&lt;p&gt;[42]Modirrousta, Mandana, et al. “The efficacy of deep repetitive transcranial magnetic stimulation over the medial prefrontal cortex in obsessive compulsive disorder: results from an open‐label study.” &lt;em&gt;Depression and anxiety&lt;/em&gt; 32.6 (2015): 445-450.&lt;/p&gt;
+
+&lt;p&gt;[43]Herrmann, Martin J., et al. “Medial prefrontal cortex stimulation accelerates therapy response of exposure therapy in acrophobia.” &lt;em&gt;Brain stimulation&lt;/em&gt; 10.2 (2017): 291-297.&lt;/p&gt;
+
+&lt;p&gt;[44]Martinez, Diana, et al. “Transcranial magnetic stimulation of medial prefrontal and cingulate cortices reduces cocaine self-administration: a pilot study.” &lt;em&gt;Frontiers in psychiatry&lt;/em&gt; 9 (2018): 80.&lt;/p&gt;
+
+&lt;p&gt;[45]Guhn, Anne, et al. “Medial prefrontal cortex stimulation modulates the processing of conditioned fear.” &lt;em&gt;Frontiers in behavioral neuroscience&lt;/em&gt; 8 (2014): 44.&lt;/p&gt;
+
+&lt;p&gt;[46]Calderón-Moctezuma, Angel R., et al. “Improvement in borderline personality disorder symptomatology after repetitive transcranial magnetic stimulation of the dorsomedial prefrontal cortex: preliminary results.” &lt;em&gt;Brazilian Journal of Psychiatry&lt;/em&gt; 43.1 (2021): 65-69.&lt;/p&gt;
+
+&lt;p&gt;[47]Ferrari, Chiara, et al. “Interfering with activity in the dorsomedial prefrontal cortex via TMS affects social impressions updating.” &lt;em&gt;Cognitive, Affective, &amp;amp; Behavioral Neuroscience&lt;/em&gt; 16.4 (2016): 626-634.&lt;/p&gt;
+
+&lt;p&gt;[48]Ferrari, Chiara, et al. “The dorsomedial prefrontal cortex mediates the interaction between moral and aesthetic valuation: a TMS study on the beauty-is-good stereotype.” &lt;em&gt;Social cognitive and affective neuroscience&lt;/em&gt; 12.5 (2017): 707-717.&lt;/p&gt;
+
+&lt;p&gt;[49]Baeken, Chris, et al. “One left dorsolateral prefrontal cortical HF-rTMS session attenuates HPA-system sensitivity to critical feedback in healthy females.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 57 (2014): 112-121.&lt;/p&gt;
+
+&lt;p&gt;[50]Tassy, Sébastien, et al. “Disrupting the right prefrontal cortex alters moral judgement.” &lt;em&gt;Social cognitive and affective neuroscience&lt;/em&gt; 7.3 (2012): 282-288.&lt;/p&gt;
+
+&lt;p&gt;[51]Fujino, Junya, et al. “Role of the right temporoparietal junction in intergroup bias in trust decisions.” &lt;em&gt;Human brain mapping&lt;/em&gt; 41.6 (2020): 1677-1688.&lt;/p&gt;
+
+&lt;p&gt;[52]Mantovani, Antonio, et al. “Temporo-parietal junction stimulation in the treatment of depersonalization disorder.” &lt;em&gt;Psychiatry Research&lt;/em&gt; 186.1 (2011): 138-140.&lt;/p&gt;
+
+&lt;p&gt;[53]Christopeit, Marie, et al. “Effects of repetitive transcranial magnetic stimulation (rTMS) on specific symptom clusters in depersonalization disorder (DPD).” &lt;em&gt;Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation&lt;/em&gt; 7.1 (2014): 141-143.&lt;/p&gt;
+
+&lt;p&gt;[54]Zito, Giuseppe A., et al. “Transcranial magnetic stimulation over the right temporoparietal junction influences the sense of agency in healthy humans.” &lt;em&gt;Journal of psychiatry &amp;amp; neuroscience: JPN&lt;/em&gt; 45.4 (2020): 271.&lt;/p&gt;
+
+&lt;p&gt;[55]Peterson, Krystyna T., et al. “Right Temporoparietal Junction Transcranial Magnetic Stimulation in the Treatment of Psychogenic Non-epileptic Seizures: A Case Series.” &lt;em&gt;Psychosomatics&lt;/em&gt; 59.6 (2018): 601.&lt;/p&gt;
+
+&lt;p&gt;[56]De Vidovich, Giulia Zelda, et al. “Repetitive TMS on left cerebellum affects impulsivity in borderline personality disorder: A pilot study.” &lt;em&gt;Frontiers in human neuroscience&lt;/em&gt; 10 (2016): 582.&lt;/p&gt;
+
+&lt;p&gt;[57]Knoch, Daria, et al. “Diminishing reciprocal fairness by disrupting the right prefrontal cortex.” &lt;em&gt;science&lt;/em&gt; 314.5800 (2006): 829-832.&lt;/p&gt;
+
+&lt;p&gt;[58]Knoch, Daria, et al. “Disrupting the prefrontal cortex diminishes the human ability to build a good reputation.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 106.49 (2009): 20895-20899.&lt;/p&gt;
+
+&lt;p&gt;[59]Tsujii, Takeo, et al. “The role of inferior frontal cortex in belief-bias reasoning: an rTMS study.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 48.7 (2010): 2005-2008.&lt;/p&gt;
+
+&lt;p&gt;[60]Remue, Jonathan, et al. “The effect of a single HF-rTMS session over the left DLPFC on the physiological stress response as measured by heart rate variability.” &lt;em&gt;Neuropsychology&lt;/em&gt; 30.6 (2016): 756.&lt;/p&gt;
+
+&lt;p&gt;[61]Oliveri, Massimiliano, et al. “Facilitation of bottom-up feature detection following rTMS-interference of the right parietal cortex.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 48.4 (2010): 1003-1010.&lt;/p&gt;
+
+&lt;p&gt;[62]Costanzo, Floriana, et al. “High frequency rTMS over the left parietal lobule increases non-word reading accuracy.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 50.11 (2012): 2645-2651.&lt;/p&gt;
+
+&lt;p&gt;[63]Costanzo, Floriana, et al. “How to improve reading skills in dyslexics: the effect of high frequency rTMS.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 51.14 (2013): 2953-2959.&lt;/p&gt;
+
+&lt;p&gt;[64]Peatfield, Nicholas, and Lorella Battelli. “rTMS to right inferior parietal lobule dilates the subjective experience of time.” &lt;em&gt;Journal of Vision&lt;/em&gt; 13.9 (2013): 316-316.&lt;/p&gt;
+
+&lt;p&gt;[65]Gaudeau-Bosma, Christian, et al. “Effect of two weeks of rTMS on brain activity in healthy subjects during an n-back task: a randomized double blind study.” &lt;em&gt;Brain stimulation&lt;/em&gt; 6.4 (2013): 569-575.&lt;/p&gt;
+
+&lt;p&gt;[66]Luber, Bruce, et al. “Extended remediation of sleep deprived-induced working memory deficits using fMRI-guided transcranial magnetic stimulation.” &lt;em&gt;Sleep&lt;/em&gt; 36.6 (2013): 857-871.&lt;/p&gt;
+
+&lt;p&gt;[67]Rocha, Kaline, et al. “Low-frequency rTMS stimulation over superior parietal cortex medially improves time reproduction and increases the right dorsolateral prefrontal cortex predominance.” &lt;em&gt;International Journal of Neuroscience&lt;/em&gt; 129.6 (2019): 523-533.&lt;/p&gt;
+
+&lt;p&gt;[68]van Honk, Jack, et al. “Reductions in phenomenological, physiological and attentional indices of depressive mood after 2 Hz rTMS over the right parietal cortex in healthy human subjects.” &lt;em&gt;Psychiatry Research&lt;/em&gt; 120.1 (2003): 95-101.&lt;/p&gt;
+
+&lt;p&gt;[69]Porciello, Giuseppina, et al. “rTMS-induced virtual lesion of the posterior parietal cortex (PPC) alters the control of reflexive shifts of social attention triggered by pointing hands.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 59 (2014): 148-156.&lt;/p&gt;
+
+&lt;p&gt;[70]Ritterband-Rosenbaum, Anina, et al. “10 Hz rTMS over right parietal cortex alters sense of agency during self-controlled movements.” &lt;em&gt;Frontiers in human neuroscience&lt;/em&gt; 8 (2014): 471.&lt;/p&gt;
+
+&lt;p&gt;[71]Balderston, Nicholas L., et al. “Low-frequency parietal repetitive transcranial magnetic stimulation reduces fear and anxiety.” &lt;em&gt;Translational psychiatry&lt;/em&gt; 10.1 (2020): 1-10.&lt;/p&gt;
+
+&lt;p&gt;[72]Vanderhasselt, Marie-Anne, et al. “The influence of rTMS over the left dorsolateral prefrontal cortex on Stroop task performance.” &lt;em&gt;Experimental brain research&lt;/em&gt; 169.2 (2006): 279-282.&lt;/p&gt;
+
+&lt;p&gt;[73]Nahmias, Frédéric, et al. “Diffuse analgesic effects of unilateral repetitive transcranial magnetic stimulation (rTMS) in healthy volunteers.” &lt;em&gt;PAIN®&lt;/em&gt; 147.1-3 (2009): 224-232.&lt;/p&gt;
+
+&lt;p&gt;[74]Short, E. Baron, et al. “Ten sessions of adjunctive left prefrontal rTMS significantly reduces fibromyalgia pain: a randomized, controlled pilot study.” &lt;em&gt;Pain&lt;/em&gt; 152.11 (2011): 2477-2484.&lt;/p&gt;
+
+&lt;p&gt;[75]Vanderhasselt, Marie-Anne, et al. “The influence of rTMS over the right dorsolateral prefrontal cortex on top-down attentional processes.” &lt;em&gt;Brain research&lt;/em&gt; 1137 (2007): 111-116.&lt;/p&gt;
+
+&lt;p&gt;[76]Ayache, S. S., et al. “Analgesic effects of navigated motor cortex rTMS in patients with chronic neuropathic pain.” &lt;em&gt;European Journal of Pain&lt;/em&gt; 20.9 (2016): 1413-1422.&lt;/p&gt;
+
+&lt;p&gt;[77]Borckardt, Jeffrey J., et al. “A pilot study investigating the effects of fast left prefrontal rTMS on chronic neuropathic pain.” &lt;em&gt;Pain Medicine&lt;/em&gt; 10.5 (2009): 840-849.&lt;/p&gt;
+
+&lt;p&gt;[78]Kim, Sang Hee, et al. “Effects of five daily high-frequency rTMS on Stroop task performance in aging individuals.” &lt;em&gt;Neuroscience research&lt;/em&gt; 74.3-4 (2012): 256-260.&lt;/p&gt;
+
+&lt;p&gt;[79]Hwang, Ji Hee, et al. “Acute high-frequency rTMS of the left dorsolateral prefrontal cortex and attentional control in healthy young men.” &lt;em&gt;Brain research&lt;/em&gt; 1329 (2010): 152-158.&lt;/p&gt;
+
+&lt;p&gt;[80]Li, Yanmin, et al. “The effects of high-frequency rTMS over the left DLPFC on cognitive control in young healthy participants.” &lt;em&gt;PloS one&lt;/em&gt; 12.6 (2017): e0179430.&lt;/p&gt;
+
+&lt;p&gt;[81]Hodsoll, John, Carmel Mevorach, and Glyn W. Humphreys. “Driven to less distraction: rTMS of the right parietal cortex reduces attentional capture in visual search.” &lt;em&gt;Cerebral Cortex&lt;/em&gt; 19.1 (2009): 106-114.&lt;/p&gt;
+
+&lt;p&gt;[82]Preston, Gilbert, et al. “Effects of 10 Hz rTMS on the neural efficiency of working memory.” &lt;em&gt;Journal of cognitive neuroscience&lt;/em&gt; 22.3 (2010): 447-456.&lt;/p&gt;
+
+&lt;p&gt;[83]Rizzo, Silvia, Marco Sandrini, and Costanza Papagno. “The dorsolateral prefrontal cortex in idiom interpretation: An rTMS study.” &lt;em&gt;Brain research bulletin&lt;/em&gt; 71.5 (2007): 523-528.&lt;/p&gt;
+
+&lt;p&gt;[84]Cosentino, G., et al. “A case of post-traumatic complex auditory hallucinosis treated with rTMS.” &lt;em&gt;Neurocase&lt;/em&gt; 16.3 (2010): 267-272.&lt;/p&gt;
+
+&lt;p&gt;[85]Vanderhasselt, Marie-Anne, et al. “The effects of high frequency rTMS on negative attentional bias are influenced by baseline state anxiety.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 49.7 (2011): 1824-1830.&lt;/p&gt;
+
+&lt;p&gt;[86]Balconi, Michela, and Ylenia Canavesio. “High-frequency rTMS improves facial mimicry and detection responses in an empathic emotional task.” &lt;em&gt;Neuroscience&lt;/em&gt; 236 (2013): 12-20.&lt;/p&gt;
+
+&lt;p&gt;[87]Müller-Leinß, Jan-Martin, et al. “Retaliation or selfishness? An rTMS investigation of the role of the dorsolateral prefrontal cortex in prosocial motives.” &lt;em&gt;Social neuroscience&lt;/em&gt; 13.6 (2018): 701-709.&lt;/p&gt;
+
+&lt;p&gt;[88]Takarada, Yudai, et al. “Inhibition of the primary motor cortex can alter one’s “sense of effort”: effects of low-frequency rTMS.” &lt;em&gt;Neuroscience research&lt;/em&gt; 89 (2014): 54-60.&lt;/p&gt;
+
+&lt;p&gt;[89]Cotelli, Maria, et al. “Action and object naming in physiological aging: an rTMS study.” &lt;em&gt;Frontiers in aging neuroscience&lt;/em&gt; 2 (2010): 151.&lt;/p&gt;
+
+&lt;p&gt;[90]Schluter, Renée S., Ruth J. van Holst, and Anna E. Goudriaan. “Effects of ten sessions of high frequency repetitive Transcranial magnetic stimulation (HF-rTMS) add-on treatment on impulsivity in alcohol use disorder.” &lt;em&gt;Frontiers in neuroscience&lt;/em&gt; 13 (2019): 1257.&lt;/p&gt;
+
+&lt;p&gt;[91]Guillaume, Sebastien, et al. “Improving decision‐making and cognitive impulse control in bulimia nervosa by rTMS: An ancillary randomized controlled study.” &lt;em&gt;International Journal of Eating Disorders&lt;/em&gt; 51.9 (2018): 1103-1106.&lt;/p&gt;
+
+&lt;p&gt;[92]Baeken, Chris, et al. “Impact of one HF-rTMS session on fine motor function in right-handed healthy female subjects: a comparison of stimulation over the left versus the right dorsolateral prefrontal cortex.” &lt;em&gt;Neuropsychobiology&lt;/em&gt; 65.2 (2012): 96-102.&lt;/p&gt;
+
+&lt;p&gt;[93]Snyder, Allan, et al. “Savant-like numerosity skills revealed in normal people by magnetic pulses.” &lt;em&gt;Perception&lt;/em&gt; 35.6 (2006): 837-845.&lt;/p&gt;
+
+&lt;p&gt;[94]Gallate, Jason, et al. “Reducing false memories by magnetic pulse stimulation.” &lt;em&gt;Neuroscience letters&lt;/em&gt; 449.3 (2009): 151-154.&lt;/p&gt;
+
+&lt;p&gt;[95]Köhler, Stefan, et al. “Effects of left inferior prefrontal stimulation on episodic memory formation: a two-stage fMRI—rTMS study.” &lt;em&gt;Journal of cognitive neuroscience&lt;/em&gt; 16.2 (2004): 178-188.&lt;/p&gt;
+
+&lt;p&gt;[96]Demeter, Elise, et al. “Short theta burst stimulation to left frontal cortex prior to encoding enhances subsequent recognition memory.” &lt;em&gt;Cognitive, Affective, &amp;amp; Behavioral Neuroscience&lt;/em&gt; 16.4 (2016): 724-735.&lt;/p&gt;
+
+&lt;p&gt;[97]Van’t Wout, Mascha, et al. “Repetitive transcranial magnetic stimulation over the right dorsolateral prefrontal cortex affects strategic decision-making.” &lt;em&gt;Neuroreport&lt;/em&gt; 16.16 (2005): 1849-1852.&lt;/p&gt;
+
+&lt;p&gt;[98]Knoch, Daria, et al. “Disruption of right prefrontal cortex by low-frequency repetitive transcranial magnetic stimulation induces risk-taking behavior.” &lt;em&gt;Journal of Neuroscience&lt;/em&gt; 26.24 (2006): 6469-6472.&lt;/p&gt;
+
+&lt;p&gt;[99]Balconi, Michela, and Ylenia Canavesio. “High-frequency rTMS on DLPFC increases prosocial attitude in case of decision to support people.” &lt;em&gt;Social neuroscience&lt;/em&gt; 9.1 (2014): 82-93.&lt;/p&gt;
+
+&lt;p&gt;[100]Christov-Moore, Leonardo, et al. “Increasing generosity by disrupting prefrontal cortex.” &lt;em&gt;Social Neuroscience&lt;/em&gt; 12.2 (2017): 174-181.&lt;/p&gt;
+
+&lt;p&gt;[101]Fujino, Junya, et al. “Role of the right temporoparietal junction in intergroup bias in trust decisions.” Human brain mapping 41.6 (2020): 1677-1688.&lt;/p&gt;
+
+&lt;p&gt;[102]Essex, Brian G., et al. “The impact of the posterior parietal and dorsolateral prefrontal cortices on the optimization of long-term versus immediate value.” &lt;em&gt;Journal of Neuroscience&lt;/em&gt; 32.44 (2012): 15403-15413.&lt;/p&gt;
+
+&lt;p&gt;[103]Cappelletti, Marinella, et al. “rTMS over the intraparietal sulcus disrupts numerosity processing.” &lt;em&gt;Experimental Brain Research&lt;/em&gt; 179.4 (2007): 631-642.&lt;/p&gt;
+
+&lt;p&gt;[104]Kalbe, Elke, et al. “Dissociating cognitive from affective theory of mind: a TMS study.” &lt;em&gt;cortex&lt;/em&gt; 46.6 (2010): 769-780.&lt;/p&gt;
+
+&lt;p&gt;[105]Pulopulos, Matias M., et al. “The effect of HF-rTMS over the left DLPFC on stress regulation as measured by cortisol and heart rate variability.” &lt;em&gt;Hormones and Behavior&lt;/em&gt; 124 (2020): 104803.&lt;/p&gt;
+
+&lt;p&gt;[106]Klichowski, Michal, and Gregory Kroliczak. “Mental shopping calculations: a transcranial magnetic stimulation study.” &lt;em&gt;Frontiers in Psychology&lt;/em&gt; 11 (2020).&lt;/p&gt;
+
+&lt;p&gt;[107]Mangano, Giuseppa Renata, et al. “Repetitive transcranial magnetic stimulation over the left parietal cortex facilitates visual search for a letter among its mirror images.” &lt;em&gt;Neuropsychologia&lt;/em&gt; 70 (2015): 196-205.&lt;/p&gt;
+
+&lt;p&gt;[108]Elkin-Frankston, Seth, Richard J. Rushmore, and Antoni Valero-Cabré. “Low frequency transcranial magnetic stimulation of right posterior parietal cortex reduces reaction time to perithreshold low spatial frequency visual stimuli.” &lt;em&gt;Scientific reports&lt;/em&gt; 10.1 (2020): 1-9.&lt;/p&gt;
+
+&lt;p&gt;[109]Balderston, Nicholas L., et al. “Low-frequency parietal repetitive transcranial magnetic stimulation reduces fear and anxiety.” &lt;em&gt;Translational psychiatry&lt;/em&gt; 10.1 (2020): 1-10.&lt;/p&gt;
+
+&lt;p&gt;[110]Balderston, Nicholas L., et al. “Mechanistic link between right prefrontal cortical activity and anxious arousal revealed using transcranial magnetic stimulation in healthy subjects.” &lt;em&gt;Neuropsychopharmacology&lt;/em&gt; 45.4 (2020): 694-702.&lt;/p&gt;
+
+&lt;p&gt;[111]Manaia, Fernanda, et al. “The role of low-frequency rTMS in the superior parietal cortex during time estimation.” &lt;em&gt;Neurological Sciences&lt;/em&gt; 40.6 (2019): 1183-1189.&lt;/p&gt;
+
+&lt;p&gt;[112]Wu, Xingqi, et al. “Improved cognitive promotion through accelerated magnetic stimulation.” &lt;em&gt;Eneuro&lt;/em&gt; 8.1 (2021).&lt;/p&gt;
+
+&lt;p&gt;[113]​​Esterman, Michael, Timothy Verstynen, and Lynn C. Robertson. “Attenuating illusory binding with TMS of the right parietal cortex.” &lt;em&gt;Neuroimage&lt;/em&gt; 35.3 (2007): 1247-1255.&lt;/p&gt;</content><author><name></name></author><summary type="html">layout: tag_post title: Interesting rTMS Results in Healthy People tags: [lit-review] —</summary></entry><entry><title type="html">How To Be An Educated Layman</title><link href="https://srconstantin.github.io/2021/06/09/Educated-Layman.html" rel="alternate" type="text/html" title="How To Be An Educated Layman" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Educated-Layman</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Educated-Layman.html">&lt;p&gt;Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues.  So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”&lt;/p&gt;
+
+&lt;p&gt;What does being an “educated layman” mean, to me?&lt;/p&gt;
+
+&lt;p&gt;Basically, an “expert” or “specialist” is someone who has spent their whole life studying or working on a specific narrow topic. If it’s an academic topic, they’ll typically have a PhD in that topic.&lt;/p&gt;
+
+&lt;p&gt;An “educated layman” is someone who is not an expert, but who, in a discussion with experts about their field of specialization, can contribute useful ideas.&lt;/p&gt;
+
+&lt;p&gt;An “educated layman” will typically &lt;em&gt;know less stuff&lt;/em&gt; than any expert does about their field of expertise, but can still contribute good ideas that no expert has thought of.&lt;/p&gt;
+
+&lt;p&gt;How is that possible?  Usually, because the “educated layman” brings a different perspective, or a toolkit from another field, or has an unusual set of priorities that the expert community hasn’t been optimizing for.&lt;/p&gt;
+
+&lt;p&gt;There are a couple standard examples I’ve encountered where it’s useful to be an “educated layman.”&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making decisions about whether/how to apply a new technology.  If I’m investigating how XYZ tech might fit in with my own company’s work, or a customer’s work, then I don’t need to know nearly as much as the specialists who spend their lives &lt;em&gt;creating&lt;/em&gt; XYZ tech. I just need to know inputs and outputs – how much does it cost, what does it require, what results does it produce – and just enough about how the tech works to be able to make some generalizations about that beyond the specific reported examples in the published literature.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making medical decisions as a patient.  In order to decide what treatment you should get, you don’t need to know all the things a doctor needs to know. You don’t need to be able to actually &lt;em&gt;perform&lt;/em&gt; the treatment. You don’t need to know about all the different diseases a doctor might encounter.  You need to know about &lt;em&gt;your&lt;/em&gt; disease, and how safe/effective different treatments are for that disease.  You may actually have more time to read the literature on your specific disease than your doctor does, especially if it’s a rare disease.  And, you may have different incentives than your doctor.  The treatment that’s actually best for you may not be popular among clinicians, for reasons that don’t apply to you (like high risk of side effects in a patient population you’re not part of.)  So it’s possible for an “educated layman” patient to have a good idea that an “expert” doesn’t have.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Managing experts. You don’t need to know how to do their jobs in order to propose useful ideas that they haven’t thought of. You have a high-level view of what everyone is working on and what goal it’s for, and they have a tendency to get hyperfocused on the specific task at hand.  You can ask a “dumb” question like “how does this task impact our overall goal?” and very quickly find out “whoops, it doesn’t help at all, maybe it’s time to quit working on this sub-project.”  You can be a fresh set of eyes, and a “North Star” to keep everyone oriented towards the overall mission.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Importing a highly general “toolkit” or technology to a field where it hasn’t penetrated yet. I see this very often with statistics or computer automation.  A stats/ML/computers person can often very easily create a ton of value just by importing the techniques they’re familiar with to a field where nobody has heard of them. You need domain knowledge to do this effectively, but not as &lt;em&gt;much&lt;/em&gt; domain knowledge as the experts have.  Just enough to check whether the technology you introduce is actually making the field’s problems better rather than worse.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Being an “educated layman” in the sense I’m talking about presupposes that you believe there’s actual value in a field and its experts to begin with.  If you think the whole business is bunk, like, say, astrology, then you’d have no reason to teach yourself enough of the technical details of astrology to converse intelligently with astrologers.&lt;/p&gt;
+
+&lt;p&gt;You can think a “field” or community of expertise is flawed, biased, or just missing some context that you have, and still consider it valuable enough to dialogue with and learn from.  &lt;em&gt;This&lt;/em&gt; is the context in which it can be worth “tooling up” in a field enough to function as an “educated layman.”  You’ll be hoping to make a contribution as a non-expert – so, definitionally, you believe that the field is “missing” something that you can provide – but you’ll also be learning from and collaborating with experts very heavily.&lt;/p&gt;
+
+&lt;p&gt;Being an “educated layman” is in this way very different from the kind of anti-expert view you see in, say, Nassim Taleb’s opinions about social science. He doesn’t think there’s &lt;em&gt;any&lt;/em&gt; real knowledge in contemporary social science, so he doesn’t bother to learn their specialized lingo. He dismisses them, and they dismiss him.&lt;/p&gt;
+
+&lt;p&gt;That’s fine, if you’re confident there’s nothing there. This post is for situations when you &lt;em&gt;do&lt;/em&gt; think there’s something there – even if you’re skeptical about some parts.&lt;/p&gt;
+
+&lt;p&gt;I’m most confident in my ability to do the “educated layman” thing in biology and medicine, since I’ve been doing it the longest there.&lt;/p&gt;
+
+&lt;p&gt;Really, there’s no such thing as reaching “educated layman” status in something as broad as “biology” as a whole.  What you can do is tool up to the point of being able to have discussions with experts &lt;em&gt;in a super-specific question&lt;/em&gt;.  And I’ve done it in enough specific biological or medical topics to be pretty confident in my ability to do it again on a new topic, assuming there’s the right kind and distribution of available literature.&lt;/p&gt;
+
+&lt;p&gt;What do I mean by that?&lt;/p&gt;
+
+&lt;p&gt;The ideal scientific literature on a topic, for the purposes of self-study, is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not so huge that you can’t read literally all the published studies that attempt to answer the question, after you’ve restricted attention to certain kinds of sufficiently good study designs&lt;/li&gt;
+  &lt;li&gt;Not so tiny or low-quality that you come out of the self-study process knowing no more than you’d get from a couple of anecdotes or opinion pieces&lt;/li&gt;
+  &lt;li&gt;“Simple” enough, or close enough to what you already understand, that you’re confident you can summarize, for each paper you read, what the experimenters or paper authors did, why they expected their methods to answer the question, what results they got, and what features of the study design and results make you more or less confident in the conclusion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s harder to self-teach enough to know what’s going on, in subjects that have heavily nested prerequisites you didn’t study in school (for me, that’s chemistry and physics).  I can almost always read a biology or social-science paper, if I have my trusty Google handy and a place to take notes.  I can &lt;em&gt;sometimes&lt;/em&gt; read engineering or experimental-physics papers, but not always, and I can’t read chemistry or theoretical physics papers at all.  There’s also an intermediate stage of “I bet I could learn the prerequisites, but it would take a while and I haven’t gotten around to it yet”, which is roughly where I am with a lot of computational genetics.&lt;/p&gt;
+
+&lt;p&gt;It’s also hard to self-teach in subjects where 3D awareness of where things are is important, so learning from text or diagrams is difficult.  For instance, if you’re researching “which of these surgical techniques works best for this condition?” you may run into problems noticing when two different anatomy phrases are actually referring to the same thing, if you’re just black-boxing the anatomy and don’t have a spatial model of where anything is.  (Though YouTube videos demonstrating medical, laboratory, and industrial procedures are a huge help for understanding things that are hard to visualize from text.)&lt;/p&gt;
+
+&lt;p&gt;In my experience, more time reading stuff does matter.  Both at the micro and macro scales.&lt;/p&gt;
+
+&lt;p&gt;On the micro scale – I am way more able to contribute in a meeting with an expert if I’ve done at least an hour of prep first than if I haven’t. The difference is striking.&lt;/p&gt;
+
+&lt;p&gt;On the macro scale – I get way worse feedback from knowledgable people when I propose ideas about topics I’ve spent less total time self-teaching (like economics) than topics I’ve spent more total time self-teaching (like biology.)  I’m more likely to be reinventing the wheel, looking at only part of the story, or just plain stuck in economics; I’m more likely to be able to come up with something actionable and novel, or at least something that’s not obviously terrible, in biology.  This despite the fact that I’ve taken almost an undergrad major’s worth of economics classes, and no biology classes since high school.  I think avid reading is a bigger factor than formal classes, at least in my case – possibly simply because, over an adult lifetime, “self-study” reading can add up to more hours of focused attention than formal education.&lt;/p&gt;
+
+&lt;p&gt;Basically, I think, in order to be a good “educated layman”, you have to put in the time, and focus on what’s easier to do as a non-expert.&lt;/p&gt;
+
+&lt;p&gt;What you’re missing, as an “educated layman”, is apprenticeship with a “master.”  You will not know how to actually &lt;em&gt;do&lt;/em&gt; lab procedures, so you will not know how they tend to fail in ways that aren’t captured in the published papers.   You will not necessarily be able to replicate the results in papers if the “secret sauce” is unwritten and passed from lab tech to lab tech.  You will not know the field’s gossip about who is worth listening to and who isn’t.&lt;/p&gt;
+
+&lt;p&gt;Your strength, as an “educated layman”, is the ability to drill down and learn &lt;em&gt;everything&lt;/em&gt; about the one question within the field that you care about, which will often be different from what most experts in the field care about.  Your lack of embeddedness in the community can actually be helpful, because by aggregating &lt;em&gt;everything&lt;/em&gt; in the one slice of data you care about, you can generate ideas that aren’t correlated with the field’s biases.&lt;/p&gt;
+
+&lt;p&gt;Some of these ideas will be bunk because you’re missing part of the picture; listen to those criticisms; but some will survive skeptical examination, and that’s where you add value.&lt;/p&gt;</content><author><name></name></author><category term="science-and-epistemics" /><summary type="html">Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues. So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”</summary></entry><entry><title type="html">Do High-Performing Investment Firms Drive Out Low Performers?</title><link href="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html" rel="alternate" type="text/html" title="Do High-Performing Investment Firms Drive Out Low Performers?" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Investment-Turnover</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html">&lt;p&gt;In the last post, I found evidence for the claim that a minority of investment firms seek out &lt;em&gt;more information&lt;/em&gt; than others, and that firms in this “infovore” minority see above-average returns on investments.&lt;/p&gt;
 
 &lt;p&gt;In other words, the median financial investment firm is doing &lt;em&gt;less research&lt;/em&gt; than is optimal, in terms of economic self-interest.&lt;/p&gt;
 
@@ -172,74 +2826,7 @@
 
 &lt;p&gt;[17]Baquero, Guillermo, and Marno Verbeek. “A portrait of hedge fund investors: Flows, performance and smart money.” ERIM Report Series Reference No. ERS-2005-068-F&amp;amp;A (2005).&lt;/p&gt;
 
-&lt;p&gt;[18]Goldstein, Itay, Hao Jiang, and David T. Ng. “Investor flows and fragility in corporate bond funds.” &lt;em&gt;Journal of Financial Economics&lt;/em&gt; 126.3 (2017): 592-613.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">In the last post, I found evidence for the claim that a minority of investment firms seek out more information than others, and that firms in this “infovore” minority see above-average returns on investments.</summary></entry><entry><title type="html">How To Be An Educated Layman</title><link href="https://srconstantin.github.io/2021/06/09/Educated-Layman.html" rel="alternate" type="text/html" title="How To Be An Educated Layman" /><published>2021-06-09T00:00:00-06:00</published><updated>2021-06-09T00:00:00-06:00</updated><id>https://srconstantin.github.io/2021/06/09/Educated-Layman</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Educated-Layman.html">&lt;p&gt;Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues.  So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”&lt;/p&gt;
-
-&lt;p&gt;What does being an “educated layman” mean, to me?&lt;/p&gt;
-
-&lt;p&gt;Basically, an “expert” or “specialist” is someone who has spent their whole life studying or working on a specific narrow topic. If it’s an academic topic, they’ll typically have a PhD in that topic.&lt;/p&gt;
-
-&lt;p&gt;An “educated layman” is someone who is not an expert, but who, in a discussion with experts about their field of specialization, can contribute useful ideas.&lt;/p&gt;
-
-&lt;p&gt;An “educated layman” will typically &lt;em&gt;know less stuff&lt;/em&gt; than any expert does about their field of expertise, but can still contribute good ideas that no expert has thought of.&lt;/p&gt;
-
-&lt;p&gt;How is that possible?  Usually, because the “educated layman” brings a different perspective, or a toolkit from another field, or has an unusual set of priorities that the expert community hasn’t been optimizing for.&lt;/p&gt;
-
-&lt;p&gt;There are a couple standard examples I’ve encountered where it’s useful to be an “educated layman.”&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Making decisions about whether/how to apply a new technology.  If I’m investigating how XYZ tech might fit in with my own company’s work, or a customer’s work, then I don’t need to know nearly as much as the specialists who spend their lives &lt;em&gt;creating&lt;/em&gt; XYZ tech. I just need to know inputs and outputs – how much does it cost, what does it require, what results does it produce – and just enough about how the tech works to be able to make some generalizations about that beyond the specific reported examples in the published literature.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Making medical decisions as a patient.  In order to decide what treatment you should get, you don’t need to know all the things a doctor needs to know. You don’t need to be able to actually &lt;em&gt;perform&lt;/em&gt; the treatment. You don’t need to know about all the different diseases a doctor might encounter.  You need to know about &lt;em&gt;your&lt;/em&gt; disease, and how safe/effective different treatments are for that disease.  You may actually have more time to read the literature on your specific disease than your doctor does, especially if it’s a rare disease.  And, you may have different incentives than your doctor.  The treatment that’s actually best for you may not be popular among clinicians, for reasons that don’t apply to you (like high risk of side effects in a patient population you’re not part of.)  So it’s possible for an “educated layman” patient to have a good idea that an “expert” doesn’t have.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Managing experts. You don’t need to know how to do their jobs in order to propose useful ideas that they haven’t thought of. You have a high-level view of what everyone is working on and what goal it’s for, and they have a tendency to get hyperfocused on the specific task at hand.  You can ask a “dumb” question like “how does this task impact our overall goal?” and very quickly find out “whoops, it doesn’t help at all, maybe it’s time to quit working on this sub-project.”  You can be a fresh set of eyes, and a “North Star” to keep everyone oriented towards the overall mission.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Importing a highly general “toolkit” or technology to a field where it hasn’t penetrated yet. I see this very often with statistics or computer automation.  A stats/ML/computers person can often very easily create a ton of value just by importing the techniques they’re familiar with to a field where nobody has heard of them. You need domain knowledge to do this effectively, but not as &lt;em&gt;much&lt;/em&gt; domain knowledge as the experts have.  Just enough to check whether the technology you introduce is actually making the field’s problems better rather than worse.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Being an “educated layman” in the sense I’m talking about presupposes that you believe there’s actual value in a field and its experts to begin with.  If you think the whole business is bunk, like, say, astrology, then you’d have no reason to teach yourself enough of the technical details of astrology to converse intelligently with astrologers.&lt;/p&gt;
-
-&lt;p&gt;You can think a “field” or community of expertise is flawed, biased, or just missing some context that you have, and still consider it valuable enough to dialogue with and learn from.  &lt;em&gt;This&lt;/em&gt; is the context in which it can be worth “tooling up” in a field enough to function as an “educated layman.”  You’ll be hoping to make a contribution as a non-expert – so, definitionally, you believe that the field is “missing” something that you can provide – but you’ll also be learning from and collaborating with experts very heavily.&lt;/p&gt;
-
-&lt;p&gt;Being an “educated layman” is in this way very different from the kind of anti-expert view you see in, say, Nassim Taleb’s opinions about social science. He doesn’t think there’s &lt;em&gt;any&lt;/em&gt; real knowledge in contemporary social science, so he doesn’t bother to learn their specialized lingo. He dismisses them, and they dismiss him.&lt;/p&gt;
-
-&lt;p&gt;That’s fine, if you’re confident there’s nothing there. This post is for situations when you &lt;em&gt;do&lt;/em&gt; think there’s something there – even if you’re skeptical about some parts.&lt;/p&gt;
-
-&lt;p&gt;I’m most confident in my ability to do the “educated layman” thing in biology and medicine, since I’ve been doing it the longest there.&lt;/p&gt;
-
-&lt;p&gt;Really, there’s no such thing as reaching “educated layman” status in something as broad as “biology” as a whole.  What you can do is tool up to the point of being able to have discussions with experts &lt;em&gt;in a super-specific question&lt;/em&gt;.  And I’ve done it in enough specific biological or medical topics to be pretty confident in my ability to do it again on a new topic, assuming there’s the right kind and distribution of available literature.&lt;/p&gt;
-
-&lt;p&gt;What do I mean by that?&lt;/p&gt;
-
-&lt;p&gt;The ideal scientific literature on a topic, for the purposes of self-study, is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Not so huge that you can’t read literally all the published studies that attempt to answer the question, after you’ve restricted attention to certain kinds of sufficiently good study designs&lt;/li&gt;
-  &lt;li&gt;Not so tiny or low-quality that you come out of the self-study process knowing no more than you’d get from a couple of anecdotes or opinion pieces&lt;/li&gt;
-  &lt;li&gt;“Simple” enough, or close enough to what you already understand, that you’re confident you can summarize, for each paper you read, what the experimenters or paper authors did, why they expected their methods to answer the question, what results they got, and what features of the study design and results make you more or less confident in the conclusion.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It’s harder to self-teach enough to know what’s going on, in subjects that have heavily nested prerequisites you didn’t study in school (for me, that’s chemistry and physics).  I can almost always read a biology or social-science paper, if I have my trusty Google handy and a place to take notes.  I can &lt;em&gt;sometimes&lt;/em&gt; read engineering or experimental-physics papers, but not always, and I can’t read chemistry or theoretical physics papers at all.  There’s also an intermediate stage of “I bet I could learn the prerequisites, but it would take a while and I haven’t gotten around to it yet”, which is roughly where I am with a lot of computational genetics.&lt;/p&gt;
-
-&lt;p&gt;It’s also hard to self-teach in subjects where 3D awareness of where things are is important, so learning from text or diagrams is difficult.  For instance, if you’re researching “which of these surgical techniques works best for this condition?” you may run into problems noticing when two different anatomy phrases are actually referring to the same thing, if you’re just black-boxing the anatomy and don’t have a spatial model of where anything is.  (Though YouTube videos demonstrating medical, laboratory, and industrial procedures are a huge help for understanding things that are hard to visualize from text.)&lt;/p&gt;
-
-&lt;p&gt;In my experience, more time reading stuff does matter.  Both at the micro and macro scales.&lt;/p&gt;
-
-&lt;p&gt;On the micro scale – I am way more able to contribute in a meeting with an expert if I’ve done at least an hour of prep first than if I haven’t. The difference is striking.&lt;/p&gt;
-
-&lt;p&gt;On the macro scale – I get way worse feedback from knowledgable people when I propose ideas about topics I’ve spent less total time self-teaching (like economics) than topics I’ve spent more total time self-teaching (like biology.)  I’m more likely to be reinventing the wheel, looking at only part of the story, or just plain stuck in economics; I’m more likely to be able to come up with something actionable and novel, or at least something that’s not obviously terrible, in biology.  This despite the fact that I’ve taken almost an undergrad major’s worth of economics classes, and no biology classes since high school.  I think avid reading is a bigger factor than formal classes, at least in my case – possibly simply because, over an adult lifetime, “self-study” reading can add up to more hours of focused attention than formal education.&lt;/p&gt;
-
-&lt;p&gt;Basically, I think, in order to be a good “educated layman”, you have to put in the time, and focus on what’s easier to do as a non-expert.&lt;/p&gt;
-
-&lt;p&gt;What you’re missing, as an “educated layman”, is apprenticeship with a “master.”  You will not know how to actually &lt;em&gt;do&lt;/em&gt; lab procedures, so you will not know how they tend to fail in ways that aren’t captured in the published papers.   You will not necessarily be able to replicate the results in papers if the “secret sauce” is unwritten and passed from lab tech to lab tech.  You will not know the field’s gossip about who is worth listening to and who isn’t.&lt;/p&gt;
-
-&lt;p&gt;Your strength, as an “educated layman”, is the ability to drill down and learn &lt;em&gt;everything&lt;/em&gt; about the one question within the field that you care about, which will often be different from what most experts in the field care about.  Your lack of embeddedness in the community can actually be helpful, because by aggregating &lt;em&gt;everything&lt;/em&gt; in the one slice of data you care about, you can generate ideas that aren’t correlated with the field’s biases.&lt;/p&gt;
-
-&lt;p&gt;Some of these ideas will be bunk because you’re missing part of the picture; listen to those criticisms; but some will survive skeptical examination, and that’s where you add value.&lt;/p&gt;</content><author><name></name></author><category term="science-and-epistemics" /><summary type="html">Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues. So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”</summary></entry><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-07:00</published><updated>2021-03-08T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[18]Goldstein, Itay, Hao Jiang, and David T. Ng. “Investor flows and fragility in corporate bond funds.” &lt;em&gt;Journal of Financial Economics&lt;/em&gt; 126.3 (2017): 592-613.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">In the last post, I found evidence for the claim that a minority of investment firms seek out more information than others, and that firms in this “infovore” minority see above-average returns on investments.</summary></entry><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-05:00</published><updated>2021-03-08T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Do investors profit from spending more time and effort researching and analyzing their decisions?  Does it pay to be an “infovore” who seeks out an unusual amount of information?&lt;/p&gt;
 
@@ -444,7 +3031,7 @@
 
 &lt;p&gt;[14] Farago, Adam, et al. &lt;em&gt;Cognitive skills and economic preferences in the fund industry&lt;/em&gt;. No. 2019-16. Working Papers in Economics and Statistics, 2019.&lt;/p&gt;
 
-&lt;p&gt;[15] Wiltbank, Robert. “Investment practices and outcomes of informal venture investors.” &lt;em&gt;Venture Capital&lt;/em&gt; 7.4 (2005): 343-357.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">The Hypothesis</summary></entry><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-07:00</published><updated>2021-01-17T00:00:00-07:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[15] Wiltbank, Robert. “Investment practices and outcomes of informal venture investors.” &lt;em&gt;Venture Capital&lt;/em&gt; 7.4 (2005): 343-357.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">The Hypothesis</summary></entry><entry><title type="html">Mammalian Aggression</title><link href="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html" rel="alternate" type="text/html" title="Mammalian Aggression" /><published>2021-01-17T00:00:00-05:00</published><updated>2021-01-17T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/01/17/Mammalian-Aggression</id><content type="html" xml:base="https://srconstantin.github.io/2021/01/17/Mammalian-Aggression.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In trying to understand how aggression works, as well as aggressive emotions like anger, I decided to go to the animal literature.  Human psychology research is all too prone to being determined by researchers’ preconceptions, and we all have a lot of firsthand experience and personal agendas when it comes to theorizing about human behavior. It’s easier to get some distance when thinking about animals; we have less stake in any particular theory of how animal emotions work.  It’s also easier to set up experimental conditions with animals that would be hard to do ethically with humans, like keeping them in confinement and exposing them to stressors.&lt;/p&gt;
 
@@ -1432,7 +4019,7 @@
 
 &lt;p&gt;[117]Naganuma, Fumito, et al. “Histamine N-methyltransferase regulates aggression and the sleep-wake cycle.” &lt;em&gt;Scientific reports&lt;/em&gt; 7.1 (2017): 1-9.&lt;/p&gt;
 
-&lt;p&gt;[118]De Felipe, Carmen, et al. “Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.” &lt;em&gt;Nature&lt;/em&gt; 392.6674 (1998): 394-397.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-06:00</published><updated>2020-07-29T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
+&lt;p&gt;[118]De Felipe, Carmen, et al. “Altered nociception, analgesia and aggression in mice lacking the receptor for substance P.” &lt;em&gt;Nature&lt;/em&gt; 392.6674 (1998): 394-397.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Chronic Mania and Persistent Euphoric States</title><link href="https://srconstantin.github.io/2020/07/29/chronic-mania.html" rel="alternate" type="text/html" title="Chronic Mania and Persistent Euphoric States" /><published>2020-07-29T00:00:00-04:00</published><updated>2020-07-29T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/29/chronic-mania</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/29/chronic-mania.html">&lt;p&gt;Can a human be happy all the time?&lt;/p&gt;
 
 &lt;p&gt;Let me clarify; I don’t mean “happiness” in any kind of complex sense. I don’t mean wellbeing or eudaimonia or life satisfaction or anything like that.  I mean &lt;em&gt;being in a good mood&lt;/em&gt; – better than good, “high”, bubbly, enthusiastic.&lt;/p&gt;
 
@@ -1582,7 +4169,7 @@
 
 &lt;p&gt;[28]Tsai, Hsin-Chi, et al. “Hypomania following bilateral ventral capsule stimulation in a patient with refractory obsessive-compulsive disorder.” &lt;em&gt;Biological psychiatry&lt;/em&gt; 68.2 (2010): e7-e8.&lt;/p&gt;
 
-&lt;p&gt;[29]Springer, Utaka S., et al. “Long-term habituation of the smile response with deep brain stimulation.” &lt;em&gt;Neurocase&lt;/em&gt; 12.3 (2006): 191-196.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><summary type="html">Can a human be happy all the time?</summary></entry><entry><title type="html">COVID-19 Vaccine Update</title><link href="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html" rel="alternate" type="text/html" title="COVID-19 Vaccine Update" /><published>2020-07-24T00:00:00-06:00</published><updated>2020-07-24T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html">&lt;p&gt;So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.&lt;/p&gt;
+&lt;p&gt;[29]Springer, Utaka S., et al. “Long-term habituation of the smile response with deep brain stimulation.” &lt;em&gt;Neurocase&lt;/em&gt; 12.3 (2006): 191-196.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><summary type="html">Can a human be happy all the time?</summary></entry><entry><title type="html">COVID-19 Vaccine Update</title><link href="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html" rel="alternate" type="text/html" title="COVID-19 Vaccine Update" /><published>2020-07-24T00:00:00-04:00</published><updated>2020-07-24T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/24/COVID-19-vaccine-update.html">&lt;p&gt;So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.&lt;/p&gt;
 
 &lt;p&gt;Moderna [1] has been testing an mRNA vaccine called mRNA-1273, consisting of the RNA encoding a portion of the COVID-19 virus’s spike protein, wrapped in a lipid nanoparticle. Their Phase 1 study on 45 healthy adults aged 18-55 found that there was a dose-dependent antibody response (relative to baseline) lasting until the end of the 60-day study, and that all participants’ antibodies were able to neutralize at least 80% of the COVID-19 virus in vitro. The antibodies were as effective at neutralizing virus as those in convalescent plasma from patients who had recovered.&lt;/p&gt;
 
@@ -1640,7 +4227,7 @@
 
 &lt;p&gt;[8]DiMasi, Joseph A., et al. “Development times and approval success rates for drugs to treat infectious diseases.” &lt;em&gt;Clinical Pharmacology &amp;amp; Therapeutics&lt;/em&gt; 107.2 (2020): 324-332&lt;/p&gt;
 
-&lt;p&gt;[9]Pronker, Esther S., et al. “Risk in vaccine research and development quantified.” &lt;em&gt;PloS one&lt;/em&gt; 8.3 (2013): e57755.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><category term="covid-19" /><summary type="html">So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.</summary></entry><entry><title type="html">Moving to New York</title><link href="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html" rel="alternate" type="text/html" title="Moving to New York" /><published>2020-07-20T00:00:00-06:00</published><updated>2020-07-20T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/07/20/moving-to-new-york</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html">&lt;p&gt;Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of &lt;a href=&quot;https://nanotronics.co/&quot;&gt;Nanotronics&lt;/a&gt;, a company that does automation and AI for manufacturing process control.&lt;/p&gt;
+&lt;p&gt;[9]Pronker, Esther S., et al. “Risk in vaccine research and development quantified.” &lt;em&gt;PloS one&lt;/em&gt; 8.3 (2013): e57755.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><category term="medicine" /><category term="covid-19" /><summary type="html">So far I’ve found 6 vaccine candidates that are reporting positive results from clinical trials.</summary></entry><entry><title type="html">Moving to New York</title><link href="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html" rel="alternate" type="text/html" title="Moving to New York" /><published>2020-07-20T00:00:00-04:00</published><updated>2020-07-20T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/07/20/moving-to-new-york</id><content type="html" xml:base="https://srconstantin.github.io/2020/07/20/moving-to-new-york.html">&lt;p&gt;Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of &lt;a href=&quot;https://nanotronics.co/&quot;&gt;Nanotronics&lt;/a&gt;, a company that does automation and AI for manufacturing process control.&lt;/p&gt;
 
 &lt;p&gt;I’m going to be researching new applications for their core technology, a system that uses machine learning to tune parameters along a manufacturing pipeline – or to guide a human worker – to optimize output and quality.  I’m really excited about the possibilities here.  I’ve known some of the Nanotronics people for a long time, and feel lucky to be working with such brilliant and high-integrity folks.&lt;/p&gt;
 
@@ -1654,7 +4241,7 @@
 
 &lt;p&gt;I still think that research thesis should be done, but we weren’t able to make it work as a business. We may have been too early; a new model organism &lt;em&gt;and&lt;/em&gt; a new technology platform &lt;em&gt;and&lt;/em&gt; being in the relatively new and controversial field of longevity means we had some skepticism to overcome.  Not to mention we were hit with a global pandemic before we could really get sales off the ground.&lt;/p&gt;
 
-&lt;p&gt;I’m disappointed that I couldn’t figure out a way to make Daphnia Labs work, but I’m moving on and excited for what lies ahead.&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of Nanotronics, a company that does automation and AI for manufacturing process control.</summary></entry><entry><title type="html">Dose-Response Effects of Viral Exposure in COVID-19</title><link href="https://srconstantin.github.io/2020/06/02/Dose-Response.html" rel="alternate" type="text/html" title="Dose-Response Effects of Viral Exposure in COVID-19" /><published>2020-06-02T00:00:00-06:00</published><updated>2020-06-02T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/06/02/Dose-Response</id><content type="html" xml:base="https://srconstantin.github.io/2020/06/02/Dose-Response.html">&lt;p&gt;&lt;img src=&quot;/images/virus-infection.jpg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’m disappointed that I couldn’t figure out a way to make Daphnia Labs work, but I’m moving on and excited for what lies ahead.&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Well, it’s official – I’m going to start a new position at the R&amp;amp;D department of Nanotronics, a company that does automation and AI for manufacturing process control.</summary></entry><entry><title type="html">Dose-Response Effects of Viral Exposure in COVID-19</title><link href="https://srconstantin.github.io/2020/06/02/Dose-Response.html" rel="alternate" type="text/html" title="Dose-Response Effects of Viral Exposure in COVID-19" /><published>2020-06-02T00:00:00-04:00</published><updated>2020-06-02T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/06/02/Dose-Response</id><content type="html" xml:base="https://srconstantin.github.io/2020/06/02/Dose-Response.html">&lt;p&gt;&lt;img src=&quot;/images/virus-infection.jpg&quot; alt=&quot;virus&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Does being exposed to a small quantity of SARS-CoV-2 virus result in less severe disease than being exposed to a large quantity?&lt;/p&gt;
 
@@ -2123,7 +4710,7 @@
 
 &lt;p&gt;[48]Holterman, Lennart, et al. “The rate of progression to AIDS is independent of virus dose in simian immunodeficiency virus-infected macaques.” &lt;em&gt;Journal of General Virology&lt;/em&gt; 81.7 (2000): 1719-1726&lt;/p&gt;
 
-&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-06:00</published><updated>2020-05-04T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
+&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-04:00</published><updated>2020-05-04T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
 
 &lt;p&gt;Initially, patients with COVID-19 experiencing severe respiratory distress were supposed to be intubated and placed on ventilators early, and non-invasive ventilation procedures like CPAP, BiPAP, and high-flow nasal cannula were to be avoided because they might spread the disease.&lt;/p&gt;
 
@@ -2191,584 +4778,4 @@
 
 &lt;p&gt;[7]Caputo, Nicholas D., Reuben J. Strayer, and Richard Levitan. “Early Self‐Proning in Awake, Non‐intubated Patients in the Emergency Department: A Single ED’s Experience during the COVID‐19 Pandemic.” &lt;em&gt;Academic Emergency Medicine&lt;/em&gt; (2020).&lt;/p&gt;
 
-&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry><entry><title type="html">Antibody Testing for COVID-19</title><link href="https://srconstantin.github.io/2020/04/27/antibody-testing.html" rel="alternate" type="text/html" title="Antibody Testing for COVID-19" /><published>2020-04-27T00:00:00-06:00</published><updated>2020-04-27T00:00:00-06:00</updated><id>https://srconstantin.github.io/2020/04/27/antibody-testing</id><content type="html" xml:base="https://srconstantin.github.io/2020/04/27/antibody-testing.html">&lt;p&gt;&lt;img src=&quot;/images/antibody.jpg&quot; alt=&quot;antibody&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What’s In A COVID-19 Antibody Test?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As of April 24, there are 4 COVID-19 antibody tests approved for diagnostic purposes in the US, and 44 approved for diagnostic or research purposes around the world.[1]&lt;/p&gt;
-
-&lt;p&gt;Some of these are ELISA tests, which detect the presence of antibodies to viral proteins, such as the N (nucleocapsid) protein or S (spike) protein.  The subject’s blood serum is incubated with the protein, and then washed with antibody-dye conjugates that fluoresce in proportion to the concentration of bound antibody/viral protein complexes.&lt;/p&gt;
-
-&lt;p&gt;Some tests, such as one approved in Singapore, is a viral neutralization assay that tests the patient’s serum for its ability to neutralize viral replication in vitro.&lt;/p&gt;
-
-&lt;p&gt;Finally, some are rapid tests, which screen for the presence or absence of antibodies to the viral protein, but cannot measure the concentration. These can be very quick (&amp;lt;15 min) to perform, but tell us nothing about the concentration of the antibody.&lt;/p&gt;
-
-&lt;p&gt;Viral neutralization tests, compared to ELISA can tell us more about how likely the antibodies are to protect against infection, but they also take longer than ELISA tests (3-5 days vs 1-5 hours.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How Accurate Are COVID-19 Antibody Tests at Predicting Serum Viral RNA?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;Manufacturer&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Test Type&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Sensitivity&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Specificity&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Sample Size (# of individuals)&lt;/strong&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;USTC (Hefei, China)
-   &lt;/td&gt;
-   &lt;td&gt;IgG/IgA rapid test for S protein receptor binding domain
-   &lt;/td&gt;
-   &lt;td&gt;99.2%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;570
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Jiangsu Medomics
-   &lt;/td&gt;
-   &lt;td&gt;IgM/IgG lateral flow immunoassay for S protein receptor binding domain
-   &lt;/td&gt;
-   &lt;td&gt;88.66%
-   &lt;/td&gt;
-   &lt;td&gt;90.63%
-   &lt;/td&gt;
-   &lt;td&gt;525
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;VITROS
-   &lt;/td&gt;
-   &lt;td&gt;ELISA against spike protein
-   &lt;/td&gt;
-   &lt;td&gt;83%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;436
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Cellex
-   &lt;/td&gt;
-   &lt;td&gt;IgM/IgG lateral flow immunoassay against N protein
-   &lt;/td&gt;
-   &lt;td&gt;93.8%
-   &lt;/td&gt;
-   &lt;td&gt;96.0%
-   &lt;/td&gt;
-   &lt;td&gt;378
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Euroimmun
-   &lt;/td&gt;
-   &lt;td&gt;IgG/IgA rapid test for S1 protein
-   &lt;/td&gt;
-   &lt;td&gt;94%
-   &lt;/td&gt;
-   &lt;td&gt;98%
-   &lt;/td&gt;
-   &lt;td&gt;310
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Zhejiang Orient
-   &lt;/td&gt;
-   &lt;td&gt;IgG rapid test
-   &lt;/td&gt;
-   &lt;td&gt;93.1%
-   &lt;/td&gt;
-   &lt;td&gt;99.2%
-   &lt;/td&gt;
-   &lt;td&gt;153
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Wantai
-   &lt;/td&gt;
-   &lt;td&gt;ELISA for S protein receptor binding domain
-   &lt;/td&gt;
-   &lt;td&gt;93%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;112
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Mount Sinai
-   &lt;/td&gt;
-   &lt;td&gt;ELISA for S protein
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;111
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;NIH
-   &lt;/td&gt;
-   &lt;td&gt;LIPS test for N protein 
-   &lt;/td&gt;
-   &lt;td&gt;67% all, 100% 14 days after symptoms
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;81
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Dynamiker
-   &lt;/td&gt;
-   &lt;td&gt;Rapid IgG/IgM
-   &lt;/td&gt;
-   &lt;td&gt;90%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;62
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;CTK Biotech
-   &lt;/td&gt;
-   &lt;td&gt;Rapid IgG/IgM
-   &lt;/td&gt;
-   &lt;td&gt;90%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;62
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Unnamed
-   &lt;/td&gt;
-   &lt;td&gt;Rapid IgG/IgM
-   &lt;/td&gt;
-   &lt;td&gt;36.4%
-   &lt;/td&gt;
-   &lt;td&gt;88.9%
-   &lt;/td&gt;
-   &lt;td&gt;39
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Beijing Diagreat Biotechnologies
-   &lt;/td&gt;
-   &lt;td&gt;Rapid IgG/IgM
-   &lt;/td&gt;
-   &lt;td&gt;83%
-   &lt;/td&gt;
-   &lt;td&gt;93%
-   &lt;/td&gt;
-   &lt;td&gt;30
-   &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;A Chinese-designed IgM/IgG combined assay for COVID-19 (Jiangsu Medomics)  testing for antibodies against the receptor binding domain of the spike protein, tested on confirmed COVID-19 cases selected from hospitals in 6 different provinces and healthy volunteers, had a sensitivity of 88.66% and a specificity of 90.63%.[2]&lt;/p&gt;
-
-&lt;p&gt;A German-designed IgG/IgA assay against the spike protein S1 of SARS-CoV-2 (Euroimmun) had a 100% specificity (did not react against healthy volunteers, patients with non-coronavirus viruses, or patients with endemic coronaviruses that cause the common cold.  All 3 SARS-CoV-2 patients got positive tests, for a specificity of 100%. 2/2 SARS-CoV patients also got positive results from this antibody test.  More severe patients had higher antibody titers.[3]&lt;/p&gt;
-
-&lt;p&gt;A Swedish preprint study evaluating a Chinese-made rapid antibody test (Zhejiang Orient Gene Biotech) on 29 PCR-confirmed COVID-19 patients or convalescents and 100 healthy controls had a sensitivity of 93.1% and specificity of 99.2% for the IgG test. The IgM test had only a 69% sensitivity but a 100% specificity. [4]&lt;/p&gt;
-
-&lt;p&gt;A Chinese preprint study of RBD antibody kits for combined IgA/IgG antibodies on 330 healthy subjects, 153 patients with non-COVID-19 diseases, and 87 SARS-CoV-2 cases, had a sensitivity of 99.1% and specificity of 100%. IgA levels but not IgM levels were higher in more severe patients (p &amp;lt; 0.0001).[5]&lt;/p&gt;
-
-&lt;p&gt;An ELISA test against the SARS-CoV-2 spike protein, developed at Mount Sinai Hospital in the US and approved for diagnostic use, was tested on 17 confirmed COVID-19 cases (3 convalescent, 14 acute) and 94 negative controls collected before the COVID-19 pandemic began.  All 17 COVID-19 patients had antibodies that reacted strongly in the test, while none of the controls did.  Additionally, the concentration of antibody correlates positively to viral neutralization ability (p &amp;lt;0.0001, r = 0.9279).[6]&lt;/p&gt;
-
-&lt;p&gt;An independent Danish preprint study of 9 antibody tests on 30 confirmed COVID-19 cases admitted to the ICU and 82 non-COVID-19 patients (healthy blood donors or people with other acute viral infections) found that the Wantai test for the spike protein receptor binding domain had a sensitivity of 93% and specificity of 100%, while the Euroimmun IgA test had a specificity of 93% and sensitivity of 93%.  Point-of-care rapid tests were less sensitive – the Dynamiker and CTK Biotech tests (both IgG/IgM tests) had sensitivities of 90% and specificities of 100%. The best two ELISA tests agreed 93% with each other.[7]&lt;/p&gt;
-
-&lt;p&gt;Briefer illnesses (7-13 days vs 14-20 and &amp;gt;21 days) had somewhat lower rates of positive test results, which is consistent with other studies finding that more severe disease correlated with higher antibody levels. [7]&lt;/p&gt;
-
-&lt;p&gt;A German study of an unnamed rapid IgG/IgM test on 39 randomly selected patients who were also tested for COVID-19 with RT-PCR (the benchmark), the sensitivity was only 36.4% while the specificity was 88.9%.  (Note that this could include patients who were in the early stages of the disease, when viral RNA is detectable but antibodies are not.)[8]&lt;/p&gt;
-
-&lt;p&gt;An Italian study of the Beijing Diagreat Biotechnologies rapid IgG/IgM test on 30 patients admitted to the hospital with either confirmed COVID-19, suspected COVID-19 that turned out to be something else, or asymptomatic controls, the sensitivity was 83% and the specificity was 93%.[9]&lt;/p&gt;
-
-&lt;p&gt;A novel type of immunoassay, LIPS (Luciferase Immunoprecipitation System) was  tested on 49 patients with confirmed COVID-19 and 32 blood bank donor controls. None of the controls had a positive result for nucleocapsid antibodies, while 67% of the COVID-19 patients did.  Similarly, none of the controls had a positive result for spike protein antibodies, while 57% of the COVID-19 patients did.  When restricted to samples taken &amp;gt;14 days after symptom onset, the sensitivity and specificity were 100%.[10]&lt;/p&gt;
-
-&lt;p&gt;Premarket testing for the Cellex rapid IgG/IgM test evaluated 128 confirmed COVID-19 cases and 250 negative subjects, and found a sensitivity of 93.8% and a specificity of 96.0%.[11]&lt;/p&gt;
-
-&lt;p&gt;The VITROS modified ELISA test against spike protein was positive in 30/36 patients with confirmed cases of COVID-19 (sensitivity of 83%) and negative in 100% of 400 non-COVID-19 samples.[12]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bottom Lines&lt;/em&gt;:&lt;/p&gt;
-
-&lt;p&gt;All in all, the antibody tests are generally quite specific (at least in patients who have had the disease for at least two weeks) and fairly sensitive.&lt;/p&gt;
-
-&lt;p&gt;Antibody levels tend to rise over the course of the disease and tend to be higher in more severe cases.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How Should We Interpret The Antibody Seroprevalence Data in the US?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Several recent papers have come out with estimates of the prevalence of SARS-CoV-2 in US cities.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PCR Tests of Random Samples in the US&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Out of 131 patients presenting with mild influenza-like symptoms in a Los Angeles clinic, 7 tested positive for SARS-CoV-2, or 5%.[13]&lt;/p&gt;
-
-&lt;p&gt;Between March 22 and April 4, all pregnant women delivering at New York Presbyterian and Columbia University hospitals in New York were tested for COVID-19. 15.4% of all pregnant women tested positive for SARS-CoV-2.   Only 12% of the patients who tested positive had COVID-19 symptoms, consistent with a picture in which most infections are asymptomatic.[14]&lt;/p&gt;
-
-&lt;p&gt;A screening program of 24 homeless shelters in Seattle, Boston, San Francisco, and Atlanta found 25% of residents and 11% of staff members tested positive for SARS-CoV-2.  This is probably much higher than the general population in those cities since homeless people are sicker than others and living in institutional environments like shelters spreads disease.[20]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PCR Tests of Random Samples In Other Countries&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Iceland did an extensive testing program for SARS-CoV-2, issuing an open invitation to 10,797 people and random invitations to 2283 people.  In total, 6% of the Icelandic population was screened.  0.6% of the open invitation group and 0.8% of the random invitation group tested positive for the virus.  57% of those who tested positive also reported symptoms of COVID-19.[16]&lt;/p&gt;
-
-&lt;p&gt;A study testing 1097 health care workers with mild respiratory symptoms in 9 hospitals in the Netherlands found that 4% tested positive for SARS-CoV-2.[17]&lt;/p&gt;
-
-&lt;p&gt;A screening study for SARS-CoV-2 in 1654 UK medical staff with symptoms of cough or fever found 14% tested positive.[22]&lt;/p&gt;
-
-&lt;p&gt;South Korea has one of the largest COVID-19 testing programs in the world, testing 601,660 people between January 3 and April 27, or about 1% of its population. 1.8% of those tested were positive, and 2.3% of the confirmed cases were fatal.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Antibody Tests in the US&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A study that recruited participants in Santa Clara County, California through Facebook ads tested 3330 participants with a rapid IgG/IgM test (Premier Biotech.)  This test had previously been found to have an 80% sensitivity rate and 99.5% specificity rate, from combining the manufacturer’s data and an independent experiment, 523 patients in all.[15]&lt;/p&gt;
-
-&lt;p&gt;The crude prevalence rate of antibodies in Santa Clara County was 1.5%; after weighting the sample to match Santa Clara County by zipcode, race, and sex, the rate was 2.81%.  Adjusting for the sensitivity and specificity of the test, the estimated prevalence is 2.75%.&lt;/p&gt;
-
-&lt;p&gt;The authors conclude that, because the prevalence of antibodies is much higher than the number of confirmed cases (there were 985 confirmed cases in Santa Clara County, while this study’s data suggests 48,000-81,000 cases should exist), that COVID-19 is almost always asymptomatic and should have a much lower case fatality rate than previously assumed.&lt;/p&gt;
-
-&lt;p&gt;I don’t think this conclusion is reasonable.  Confirmed case numbers were low for a long time in the US, even when the pandemic was spreading rapidly, because there was a shortage of tests before the FDA approved several new tests.  Even a serious case of suspected COVID-19 can’t get a diagnostic confirmation if no tests are available.  It makes more sense to suppose that the confirmed case numbers (and, thus, the confirmed fatality numbers) are underestimates than to take those numbers literally and infer that the disease kills only 0.1-0.2% of those infected.&lt;/p&gt;
-
-&lt;p&gt;Miami-Dade County in Florida has embarked on a random antibody screening program, and preliminary results from 1800 individuals indicate a rate of 6%, which is 16.5x higher than the number of confirmed cases captured by hospitals and testing sites alone.[24] About half of the individuals who tested positive had no symptoms.[25]&lt;/p&gt;
-
-&lt;p&gt;A random antibody test of New York State residents sampled from shoppers at grocery and big-box stores found 21% in New York City, 17% in Long Island, 12% in Westchester, and &amp;lt;4% in the rest of the state, had antibodies to the virus.[26]  These numbers may be overestimates because people who are shopping are less likely to be practicing social distancing and thus are more at risk for infection.&lt;/p&gt;
-
-&lt;p&gt;Preliminary results from a random antibody screening program in Los Angeles County found that 4.1% of residents tested positive for SARS-CoV-19 antibodies.[29]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Antibody Tests in Other Countries&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;1000 blood samples from blood donors in Scotland were screened for SARS-CoV-2 neutralizing antibodies; 0.5% tested positive. Note that blood donors are healthier on average than the general population, since donors with a history of recent respiratory infection are turned away; so this serves as more of a lower bound on the prevalence of SARS-CoV-2 antibodies in the Scottish population.[19]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Other Measurements of Prevalence&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;SARS-CoV-2 levels in the wastewater of a major water treatment facility in Massachussetts suggest that roughly 5% of the stool samples in the state were positive for the virus between March 18-25, a number much higher than the 0.026% prevalence rate for confirmed SARS-CoV-2 cases in Massachusetts. This points towards COVID-19 being underdiagnosed, as we’d expect given the shortage of tests.[18]&lt;/p&gt;
-
-&lt;p&gt;A New York Times report on April 27th observed that New York City had triple the number of all-cause deaths compared to historical baselines, and other countries also had higher rates of all-cause mortality than their historical baselines. (Spain, 67% above normal; Equador, 83% above normal; Jakarta, Indonesia, 57% above normal.) These numbers can’t be confounded by any possible over-diagnosis of COVID-19, and constitute clear evidence that the epidemic is killing people. Moreover, there are more all-cause deaths than can be accounted for by confirmed COVID-19 deaths alone; so either the disease is underdiagnosed or people are dying from other effects of the pandemic (such as a shortage of hospital care.)[21]&lt;/p&gt;
-
-&lt;p&gt;In March 2020, the number of LA County cases of influenza-like symptoms was double that in March of the past 4 years, despite it being past the peak of flu season.[13]  This likewise points to COVID-19 causing a large number of symptomatic cases.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Most screens of random population samples – that is, _not _specifically selected for having symptoms or for having contacts with COVID-19 – seem to show 0.5-5% prevalence for the disease, in different cities and countries, whether measured by antibodies, viral RNA, or even wastewater RNA concentrations.&lt;/p&gt;
-
-&lt;p&gt;Prevalence numbers are higher among high-risk populations (healthcare workers and homeless people) and _much _higher in New York City, the center of the US epidemic and a very dense population.&lt;/p&gt;
-
-&lt;p&gt;In the US specifically, where testing has been scarce, this means that the number of confirmed cases has been underestimated by at least an order of magnitude.&lt;/p&gt;
-
-&lt;p&gt;The antibody screening experiments have been criticized on the grounds that antibody tests are not perfectly accurate. I don’t think this is a valid argument against the main point (that there are probably &amp;gt;10x as many true cases as confirmed cases in the US.)&lt;/p&gt;
-
-&lt;p&gt;Antibody tests vary in their _sensitivity _(how likely they are to give a positive result in a real infection) and tend to not show up as positive until 2 weeks after the onset of symptoms.  But, if anything, this should mean the true positive rate is even _larger _than the numbers in the studies. Antibody tests tend to have fairly high _specificity _– the maximum % of false positives I’ve seen reported is 10% – and so even if 10% of the reported positives are false ones, that would still mean that the seroprevalence of COVID-19 is many times higher than the rate of confirmed cases.&lt;/p&gt;
-
-&lt;p&gt;Some commentators have concluded that this means that the danger of COVID-19 has been overstated; that the risk of dying given a SARS-CoV-19 infection is much lower than previously supposed.  I think this is misleading.&lt;/p&gt;
-
-&lt;p&gt;The official case fatality rate (# of confirmed COVID-19 deaths/ # of confirmed COVID-19 cases) may be an overestimate, because when testing is scarce, more severe cases are more likely to be tested. Right now the cumulative global case fatality rate is a whopping 7% and the US case fatality rate is 2.8%.[27][28]&lt;/p&gt;
-
-&lt;p&gt;However, estimating an infection fatality rate defined by # of confirmed deaths / expected # of antibody-positive individuals is likely to be an &lt;em&gt;underestimate&lt;/em&gt;, since if testing capacity is scarce, we can expect even some fatal COVID-19 cases to go unconfirmed.&lt;/p&gt;
-
-&lt;p&gt;These “optimistic” estimates of infection fatality rate are about 0.3% for Santa Clara County, 0.2% for L.A. County, 0.1% for Miami-Dade County, and 0.7% for New York City.&lt;/p&gt;
-
-&lt;p&gt;If we compare these estimates to two countries that had extensive COVID-19 testing, Iceland and South Korea, the cumulative case fatality rate for Iceland is 0.5% (in line with the optimistic US estimates) and the rate for South Korea is 2.3% (quite a bit higher than the optimistic US estimates.)  So it’s not clear what conclusion to draw from international comparisons.&lt;/p&gt;
-
-&lt;p&gt;One consideration is that the South Korean testing program is not a random sample of the population, though it was extensive – people with symptoms or connections to COVID-19 patients are prioritized for testing.  So its 2.3% mortality rate may be an overestimate as well.&lt;/p&gt;
-
-&lt;p&gt;If we consider the 3x elevated all-cause mortality rate in NYC, and assume that _all _excess deaths are COVID-19 deaths, and that 21% of New Yorkers are infected, this gives a “pessimistic” estimate of 1.2% of COVID-19 infections being fatal in NYC.&lt;/p&gt;
-
-&lt;p&gt;My current best guess is that the true estimate of infection fatality rate in the US is somewhere between the “optimistic” and “pessimistic” probabilities, i.e. between 0.1% and 1.2%.&lt;/p&gt;
-
-&lt;p&gt;This is still not, by any means, &lt;em&gt;good&lt;/em&gt;. If the US ended all quarantines today, without a vaccine or effective treatment, and allowed the virus to spread until herd immunity was achieved, or about 60% of the US population, this would mean about 200,000-2,000,000 deaths this year.  On the high end, that’s as deadly per capita as the US Civil War,[30] and deadlier than the Spanish Flu.[31]  “Less deadly than previously estimated” does not mean “no big deal.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Do Viral Antibodies Generally Correspond to Past Viral Infection?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Outside of COVID-19, what’s the track record of accuracy of viral antibody tests?  Are there a sizable population who have positive antibodies to viruses they were never infected with?  Do many people get infected with viruses that they never develop antibodies to?&lt;/p&gt;
-
-&lt;p&gt;This can put the credibility of antibody tests for COVID-19 in a broader context. If antibody false positives are really common overall, then the apparently good specificity of the COVID-19 tests (derived from small studies, often by the manufacturers) may be too optimistic, and the actual prevalence of COVID-19 may be quite a bit lower than it appears in the antibody screening studies.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;Test Type&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Virus&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Sensitivity&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;Specificity&lt;/strong&gt;
-   &lt;/td&gt;
-   &lt;td&gt;&lt;strong&gt;# Of Individuals&lt;/strong&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Rapid
-   &lt;/td&gt;
-   &lt;td&gt;HIV
-   &lt;/td&gt;
-   &lt;td&gt;&amp;gt;95%
-   &lt;/td&gt;
-   &lt;td&gt;&amp;gt;99%
-   &lt;/td&gt;
-   &lt;td&gt;6282
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;NS1 ELISA, IgM/IgG
-   &lt;/td&gt;
-   &lt;td&gt;Zika
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;1379
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Rapid
-   &lt;/td&gt;
-   &lt;td&gt;HCV
-   &lt;/td&gt;
-   &lt;td&gt;97.8% \
-88.3% \
-99.3%
-   &lt;/td&gt;
-   &lt;td&gt;99.5%
-   &lt;/td&gt;
-   &lt;td&gt;1083
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;Rapid test and ELISA
-   &lt;/td&gt;
-   &lt;td&gt;H5N1
-   &lt;/td&gt;
-   &lt;td&gt;18.2% \
-38.7%
-   &lt;/td&gt;
-   &lt;td&gt;100% \
-100%
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;IgM ELISA
-   &lt;/td&gt;
-   &lt;td&gt;Dengue
-   &lt;/td&gt;
-   &lt;td&gt;96%
-   &lt;/td&gt;
-   &lt;td&gt;84%
-   &lt;/td&gt;
-   &lt;td&gt;225
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;rapid
-   &lt;/td&gt;
-   &lt;td&gt;Chikungunya
-   &lt;/td&gt;
-   &lt;td&gt;20.5% \
-50.8%
-   &lt;/td&gt;
-   &lt;td&gt;100% \
-89.2%
-   &lt;/td&gt;
-   &lt;td&gt;206
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;NS1 ELISA
-   &lt;/td&gt;
-   &lt;td&gt;Dengue
-   &lt;/td&gt;
-   &lt;td&gt;83.2%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;138
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;NS1 Rapid
-   &lt;/td&gt;
-   &lt;td&gt;Dengue
-   &lt;/td&gt;
-   &lt;td&gt;73.8%
-   &lt;/td&gt;
-   &lt;td&gt;100%
-   &lt;/td&gt;
-   &lt;td&gt;138
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-   &lt;td&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;An ELISA test and rapid antibody test for dengue virus, tested in 138 Vietnamese patients admitted to the ICU with clinical suspicion of dengue, had sensitivities of 83.2% and 73.8% respectively, and specificities of 100%.[32]&lt;/p&gt;
-
-&lt;p&gt;In a study of antibody tests for dengue virus on 225 patients from around the world, some with dengue, some with other viruses, and some healthy controls, the ELISA tests for NS1 antigen had sensitivities of 60-75% in acute cases and 19-31% in convalescent cases, and the rapid tests had sensitivities of 40-60% in acute cases and 12-59% in convalescent cases.  The anti-dengue IgM ELISA test had a sensitivity of 98% in both acute and convalescent cases, while the anti-dengue IgM rapid tests had a sensitivity of 45-95 in both acute and convalescent cases.  The specificity of NS1 tests was 71-80%, and the IgM ELISA test had a specificity of 84%.[33]&lt;/p&gt;
-
-&lt;p&gt;3 rapid tests for HCV (hepatitis C) on 1083 samples: all specificities over 99.5%, sensitivities were 97.8%, 88.3%, 99.3%[34]&lt;/p&gt;
-
-&lt;p&gt;6 rapid tests for HIV on 6282 study participants, compared to a gold standard of Western blot, ELISA, &amp;amp; treatment status.  All sensitivities were &amp;gt;95% and specificities were &amp;gt;99%.[35]&lt;/p&gt;
-
-&lt;p&gt;In a study of an IgG/IgM ELISA test for Zika virus, on 112 patients with RT-PCR confirmed or suspected Zika, 1015 healthy patients, and 252 patients with other viruses, the sensitivity of combined IgG and IgM tests was 100% and specificity was 100%.[36]&lt;/p&gt;
-
-&lt;p&gt;Two rapid tests for chikungunya virus, tested on 132 patients with confirmed chikungunya and 74 patients with a different febrile illness; one had a 20.5% sensitivity and 100% specificity, while the other had a 50.8% sensitivity and 89.2% specificity.[37]&lt;/p&gt;
-
-&lt;p&gt;In a study of 524 patients tested for H5N1 (avian flu) a rapid test had a sensitivity of 18.2% and an ELISA test had a sensitivity of 38.7%.  Both had specificities of 100%.[38]&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;While the performance of antibody tests for different viruses depends on the test itself, most have high specificities.  There is no reason to suppose that the measured specificity levels for SARS-CoV-2 tests are unrealistically low.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Do Viral Antibodies Generally Predict Immunity to Future Infection?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The WHO has been saying there’s “no evidence” that antibodies in recovered patients indicate immunity to COVID-19.[39] It’s too soon to tell whether this is true for COVID-19, but do antibody levels predict viral immunity in other viruses?&lt;/p&gt;
-
-&lt;p&gt;In a longitudinal cohort of 7547 Nicaraguan children monitored for dengue virus, preinfection antibody titer correlated with lower risk of having a symptomatic second infection (p &amp;lt; 0.005).  Children with serologically confirmed but asymptomatic second infections had preinfection antibody titers 2.3-fold higher than children with symptomatic second infections.  Also, children with symptomatic first infections were less likely to have symptomatic second infections independent of antibody titer – apparently infection grants immunity through mechanisms other than antibody quantity.[40]&lt;/p&gt;
-
-&lt;p&gt;In 17 infants born to mothers with HSV1 or HSV2 infections during pregnancy, the babies with milder (or asymptomatic) infections had higher neutralizing antibody titers at birth than the babies with severe cases.  Average titer was 1:13 for severe cases, 1:65 for mild cases, and 1:69 for asymptomatic cases.[41]&lt;/p&gt;
-
-&lt;p&gt;Nine studies of human volunteers previously infected with influenza in the 60’s and 70’s and challenged with exposure to an influenza virus found that _no _volunteers developed symptomatic illness after challenge, out of a total of 86 patients.  “The titer of serum anti-HA antibodies remains the most consistent correlate of immunity to influenza virus infection.”[42]&lt;/p&gt;
-
-&lt;p&gt;In a cohort of 200 Mexican infants monitored for rotavirus, children with higher (&amp;gt; 1:800) rotavirus IgA titers were less likely to have rotavirus infection (RR = 0.21, p &amp;lt; 0.001) and rotavirus diarrhea (RR = 0.16, p &amp;lt; 0.01) and never got severe diarrhea.[43]&lt;/p&gt;
-
-&lt;p&gt;In 1164 healthy children immunized with varicella vaccine, children with lower antibody titers after the vaccine (&amp;lt;5 gpELISA units) were 3.5x as likely to develop a varicella infection in the next 7 years as children with higher antibody titers (&amp;gt;5 gpELISA units.)[44]&lt;/p&gt;
-
-&lt;p&gt;In a study of 38 adults challenged with rotavirus, patients who got ill from the exposure had higher preinoculation rotavirus IgG antibody (7.3 vs 6.1, p = 0.041).  There was no significant difference in infection rate between those exposed to a larger vs. smaller quantity.[45]&lt;/p&gt;
-
-&lt;p&gt;In a study of 696 adults and children in rural Bangladesh, serum IgG rotavirus antibodies were on average 4x higher in cases of symptomatic rotavirus than healthy controls.[46]&lt;/p&gt;
-
-&lt;p&gt;In 33 volunteers experimentally infected with human coronavirus 223E, those who had higher antibody titers prior to exposure were much less likely to get symptomatic disease (average ELISA ratio for neutralizing antibodies was 6.5x higher in the affected group vs the unaffected group, p &amp;lt;0.001)  Those who had had a cold in the last six months had significantly (p&amp;lt;0.05) lower clinical scores than those who had not.[47]&lt;/p&gt;
-
-&lt;p&gt;We have very consistent results across all viruses studied indicating that yes, higher pre-challenge virus-specific antibody titers are predictive of lower rates of symptomatic disease.&lt;/p&gt;
-
-&lt;p&gt;We don’t know yet whether reinfection of people previously infected with COVID-19 is _ever _possible, but we _do _have evidence from other viruses suggesting that if you’ve recovered successfully from a COVID-19 illness you are _less _susceptible to getting a symptomatic disease if you’re exposed again.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;[1]&lt;a href=&quot;https://www.centerforhealthsecurity.org/resources/COVID-19/serology/Serology-based-tests-for-COVID-19.html&quot;&gt;https://www.centerforhealthsecurity.org/resources/COVID-19/serology/Serology-based-tests-for-COVID-19.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2]Li, Zhengtu, et al. “Development and clinical application of a rapid IgM‐IgG combined antibody test for SARS‐CoV‐2 infection diagnosis.” &lt;em&gt;Journal of medical virology&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[3]Okba, Nisreen MA, et al. “SARS-CoV-2 specific antibody responses in COVID-19 patients.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[4]Ma, Huan, et al. “COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by a quantitative and sensitive immunoassay.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[5]Zhang, Pingping, et al. “Evaluation of recombinant nucleocapsid and spike proteins for serological diagnosis of novel coronavirus disease 2019 (COVID-19).” &lt;em&gt;MedRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[6]Amanat, Fatima, et al. “A serological assay to detect SARS-CoV-2 seroconversion in humans.” &lt;em&gt;MedRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[7]Lassaunière, Ria, et al. “Evaluation of nine commercial SARS-CoV-2 immunoassays.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[8]Döhla, M., et al. “Rapid point-of-care testing for SARS-CoV-2 in a community screening setting shows low sensitivity.” &lt;em&gt;Public Health&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[9]Spicuzza, Lucia, et al. “Reliability and usefulness of a rapid IgM‐IgG antibody test for the diagnosis of SARS-CoV-2 infection: a preliminary report.” &lt;em&gt;Journal of Infection&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[10]Burbelo, Peter D., et al. “Detection of Nucleocapsid Antibody to SARS-CoV-2 is More Sensitive than Antibody to Spike Protein in COVID-19 Patients.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[11]&lt;a href=&quot;https://www.fda.gov/media/136625/download&quot;&gt;https://www.fda.gov/media/136625/download&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[12] &lt;a href=&quot;https://www.fda.gov/media/136967/download&quot;&gt;https://www.fda.gov/media/136967/download&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[13]Spellberg, Brad, et al. “Community prevalence of SARS-CoV-2 among patients with influenzalike illnesses presenting to a Los Angeles medical center in March 2020.” &lt;em&gt;JAMA&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[14]Sutton, Desmond, et al. “Universal screening for SARS-CoV-2 in women admitted for delivery.” &lt;em&gt;New England Journal of Medicine&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[15]Bendavid, Eran, et al. “COVID-19 Antibody Seroprevalence in Santa Clara County, California.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[16]Gudbjartsson, Daniel F., et al. “Spread of SARS-CoV-2 in the Icelandic population.” &lt;em&gt;New England Journal of Medicine&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[17]Reusken, Chantal B., et al. “Rapid assessment of regional SARS-CoV-2 community transmission through a convenience sample of healthcare workers, the Netherlands, March 2020.” &lt;em&gt;Eurosurveillance&lt;/em&gt; 25.12 (2020): 2000334.&lt;/p&gt;
-
-&lt;p&gt;[18]Wu, Fuqing, et al. “SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[19]Thompson, Craig, et al. “Neutralising antibodies to SARS coronavirus 2 in Scottish blood donors-a pilot study of the value of serology to determine population exposure.” &lt;em&gt;medRxiv&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[20]Mosites, Emily. “Assessment of SARS-CoV-2 Infection Prevalence in Homeless Shelters—Four US Cities, March 27–April 15, 2020.” &lt;em&gt;MMWR. Morbidity and Mortality Weekly Report&lt;/em&gt; 69 (2020).&lt;/p&gt;
-
-&lt;p&gt;[21]&lt;a href=&quot;https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html&quot;&gt;https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[22]Hunter, Ewan, et al. “First experience of COVID-19 screening of health-care workers in England.” &lt;em&gt;The Lancet&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[23]&lt;a href=&quot;https://www.statista.com/statistics/1095848/south-korea-confirmed-and-suspected-coronavirus-cases/&quot;&gt;https://www.statista.com/statistics/1095848/south-korea-confirmed-and-suspected-coronavirus-cases/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[24]&lt;a href=&quot;https://www.miamidade.gov/releases/2020-04-24-sample-testing-results.asp&quot;&gt;https://www.miamidade.gov/releases/2020-04-24-sample-testing-results.asp&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[25]&lt;a href=&quot;https://www.miamiherald.com/news/coronavirus/article242260406.html&quot;&gt;https://www.miamiherald.com/news/coronavirus/article242260406.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[26]&lt;a href=&quot;https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html&quot;&gt;https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[27]&lt;a href=&quot;https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm&quot;&gt;https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[28]&lt;a href=&quot;https://coronavirus.jhu.edu/map.html&quot;&gt;https://coronavirus.jhu.edu/map.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[29]&lt;a href=&quot;http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2328&quot;&gt;http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2328&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[30]&lt;a href=&quot;https://prospect.org/power/american-war-dead-numbers/&quot;&gt;https://prospect.org/power/american-war-dead-numbers/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[31]&lt;a href=&quot;https://web.archive.org/web/20160923152823/http://www.flu.gov/pandemic/history/1918/&quot;&gt;https://web.archive.org/web/20160923152823/http://www.flu.gov/pandemic/history/1918/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[32]Hang, Vu Ty, et al. “Diagnostic accuracy of NS1 ELISA and lateral flow rapid tests for dengue sensitivity, specificity and relationship to viraemia and antibody responses.” &lt;em&gt;PLoS neglected tropical diseases&lt;/em&gt; 3.1 (2009).&lt;/p&gt;
-
-&lt;p&gt;[33]Hunsperger, Elizabeth A., et al. “Evaluation of commercially available diagnostic tests for the detection of dengue virus NS1 antigen and anti-dengue virus IgM antibody.” &lt;em&gt;PLoS neglected tropical diseases&lt;/em&gt; 8.10 (2014).&lt;/p&gt;
-
-&lt;p&gt;[34]Smith, Bryce D., et al. “Evaluation of three rapid screening assays for detection of antibodies to hepatitis C virus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 204.6 (2011): 825-831.&lt;/p&gt;
-
-&lt;p&gt;[35]Delaney, Kevin P., et al. “Evaluation of the performance characteristics of 6 rapid HIV antibody tests.” &lt;em&gt;Clinical Infectious Diseases&lt;/em&gt; 52.2 (2011): 257-263.&lt;/p&gt;
-
-&lt;p&gt;[36]Steinhagen, Katja, et al. “Serodiagnosis of Zika virus (ZIKV) infections by a novel NS1-based ELISA devoid of cross-reactivity with dengue virus antibodies: a multicohort study of assay performance, 2015 to 2016.” &lt;em&gt;Eurosurveillance&lt;/em&gt; 21.50 (2016).&lt;/p&gt;
-
-&lt;p&gt;[37]Kosasih, Herman, et al. “Evaluation of two IgM rapid immunochromatographic tests during circulation of Asian lineage Chikungunya virus.” &lt;em&gt;Southeast Asian Journal of Tropical Medicineand Public Health&lt;/em&gt; 43.1 (2012): 55.&lt;/p&gt;
-
-&lt;p&gt;[38]Ganzenmueller, Tina, et al. “Comparison of the performance of direct fluorescent antibody staining, a point-of-care rapid antigen test and virus isolation with that of RT-PCR for the detection of novel 2009 influenza A (H1N1) virus in respiratory specimens.” &lt;em&gt;Journal of medical microbiology&lt;/em&gt; 59.6 (2010): 713-717.&lt;/p&gt;
-
-&lt;p&gt;[39]&lt;a href=&quot;https://www.cnbc.com/2020/04/17/who-issues-warning-on-coronavirus-testing-theres-no-evidence-antibody-tests-show-immunity.html&quot;&gt;https://www.cnbc.com/2020/04/17/who-issues-warning-on-coronavirus-testing-theres-no-evidence-antibody-tests-show-immunity.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[40]Katzelnick, Leah C., et al. “Neutralizing antibody titers against dengue virus correlate with protection from symptomatic infection in a longitudinal cohort.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 113.3 (2016): 728-733.&lt;/p&gt;
-
-&lt;p&gt;[41]Yeager, Anne S., et al. “Relationship of antibody to outcome in neonatal herpes simplex virus infections.” &lt;em&gt;Infection and immunity&lt;/em&gt; 29.2 (1980): 532-538.&lt;/p&gt;
-
-&lt;p&gt;[42]Couch, Robert B., and Julius A. Kasel. “Immunity to influenza in man.” &lt;em&gt;Annual review of microbiology&lt;/em&gt; 37.1 (1983): 529-549.&lt;/p&gt;
-
-&lt;p&gt;[43]Velázquez, F. Raúl, et al. “Serum antibody as a marker of protection against natural rotavirus infection and disease.” &lt;em&gt;The Journal of infectious diseases&lt;/em&gt; 182.6 (2000): 1602-1609.&lt;/p&gt;
-
-&lt;p&gt;[44]Li, Shu, et al. “Inverse relationship between six week postvaccination varicella antibody response to vaccine and likelihood of long term breakthrough infection.” &lt;em&gt;The Pediatric infectious disease journal&lt;/em&gt; 21.4 (2002): 337-342.&lt;/p&gt;
-
-&lt;p&gt;[45]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;
-
-&lt;p&gt;[46]Ward, Richard L., et al. “Effects of antibody to rotavirus on protection of adults challenged with a human rotavirus.” &lt;em&gt;Journal of Infectious Diseases&lt;/em&gt; 159.1 (1989): 79-88.&lt;/p&gt;
-
-&lt;p&gt;[47]Callow, Kathleen A. “Effect of specific humoral immunity and some non-specific factors on resistance of volunteers to respiratory coronavirus infection.” Epidemiology &amp;amp; Infection 95.1 (1985): 173-189.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry></feed>

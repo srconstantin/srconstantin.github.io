@@ -81,7 +81,7 @@ You can also induce hypothermia by stimulating the heat-detecting cells in the h
 The natural next experiments to do are a.) see if any of these other methods of inducing hypothermia affect lifespan and diseases of aging in mice or other mammals; b.) do longitudinal transcriptomics or other broad assays to see what reduced body temperature is doing and whether its effects can be simulated chemically or genetically.
 
 **Altered Photoperiod Cycle Length: Short "Years" Shorten Lifespan 30% in Lemurs**
- 
+
 Days get longer in summer and shorter in winter; by lengthening or shortening the cycle of alteration in photoperiod length (by changing artificial lighting) you can give an animal a shorter or longer subjective "year". 
 This turns out to affect lifespan!
 
@@ -90,7 +90,7 @@ The gray mouse lemur is a prosimian primate, native to Madagascar, that is long-
 The obvious follow-up experiment is to go the other direction -- do lemurs (or other animals) live longer if you subject them to 16-month subjective years? And to take some tissue and blood samples and try to identify how this effect works -- do we see pathological changes, transcriptional changes, hormonal changes, metabolic changes?
 
 **Constant Light Exposure: 25% Life Extension in Hamsters**
- 
+
 A Syrian hamster model of congenital heart disease showed delayed onset of heart failure and 25% life extension if they were kept in continuously lit conditions.[11] 
 The obvious corollary studies are to take heart tissue samples and blood samples and look for altered gene expression or metabolic parameters that might explain the effect of light exposure on preventing heart failure. It also might be possible to experiment directly with continuous light exposure on humans, since it's probably not dangerous.
 
@@ -107,30 +107,33 @@ In a 1969 experiment, adding spleen cells to mice of the same age as the cell do
 Clearly, the aged mouse spleen contains some factor that accelerates age-related decline. The obvious question is to find out what this is, through expression or proteomics studies on young, aged, and splenectomized mice, and see if there's a way to target the culprit pharmacologically.
 
 **Induced Hypothyroidism: 17% Life Extension in Rats**
- 
+
+
 Exposing newborn rats to thyroid hormone permanently reduces their bodyweight and thyroxine levels; it's a way of artificially inducing hypothyroidism.[13] It also has the effect of dramatically elevating their prolactin levels; as prolactin is stimulated by TSH release from the hypothalamus, clearly neonatal T4 exposure doesn't prevent TSH release in the brain, but rather impairs the thyroid's ability to respond to it.  This induced hypothyroidism also extends median lifespan by 17% and maximal lifespan by 6%. 
 Obviously, inducing hypothyroidism isn't a viable intervention for humans, but looking at changes in hormone levels and gene regulation in induced hypothyroidism might give clues to what downstream mechanisms are responsible for the lifespan increase and whether there's a less-side-effect-heavy way to induce it.
 
 **Castration: 17% Life Extension in Rats**
- 
+
+
 Removing the testes of male Wistar rats has been found to extend lifespan 17% relative to unbred intact males; removing the ovaries extends lifespan 29% relative to unbred females. [14] 
 This isn't too surprising given that caloric restriction (a reliable life-extending intervention in rodents under typical lab conditions) has antigonadal effects, and that extremely dramatic lifespan effects can come from removing the germ cells in C. elegans.[15] There's also some correlational evidence -- for instance, castrated male cats arriving at veterinary hospitals lived 67% longer than intact males.[16]
 
 Obviously, castration isn't a practical intervention for most humans, but it's possible that there's some downstream effect that doesn't alter fertility or observable sex characteristics and preserves some of the anti-aging effect; this is a good opportunity for looking at longitudinal expression changes in castrated vs. intact animals and trying to identify the mechanism of lifespan extension.
 
 **Lateral Hypothalamic Stimulation: 5% Life Extension in Aged Rats**
- 
+
 Stimulating the lateral hypothalamus is pleasurable, and animals given the opportunity to self-stimulate will do so; this is what's known as wireheading.  Interestingly enough, there are interactions with aging here as well.  Young adult rats have more neurons and more electrical activity in the lateral hypothalamic area (LHA) than old rats; young rats also exhibit more self-stimulatory behavior than old rats when given access to a button that turns on the electrode. Moreover, in old rats, chronic stimulation in the LHA extended lifespan from 1075 days to 1125 days (5% of total median lifespan, 8% of total maximum lifespan, 35% of residual lifespan); stimulation reduced body mass as well.[17] 
 Is this just a dietary restriction effect, or is it something else? The natural thing to do is to try the experiment again, this time compared against controls given the exact same amount of food to eat; and also, to take brain samples after death and possibly other blood samples during lifespan to try to identify metabolic or regulatory changes caused by the stimulation.
 
 **Blindness: Increases Survival in Rats**
- 
+
+
 Blindness affects the circadian rhythm; it effectively gives the same hormonal signals as perpetual darkness. Rats blinded at 25 days had increased lifespan relative to controls; at 748 days, when the experiment concluded, the blind rats had a 95% survival rate while the control rats had a 50% survival rate. 
 The natural follow-up is to do a full lifespan study so we can get an actual measurement of the effect on median lifespan, as well as measurements of other biomarkers so we can identify a mechanism and possibly a way to replicate the anti-aging effect without actually inducing blindness.
 
 
 **Fetal Hypothalmic Graft: Restores Fertility and Circadian Rhythm in Rats and Hamsters**
- 
+
 In keeping with the pattern of neuroendocrine effects on aging, it turns out that transplanting the suprachiasmatic nucleus (the part of the hypothalamus responsible for entraining the circadian rhythm in response to day length) from fetal animals into the brains of aged animals can restore the periodicity of the circadian rhythm and restore diminished fertility. With age, circadian rhythms become less regular; animals wake more during the periods when they should be sleeping, and/or are more lethargic during the periods when they should be awake.  Fetal SCN grafts reverse this phenomenon in both hamsters [18] and rats.[19] 
 Moreover, 7 of 10 aged rats given fetal anterior hypothalamus transplants regained fertility and fathered a total of 106 pups[20], while medial basal hypothalamus transplants from rat fetuses into aged female rats reversed hypogonadism.[21]
 
