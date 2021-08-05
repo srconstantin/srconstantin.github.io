@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-08-05T18:02:52-04:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Interesting rTMS Results in Healthy People</title><link href="https://srconstantin.github.io/2021/08/05/rTMS.html" rel="alternate" type="text/html" title="Interesting rTMS Results in Healthy People" /><published>2021-08-05T00:00:00-04:00</published><updated>2021-08-05T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/08/05/rTMS</id><content type="html" xml:base="https://srconstantin.github.io/2021/08/05/rTMS.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://srconstantin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://srconstantin.github.io/" rel="alternate" type="text/html" /><updated>2021-08-05T18:25:42-04:00</updated><id>https://srconstantin.github.io/feed.xml</id><title type="html">Sarah Constantin</title><subtitle>Trained in math and machine learning, currently trying to solve technological problems and make sense of our world.</subtitle><entry><title type="html">Interesting rTMS Results in Healthy People</title><link href="https://srconstantin.github.io/2021/08/05/electric-charge.html" rel="alternate" type="text/html" title="Interesting rTMS Results in Healthy People" /><published>2021-08-05T00:00:00-04:00</published><updated>2021-08-05T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/08/05/electric-charge</id><content type="html" xml:base="https://srconstantin.github.io/2021/08/05/electric-charge.html">&lt;p&gt;Are cancer cells more negatively charged than healthy cells? Does this hold across cancer types and tissues?&lt;/p&gt;
+
+&lt;p&gt;If so, this could prove extremely useful as a broad-spectrum cancer treatment. Simply bond something toxic to cancer cells (such as a chemotherapy drug) to a positively charged nanoparticle, and you can deliver targeted drugs that kill cancer cells but not healthy cells.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Electrophoretic Mobility&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cells in suspension in an electrolyte solution like saline normally have a negative surface charge and can therefore be induced to flow along an electrochemical gradient.&lt;/p&gt;
+
+&lt;p&gt;Cell electrophoretic mobility – the ratio of cell velocity to electric field strength, in cm^2 V^(-1) s^(-1) – depends on the cell cycle stage, peaking around mitosis. So you might expect all rapidly dividing cells, including tumor cells, to have high electrophoretic mobility more of the time.[1][4]&lt;/p&gt;
+
+&lt;p&gt;In samples from healthy patients and patients with chronic lymphocytic leukemia, n = 19, electrophoretic mobility did not significantly differ between cancer and normal lymphocytes.[2]&lt;/p&gt;
+
+&lt;p&gt;In a study of blood cells taken from 700 patients (some healthy, some with various diseases including both blood cancers and solid tumors), all cancers significantly _reduced _the electrophoretic mobility of red blood cells, indicating that the RBCs became less negatively charged. Benign tumors had no effect.[3]&lt;/p&gt;
+
+&lt;p&gt;Leukaemic mouse lymphocytes in saline had significantly lower electrophoretic mobility than normal mouse lymphocytes.[5]&lt;/p&gt;
+
+&lt;p&gt;In a study of multiple human tumor samples, epithelial tumor cells did not have higher electrophoretic mobility than normal cells, but connective tissue tumor cells (sarcomas and myomas) did.[6]&lt;/p&gt;
+
+&lt;p&gt;Another study on different cell lines found that an epithelial cancer cell line (HeLa) was not significantly different in electrophoretic mobility than normal cells, but that a carcinoma cell line (Ehrlich ascites tumor) had significantly higher electrophoretic mobility.[7]&lt;/p&gt;
+
+&lt;p&gt;At physiologic pH, breast cancer cells have higher electrophoretic mobility (and thus more negative surface charge) than healthy fibroblasts.[13]&lt;/p&gt;
+
+&lt;p&gt;Hamster kidney and liver tumor cells, which are carcinomas, have significantly higher electrophoretic mobility than their healthy counterparts. The MCIM sarcoma becomes more electrophoretically mobile as it gets closer to metastasis.[14]&lt;/p&gt;
+
+&lt;p&gt;Solid tumor cells are also less adhesive than healthy cells from the same tissue type; this is what you would expect if they were more negatively charged and thus repelled each other electrostatically more. Blood cells, healthy or cancerous, are already not very adhesive, and accordingly they are more electrostatically mobile.[14]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Electrically Charged Nanoparticle Aggregation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Electrophoresis may not be an accurate way to measure cell surface charge. Voltages necessary to move cells are high, which will change cell function.  An alternative method is to create charged nanoparticles and observe which cells they cluster around.&lt;/p&gt;
+
+&lt;p&gt;Iron oxide nanoparticles can be given a positive or negative electric charge.  If these are introduced into cell culture suspension and they bind to the cells, the bound cells can be captured by applying a magnetic field to one side of the vessel.&lt;/p&gt;
+
+&lt;p&gt;Positive nanoparticle binding (as measured by % of cells captured by a magnetic field) is increasing with glucose concentration and lactic acid concentration, and decreasing with concentration of glycolysis inhibitors like DCA and 3BP, suggesting that cells undergoing glycolysis are more negatively charged.[8] Out of 22 cancer cell culture lines and 4 healthy cell lines, all cancer samples had over 50% capture by a magnetic field when mixed with positive nanoparticles; no healthy cell lines had any capture by a magnetic field when mixed with positive nanoparticles.[8]&lt;/p&gt;
+
+&lt;p&gt;Positively charged iron oxide nanoparticles, but not negatively charged ones, were observed to aggregate around cancer cells in buffer solution. At high cell concentrations, 99% of cells can by captured by attracting the positively charged nanoparticles in a magnetic field. If blood is spiked with cancer cells, over 70% of the cancer cells can be captured in the same way.[9]&lt;/p&gt;
+
+&lt;p&gt;In a mouse model of sarcoma[9], taking a blood sample and mixing it with positive iron oxide nanoparticles and then capturing cells with a magnetic field results in 75.8 circulating tumor cells per 100 uL being captured in the sarcoma mouse, while no cells were captured in healthy controls.&lt;/p&gt;
+
+&lt;p&gt;Zinc oxide nanoparticles have a positive surface charge at physiologic pH. These particles have a cytotoxic effect in vitro on multiple cancer cell lines, and in particular cancer cells of lymphocytic lineage are 28-35 times as susceptible to death when treated with ZnO nanoparticles than their non-cancerous counterparts.  This is a specificity ratio much higher than that for conventional chemotherapeutic drugs.[10]&lt;/p&gt;
+
+&lt;p&gt;Positively charged gold nanoparticles adhere 117 times more strongly to the surface of HeLa cancer cells than negatively charged gold nanoparticles.[11]&lt;/p&gt;
+
+&lt;p&gt;Positively charged magnetite nanoparticles have higher uptake into breast cancer cells than negatively charged nanoparticles; but there is no charge-based difference in uptake on healthy embryonic cord cells.[12]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]Akagi, Takanori, and Takanori Ichiki. “Cell electrophoresis on a chip: what can we know from the changes in electrophoretic mobility?.” &lt;em&gt;Analytical and bioanalytical chemistry&lt;/em&gt; 391.7 (2008): 2433-2441.&lt;/p&gt;
+
+&lt;p&gt;[2]Lichtman, Marshall A., and Robert I. Weed. “Electrophoretic mobility and N-acetyl neuraminic acid content of human normal and leukemic lymphocytes and granulocytes.” &lt;em&gt;Blood&lt;/em&gt; 35.1 (1970): 12-22.&lt;/p&gt;
+
+&lt;p&gt;[3]Rottino, Antonio, and John Angers. “The electrophoretic mobility of erythrocytes in carcinoma and other diseases.” &lt;em&gt;Cancer research&lt;/em&gt; 21.10 (1961): 1445-1449.&lt;/p&gt;
+
+&lt;p&gt;[4]Mayhew, E. “Cellular electrophoretic mobility and the mitotic cycle.” &lt;em&gt;The Journal of general physiology&lt;/em&gt; 49.4 (1966): 717-725.&lt;/p&gt;
+
+&lt;p&gt;[5]Cook, G. M. W., and W. Jacobson. “The electrophoretic mobility of normal and leukaemic cells of mice.” &lt;em&gt;Biochemical Journal&lt;/em&gt; 107.4 (1968): 549-557.&lt;/p&gt;
+
+&lt;p&gt;[6]Vassar, Philip S. “Electrophoretic mobility of human tumour cells.” &lt;em&gt;Nature&lt;/em&gt; 197.4873 (1963): 1215-1216.&lt;/p&gt;
+
+&lt;p&gt;[7]Simon-Reuss, I., et al. “Electrophoretic studies on some types of mammalian tissue cell.” &lt;em&gt;Cancer research&lt;/em&gt; 24.11 Part 1 (1964): 2038-2043.&lt;/p&gt;
+
+&lt;p&gt;[8]Chen, Bingdi, et al. “Targeting negative surface charges of cancer cells by multifunctional nanoprobes.” &lt;em&gt;Theranostics&lt;/em&gt; 6.11 (2016): 1887.&lt;/p&gt;
+
+&lt;p&gt;[9]Li, Zhiming, Jun Ruan, and Xuan Zhuang. “Effective capture of circulating tumor cells from an S180-bearing mouse model using electrically charged magnetic nanoparticles.” &lt;em&gt;Journal of nanobiotechnology&lt;/em&gt; 17.1 (2019): 1-9&lt;/p&gt;
+
+&lt;p&gt;[10]Rasmussen, John W., et al. “Zinc oxide nanoparticles for selective destruction of tumor cells and potential for drug delivery applications.” &lt;em&gt;Expert opinion on drug delivery&lt;/em&gt; 7.9 (2010): 1063-1077..&lt;/p&gt;
+
+&lt;p&gt;[11]Peter, Beatrix, et al. “Interaction of positively charged gold nanoparticles with cancer cells monitored by an in situ label-free optical biosensor and transmission electron microscopy.” &lt;em&gt;ACS applied materials &amp;amp; interfaces&lt;/em&gt; 10.32 (2018): 26841-26850.&lt;/p&gt;
+
+&lt;p&gt;[12]Osaka, Tetsuya, et al. “Effect of surface charge of magnetite nanoparticles on their internalization into breast cancer and umbilical vein endothelial cells.” &lt;em&gt;Colloids and Surfaces B: Biointerfaces&lt;/em&gt; 71.2 (2009): 325-330.&lt;/p&gt;
+
+&lt;p&gt;[13]Dobrzyńska, Izabela, Elżbieta Skrzydlewska, and Zbigniew A. Figaszewski. “Changes in electric properties of human breast cancer cells.” &lt;em&gt;The Journal of membrane biology&lt;/em&gt; 246.2 (2013): 161-166.&lt;/p&gt;
+
+&lt;p&gt;[14]Abercrombie, M., and E. J. Ambrose. “The surface properties of cancer cells: a review.” &lt;em&gt;Cancer research&lt;/em&gt; 22.5 Part 1 (1962): 525-548.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Are cancer cells more negatively charged than healthy cells? Does this hold across cancer types and tissues?</summary></entry><entry><title type="html">Interesting rTMS Results in Healthy People</title><link href="https://srconstantin.github.io/2021/08/05/rTMS.html" rel="alternate" type="text/html" title="Interesting rTMS Results in Healthy People" /><published>2021-08-05T00:00:00-04:00</published><updated>2021-08-05T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/08/05/rTMS</id><content type="html" xml:base="https://srconstantin.github.io/2021/08/05/rTMS.html">&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This is an overview of selected research on repetitive transcranial magnetic stimulation, or rTMS, which involves applying a coil that produces a rapidly fluctuating magnetic field to the outside of the head, thereby stimulating the surface of the brain beneath the coil.&lt;/p&gt;
 
@@ -2579,74 +2651,7 @@
 
 &lt;p&gt;[112]Wu, Xingqi, et al. “Improved cognitive promotion through accelerated magnetic stimulation.” &lt;em&gt;Eneuro&lt;/em&gt; 8.1 (2021).&lt;/p&gt;
 
-&lt;p&gt;[113]​​Esterman, Michael, Timothy Verstynen, and Lynn C. Robertson. “Attenuating illusory binding with TMS of the right parietal cortex.” &lt;em&gt;Neuroimage&lt;/em&gt; 35.3 (2007): 1247-1255.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">How To Be An Educated Layman</title><link href="https://srconstantin.github.io/2021/06/09/Educated-Layman.html" rel="alternate" type="text/html" title="How To Be An Educated Layman" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Educated-Layman</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Educated-Layman.html">&lt;p&gt;Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues.  So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”&lt;/p&gt;
-
-&lt;p&gt;What does being an “educated layman” mean, to me?&lt;/p&gt;
-
-&lt;p&gt;Basically, an “expert” or “specialist” is someone who has spent their whole life studying or working on a specific narrow topic. If it’s an academic topic, they’ll typically have a PhD in that topic.&lt;/p&gt;
-
-&lt;p&gt;An “educated layman” is someone who is not an expert, but who, in a discussion with experts about their field of specialization, can contribute useful ideas.&lt;/p&gt;
-
-&lt;p&gt;An “educated layman” will typically &lt;em&gt;know less stuff&lt;/em&gt; than any expert does about their field of expertise, but can still contribute good ideas that no expert has thought of.&lt;/p&gt;
-
-&lt;p&gt;How is that possible?  Usually, because the “educated layman” brings a different perspective, or a toolkit from another field, or has an unusual set of priorities that the expert community hasn’t been optimizing for.&lt;/p&gt;
-
-&lt;p&gt;There are a couple standard examples I’ve encountered where it’s useful to be an “educated layman.”&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Making decisions about whether/how to apply a new technology.  If I’m investigating how XYZ tech might fit in with my own company’s work, or a customer’s work, then I don’t need to know nearly as much as the specialists who spend their lives &lt;em&gt;creating&lt;/em&gt; XYZ tech. I just need to know inputs and outputs – how much does it cost, what does it require, what results does it produce – and just enough about how the tech works to be able to make some generalizations about that beyond the specific reported examples in the published literature.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Making medical decisions as a patient.  In order to decide what treatment you should get, you don’t need to know all the things a doctor needs to know. You don’t need to be able to actually &lt;em&gt;perform&lt;/em&gt; the treatment. You don’t need to know about all the different diseases a doctor might encounter.  You need to know about &lt;em&gt;your&lt;/em&gt; disease, and how safe/effective different treatments are for that disease.  You may actually have more time to read the literature on your specific disease than your doctor does, especially if it’s a rare disease.  And, you may have different incentives than your doctor.  The treatment that’s actually best for you may not be popular among clinicians, for reasons that don’t apply to you (like high risk of side effects in a patient population you’re not part of.)  So it’s possible for an “educated layman” patient to have a good idea that an “expert” doesn’t have.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Managing experts. You don’t need to know how to do their jobs in order to propose useful ideas that they haven’t thought of. You have a high-level view of what everyone is working on and what goal it’s for, and they have a tendency to get hyperfocused on the specific task at hand.  You can ask a “dumb” question like “how does this task impact our overall goal?” and very quickly find out “whoops, it doesn’t help at all, maybe it’s time to quit working on this sub-project.”  You can be a fresh set of eyes, and a “North Star” to keep everyone oriented towards the overall mission.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Importing a highly general “toolkit” or technology to a field where it hasn’t penetrated yet. I see this very often with statistics or computer automation.  A stats/ML/computers person can often very easily create a ton of value just by importing the techniques they’re familiar with to a field where nobody has heard of them. You need domain knowledge to do this effectively, but not as &lt;em&gt;much&lt;/em&gt; domain knowledge as the experts have.  Just enough to check whether the technology you introduce is actually making the field’s problems better rather than worse.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Being an “educated layman” in the sense I’m talking about presupposes that you believe there’s actual value in a field and its experts to begin with.  If you think the whole business is bunk, like, say, astrology, then you’d have no reason to teach yourself enough of the technical details of astrology to converse intelligently with astrologers.&lt;/p&gt;
-
-&lt;p&gt;You can think a “field” or community of expertise is flawed, biased, or just missing some context that you have, and still consider it valuable enough to dialogue with and learn from.  &lt;em&gt;This&lt;/em&gt; is the context in which it can be worth “tooling up” in a field enough to function as an “educated layman.”  You’ll be hoping to make a contribution as a non-expert – so, definitionally, you believe that the field is “missing” something that you can provide – but you’ll also be learning from and collaborating with experts very heavily.&lt;/p&gt;
-
-&lt;p&gt;Being an “educated layman” is in this way very different from the kind of anti-expert view you see in, say, Nassim Taleb’s opinions about social science. He doesn’t think there’s &lt;em&gt;any&lt;/em&gt; real knowledge in contemporary social science, so he doesn’t bother to learn their specialized lingo. He dismisses them, and they dismiss him.&lt;/p&gt;
-
-&lt;p&gt;That’s fine, if you’re confident there’s nothing there. This post is for situations when you &lt;em&gt;do&lt;/em&gt; think there’s something there – even if you’re skeptical about some parts.&lt;/p&gt;
-
-&lt;p&gt;I’m most confident in my ability to do the “educated layman” thing in biology and medicine, since I’ve been doing it the longest there.&lt;/p&gt;
-
-&lt;p&gt;Really, there’s no such thing as reaching “educated layman” status in something as broad as “biology” as a whole.  What you can do is tool up to the point of being able to have discussions with experts &lt;em&gt;in a super-specific question&lt;/em&gt;.  And I’ve done it in enough specific biological or medical topics to be pretty confident in my ability to do it again on a new topic, assuming there’s the right kind and distribution of available literature.&lt;/p&gt;
-
-&lt;p&gt;What do I mean by that?&lt;/p&gt;
-
-&lt;p&gt;The ideal scientific literature on a topic, for the purposes of self-study, is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Not so huge that you can’t read literally all the published studies that attempt to answer the question, after you’ve restricted attention to certain kinds of sufficiently good study designs&lt;/li&gt;
-  &lt;li&gt;Not so tiny or low-quality that you come out of the self-study process knowing no more than you’d get from a couple of anecdotes or opinion pieces&lt;/li&gt;
-  &lt;li&gt;“Simple” enough, or close enough to what you already understand, that you’re confident you can summarize, for each paper you read, what the experimenters or paper authors did, why they expected their methods to answer the question, what results they got, and what features of the study design and results make you more or less confident in the conclusion.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It’s harder to self-teach enough to know what’s going on, in subjects that have heavily nested prerequisites you didn’t study in school (for me, that’s chemistry and physics).  I can almost always read a biology or social-science paper, if I have my trusty Google handy and a place to take notes.  I can &lt;em&gt;sometimes&lt;/em&gt; read engineering or experimental-physics papers, but not always, and I can’t read chemistry or theoretical physics papers at all.  There’s also an intermediate stage of “I bet I could learn the prerequisites, but it would take a while and I haven’t gotten around to it yet”, which is roughly where I am with a lot of computational genetics.&lt;/p&gt;
-
-&lt;p&gt;It’s also hard to self-teach in subjects where 3D awareness of where things are is important, so learning from text or diagrams is difficult.  For instance, if you’re researching “which of these surgical techniques works best for this condition?” you may run into problems noticing when two different anatomy phrases are actually referring to the same thing, if you’re just black-boxing the anatomy and don’t have a spatial model of where anything is.  (Though YouTube videos demonstrating medical, laboratory, and industrial procedures are a huge help for understanding things that are hard to visualize from text.)&lt;/p&gt;
-
-&lt;p&gt;In my experience, more time reading stuff does matter.  Both at the micro and macro scales.&lt;/p&gt;
-
-&lt;p&gt;On the micro scale – I am way more able to contribute in a meeting with an expert if I’ve done at least an hour of prep first than if I haven’t. The difference is striking.&lt;/p&gt;
-
-&lt;p&gt;On the macro scale – I get way worse feedback from knowledgable people when I propose ideas about topics I’ve spent less total time self-teaching (like economics) than topics I’ve spent more total time self-teaching (like biology.)  I’m more likely to be reinventing the wheel, looking at only part of the story, or just plain stuck in economics; I’m more likely to be able to come up with something actionable and novel, or at least something that’s not obviously terrible, in biology.  This despite the fact that I’ve taken almost an undergrad major’s worth of economics classes, and no biology classes since high school.  I think avid reading is a bigger factor than formal classes, at least in my case – possibly simply because, over an adult lifetime, “self-study” reading can add up to more hours of focused attention than formal education.&lt;/p&gt;
-
-&lt;p&gt;Basically, I think, in order to be a good “educated layman”, you have to put in the time, and focus on what’s easier to do as a non-expert.&lt;/p&gt;
-
-&lt;p&gt;What you’re missing, as an “educated layman”, is apprenticeship with a “master.”  You will not know how to actually &lt;em&gt;do&lt;/em&gt; lab procedures, so you will not know how they tend to fail in ways that aren’t captured in the published papers.   You will not necessarily be able to replicate the results in papers if the “secret sauce” is unwritten and passed from lab tech to lab tech.  You will not know the field’s gossip about who is worth listening to and who isn’t.&lt;/p&gt;
-
-&lt;p&gt;Your strength, as an “educated layman”, is the ability to drill down and learn &lt;em&gt;everything&lt;/em&gt; about the one question within the field that you care about, which will often be different from what most experts in the field care about.  Your lack of embeddedness in the community can actually be helpful, because by aggregating &lt;em&gt;everything&lt;/em&gt; in the one slice of data you care about, you can generate ideas that aren’t correlated with the field’s biases.&lt;/p&gt;
-
-&lt;p&gt;Some of these ideas will be bunk because you’re missing part of the picture; listen to those criticisms; but some will survive skeptical examination, and that’s where you add value.&lt;/p&gt;</content><author><name></name></author><category term="science-and-epistemics" /><summary type="html">Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues. So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”</summary></entry><entry><title type="html">Do High-Performing Investment Firms Drive Out Low Performers?</title><link href="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html" rel="alternate" type="text/html" title="Do High-Performing Investment Firms Drive Out Low Performers?" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Investment-Turnover</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html">&lt;p&gt;In the last post, I found evidence for the claim that a minority of investment firms seek out &lt;em&gt;more information&lt;/em&gt; than others, and that firms in this “infovore” minority see above-average returns on investments.&lt;/p&gt;
+&lt;p&gt;[113]​​Esterman, Michael, Timothy Verstynen, and Lynn C. Robertson. “Attenuating illusory binding with TMS of the right parietal cortex.” &lt;em&gt;Neuroimage&lt;/em&gt; 35.3 (2007): 1247-1255.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">Introduction</summary></entry><entry><title type="html">Do High-Performing Investment Firms Drive Out Low Performers?</title><link href="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html" rel="alternate" type="text/html" title="Do High-Performing Investment Firms Drive Out Low Performers?" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Investment-Turnover</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Investment-Turnover.html">&lt;p&gt;In the last post, I found evidence for the claim that a minority of investment firms seek out &lt;em&gt;more information&lt;/em&gt; than others, and that firms in this “infovore” minority see above-average returns on investments.&lt;/p&gt;
 
 &lt;p&gt;In other words, the median financial investment firm is doing &lt;em&gt;less research&lt;/em&gt; than is optimal, in terms of economic self-interest.&lt;/p&gt;
 
@@ -2820,7 +2825,74 @@
 
 &lt;p&gt;[17]Baquero, Guillermo, and Marno Verbeek. “A portrait of hedge fund investors: Flows, performance and smart money.” ERIM Report Series Reference No. ERS-2005-068-F&amp;amp;A (2005).&lt;/p&gt;
 
-&lt;p&gt;[18]Goldstein, Itay, Hao Jiang, and David T. Ng. “Investor flows and fragility in corporate bond funds.” &lt;em&gt;Journal of Financial Economics&lt;/em&gt; 126.3 (2017): 592-613.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">In the last post, I found evidence for the claim that a minority of investment firms seek out more information than others, and that firms in this “infovore” minority see above-average returns on investments.</summary></entry><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-05:00</published><updated>2021-03-08T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[18]Goldstein, Itay, Hao Jiang, and David T. Ng. “Investor flows and fragility in corporate bond funds.” &lt;em&gt;Journal of Financial Economics&lt;/em&gt; 126.3 (2017): 592-613.&lt;/p&gt;</content><author><name></name></author><category term="lit-review" /><summary type="html">In the last post, I found evidence for the claim that a minority of investment firms seek out more information than others, and that firms in this “infovore” minority see above-average returns on investments.</summary></entry><entry><title type="html">How To Be An Educated Layman</title><link href="https://srconstantin.github.io/2021/06/09/Educated-Layman.html" rel="alternate" type="text/html" title="How To Be An Educated Layman" /><published>2021-06-09T00:00:00-04:00</published><updated>2021-06-09T00:00:00-04:00</updated><id>https://srconstantin.github.io/2021/06/09/Educated-Layman</id><content type="html" xml:base="https://srconstantin.github.io/2021/06/09/Educated-Layman.html">&lt;p&gt;Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues.  So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”&lt;/p&gt;
+
+&lt;p&gt;What does being an “educated layman” mean, to me?&lt;/p&gt;
+
+&lt;p&gt;Basically, an “expert” or “specialist” is someone who has spent their whole life studying or working on a specific narrow topic. If it’s an academic topic, they’ll typically have a PhD in that topic.&lt;/p&gt;
+
+&lt;p&gt;An “educated layman” is someone who is not an expert, but who, in a discussion with experts about their field of specialization, can contribute useful ideas.&lt;/p&gt;
+
+&lt;p&gt;An “educated layman” will typically &lt;em&gt;know less stuff&lt;/em&gt; than any expert does about their field of expertise, but can still contribute good ideas that no expert has thought of.&lt;/p&gt;
+
+&lt;p&gt;How is that possible?  Usually, because the “educated layman” brings a different perspective, or a toolkit from another field, or has an unusual set of priorities that the expert community hasn’t been optimizing for.&lt;/p&gt;
+
+&lt;p&gt;There are a couple standard examples I’ve encountered where it’s useful to be an “educated layman.”&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making decisions about whether/how to apply a new technology.  If I’m investigating how XYZ tech might fit in with my own company’s work, or a customer’s work, then I don’t need to know nearly as much as the specialists who spend their lives &lt;em&gt;creating&lt;/em&gt; XYZ tech. I just need to know inputs and outputs – how much does it cost, what does it require, what results does it produce – and just enough about how the tech works to be able to make some generalizations about that beyond the specific reported examples in the published literature.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making medical decisions as a patient.  In order to decide what treatment you should get, you don’t need to know all the things a doctor needs to know. You don’t need to be able to actually &lt;em&gt;perform&lt;/em&gt; the treatment. You don’t need to know about all the different diseases a doctor might encounter.  You need to know about &lt;em&gt;your&lt;/em&gt; disease, and how safe/effective different treatments are for that disease.  You may actually have more time to read the literature on your specific disease than your doctor does, especially if it’s a rare disease.  And, you may have different incentives than your doctor.  The treatment that’s actually best for you may not be popular among clinicians, for reasons that don’t apply to you (like high risk of side effects in a patient population you’re not part of.)  So it’s possible for an “educated layman” patient to have a good idea that an “expert” doesn’t have.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Managing experts. You don’t need to know how to do their jobs in order to propose useful ideas that they haven’t thought of. You have a high-level view of what everyone is working on and what goal it’s for, and they have a tendency to get hyperfocused on the specific task at hand.  You can ask a “dumb” question like “how does this task impact our overall goal?” and very quickly find out “whoops, it doesn’t help at all, maybe it’s time to quit working on this sub-project.”  You can be a fresh set of eyes, and a “North Star” to keep everyone oriented towards the overall mission.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Importing a highly general “toolkit” or technology to a field where it hasn’t penetrated yet. I see this very often with statistics or computer automation.  A stats/ML/computers person can often very easily create a ton of value just by importing the techniques they’re familiar with to a field where nobody has heard of them. You need domain knowledge to do this effectively, but not as &lt;em&gt;much&lt;/em&gt; domain knowledge as the experts have.  Just enough to check whether the technology you introduce is actually making the field’s problems better rather than worse.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Being an “educated layman” in the sense I’m talking about presupposes that you believe there’s actual value in a field and its experts to begin with.  If you think the whole business is bunk, like, say, astrology, then you’d have no reason to teach yourself enough of the technical details of astrology to converse intelligently with astrologers.&lt;/p&gt;
+
+&lt;p&gt;You can think a “field” or community of expertise is flawed, biased, or just missing some context that you have, and still consider it valuable enough to dialogue with and learn from.  &lt;em&gt;This&lt;/em&gt; is the context in which it can be worth “tooling up” in a field enough to function as an “educated layman.”  You’ll be hoping to make a contribution as a non-expert – so, definitionally, you believe that the field is “missing” something that you can provide – but you’ll also be learning from and collaborating with experts very heavily.&lt;/p&gt;
+
+&lt;p&gt;Being an “educated layman” is in this way very different from the kind of anti-expert view you see in, say, Nassim Taleb’s opinions about social science. He doesn’t think there’s &lt;em&gt;any&lt;/em&gt; real knowledge in contemporary social science, so he doesn’t bother to learn their specialized lingo. He dismisses them, and they dismiss him.&lt;/p&gt;
+
+&lt;p&gt;That’s fine, if you’re confident there’s nothing there. This post is for situations when you &lt;em&gt;do&lt;/em&gt; think there’s something there – even if you’re skeptical about some parts.&lt;/p&gt;
+
+&lt;p&gt;I’m most confident in my ability to do the “educated layman” thing in biology and medicine, since I’ve been doing it the longest there.&lt;/p&gt;
+
+&lt;p&gt;Really, there’s no such thing as reaching “educated layman” status in something as broad as “biology” as a whole.  What you can do is tool up to the point of being able to have discussions with experts &lt;em&gt;in a super-specific question&lt;/em&gt;.  And I’ve done it in enough specific biological or medical topics to be pretty confident in my ability to do it again on a new topic, assuming there’s the right kind and distribution of available literature.&lt;/p&gt;
+
+&lt;p&gt;What do I mean by that?&lt;/p&gt;
+
+&lt;p&gt;The ideal scientific literature on a topic, for the purposes of self-study, is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not so huge that you can’t read literally all the published studies that attempt to answer the question, after you’ve restricted attention to certain kinds of sufficiently good study designs&lt;/li&gt;
+  &lt;li&gt;Not so tiny or low-quality that you come out of the self-study process knowing no more than you’d get from a couple of anecdotes or opinion pieces&lt;/li&gt;
+  &lt;li&gt;“Simple” enough, or close enough to what you already understand, that you’re confident you can summarize, for each paper you read, what the experimenters or paper authors did, why they expected their methods to answer the question, what results they got, and what features of the study design and results make you more or less confident in the conclusion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s harder to self-teach enough to know what’s going on, in subjects that have heavily nested prerequisites you didn’t study in school (for me, that’s chemistry and physics).  I can almost always read a biology or social-science paper, if I have my trusty Google handy and a place to take notes.  I can &lt;em&gt;sometimes&lt;/em&gt; read engineering or experimental-physics papers, but not always, and I can’t read chemistry or theoretical physics papers at all.  There’s also an intermediate stage of “I bet I could learn the prerequisites, but it would take a while and I haven’t gotten around to it yet”, which is roughly where I am with a lot of computational genetics.&lt;/p&gt;
+
+&lt;p&gt;It’s also hard to self-teach in subjects where 3D awareness of where things are is important, so learning from text or diagrams is difficult.  For instance, if you’re researching “which of these surgical techniques works best for this condition?” you may run into problems noticing when two different anatomy phrases are actually referring to the same thing, if you’re just black-boxing the anatomy and don’t have a spatial model of where anything is.  (Though YouTube videos demonstrating medical, laboratory, and industrial procedures are a huge help for understanding things that are hard to visualize from text.)&lt;/p&gt;
+
+&lt;p&gt;In my experience, more time reading stuff does matter.  Both at the micro and macro scales.&lt;/p&gt;
+
+&lt;p&gt;On the micro scale – I am way more able to contribute in a meeting with an expert if I’ve done at least an hour of prep first than if I haven’t. The difference is striking.&lt;/p&gt;
+
+&lt;p&gt;On the macro scale – I get way worse feedback from knowledgable people when I propose ideas about topics I’ve spent less total time self-teaching (like economics) than topics I’ve spent more total time self-teaching (like biology.)  I’m more likely to be reinventing the wheel, looking at only part of the story, or just plain stuck in economics; I’m more likely to be able to come up with something actionable and novel, or at least something that’s not obviously terrible, in biology.  This despite the fact that I’ve taken almost an undergrad major’s worth of economics classes, and no biology classes since high school.  I think avid reading is a bigger factor than formal classes, at least in my case – possibly simply because, over an adult lifetime, “self-study” reading can add up to more hours of focused attention than formal education.&lt;/p&gt;
+
+&lt;p&gt;Basically, I think, in order to be a good “educated layman”, you have to put in the time, and focus on what’s easier to do as a non-expert.&lt;/p&gt;
+
+&lt;p&gt;What you’re missing, as an “educated layman”, is apprenticeship with a “master.”  You will not know how to actually &lt;em&gt;do&lt;/em&gt; lab procedures, so you will not know how they tend to fail in ways that aren’t captured in the published papers.   You will not necessarily be able to replicate the results in papers if the “secret sauce” is unwritten and passed from lab tech to lab tech.  You will not know the field’s gossip about who is worth listening to and who isn’t.&lt;/p&gt;
+
+&lt;p&gt;Your strength, as an “educated layman”, is the ability to drill down and learn &lt;em&gt;everything&lt;/em&gt; about the one question within the field that you care about, which will often be different from what most experts in the field care about.  Your lack of embeddedness in the community can actually be helpful, because by aggregating &lt;em&gt;everything&lt;/em&gt; in the one slice of data you care about, you can generate ideas that aren’t correlated with the field’s biases.&lt;/p&gt;
+
+&lt;p&gt;Some of these ideas will be bunk because you’re missing part of the picture; listen to those criticisms; but some will survive skeptical examination, and that’s where you add value.&lt;/p&gt;</content><author><name></name></author><category term="science-and-epistemics" /><summary type="html">Doing business development for new initiatives at Nanotronics is kind of like being an “educated layman” for a living. My blog is also a pretty good example of an “educated layman”’s thinking about a variety of issues. So I plausibly know what I’m talking about here, and may have useful advice for other people looking to succeed at being “educated laymen.”</summary></entry><entry><title type="html">Does It Pay To Do More Research?</title><link href="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html" rel="alternate" type="text/html" title="Does It Pay To Do More Research?" /><published>2021-03-08T00:00:00-05:00</published><updated>2021-03-08T00:00:00-05:00</updated><id>https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research</id><content type="html" xml:base="https://srconstantin.github.io/2021/03/08/does-it-pay-to-do-more-research.html">&lt;p&gt;&lt;strong&gt;The Hypothesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Do investors profit from spending more time and effort researching and analyzing their decisions?  Does it pay to be an “infovore” who seeks out an unusual amount of information?&lt;/p&gt;
 
@@ -4704,72 +4776,4 @@
 
 &lt;p&gt;[48]Holterman, Lennart, et al. “The rate of progression to AIDS is independent of virus dose in simian immunodeficiency virus-infected macaques.” &lt;em&gt;Journal of General Virology&lt;/em&gt; 81.7 (2000): 1719-1726&lt;/p&gt;
 
-&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry><entry><title type="html">Avoiding Intubation in COVID-19 Silent Hypoxemia</title><link href="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html" rel="alternate" type="text/html" title="Avoiding Intubation in COVID-19 Silent Hypoxemia" /><published>2020-05-04T00:00:00-04:00</published><updated>2020-05-04T00:00:00-04:00</updated><id>https://srconstantin.github.io/2020/05/04/silent-hypoxemia</id><content type="html" xml:base="https://srconstantin.github.io/2020/05/04/silent-hypoxemia.html">&lt;p&gt;One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.&lt;/p&gt;
-
-&lt;p&gt;Initially, patients with COVID-19 experiencing severe respiratory distress were supposed to be intubated and placed on ventilators early, and non-invasive ventilation procedures like CPAP, BiPAP, and high-flow nasal cannula were to be avoided because they might spread the disease.&lt;/p&gt;
-
-&lt;p&gt;Over the course of the pandemic, we’ve seen additional evidence that a population of COVID-19 patients can be treated effectively with CPAP/BiPAP, and may not even need to be invasively ventilated.&lt;/p&gt;
-
-&lt;p&gt;These patients are what’s informally called the “silent hypoxemic” – they have very low oxygen levels, but are otherwise surprisingly functional (they can talk, have minimal altered mental status, etc) and they do _not _have the noncompliant lungs typical of ARDS. Therefore, following typical ventilation procedures like ARDSNet, in which patients are intubated when their oxygen saturation drops below a certain point, and placed on mechanical ventilation with high pressures, is actually a _bad _idea.  Excessive PEEP for compliant lungs can cause barotrauma; and intubation in general carries risks (of e.g. hospital-acquired infections, damage to the airway, and PTSD) so if a patient can recover with _non-invasive _respiratory support, it’s safer to avoid intubation.&lt;/p&gt;
-
-&lt;p&gt;This clinical picture was once purely anecdotal, but the data is starting to come in.&lt;/p&gt;
-
-&lt;p&gt;Helmet CPAP, in which a continuous positive pressure of oxygenated air is administered through a clear helmet that covers the patient’s whole head, has been extensively used for COVID-19 patients in Italy. The helmet is more comfortable than traditional CPAP masks, and has a tighter seal, to avoid spreading virus particles to healthcare workers.  The RICU of the L. Sacco University hospital in Milan had 75% of their severe COVID-19 patients on helmet CPAP, and had an in-hospital mortality rate of only 25%, compared to Seattle ICUs, which had a 50% in-hospital mortality rate and had 100% of patients on invasive mechanical ventilation.[1]&lt;/p&gt;
-
-&lt;p&gt;Helmet CPAP is much less likely to disperse exhaled air than conventional CPAP, making the risks of infection to healthcare workers lower; a study found that air only dispersed 2.5 cm from the helmet.[6]&lt;/p&gt;
-
-&lt;p&gt;Italian intensive care physicians observed that 50% of the 150 severe COVID-19 patients in their ICU were the “silent hypoxemia” type, characterized by “severe hypoxemia often associated with near normal respiratory symptom compliance.”  They describe COVID-19 pneumonia as belonging to two separate “phenotypes”, Type L and Type H.&lt;/p&gt;
-
-&lt;p&gt;Type L COVID-19 has low elastance (= normally compliant lungs), low lung recruitability (most lung tissue is receiving air), but extreme hypoxemia due to ventilation-perfusion mismatch.  That is, the lung is receiving oxygen but not blood flow, so the blood doesn’t get properly oxygenated.&lt;/p&gt;
-
-&lt;p&gt;These Type L patients may improve or suddenly worsen. Increased inflammation and negative intrathoracic pressure can cause swelling and fluid buildup in the lungs.  (High inspiratory pressures literally suck fluid from capillaries into lung tissue, which contributes to pulmonary edema.)  Increased edema transitions the patient to the Type H phenotype: high elastance (= noncompliant lungs), high recruitability (= lots of non-aerated lung tissue), and atelectasis (= collapsed alveoli).&lt;/p&gt;
-
-&lt;p&gt;This clinical picture implies that Type L patients should be treated noninvasively with high concentrations of oxygen (through masks or, in dyspneic patients, high-flow nasal cannula, CPAP, or BiPAP).  Patients at risk of transitioning to type H, as measured by high inspiratory pressures, should be intubated, and type H patients should be placed on standard invasive ventilation for severe ARDS.[2]&lt;/p&gt;
-
-&lt;p&gt;A case report from Norway illustrates a typical case of “silent hypoxemia” in COVID-19: a man in his sixties with an O2 saturation of 66% who nevertheless seemed calm, was “smiling bravely”, and breathing almost silently.  Hypocapnia (low CO2) meant there was little or no sensation of breathlessness despite the extremely low oxygen saturation.[5]&lt;/p&gt;
-
-&lt;p&gt;Three ICU doctors at the University College London hospital argued in the _Lancet Respiratory Medicine _against early intubation for COVID-19, saying&lt;/p&gt;
-
-&lt;p&gt;“Early intubation of a patient with known or suspected COVID-19 with respiratory distress could result in the intubation and mechanical ventilation of patients who would have otherwise improved on CPAP or NIV”.[3]&lt;/p&gt;
-
-&lt;p&gt;They note that the highest incidence of disease transmission to healthcare workers was on general wards, not ICU, i.e. where healthcare staff were least likely to wear personal protective equipment, and that NIV did not increase the risk of disease transmission during the SARS epidemic.&lt;/p&gt;
-
-&lt;p&gt;Similarly, a statement by tropical disease experts about treating COVID-19 in low-resource areas argues&lt;/p&gt;
-
-&lt;p&gt;“It seems that in a significant proportion of relatively younger patients, hypoxemia, even less than 88%, is reasonably well tolerated and not accompanied by severe respiratory distress or exhaustion. With the current experience, the trigger for intubation should, within certain limits, probably not be based on hypoxemia alone but more on respiratory distress and fatigue….Invasive ventilation can save lives in patients with severe respiratory distress. However, it can also aggravate or even cause damage,including barotrauma (air leaks, caused by high ventilation pressures), volutrauma (pulmonary edema, due to large tidal volumes), atelectrauma (repetitive opening and closing of vulnerable lung parts with atelectasis), biotrauma (local inflammation with spill to the systemic circulation of inflammatory mediators, bacteria, or bacterial products), and oxytrauma (by free oxygen radicals).”&lt;/p&gt;
-
-&lt;p&gt;The authors recommend, when COVID-19 patients are intubated, using lower PEEP and lower tidal volume than would be typical for ARDS, to avoid ventilator-induced injury.[4]&lt;/p&gt;
-
-&lt;p&gt;Early awake self-proning in COVID-19 patients can be very beneficial for the “silent hypoxemic” or “type L” patient population. One emergency department in New York City found that in 50 patients, the median SpO2 was 80% at triage, 84% after supplemental oxygen, and 94% after patients were encouraged to lie on their stomachs (in the prone position.)  [7]&lt;/p&gt;
-
-&lt;p&gt;“In New York City, during the early stages of the COVID-19 pandemic, patients presented en masse with moderate to severe hypoxia. Some of these patients were distressed, quickly deteriorated and required endotracheal intubation.  COVID-19 produced another group of patients whose pathophysiology confounded existing disease patterns, however. These patients had low oxygen saturations (SpO2 &amp;lt;90%), but were not in significant respiratory distress and often appeared clinically well; this group has been informally referred to as happy hypoxemics.”&lt;/p&gt;
-
-&lt;p&gt;One of the authors of the above article, Richard Levitan, an emergency physician in New York City, wrote a New York Times op-ed [8] about this phenomenon.  They were seeing COVID-19 pneumonia in nearly every patient who came into the emergency department, even those without respiratory symptoms.&lt;/p&gt;
-
-&lt;p&gt;“The patient stabbed in the shoulder, whom we X-rayed because we worried he had a collapsed lung, actually had Covid pneumonia. In patients on whom we did CT scans because they were injured in falls, we coincidentally found Covid pneumonia. Elderly patients who had passed out for unknown reasons and a number of diabetic patients were found to have it.&lt;/p&gt;
-
-&lt;p&gt;“And here is what really surprised us: These patients did not report any sensation of breathing problems, even though their chest X-rays showed diffuse pneumonia and their oxygen was below normal. How could this be?&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;“Patients compensate for the low oxygen in their blood by breathing faster and deeper — and this happens without their realizing it. This silent hypoxia, and the patient’s physiological response to it, causes even more inflammation and more air sacs to collapse, and the pneumonia worsens until oxygen levels plummet. In effect, patients are injuring their own lungs by breathing harder and harder. &lt;a href=&quot;https://www.esicm.org/wp-content/uploads/2020/04/684_author-proof.pdf&quot;&gt;Twenty percent&lt;/a&gt; of Covid pneumonia patients then go on to a second and deadlier phase of lung injury. Fluid builds up and the lungs become stiff, carbon dioxide rises, and patients develop acute respiratory failure.”&lt;/p&gt;
-
-&lt;p&gt;Dr. Levitan recommends that healthy people, and people who test positive for COVID-19, get pulse oximeters – available over at the counter at the drugstore – to monitor their oxygen levels _before _they get sick enough to need a hospital.  Silent hypoxemia doesn’t come with symptoms, so most infected patients don’t get supplemental oxygen until they’ve progressed to severe lung injury that requires ventilation.  If they caught the problem earlier, they could get supplemental oxygen and recover without ever needing to be ventilated.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;[1]Radovanovic, Dejan, et al. “Helmet CPAP to Treat Acute Hypoxemic Respiratory Failure in Patients with Covid-19: A Management Strategy Proposal.” &lt;em&gt;Journal of Clinical Medicine&lt;/em&gt; 9.4 (2020): 1191.&lt;/p&gt;
-
-&lt;p&gt;[2]Gattinoni, Luciano, et al. “COVID-19 pneumonia: different respiratory treatments for different phenotypes?.” &lt;em&gt;Intensive care medicine&lt;/em&gt; (2020): 1.&lt;/p&gt;
-
-&lt;p&gt;[3]Arulkumaran, Nishkantha, et al. “Use of non-invasive ventilation for patients with COVID-19: a cause for concern?.” &lt;em&gt;The Lancet. Respiratory Medicine&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[4]Dondorp, Arjen M., et al. “Respiratory Support in Novel Coronavirus Disease (COVID-19) Patients, with a Focus on Resource-Limited Settings.” &lt;em&gt;The American Journal of Tropical Medicine and Hygiene&lt;/em&gt; (2020): tpmd200283.&lt;/p&gt;
-
-&lt;p&gt;[5]Ottestad, William, Mari Seim, and Jens Otto Mæhlen. “COVID-19 with silent hypoxemia.” &lt;em&gt;Tidsskrift for Den norske legeforening&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[6]Whittle, Jessica S., et al. “Respiratory Support for Adult Patients with COVID‐19.” &lt;em&gt;Journal of the American College of Emergency Physicians Open&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[7]Caputo, Nicholas D., Reuben J. Strayer, and Richard Levitan. “Early Self‐Proning in Awake, Non‐intubated Patients in the Emergency Department: A Single ED’s Experience during the COVID‐19 Pandemic.” &lt;em&gt;Academic Emergency Medicine&lt;/em&gt; (2020).&lt;/p&gt;
-
-&lt;p&gt;[8]&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&quot;&gt;https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html">One predictable feature of a novel disease is that initial guidelines for treatment may need to be revised, as medical understanding of the disease evolves.</summary></entry></feed>
+&lt;p&gt;[49]Dittmer, Ulf, et al. “Repeated exposure of rhesus macaques to low doses of simian immunodeficiency virus (SIV) did not protect them against the consequences of a high-dose SIV challenge.” Journal of general virology 76.6 (1995): 1307-1315.&lt;/p&gt;</content><author><name></name></author><category term="covid-19" /><category term="lit-review" /><summary type="html"></summary></entry></feed>
